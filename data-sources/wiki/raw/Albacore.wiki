@@ -1,0 +1,109 @@
+{{Infobox fish
+|eng        = Albacore
+|location   = [[The Beach|Ocean]]
+|time       = 6am – 11am<br />6pm – 2am
+|season     = {{Season|Fall}} • {{Season|Winter}}
+|weather    = Any
+|difficulty = 60
+|behavior   = Mixed
+|size       = 20-41
+|price      = 75
+|edibility  = 10
+|roe        = Blue
+}}
+The '''Albacore''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Fall]] and [[Winter]] in the early morning and at night. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{Tprice|75}}.
+
+Albacore can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+Albacore can be found in the ocean.
+{{Map|275|200}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Albacore is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Albacore can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt259a.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Albacore can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is blue Albacore [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]] || 30
+|-
+| 5   || 7   || 2 [[Clam]]s or 2 [[Coral]] || 30
+|-
+| 7   || 10  || 2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]s || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Blue Roe|1|link=Roe}}
+|rowspan="2"|12
+| 1-4  || 70%     || 16-33%
+|-
+| 5-10 || 100%    || 55-95%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-4  || 30%     || 84-67%
+|-
+| 5-10 || 0%      || 45-5%
+|}
+
+==Quests==
+*[[Gus]] requests an albacore by mail on the 26th of [[Winter]] in the [[Quests#Fish Stew|"Fish Stew" quest]].  The reward is {{Price|400}} and 1 [[Friendship]] heart.
+*'''Fishing:''' [[Willy]] may randomly request 1-4 albacore in [[Fall]] or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|75}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Albacore to be caught in [[Fall]] at the [[Quests#List of Special Orders|Special Orders Board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Special Order quest added.}}
+
+{{NavboxFish}}
+
+[[Category:Ocean fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+
+[[de:Weißer Thun]]
+[[es:Atún blanco]]
+[[fr:Albacore]]
+[[it:Alalonga]]
+[[ja:ビンナガ]]
+[[ko:날개다랑어]]
+[[hu:Germon]]
+[[pt:Albacora]]
+[[ru:Альбакор]]
+[[tr:Orkinoz]]
+[[zh:青花鱼]]

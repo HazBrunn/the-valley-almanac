@@ -1,0 +1,116 @@
+{{Infobox fish
+|eng        = Flounder
+|location   = [[The Beach|Ocean]] • [[Ginger Island]]
+|time       = 6am – 8pm
+|season     = {{Season|Spring}} • {{Season|Summer}}
+|weather    = Any
+|difficulty = 50
+|behavior   = Sinker
+|size       = 4-17
+|price      = 100
+|edibility  = 15
+|roe        = Dark Brown
+}}
+The '''Flounder''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Spring]] and [[Summer]].  It can also be caught during any season on [[Ginger Island]] West (ocean), South, Southeast, and in the Pirate Cove. It may also randomly appear at the [[Traveling Cart]] for {{Tprice|100}} or in [[Garbage Can]]s during Spring or Summer.
+
+Flounder can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+Flounder can be found in the ocean and on Ginger Island.
+{{Map|275|200|island=true|islandloc1x=68|islandloc1y=175|islandloc2x=210|islandloc2y=165|islandloc3x=240|islandloc3y=160}}
+
+==Gifting==
+{{GiftsByItem
+|like=Sebastian
+|neutral=Demetrius,Elliott,Linus,Pam,Willy,Leo
+|dislike=Abigail,Alex,Caroline,Clint,Dwarf,Emily,George,Gus,Harvey,Jas,Jodi,Kent,Krobus,Leah,Lewis,Marnie,Maru,Penny,Robin,Sam,Sandy,Shane,Vincent,Wizard
+|hate=Evelyn,Haley,Pierre
+}}
+
+==Bundles==
+Flounder is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header}}
+{{:Maki Roll|RecipeRow}}
+{{:Quality Fertilizer|RecipeRow}}
+{{:Sashimi|RecipeRow}}
+{{:Seafoam Pudding|RecipeRow}}
+{{Recipes|footer}}
+
+==Fish Pond==
+Flounder can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is dark brown Flounder [[Roe]]. However, [[Sea Jelly]] is also possible starting at population 7.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Coral]] || 30
+|-
+| 5   || 10   || 1 [[Sea Jelly]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="3"|{{Name|Dark Brown Roe|1|link=Roe}}
+|rowspan="3"|13
+|1-6  || 100% || 23-63%
+|-
+|7-8  || 95%  || 67-75%
+|-
+|9-10 || 92%  || 80-87%
+|-
+|rowspan="2"|{{Name|Sea Jelly|1}}
+|rowspan="2"|18
+|7-8  || 5%   || 3.6-4%
+|-
+|9-10 || 7.8% || 6.8-7.4%
+|-
+|''Nothing''
+| 
+|1-10 || 0% || 77-5%
+|}
+
+==Tailoring==
+Flounder can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[File:Shirt259a.png|24px|link=]] [[Tailoring#Shirts|Sailor Shirt]]. It can be used in [[dyeing]], serving as an orange dye at the dye pots located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]]. It can also be used as a brown dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+==Quests==
+*'''Item Delivery:''' One Flounder may be randomly requested in [[Spring]] or [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|300}} and 150 [[Friendship]] points.
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Flounder to be caught in Spring at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Introduced.}}
+{{History|1.5|Special Order quest added. Can now be caught on [[Ginger Island]] during any season on Island West (ocean), South, Southeast, and in the [[Ginger Island#Pirate Cove|Pirate Cove]].}}
+{{History|1.6|Completely revamped the Flounder Fish Pond mechanics by changing Fish Pond quests, reducing spawn time from 3 days to 2 days, and adding [[Sea Jelly]] to possible outputs.}}
+
+{{NavboxFish}}
+
+[[Category:Ocean fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Island fish]]
+
+[[de:Flunder]]
+[[es:Platija]]
+[[fr:Flet]]
+[[it:Platessa]]
+[[ja:平らな魚]]
+[[ko:가자미]]
+[[hu:Lepényhal]]
+[[pt:Linguado]]
+[[ru:Камбала]]
+[[tr:Yassıbalık]]
+[[zh:比目鱼]]

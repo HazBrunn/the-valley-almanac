@@ -1,0 +1,1792 @@
+{{TOC right|npt=y}}
+{{for|fruit that grows on trees|Fruit Trees|R=This page is for crops that grow on tilled land.}}
+
+'''Crops''' are plants that are grown from seeds to be harvested for the purpose of profit, food, or gifting. Generally, each crop is [[Seasons|seasonal]]. It can be planted only during its designated season, and when seasons change (after the 28th day), the crop will wither and die. Multi-season crops (''i.e.,'' [[Ancient Fruit]], [[Coffee Bean]], [[Corn]], [[Sunflower]], and [[Wheat]]), however, will continue to grow during all specified seasons.
+
+==Basics==
+
+===Monsters===
+[[Monsters]] (either on the [[Farm Maps#Wilderness|Wilderness Farm]] or toggled on by the [[Dark Shrine of Night Terrors]] on any farm) have no effect on crops.
+
+===Crows===
+Crops can be eaten by [[Animals#Crows|Crows]] when there are over 15 crops growing and there is no [[Scarecrow]] within range.
+
+===Farm Animals===
+[[Animals|Farm Animals]] never trample or destroy crops. They may get in the way of planting or harvesting efforts, but will never cause damage to crops.
+
+===Fertilizing and Planting===
+Fallow (untilled) farm land must be tilled with the [[Hoes|Hoe]] before fertilizing or planting there, an activity that consumes some of the player's daily energy, as reflected on the energy bar. A tile may be watered (by using the [[Watering Cans|Watering Can]]) only after it has been tilled, which consumes more energy.
+
+Seeds and fertilizer are placed on a tilled tile individually by using the {{key|left-click}} control, or on multiple tiles by continuously holding on to the {{key|right-click}} or {{key|left-click}} control and moving the cursor and/or player. Since planting and fertilizing require no tool use, those activities consume none of the player's energy.
+
+Only one type of fertilizer at a time may be used on any given tile. Some fertilizer must be placed on a tile before a seed is planted there, other types can be placed before or after planting a seed. Watering can be done at any time after tilling, and freely either before or after fertilizing and/or planting, without regard to order.
+
+===Trellis Crops===
+Some crops require a trellis, which cannot be walked through, so they require an appropriate crop layout to be reachable. Trellis crops can be walked through once they are dead.
+
+The available trellis crops are [[Green Bean]], [[Hops]], and [[Grape]].
+
+===Grow Times===
+The grow times shown on this page (and in the game) ''exclude'' the day the seeds were planted. If planting on the first of a season, a 5-day crop will be ready for harvest on day 6, not day 5. In this case, the number may be thought of as the number of ''nights'' required to grow the crop.
+
+[[Fertilizer]] and [[Farming#Farming Skill|the Agriculturist Profession]] are ''not'' taken into account on this page, but the effects can be viewed on individual crop pages.
+
+Crops must be watered every day for maximum growth. If unwatered for a day, a crop will not grow. Unwatered crops do not die, but they will not grow either.
+
+If a seed is planted into unwatered soil and not watered the same day, it will not grow that night. Growth will start the following night. The grow times on this page assume the seeds are watered the day they are planted.
+
+Planting after midnight does not impose a penalty (it still counts as having been planted on the current day).
+
+===End of Season===	
+On the 1st of each season, all crops that are no longer in season will wither and die, leaving behind a dead crop. When a dead crop is left behind at the start of a season it will keep the soil it was planted on tilled, which can reduce the amount of manual tilling and watering that needs to be done at the start of a season. Dead crops can be removed with a [[scythe]].
+
+Multi-season crops that are still in season (''i.e.,'' corn planted in summer when transitioning into fall) will not wither and will simply continue to grow. Fully grown crops that are ready to harvest will wither and die when moving to a new season, however.
+
+===Giant Crops===
+[[Cauliflower]]s, [[Melon]]s, [[Pumpkin]]s, [[Powdermelon]]s and [[Qi Fruit]]s planted in a 3x3 pattern can randomly combine into a giant crop. Giant crops drop 15–21 normal-quality items when harvested with any [[Axes|axe]], taking three hits.
+
+At the start of each day, every possible 3x3 grid of crops (including overlaps) has a 1% chance to grow into a giant crop as long as the top left crop is fully-grown and watered, and all constituent crops are of the same type. Giant crops won't necessarily appear on the day the crops finish growing; it can happen any day those criteria are met.<ref name="giantcrops" />
+
+Giant crops don't die at change of [[Seasons|season]] like other crops, and giant [[Qi Fruit]]s don't disappear after the [[Quests#Qi's Crop|"Qi's Crop" special order]] is over. Soil underneath a giant crop may become untilled, causing any fertilizer to be lost. Giant crops cannot grow in the [[greenhouse]], by using [[Garden Pot]]s, or on [[Ginger Island]].
+
+{|class="wikitable" style="text-align:center; width: 750px;"
+!colspan="5"|Giant Crops
+|-
+! Cauliflower
+! Melon
+! Pumpkin
+! Powdermelon
+! Qi Fruit
+|-
+| [[File:Giant Cauliflower.png|center|96px]]
+| [[File:Giant Melon.png|center|96px]]
+| [[File:Giant Pumpkin.png|center|96px]]
+| [[File:Giant Powdermelon.png|center|96px]]
+| [[File:Giant Qi Fruit.png|center|96px]]
+|}
+
+===Crop Quality===
+:''See also: [[Farming#Complete Formula 2|Crop Quality Formula]]''
+The quality of crops comes in four levels: regular, &nbsp;[[File:Silver Quality.png|16px|link=]] silver, &nbsp;[[File:Gold Quality.png|16px|link=]] gold, and &nbsp;[[File:Iridium Quality.png|16px|link=]] iridium. Quality is determined when a crop is harvested. Normally, harvested crops are almost all of regular quality, with a few at silver or gold quality levels. The average quality can be increased by planting seeds into [[Fertilizer|fertilized]] soil. Note that iridium quality is possible only with [[Deluxe Fertilizer]]. Increasing [[Farming#Farming Skill|Farming Skill]] also increases the chance to harvest a quality crop. If a [[Seed Maker]] turns a higher-quality crop into seeds, the seeds are '''no more likely''' to produce higher-quality crops when grown and harvested.
+
+Note that for forage items grown from [[Crops#Wild Seeds|wild seeds]], the quality of the items is determined by foraging skill, not farming skill, making iridium quality foraged items possible with the Botanist profession.
+
+Higher quality crops command higher prices when sold, and deliver greater [[energy]] and [[health]] benefits when eaten. If given as a gift to an NPC who likes or loves the crop, a silver, gold, or iridium quality crop gives a higher number of [[friendship]] points. Crop quality has '''no effect''' on [[Cooking|cooked foods]]' health or energy gains, or on the quality of [[Artisan Goods]] produced.
+
+The quality star of a crop in inventory animates when it is of the highest quality possible (iridium).
+
+For crops that produce multiples at harvest (''i.e.,'' [[Coffee Bean]], [[Blueberry]], [[Cranberries]]), [[Basic Fertilizer|Basic]], [[Quality Fertilizer|Quality]] and [[Deluxe Fertilizer|Deluxe]] Fertilizers affect only the first crop produced. That is, only 1 out of 4 coffee beans is affected at each harvest; only 1 out of 3 blueberries is affected, etc.
+
+===Gold per Day===
+<!--PLEASE DO NOT CHANGE gold per day calculations without discussion on the talk page. Thank you-->
+Calculations do not take into account [[Fertilizer]], crop quality, or the Tiller or Agriculturist [[Farming#Farming Skill|Professions]]. Variations are noted in or below each table, if applicable. It is assumed that the crop is watered on the day of planting. 
+
+The general formula is: 
+<code>Minimum Gold per Day = ((Max Harvests &times; Sell Price per Harvest) &minus; Seed Price) / Growing Days </code> 
+
+'''Growing Days''' = <code>Days to Maturity + ((Max Harvests &minus; 1) &times; Days to Regrow)</code>
+
+'''Days to Maturity''' and '''Days to Regrow''' are listed in each table.
+
+'''Max Harvests''' is normally 1, but for crops that continue to produce, it is the actual number of harvests that can be obtained in the growing season(s).  
+
+'''Sell Price per Harvest''' is normally the same as the Sell Price of one normal-quality crop. Extra crops are not counted since their occurrence is rare, except in the case of [[potato]]es. The chance of an extra potato is &#8776;25%, much higher than with any other crop. Thus, the '''Sell Price per Harvest''' is 1.25 &times; 80 instead of 1 &times; 80.  
+
+In the case of plants that always give >1 item per harvest (''e.g.,'' [[Coffee Bean]], [[Blueberry]], [[Cranberries]]) the '''Sell Price per Harvest''' = # of crops per Harvest &times; Sell Price for one item.
+
+{|class="wikitable"
+!Example: Cranberries
+|-
+|<p>Max Harvests = 5</p>
+<p>Sell Price per Harvest = 2 berries &times; {{Price|75}} = {{Price|150}}</p>
+<p>Seed Price = {{Price|240}}</p>
+<p>Growing Days = 7 + ((5 &minus; 1) &times; 5) = 27</p>
+<p>Gold per Day = (5 &times; 150 &minus; 240) / 27 = {{Price|18.89}}</p>
+|}
+
+==Spring Crops==
+
+===[[File:Blue Jazz.png]] [[Blue Jazz]]===
+''{{Description|Blue Jazz}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Jazz Seeds.png|center]][[Jazz Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|30}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|37}}</div>
+|[[File:Blue Jazz Stage 1.png|center|link=]]
+|[[File:Blue Jazz Stage 2.png|center|link=]]
+|[[File:Blue Jazz Stage 3.png|center|link=]]
+|[[File:Blue Jazz Stage 4.png|center|link=]]
+|[[File:Blue Jazz Stage 5.png|center|link=]] 
+|{{Qualityprice|Blue Jazz|50|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Blue Jazz|18}}
+|rowspan="2" style="text-align: left;"|{{Name|Lucky Lunch}}
+|-
+|1 day
+|2 days
+|2 days
+|2 days
+|Total: 7 days
+|class="no-wrap"|&#8776;{{Price|2.86}}/d
+|}
+
+===[[File:Carrot.png]] [[Carrot]]===
+''{{Description|Carrot}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Harvest
+!Sells For
+!Energy / Health
+|-
+|rowspan="2"|<br />[[File:Carrot Seeds.png|center]][[Carrot Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;"> </div>
+|[[File:Carrot Stage 1.png|center|link=]]
+|[[File:Carrot Stage 2.png|center|link=]]
+|[[File:Carrot Stage 3.png|center|link=]]
+|[[File:Carrot Stage 4.png|center|link=]]
+|{{Qualityprice|Carrot|35|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Carrot|30}}
+|-
+|1 day
+|1 day
+|1 day
+|Total: 3 days
+|class="no-wrap"|&#8776;{{Price|11.67}}/d
+|}
+
+===[[File:Cauliflower.png]] [[Cauliflower]]===
+''{{Description|Cauliflower}}''
+<p>Cauliflower can become a [[Giant Crop]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Cauliflower Seeds.png|center]][[Cauliflower Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|80}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|100}}</div>
+|[[File:Cauliflower Stage 1.png|center|link=]]
+|[[File:Cauliflower Stage 2.png|center|link=]]
+|[[File:Cauliflower Stage 3.png|center|link=]]
+|[[File:Cauliflower Stage 4.png|center|link=]]
+|[[File:Cauliflower Stage 5.png|center|link=]]
+|[[File:Cauliflower Stage 6.png|center|link=]] 
+|{{Qualityprice|Cauliflower|175|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Cauliflower|30}}
+|rowspan="2" style="text-align:left;"|{{Name|Cheese Cauliflower}}<p>{{Bundle|Spring Crops}}</p><p>[[File:Quests Icon.png|28px|link=]] [[Quests#Jodi's Request|"Jodi's Request" Quest]]</p>{{NPC|Maru|Loved gift}}
+|-
+|1 day
+|2 days
+|4 days
+|4 days
+|1 day
+|Total: 12 days
+|class="no-wrap"|&#8776;{{Price|7.92}}/d
+|}
+
+===[[File:Coffee Bean.png]] [[Coffee Bean]]===
+''{{Description|Coffee Bean}}''
+<p>Each plant yields 4 beans per harvest, with a 2% chance for more beans. This crop continues to produce after maturity.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Coffee Bean.png|center]][[Coffee Bean]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Traveling Cart Icon.png|24px|link=]] [[Traveling Cart]]: {{Price|2500}}<br />[[File:Dust Sprite.png|24px|link=]] [[Dust Sprite]] (1% chance)</div>
+|[[File:Coffee Stage 1.png|center|link=]]
+|[[File:Coffee Stage 2.png|center|link=]]
+|[[File:Coffee Stage 3.png|center|link=]]
+|[[File:Coffee Stage 4.png|center|link=]]
+|[[File:Coffee Stage 5.png|center|link=]]
+|[[File:Coffee Stage 6.png|center|link=]]
+|[[File:Coffee Stage 7.png|center|link=]]
+|{{Qualityprice|Coffee Bean|15|dsv=false}}
+|rowspan="2"|''Inedible''
+|rowspan="2" style="text-align:left;"|{{Name|Coffee}}
+|-
+|1 day
+|2 days
+|2 days
+|3 days
+|2 days
+|Total: 10 days
+|Regrowth:<br />2 days
+|class="no-wrap" style="text-align: left;"|{{Price|-20.74}}/d <sup>1</sup><br />{{Price|20.77}}/d <sup>2</sup><br />{{Price|25.56}}/d <sup>3</sup>
+|}
+:<sup>1</sup> [[Traveling Cart]] (2 seasons)
+:<sup>2</sup> [[Dust Sprite]] / Harvested bean (1 season)
+:<sup>3</sup> [[Dust Sprite]] / Harvested bean (2 seasons)
+
+===[[File:Garlic.png]] [[Garlic]]===
+''{{Description|Garlic}}''
+<p>Available from year 2+.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Garlic Seeds.png|center]][[Garlic Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|40}}</div>
+|[[File:Garlic Stage 1.png|center|link=]]
+|[[File:Garlic Stage 2.png|center|link=]]
+|[[File:Garlic Stage 3.png|center|link=]]
+|[[File:Garlic Stage 4.png|center|link=]]
+|[[File:Garlic Stage 5.png|center|link=]]
+|{{Qualityprice|Garlic|60|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Garlic|8}}
+|rowspan="2" style="text-align:left;"|{{Name|Escargot}}{{Name|Fiddlehead Risotto}}{{Name|Oil of Garlic}}
+|-
+|1 day
+|1 day
+|1 day
+|1 day
+|Total: 4 days
+|{{Price|5}}/d
+|}
+
+===[[File:Green Bean.png]] [[Green Bean]]===
+''{{Description|Green Bean}}''
+<p>This crop uses a trellis, and continues to produce after maturity.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Bean Starter.png|center]][[Bean Starter]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|60}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|75}}</div>
+|[[File:Green Bean Stage 2.png|center|link=]]
+|[[File:Green Bean Stage 3.png|center|link=]]
+|[[File:Green Bean Stage 4.png|center|link=]]
+|[[File:Green Bean Stage 5.png|center|link=]]
+|[[File:Green Bean Stage 6.png|center|link=]]
+|[[File:Green Bean Stage 7.png|center|link=]]
+|[[File:Green Bean Stage 8.png|center|link=]]
+|{{Qualityprice|Green Bean|40|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Green Bean|10}}
+|rowspan="2" style="text-align:left;"|{{Name|Bean Hotpot}}<p>{{Bundle|Spring Crops}}</p>
+|-
+|1 day
+|1 day
+|1 day
+|3 days
+|4 days
+|Total: 10 days
+|Regrowth: 3 days
+|{{Price|7.20}}/d
+|}
+
+===[[File:Kale.png]] [[Kale]]===
+''{{Description|Kale}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Kale Seeds.png|center]][[Kale Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|70}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|87}}</div>
+|[[File:Kale Stage 1.png|center|link=]]
+|[[File:Kale Stage 2.png|center|link=]]
+|[[File:Kale Stage 3.png|center|link=]]
+|[[File:Kale Stage 4.png|center|link=]]
+|[[File:Kale Stage 5.png|center|link=]]
+|{{Qualityprice|Kale|110|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Kale|20}}
+|rowspan="2" style="text-align:left;"|{{Name|Salmon Dinner}}{{Name|Stir Fry}}
+|-
+|1 day
+|2 days
+|2 days
+|1 day
+|Total: 6 days
+|&#8776;{{Price|6.67}}/d
+|}
+
+===[[File:Parsnip.png]] [[Parsnip]]===
+''{{Description|Parsnip}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Parsnip Seeds.png|center]][[Parsnip Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|20}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|25}}</div>
+|[[File:Parsnip Stage 1.png|center|link=]]
+|[[File:Parsnip Stage 2.png|center|link=]]
+|[[File:Parsnip Stage 3.png|center|link=]]
+|[[File:Parsnip Stage 4.png|center|link=]]
+|[[File:Parsnip Stage 5.png|center|link=]]
+|{{Qualityprice|Parsnip|35|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Parsnip|10}}
+|rowspan="2" style="text-align:left;"|{{Name|Farmer's Lunch}}{{Name|Parsnip Soup}}<p>{{Bundle|Spring Crops}}</p><p>{{Bundle|Quality Crops}}</p>{{NPC|Pam|Loved gift}}
+|-
+|1 day
+|1 day
+|1 day
+|1 day
+|Total: 4 days
+|{{Price|3.75}}/d
+|}
+
+===[[File:Potato.png]] [[Potato]]===
+''{{Description|Potato}}''
+<p>Yields at least 1 Potato at harvest, with a chance to produce, on average, 0.25 extra potatoes.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Potato Seeds.png|center]][[Potato Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|50}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|62}}</div>
+|[[File:Potato Stage 1.png|center|link=]]
+|[[File:Potato Stage 2.png|center|link=]]
+|[[File:Potato Stage 3.png|center|link=]]
+|[[File:Potato Stage 4.png|center|link=]]
+|[[File:Potato Stage 5.png|center|link=]]
+|[[File:Potato Stage 6.png|center|link=]]
+|{{Qualityprice|Potato|80|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Potato|10}}
+|rowspan="2" style="text-align:left;"|{{Name|Hashbrowns}}<p>{{Bundle|Spring Crops}}</p>
+|-
+|1 day
+|1 day
+|1 day
+|2 days
+|1 day
+|Total: 6 days
+|class="no-wrap"|{{Price|5.0}}/d <sup>1</sup><br />&#8776;{{Price|8.33}}/d <sup>2</sup>
+|}
+:<sup>1</sup> 1 potato per harvest
+:<sup>2</sup> 1.25 potatoes per harvest
+
+===[[File:Rhubarb.png]] [[Rhubarb]]===
+''{{Description|Rhubarb}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Rhubarb Seeds.png|center]][[Rhubarb Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Sandy Icon.png|24px|link=]] [[Oasis]]: {{Price|100}}</div>
+|[[File:Rhubarb Stage 1.png|center|link=]]
+|[[File:Rhubarb Stage 2.png|center|link=]]
+|[[File:Rhubarb Stage 3.png|center|link=]]
+|[[File:Rhubarb Stage 4.png|center|link=]]
+|[[File:Rhubarb Stage 5.png|center|link=]]
+|[[File:Rhubarb Stage 6.png|center|link=]]
+|{{Qualityprice|Rhubarb|220|dsv=false}}
+|rowspan="2"|''Inedible''
+|rowspan="2" style="text-align:left;"|{{Name|Rhubarb Pie}}
+|-
+|2 days
+|2 days
+|2 days
+|3 days
+|4 days
+|Total: 13 days
+|class="no-wrap"|&#8776;{{Price|9.23}}/d
+|}
+
+===[[File:Strawberry.png]] [[Strawberry]]===
+''{{Description|Strawberry}}''
+<p>Keeps producing after maturity. When harvested, each Strawberry plant gives 1 Strawberry every 4 days, with a 2% chance for more Strawberries.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Strawberry Seeds.png|center]][[Strawberry Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Egg Festival]]: {{Price|100}}</div>
+|[[File:Strawberry Stage 1.png|center|link=]]
+|[[File:Strawberry Stage 2.png|center|link=]]
+|[[File:Strawberry Stage 3.png|center|link=]]
+|[[File:Strawberry Stage 4.png|center|link=]]
+|[[File:Strawberry Stage 5.png|center|link=]]
+|[[File:Strawberry Stage 6.png|center|link=]]
+|[[File:Strawberry Stage 7.png|center|link=]]
+|{{Qualityprice|Strawberry|120|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Strawberry|20}}
+|rowspan="2" style="text-align:left;"|{{NPC|Demetrius|Loved gift}}{{NPC|Maru|Loved gift}}
+|-
+|1 day
+|1 day
+|2 days
+|2 days
+|2 days
+|Total: 8 days
+|Regrowth:<br />4 days
+|class="no-wrap"|&#8776;{{Price|20.83}}/d <sup>1</sup><br />&#8776;{{Price|11.67}}/d <sup>2</sup>
+|}
+:<sup>1</sup> Planted on Spring 1
+:<sup>2</sup> Planted on Spring 13/14
+
+===[[File:Tulip.png]] [[Tulip]]===
+''{{Description|Tulip}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Tulip Bulb.png|center]][[Tulip Bulb]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|20}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|25}}</div>
+|[[File:Tulip Stage 1.png|center|link=]]
+|[[File:Tulip Stage 2.png|center|link=]]
+|[[File:Tulip Stage 3.png|center|link=]]
+|[[File:Tulip Stage 4.png|center|link=]]
+|[[File:Tulip Stage 6.png|center|link=]]
+|{{Qualityprice|Tulip|30|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Tulip|18}}
+|rowspan="2" style="text-align: left;"|{{NPC|Evelyn|Loved gift}}
+|-
+|1 day
+|1 day
+|2 days
+|2 days
+|Total: 6 days
+|class="no-wrap"|&#8776;{{Price|1.67}}/d
+|}
+
+===[[File:Unmilled Rice.png]] [[Unmilled Rice]]===
+''{{Description|Unmilled Rice}}''
+<p>Has a 10% chance of yielding more unmilled rice when harvested.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Rice Shoot.png|center]][[Rice Shoot]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|40}}</div>
+|[[File:Unmilled Rice Stage 1.png|center|link=]]
+|[[File:Unmilled Rice Stage 2.png|center|link=]]
+|[[File:Unmilled Rice Stage 3.png|center|link=]]
+|[[File:Unmilled Rice Stage 4.png|center|link=]]
+|[[File:Unmilled Rice Stage 5.png|center|link=]]
+|{{Qualityprice|Unmilled Rice|30|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Unmilled Rice|1}}
+|rowspan="2" style="text-align:left;"|{{Name|Rice}}
+|-
+| 1 day
+| 2 days <sup>1</sup><br /> 1 day <sup>2</sup>
+| 2 days <sup>1</sup><br /> 1 day <sup>2</sup>
+| 3 days
+|Total: 8 days <sup>1</sup><br />Total: 6 days <sup>2</sup>
+|class="no-wrap"|{{Price|-1.25}}/d <sup>1</sup><br />&#8776;{{Price|-1.67}}/d <sup>2</sup>
+|}
+:<sup>1</sup> Unirrigated
+:<sup>2</sup> Irrigated
+
+==Summer Crops==
+
+===[[File:Blueberry.png]] [[Blueberry]]===
+''{{Description|Blueberry}}''
+<p>Keeps producing after maturity. Each plant produces 3 blueberries at harvest, with a 2% chance for more blueberries.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Blueberry Seeds.png|center]][[Blueberry Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|80}}</div>
+|[[File:Blueberry Stage 1.png|center|link=]]
+|[[File:Blueberry Stage 2.png|center|link=]]
+|[[File:Blueberry Stage 3.png|center|link=]]
+|[[File:Blueberry Stage 4.png|center|link=]]
+|[[File:Blueberry Stage 5.png|center|link=]]
+|[[File:Blueberry Stage 6.png|center|link=]]
+|[[File:Blueberry Stage 7.png|center|link=]]
+|{{Qualityprice|Blueberry|50|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Blueberry|10}}
+|rowspan="2" style="text-align:left;"|{{Name|Blueberry Tart}}{{Name|Fruit Salad}}<p>{{Bundle|Summer Crops}}</p>
+|-
+|1 day
+|3 days
+|3 days
+|4 days
+|2 days
+|Total: 13 days
+|Regrowth: 4 days
+|{{Price|20.8}}/d
+|}
+
+===[[File:Corn.png]] [[Corn]]===
+''{{Description|Corn}}''
+<p>Keeps producing after maturity. Can be grown in Summer or Fall.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Corn Seeds.png|center]][[Corn Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|150}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|187}}</div>
+|[[File:Corn Stage 1.png|center|link=]]
+|[[File:Corn Stage 2.png|center|link=]]
+|[[File:Corn Stage 3.png|center|link=]]
+|[[File:Corn Stage 4.png|center|link=]]
+|[[File:Corn Stage 5.png|center|link=]]
+|[[File:Corn Stage 6.png|center|link=]]
+|[[File:Corn Stage 7.png|center|link=]]
+|{{Qualityprice|Corn|50|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Corn|10}}
+|rowspan="2" style="text-align:left;"|{{Name|Tortilla}}{{Name|Oil}}<p>{{Bundle|Fall Crops}}</p><p>{{Bundle|Quality Crops}}</p>
+|-
+|2 days
+|3 days
+|3 days
+|3 days
+|3 days
+|Total: 14 days
+|Regrowth:<br />4 days
+|class="no-wrap"|&#8776;{{Price|1.92}}/d <sup>1</sup><br />&#8776;{{Price|7.41}}/d <sup>2</sup>
+|}
+:<sup>1</sup> 1 season
+:<sup>2</sup> 2 seasons
+
+===[[File:Hops.png]] [[Hops]]===
+''{{Description|Hops}}''
+<p>Hops use a trellis, and continue to produce after maturity.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Hops Starter.png|center]][[Hops Starter]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|60}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|75}}</div>
+|[[File:Hops Stage 1.png|center|link=]]
+|[[File:Hops Stage 3.png|center|link=]]
+|[[File:Hops Stage 4.png|center|link=]]
+|[[File:Hops Stage 5.png|center|link=]]
+|[[File:Hops Stage 6.png|center|link=]]
+|[[File:Hops Stage 7.png|center|link=]]
+|[[File:Hops Stage 8.png|center|link=]]
+|{{Qualityprice|Hops|25|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Hops|18}}
+|rowspan="2" style="text-align:left;"|{{Name|Pale Ale}}
+|-
+|1 day
+|1 day
+|2 days
+|3 days
+|4 days
+|Total: 11 days
+|Regrowth: 1 day
+|class="no-wrap"|&#8776;{{Price|13.52}}/d
+|}
+
+===[[File:Hot Pepper.png]] [[Hot Pepper]]===
+''{{Description|Hot Pepper}}''
+<p>Keeps producing after maturity. When harvested, each Hot Pepper plant gives 1 Hot Pepper every 3 days, with a 3% for more Hot Peppers.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Pepper Seeds.png|center]][[Pepper Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|40}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|50}}</div>
+|[[File:Hot Pepper Stage 1.png|center|link=]]
+|[[File:Hot Pepper Stage 2.png|center|link=]]
+|[[File:Hot Pepper Stage 3.png|center|link=]]
+|[[File:Hot Pepper Stage 4.png|center|link=]]
+|[[File:Hot Pepper Stage 4b.png|center|link=]]
+|[[File:Hot Pepper Stage 5.png|center|link=]]
+|[[File:Hot Pepper Stage 6.png|center|link=]]
+|{{Qualityprice|Hot Pepper|40|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Hot Pepper|5}}
+|rowspan="2" style="text-align:left;"|{{Name|Pepper Poppers}}{{Name|Spicy Eel}}{{Name|Tropical Curry}}<p>{{Bundle|Summer Crops}}</p><p>[[File:Quests Icon.png|28px|link=]] [[Quests#Knee Therapy|"Knee Therapy" Quest]]</p>{{NPC|Lewis|Loved gift}}{{NPC|Shane|Loved gift}}
+|-
+|1 day
+|1 day
+|1 day
+|1 day
+|1 day
+|Total: 5 days
+|Regrowth: 3 days
+|class="no-wrap"|&#8776;{{Price|10.77}}/d
+|}
+
+===[[File:Melon.png]] [[Melon]]===
+''{{Description|Melon}}''
+<p>Melons can become a [[Giant Crop]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Melon Seeds.png|center]][[Melon Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|80}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|100}}</div>
+|[[File:Melon Stage 1.png|center|link=]]
+|[[File:Melon Stage 2.png|center|link=]]
+|[[File:Melon Stage 3.png|center|link=]]
+|[[File:Melon Stage 4.png|center|link=]]
+|[[File:Melon Stage 5.png|center|link=]]
+|[[File:Melon Stage 6.png|center|link=]]
+|{{Qualityprice|Melon|250|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Melon|45}}
+|rowspan="2" style="text-align:left;"|{{Name|Fruit Salad}}{{Name|Pink Cake}}<p>{{Bundle|Summer Crops}}</p><p>{{Bundle|Quality Crops}}</p><p>[[File:Quests Icon.png|28px|link=]] [[Quests#Crop Research|"Crop Research" Quest]]</p>{{NPC|Penny|Loved gift}}
+|-
+|1 day
+|2 days
+|3 days
+|3 days
+|3 days
+|Total: 12 days
+|class="no-wrap"|&#8776;{{Price|14.17}}/d
+|}
+
+===[[File:Poppy.png]] [[Poppy]]===
+''{{Description|Poppy}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Poppy Seeds.png|center]][[Poppy Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|100}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|125}}</div>
+|[[File:Poppy Stage 1.png|center|link=]]
+|[[File:Poppy Stage 2.png|center|link=]]
+|[[File:Poppy Stage 3.png|center|link=]]
+|[[File:Poppy Stage 4.png|center|link=]]
+|[[File:Poppy Stage 6.png|center|link=]]
+|{{Qualityprice|Poppy|140|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Poppy|18}}
+|rowspan="2" style="text-align:left;"|{{Name|Poppyseed Muffin}}<p>{{Bundle|Chef}}</p>{{NPC|Penny|Loved gift}}
+|-
+|1 day
+|2 days
+|2 days
+|2 days
+|Total: 7 days
+|class="no-wrap"|&#8776;{{Price|5.71}}/d
+|}
+
+===[[File:Radish.png]] [[Radish]]===
+''{{Description|Radish}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Radish Seeds.png|center]][[Radish Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|40}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|50}}</div>
+|[[File:Radish Stage 1.png|center|link=]]
+|[[File:Radish Stage 2.png|center|link=]]
+|[[File:Radish Stage 3.png|center|link=]]
+|[[File:Radish Stage 4.png|center|link=]]
+|[[File:Radish Stage 5.png|center|link=]]
+|{{Qualityprice|Radish|90|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Radish|18}}
+|rowspan="2" style="text-align:left;"|{{Name|Radish Salad}}{{Name|Red Plate}}
+|-
+|2 days
+|1 day
+|2 days
+|1 day
+|Total: 6 days
+|class="no-wrap"|&#8776;{{Price|8.33}}/d
+|}
+
+===[[File:Red Cabbage.png]] [[Red Cabbage]]===
+''{{Description|Red Cabbage}}''
+<p>Available from year 2+.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Red Cabbage Seeds.png|center]][[Red Cabbage Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|100}}</div>
+|[[File:Red Cabbage Stage 1.png|center|link=]]
+|[[File:Red Cabbage Stage 2.png|center|link=]]
+|[[File:Red Cabbage Stage 3.png|center|link=]]
+|[[File:Red Cabbage Stage 4.png|center|link=]]
+|[[File:Red Cabbage Stage 5.png|center|link=]]
+|[[File:Red Cabbage Stage 6.png|center|link=]]
+|{{Qualityprice|Red Cabbage|260|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Red Cabbage|30}}
+|rowspan="2" style="text-align:left;"|{{Name|Coleslaw}}{{Name|Fish Taco}}{{Name|Red Plate}}<p>{{Bundle|Dye}}</p>
+|-
+|2 days
+|1 day
+|2 days
+|2 days
+|2 days
+|Total: 9 days
+|class="no-wrap"|&#8776;{{Price|17.78}}/d
+|}
+
+===[[File:Starfruit.png]] [[Starfruit]]===
+''{{Description|Starfruit}}''
+<p>Not to be mistaken for {{Name|Stardrop|class=inline}}.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Starfruit Seeds.png|center]][[Starfruit Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Sandy Icon.png|24px|link=]] [[Oasis]]: {{Price|400}}</div>
+|style="vertical-align: bottom;"|[[File:Starfruit Stage 1.png|center|link=]]
+|style="vertical-align: bottom;"|[[File:Starfruit Stage 2.png|center|link=]]
+|style="vertical-align: bottom;"|[[File:Starfruit Stage 3.png|center|link=]]
+|style="vertical-align: bottom;"|[[File:Starfruit Stage 4.png|center|link=]]
+|style="vertical-align: bottom;"|[[File:Starfruit Stage 5.png|center|link=]]
+|style="vertical-align: bottom;"|[[File:Starfruit Stage 6.png|center|link=]]
+|{{Qualityprice|Starfruit|750|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Starfruit|50}}
+|rowspan="2" style="text-align: left;"|{{Name|Junimo Hut}}[[File:Quests Icon.png|28px|link=]] [[Quests#A Soldier's Star|"A Soldier's Star" Quest]]
+|-
+|2 days
+|3 days
+|2 days
+|3 days
+|3 days
+|Total: 13 days
+|class="no-wrap"|&#8776;{{Price|26.92}}/d
+|}
+
+===[[File:Summer Spangle.png]] [[Summer Spangle]]===
+''{{Description|Summer Spangle}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Spangle Seeds.png|center]][[Spangle Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|50}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|62}}</div>
+|[[File:Summer Spangle Stage 1.png|center|link=]]
+|[[File:Summer Spangle Stage 2.png|center|link=]]
+|[[File:Summer Spangle Stage 3.png|center|link=]]
+|[[File:Summer Spangle Stage 4.png|center|link=]]
+|[[File:Summer Spangle Stage 5.png|center|link=]]
+|{{Qualityprice|Summer Spangle|90|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Summer Spangle|18}}
+|rowspan="2" style="text-align: left;"|{{NPC|Caroline|Loved gift}}
+|-
+|1 day
+|2 days
+|3 days
+|2 days
+|Total: 8 days
+|{{Price|5}}/d
+|}
+
+===[[File:Summer Squash.png]] [[Summer Squash]]===
+''{{Description|Summer Squash}}''<br /><br />
+Keeps producing after maturity.
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+|-
+|rowspan="2"|<br />[[File:Summer Squash Seeds.png|center]][[Summer Squash Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;"> </div>
+|[[File:Summer Squash Stage 1.png|center|link=]]
+|[[File:Summer Squash Stage 2.png|center|link=]]
+|[[File:Summer Squash Stage 3.png|center|link=]]
+|[[File:Summer Squash Stage 4.png|center|link=]]
+|[[File:Summer Squash Stage 5.png|center|link=]]
+|[[File:Summer Squash Stage 6.png|center|link=]]
+|[[File:Summer Squash Stage 7.png|center|link=]]
+|{{Qualityprice|Summer Squash|45|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Summer Squash|25}}
+|-
+|1 day
+|1 day
+|1 day
+|2 days
+|1 day
+|Total: 6 days
+|Regrowth: 3 days
+|class="no-wrap"|&#8776;{{Price|13.33}}/d
+|}
+
+===[[File:Sunflower.png]] [[Sunflower]]===
+''{{Description|Sunflower}}''
+<p>Harvesting a sunflower will also produce 0-2 Sunflower Seeds. Sunflowers can be grown in Summer or Fall.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Sunflower Seeds.png|center]][[Sunflower Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|200}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|125}}</div>
+|[[File:Sunflower Stage 1.png|center|link=]]
+|[[File:Sunflower Stage 2.png|center|link=]]
+|[[File:Sunflower Stage 3.png|center|link=]]
+|[[File:Sunflower Stage 4.png|center|link=]]
+|[[File:Sunflower Stage 5.png|center|link=]]
+|{{Qualityprice|Sunflower|80|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Sunflower|18}}
+|rowspan="2" style="text-align:left;"|{{Name|Oil}}<p>{{Bundle|Dye}}</p>{{NPC|Haley|Loved gift}}
+|-
+|1 day
+|2 days
+|3 days
+|2 days
+|Total: 8 days
+|class="no-wrap" style="text-align: left;"|{{Price|-15}}/d <sup>1</sup><br />{{Price|-5.63}}/d <sup>2</sup>
+|}
+:<sup>1</sup> [[Pierre's General Store]], not accounting for reclaimed seeds
+:<sup>2</sup> [[JojaMart]], not accounting for reclaimed seeds
+
+===[[File:Tomato.png]] [[Tomato]]===
+''{{Description|Tomato}}''
+<p>Keeps producing after maturity. Each harvest produces 1 tomato, with a 5% chance for more tomatoes.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Tomato Seeds.png|center]][[Tomato Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|50}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|62}}</div>
+|[[File:Tomato Stage 1.png|center|link=]]
+|[[File:Tomato Stage 2.png|center|link=]]
+|[[File:Tomato Stage 3.png|center|link=]]
+|[[File:Tomato Stage 4.png|center|link=]]
+|[[File:Tomato Stage 5.png|center|link=]]
+|[[File:Tomato Stage 6.png|center|link=]]
+|[[File:Tomato Stage 7.png|center|link=]]
+|{{Qualityprice|Tomato|60|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Tomato|8}}
+|rowspan="2" style="text-align:left;"|{{Name|Bruschetta}}{{Name|Eggplant Parmesan}}{{Name|Fish Stew}}{{Name|Pizza}}{{Name|Spaghetti}}{{Name|Vegetable Medley}}<p>{{Bundle|Summer Crops}}</p>
+|-
+|2 days
+|2 days
+|2 days
+|2 days
+|3 days
+|Total: 11 days
+|Regrowth: 4 days
+|class="no-wrap"|&#8776;{{Price|9.26}}/d
+|}
+
+===[[File:Wheat.png]] [[Wheat]]===
+''{{Description|Wheat}}''
+<p>Can be grown in Summer or Fall.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Wheat Seeds.png|center]][[Wheat Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|10}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|12}}</div>
+|[[File:Wheat Stage 1.png|center|link=]]
+|[[File:Wheat Stage 2.png|center|link=]]
+|[[File:Wheat Stage 3.png|center|link=]]
+|[[File:Wheat Stage 4.png|center|link=]]
+|[[File:Wheat Stage 5.png|center|link=]]
+|{{Qualityprice|Wheat|25|dsv=false}}
+|rowspan="2" |''Inedible''
+|rowspan="2" style="text-align:left;"|{{Name|Beer}}{{Name|Wheat Flour}}<p>{{Bundle|Fodder}}</p>
+|-
+|1 day
+|1 day
+|1 day
+|1 day
+|Total: 4 days
+|{{Price|3.75}}/d
+|}
+
+==Fall Crops==
+
+===[[File:Amaranth.png]] [[Amaranth]]===
+''{{Description|Amaranth}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Amaranth Seeds.png|center]][[Amaranth Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|70}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|87}}</div>
+|[[File:Amaranth Stage 1.png|center|link=]]
+|[[File:Amaranth Stage 2.png|center|link=]]
+|[[File:Amaranth Stage 3.png|center|link=]]
+|[[File:Amaranth Stage 4.png|center|link=]]
+|[[File:Amaranth Stage 5.png|center|link=]]
+|{{Qualityprice|Amaranth|150|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Amaranth|20}}
+|rowspan="2" style="text-align:left;"|{{Name|Salmon Dinner}}[[File:Quests Icon.png|28px|link=]] [[Quests#Cow's Delight|"Cow's Delight" Quest]]
+|-
+|1 day
+|2 days
+|2 days
+|2 days
+|Total: 7 days
+|class="no-wrap"|&#8776;{{Price|11.43}}/d
+|}
+
+===[[File:Artichoke.png]] [[Artichoke]]===
+''{{Description|Artichoke}}''
+<p>Available from year 2+.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Artichoke Seeds.png|center]][[Artichoke Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|30}}</div>
+|[[File:Artichoke Stage 1.png|center|link=]]
+|[[File:Artichoke Stage 2.png|center|link=]]
+|[[File:Artichoke Stage 3.png|center|link=]]
+|[[File:Artichoke Stage 4.png|center|link=]]
+|[[File:Artichoke Stage 5.png|center|link=]]
+|[[File:Artichoke Stage 6.png|center|link=]]
+|{{Qualityprice|Artichoke|160|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Artichoke|12}}
+|rowspan="2" style="text-align:left;"|{{Name|Artichoke Dip}}{{Name|Super Meal}}
+|-
+|2 days
+|2 days
+|1 day
+|2 days
+|1 day
+|Total: 8 days
+|{{Price|16.25}}/d
+|}
+
+===[[File:Beet.png]] [[Beet]]===
+''{{Description|Beet}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Beet Seeds.png|center]][[Beet Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Sandy Icon.png|24px|link=]] [[Oasis]]: {{Price|20}}</div>
+|[[File:Beet Stage 1.png|center|link=]]
+|[[File:Beet Stage 2.png|center|link=]]
+|[[File:Beet Stage 3.png|center|link=]]
+|[[File:Beet Stage 4.png|center|link=]]
+|[[File:Beet Stage 5.png|center|link=]]
+|{{Qualityprice|Beet|100|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Beet|12}}
+|rowspan="2" style="text-align:left;"|{{Name|Vegetable Medley}}{{Name|Sugar}}[[File:Quests Icon.png|28px|link=]] [[Quests#The Mysterious Qi|"The Mysterious Qi" Quest]]{{NPC|Evelyn|Loved gift}}
+|-
+|1 day
+|1 day
+|2 days
+|2 days
+|Total: 6 days
+|class="no-wrap"|&#8776;{{Price|13.33}}/d
+|}
+
+===[[File:Bok Choy.png]] [[Bok Choy]]===
+''{{Description|Bok Choy}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Bok Choy Seeds.png|center]][[Bok Choy Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|50}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|62}}</div>
+|[[File:Bok Choy Stage 1.png|center|link=]]
+|[[File:Bok Choy Stage 2.png|center|link=]]
+|[[File:Bok Choy Stage 3.png|center|link=]]
+|[[File:Bok Choy Stage 4.png|center|link=]]
+|[[File:Bok Choy Stage 5.png|center|link=]]
+|{{Qualityprice|Bok Choy|80|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Bok Choy|10}}
+|rowspan="2" style="text-align:left;"|{{Name|Super Meal}}
+|-
+|1 day
+|1 day
+|1 day
+|1 day
+|Total: 4 days
+|{{Price|7.50}}/d
+|}
+
+===[[File:Broccoli.png]] [[Broccoli]]===
+''{{Description|Broccoli}}''<br /><br />
+Keeps producing after maturity.
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+|-
+|rowspan="2"|<br />[[File:Broccoli Seeds.png|center]][[Broccoli Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;"> </div>
+|[[File:Broccoli Stage 1.png|center|link=]]
+|[[File:Broccoli Stage 2.png|center|link=]]
+|[[File:Broccoli Stage 3.png|center|link=]]
+|[[File:Broccoli Stage 4.png|center|link=]]
+|[[File:Broccoli Stage 5.png|center|link=]]
+|[[File:Broccoli Stage 4.png|center|link=]]
+|{{Qualityprice|Broccoli|70|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Broccoli|25}}
+|-
+|2 days
+|2 days
+|2 days
+|2 days
+|Total: 8 days
+|Regrowth: 4 days
+|class="no-wrap"|&#8776;{{Price|14.58}}/d
+|}
+
+===[[File:Cranberries.png]] [[Cranberries]]===
+''{{Description|Cranberries}}''
+<p>Yields 2 berries at harvest, with a 10% chance for more berries. Keeps producing after maturity.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Cranberry Seeds.png|center]][[Cranberry Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|240}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|300}}</div>
+|[[File:Cranberry Stage 1.png|center|link=]]
+|[[File:Cranberry Stage 2.png|center|link=]]
+|[[File:Cranberry Stage 3.png|center|link=]]
+|[[File:Cranberry Stage 4.png|center|link=]]
+|[[File:Cranberry Stage 5.png|center|link=]]
+|[[File:Cranberry Stage 6.png|center|link=]]
+|[[File:Cranberry Stage 7.png|center|link=]]
+|{{Qualityprice|Cranberries|75|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Cranberries|15}}
+|rowspan="2" style="text-align:left;"|{{Name|Cranberry Candy}}{{Name|Cranberry Sauce}}{{Name|Stuffing}}{{Name|Super Meal}}
+|-
+|1 day
+|2 days
+|1 day
+|1 day
+|2 days
+|Total: 7 days
+|Regrowth: 5 days
+|class="no-wrap"|&#8776;{{Price|18.89}}/d
+|}
+
+===[[File:Eggplant.png]] [[Eggplant]]===
+''{{Description|Eggplant}}''
+<p>Keeps producing after maturity. When harvested, each Eggplant bush gives 1 Eggplant every 5 days, with a 0.2% chance for more Eggplants.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Eggplant Seeds.png|center]][[Eggplant Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|20}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|25}}</div>
+|[[File:Eggplant Stage 1.png|center|link=]]
+|[[File:Eggplant Stage 2.png|center|link=]]
+|[[File:Eggplant Stage 3.png|center|link=]]
+|[[File:Eggplant Stage 4.png|center|link=]]
+|[[File:Eggplant Stage 5.png|center|link=]]
+|[[File:Eggplant Stage 6.png|center|link=]]
+|[[File:Eggplant Stage 7.png|center|link=]]
+|{{Qualityprice|Eggplant|60|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Eggplant|8}}
+|rowspan="2" style="text-align:left;"|{{Name|Eggplant Parmesan}}{{Name|Survival Burger}}<p>{{Bundle|Fall Crops}}</p>
+|-
+|1 day
+|1 day
+|1 day
+|1 day
+|1 day
+|Total: 5 days
+|Regrowth: 5 days
+|{{Price|11.20}}/d
+|}
+
+===[[File:Fairy Rose.png]] [[Fairy Rose]]===
+''{{Description|Fairy Rose}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Fairy Seeds.png|center]][[Fairy Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|200}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|250}}</div>
+|[[File:Fairy Rose Stage 1.png|center|link=]]
+|[[File:Fairy Rose Stage 2.png|center|link=]]
+|[[File:Fairy Rose Stage 3.png|center|link=]]
+|[[File:Fairy Rose Stage 4.png|center|link=]]
+|[[File:Fairy Rose Stage 5.png|center|link=]]
+|{{Qualityprice|Fairy Rose|290|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Fairy Rose|18}}
+|rowspan="2" style="text-align: left;"|{{Name|Fairy Dust}}{{NPC|Evelyn|Loved gift}}{{NPC|Jas|Loved gift}}
+|-
+|1 day
+|4 days
+|4 days
+|3 days
+|Total: 12 days
+|{{Price|7.50}}/d
+|}
+
+===[[File:Grape.png]] [[Grape]]===
+''{{Description|Grape}}''
+<p>Grapes use a trellis, and continue to produce after maturity.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Grape Starter.png|center]][[Grape Starter]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|60}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|75}}</div>
+|[[File:Grape Stage 1.png|center|link=]]
+|[[File:Grape Stage 2.png|center|link=]]
+|[[File:Grape Stage 3.png|center|link=]]
+|[[File:Grape Stage 4.png|center|link=]]
+|[[File:Grape Stage 5.png|center|link=]]
+|[[File:Grape Stage 6.png|center|link=]]
+|[[File:Grape Stage 7.png|center|link=]]
+|{{Qualityprice|Grape|80|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Grape|15}}
+|rowspan="2" style="text-align:left;"|{{Name|Summer Seeds}}<p>{{Bundle|Summer Foraging}}</p>{{NPC|Vincent|Loved gift}}
+|-
+|1 day
+|1 day
+|2 days
+|3 days
+|3 days
+|Total: 10 days
+|Regrowth: 3 days
+|{{Price|16.80}}/d
+|}
+
+===[[File:Pumpkin.png]] [[Pumpkin]]===
+''{{Description|Pumpkin}}''
+<p>Pumpkins can become a [[Giant Crop]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Pumpkin Seeds.png|center]][[Pumpkin Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|100}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|125}}</div>
+|[[File:Pumpkin Stage 1.png|center|link=]]
+|[[File:Pumpkin Stage 2.png|center|link=]]
+|[[File:Pumpkin Stage 3.png|center|link=]]
+|[[File:Pumpkin Stage 4.png|center|link=]]
+|[[File:Pumpkin Stage 5.png|center|link=]]
+|[[File:Pumpkin Stage 6.png|center|link=]]
+|{{Qualityprice|Pumpkin|320|dsv=false}}
+|rowspan="2" |''Inedible''
+|rowspan="2" style="text-align:left;" class="no-wrap"|{{Name|Autumn's Bounty}}{{Name|Pumpkin Pie}}{{Name|Pumpkin Soup}}{{Name|Jack-O-Lantern}}<p>{{Bundle|Fall Crops}}</p>{{Bundle|Quality Crops}}<p>[[File:Quests Icon.png|28px|link=]] [[Quests#Carving Pumpkins|"Carving Pumpkins" Quest]]</p>{{NPC|Abigail|Loved gift}}{{NPC|Krobus|Loved gift}}{{NPC|Willy|Loved gift}}
+|-
+|1 day
+|2 days
+|3 days
+|4 days
+|3 days
+|Total: 13 days
+|class="no-wrap"|&#8776;{{Price|16.92}}/d
+|}
+
+===[[File:Yam.png]] [[Yam]]===
+''{{Description|Yam}}''
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Yam Seeds.png|center]][[Yam Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Pierre Icon.png|24px|link=]] [[Pierre's General Store|Pierre's]]: {{Price|60}}<br />[[File:Morris Icon.png|24px|link=]] [[JojaMart]]: {{Price|75}}</div>
+|[[File:Yam Stage 1.png|center|link=]]
+|[[File:Yam Stage 2.png|center|link=]]
+|[[File:Yam Stage 3.png|center|link=]]
+|[[File:Yam Stage 4.png|center|link=]]
+|[[File:Yam Stage 5.png|center|link=]]
+|{{Qualityprice|Yam|160|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Yam|18}}
+|rowspan="2" style="text-align:left;"|{{Name|Autumn's Bounty}}{{Name|Glazed Yams}}<p>{{Bundle|Fall Crops}}</p>{{NPC|Linus|Loved gift}}
+|-
+|1 day
+|3 days
+|3 days
+|3 days
+|Total: 10 days
+|{{Price|10}}/d
+|}
+
+==Winter Crops==
+===[[File:Powdermelon.png]] [[Powdermelon]]===
+''{{Description|Powdermelon}}''
+<p>Powdermelons can become a [[Giant Crop]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+|-
+|rowspan="2"|<br />[[File:Powdermelon Seeds.png|center]][[Powdermelon Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;"> </div>
+|[[File:Powdermelon Stage 1.png|center|link=]]
+|[[File:Powdermelon Stage 2.png|center|link=]]
+|[[File:Powdermelon Stage 3.png|center|link=]]
+|[[File:Powdermelon Stage 4.png|center|link=]]
+|[[File:Powdermelon Stage 5.png|center|link=]]
+|[[File:Powdermelon Stage 6.png|center|link=]]
+|{{Qualityprice|Powdermelon|60|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Powdermelon|25}}
+|-
+|1 day
+|2 days
+|1 day
+|2 days
+|1 day
+|Total: 7 days
+|class="no-wrap"|&#8776;{{Price|8.57}}/d
+|}
+
+==Special Crops==
+===[[File:Ancient Fruit.png]] [[Ancient Fruit]]===
+''{{Description|Ancient Fruit}}''
+<p>Grows in Spring, Summer, or Fall. See [[Ancient Seeds]] for availability.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+|-
+|rowspan="2"|<br />[[File:Ancient Seeds.png|center]][[Ancient Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Ancient Seed.png|24px|link=]] [[Ancient Seed|Crafting Recipe]]: Free</div>
+|[[File:Ancient Fruit Stage 1.png|center|link=]]
+|[[File:Ancient Fruit Stage 2.png|center|link=]]
+|[[File:Ancient Fruit Stage 3.png|center|link=]]
+|[[File:Ancient Fruit Stage 4.png|center|link=]]
+|[[File:Ancient Fruit Stage 5.png|center|link=]]
+|[[File:Ancient Fruit Stage 6.png|center|link=]]
+|[[File:Ancient Fruit Stage 7.png|center|link=]]
+|{{Qualityprice|Ancient Fruit|550|dsv=false}}
+|rowspan="2"|''Inedible''
+|-
+|2 days
+|7 days
+|7 days
+|7 days
+|5 days
+|Total: 28 days
+|Regrowth: 7 days
+|class="no-wrap"|&#8776;{{Price|57.14}}/d*
+|}
+:<nowiki>*</nowiki>Assumes seed crafted for free from [[Ancient Seed]] Artifact, grown for 3 seasons.
+
+===[[File:Cactus Fruit.png]] [[Cactus Fruit]]===
+''{{Description|Cactus Fruit}}''
+<p>Can only be grown in the [[Greenhouse]], indoors in [[Garden Pot]]s, or the [[Ginger Island#Island West|Ginger Island farm]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Cactus Seeds.png|center]][[Cactus Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Sandy Icon.png|24px|link=]] [[Oasis]]: {{Price|150}}</div>
+|[[File:Cactus Stage 1.png|center|link=]]
+|[[File:Cactus Stage 2.png|center|link=]]
+|[[File:Cactus Stage 3.png|center|link=]]
+|[[File:Cactus Stage 4.png|center|link=]]
+|[[File:Cactus Stage 5.png|center|link=]]
+|[[File:Cactus Stage 6.png|center|link=]]
+|[[File:Cactus Stage 7.png|center|link=]]
+|{{Qualityprice|Cactus Fruit|75|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Cactus Fruit|30}}
+|rowspan="2" style="text-align: left;" class="no-wrap"|{{Bundle|Exotic}}{{NPC|Linus|Loved gift}}{{NPC|Pam|Loved gift}}{{NPC|Sam|Loved gift}}
+|-
+|2 days
+|2 days
+|2 days
+|3 days
+|3 days
+|Total: 12 days
+|Regrowth: 3 days
+|class="no-wrap"|&#8776;{{Price|11.11}}/d <sup>1</sup><br />&#8776;{{Price|24.11}}/d <sup>2</sup>
+|}
+:<sup>1</sup> Planting season
+:<sup>2</sup> Each season thereafter
+
+===[[File:Fiber.png]] [[Fiber]]===
+''{{Description|Fiber}}''
+<p>Grows in all seasons. Does not need to be watered. Produces 4-7 [[Fiber]] when harvested, with a 1% chance for even more Fiber.</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Fiber Seeds.png|center]][[Fiber Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Fiber Seeds.png|24px|link=]] [[Fiber Seeds|Crafting Recipe]]: Free</div>
+|[[File:Fiber Stage 1.png|center|link=]]
+|[[File:Fiber Stage 2.png|center|link=]]
+|[[File:Fiber Stage 3.png|center|link=]]
+|[[File:Fiber Stage 4.png|center|link=]]
+|[[File:Fiber Stage 5.png|center|link=]]
+|rowspan="2"|{{Price|1}} each
+|rowspan="2"|''Inedible''
+|rowspan="2"|[[Crafting]]
+|-
+|1 day
+|2 days
+|2 days
+|2 days
+|Total: 7 days
+|}
+
+===[[File:Mixed Flower Seeds.png]] [[Mixed Flower Seeds]]===
+''{{Description|Mixed Flower Seeds}}''
+<p>Mixed Flower Seeds are a type of seed that can be planted in any season, except Winter, to grow into a random flower specific to that season. They can be randomly found when cutting [[weeds]] with a tool during the Summer, opening [[Mystery Box]]es, or as the 3rd prize from the [[Mayor's Manor#Prize Machine|Prize Machine]].</p>
+{{#lst:Mixed Flower Seeds|whichseeds}}
+
+===[[File:Mixed Seeds.png]] [[Mixed Seeds]]===
+''{{Description|Mixed Seeds}}''
+<p>Mixed Seeds are a type of seed that can be planted in any season, except Winter, to grow into a random crop specific to that season. They can be randomly found when cutting [[weeds]] with a [[scythe]], by digging up dirt or sand with a [[Hoes|hoe]], or from a [[Seed Maker]]. The [[Farm Maps#Forest|Forest Farm]] has a unique type of weed which always drops Mixed Seeds when destroyed.</p>
+{{#lst:Mixed Seeds|whichseeds}}
+
+===[[File:Pineapple.png]] [[Pineapple]]===
+''{{Description|Pineapple}}''
+<p>Grows in [[Summer]] if planted on [[the Farm]] and all year on [[Ginger Island]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Pineapple Seeds.png|center]][[Pineapple Seeds]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Island Trader Icon.png|24px|link=]] [[Island Trader]]: {{Name|Magma Cap|1}}</div>
+|[[File:Pineapple Stage 1.png|center|link=]]
+|[[File:Pineapple Stage 2.png|center|link=]]
+|[[File:Pineapple Stage 3.png|center|link=]]
+|[[File:Pineapple Stage 4.png|center|link=]]
+|[[File:Pineapple Stage 5.png|center|link=]]
+|[[File:Pineapple Stage 6.png|center|link=]]
+|[[File:Pineapple Stage 7.png|center|link=]]
+|{{Qualityprice|Pineapple|300|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Pineapple|55}}
+|rowspan="2" style="text-align:left;"|{{Name|Tropical Curry}}
+|-
+|1 day
+|3 days
+|3 days
+|4 days
+|3 days
+|Total: 14 days
+|Regrowth: 7 days
+|class="no-wrap"|&#8776;{{Price|28.57}}/d
+|}
+
+===[[File:Taro Root.png]] [[Taro Root]]===
+''{{Description|Taro Root}}''
+<p>Grows in [[Summer]] if planted on [[the Farm]] and all year on [[Ginger Island]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Harvest
+!Sells For
+!Energy / Health
+!Used In
+|-
+|rowspan="2"|<br />[[File:Taro Tuber.png|center]][[Taro Tuber]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Island Trader Icon.png|24px|link=]] [[Island Trader]]: {{Name|Bone Fragment|2}}</div>
+|[[File:Taro Stage 1.png|center|link=]]
+|[[File:Taro Stage 2.png|center|link=]]
+|[[File:Taro Stage 3.png|center|link=]]
+|[[File:Taro Stage 4.png|center|link=]]
+|[[File:Taro Stage 5.png|center|link=]]
+|{{Qualityprice|Taro Root|100|dsv=false}}
+|rowspan="2"|{{EdibilityGrid|Taro Root|15}}
+|rowspan="2" style="text-align:left;"|{{Name|Poi}}
+|-
+|class="no-wrap"|1 day <sup>1</sup><br /> 1 day <sup>2</sup>
+|class="no-wrap"|2 days <sup>1</sup><br /> 1 day <sup>2</sup>
+|class="no-wrap"|3 days <sup>1</sup><br /> 2 days <sup>2</sup>
+|class="no-wrap"|4 days <sup>1</sup><br /> 3 days <sup>2</sup>
+|class="no-wrap"|Total: 10 days <sup>1</sup><br />Total: 7 days <sup>2</sup>
+|class="no-wrap"|{{Price|10}}/d <sup>1</sup><br />&#8776;{{Price|14.29}}/d <sup>2</sup>
+|}
+:<sup>1</sup> Unirrigated
+:<sup>2</sup> Irrigated
+
+===[[File:Sweet Gem Berry.png]] [[Sweet Gem Berry]]===
+''{{Description|Sweet Gem Berry}}''
+<p>Grows in [[Fall]]. Seeds can be found for sale at the [[Traveling Cart]] during [[Spring]] and [[Summer]], and rarely during [[Fall]] and [[Winter]]. Can be gifted to [[Old Master Cannoli]] in the [[Secret Woods]] in exchange for a [[Stardrop]].</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!Stage 4
+!Stage 5
+!Harvest
+!Sells For
+!Energy / Health
+|-
+|rowspan="2"|<br />[[File:Rare Seed.png|center]][[Rare Seed]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Traveling Cart Icon.png|24px|link=]] [[Traveling Cart]]: {{Price|1000}}</div>
+|[[File:Sweet Gem Berry Stage 1.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 2.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 3.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 4.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 5.png|center|link=]]
+|[[File:Sweet Gem Berry Stage 6.png|center|link=]]
+|{{Qualityprice|Sweet Gem Berry|3000|dsv=false}}
+|rowspan="2"|''Inedible''
+|-
+|2 days
+|4 days
+|6 days
+|6 days
+|6 days
+|Total: 24 days
+|class="no-wrap"|&#8776;{{Price|83.33}}/d*
+|}
+:<nowiki>*</nowiki>Assumes Rare Seed purchased from [[Traveling Cart]] for {{Price|1000}}. Can be obtained for as little as {{Price|600}}, but only rarely.
+
+===[[File:Tea Leaves.png]] [[Tea Leaves]]===
+''{{Description|Tea Leaves}}''
+<p>Grows in all seasons. Can be harvested each day during the last week of Spring, Summer, and Fall (and Winter if indoors).</p>
+{|class="wikitable roundedborder" style="text-align: center;"
+!Seeds
+!Stage 1
+!Stage 2
+!Stage 3
+!colspan="2"|Harvest
+!Sells For
+!Energy / Health
+!Used in
+|-
+|rowspan="2"|<br />[[File:Tea Sapling.png|center]][[Tea Sapling]]
+<div class="no-wrap" style="text-align: left; padding-top: 1.5em;">[[File:Tea Sapling.png|24px|link=]] [[Tea Sapling|Crafting Recipe]]: Free</div>
+|[[File:Tea Stage 1.png|center|link=]]
+|[[File:Tea Stage 2.png|center|link=]]
+|[[File:Tea Stage 3.png|center|link=]]
+|[[File:Tea Stage 4.png|center|link=]]
+|[[File:Tea Stage 3.png|center|link=]]
+|rowspan="2"|{{Qualityprice|Tea Leaves|50|dsv=false}}
+|rowspan="2"|''Inedible''
+|rowspan="2"|{{Name|Green Tea}}
+|-
+|10 days
+|10 days
+|Up to and including<br />21st of the season
+|Total: 20 days
+|Regrowth: 1 day
+|}
+
+===[[File:Spring Seeds.png|36px|link=]] [[File:Summer Seeds.png|36px|link=]] [[File:Fall Seeds.png|36px|link=]] [[File:Winter Seeds.png|36px|link=]] [[Crafting#Seeds|Wild Seeds]]===
+Wild Seeds can be crafted out of foraged plants after learning the recipe at the appropriate [[foraging]] level (Spring at level 1, Summer at level 4, Fall at level 6, Winter at level 7). Each recipe will produce 10 seed packets. 
+
+When planted, wild seeds will randomly grow into one of that season's foraged plants. Regardless of what ends up growing, all wild seeds take the same amount of time to grow to maturity (7 days, not counting the day planted). Crows do not attack crops grown from Wild Seeds, so the use of Scarecrows is unnecessary.
+
+Since these seeds grow Forage crops, they will always be of iridium quality if the [[Foraging#Foraging Skill|Botanist Profession]] is chosen.
+
+==Artisan Goods==
+Crops can be processed into [[Artisan Goods]] to increase their sell value. Most [[Fruits]] and [[Vegetables]] can be processed into [[Jellies and Pickles]] via a [[Preserves Jar]], or [[Wine]] and [[Juice]] via a [[Keg]]. Five matching [[Fruits]] can be processed into [[Dried Fruit]] using a [[Dehydrator]].
+
+Using a [[Keg]], [[Hops]] can be processed into [[Pale Ale]], [[Wheat]] into [[Beer]], [[Coffee Bean]]s into [[Coffee]], and [[Tea Leaves]] into [[Green Tea]].
+
+==Achievements==
+There are 2 [[Achievements]] related to [[Shipping]] crops.
+*Polyculture (Ship 15 of each crop)
+*Monoculture (Ship 300 of one crop)
+
+Please refer to the [[Achievements#Notes|Achievements]] page for a list of crops that will satisfy these achievements.
+
+==Notes==
+*[[Weather|Lightning]] during thunderstorms can randomly strike crops, causing them to wither and die.
+*If Wheat is planted at the end of Summer, it will still be present at the start of Fall, and will prevent tilled soil and Fertilizer from disappearing at the change of seasons.
+**Specifically, if planted on or before the 25th of Summer and allowed to remain unharvested until the 1st of Fall, the wheat can then be quickly harvested with the Scythe on Day 1 of Fall, leaving tilled and fertilized soil ready for Fall crops. Wheat is a good choice for this, as its seeds are very cheap, easily accessible, and quick to grow.
+*There is a small chance for ''any'' crop to produce an extra crop at harvest. See [[Modding:Crop data#Chance for extra harvest|Modding:Crop data]].
+*Crops have a -1 [[Speed#Player Speed|Speed]] penalty, but only if the player is running. Seeds do not count as crops for this. If a player has read [[Ol' Slitherlegs]], the penalty is reduced to -0.33.
+
+==External Links==
+*[https://thorinair.github.io/Stardew-Profits/ Stardew Profits] allows for crop comparison across a wide variety of variables in a compact format.
+
+==References==
+<references>
+<ref name="giantcrops">See <samp>Crop::newDay</samp> in the game code.</ref>
+<ref name="mixedseeds">See <samp>Crop::ResolveSeedId</samp> in the game code.</ref>
+</references>
+
+==History==
+{{History|1.3.27|Seeds planted outside of normal growing season no longer disappear, the player is instead prevented from planting them. [[Cactus Fruit]] can be grown from [[Cactus Seeds]].}}
+{{History|1.5|Iridium crops are now possible when using [[Deluxe Fertilizer]].}}
+{{History|1.6|[[Carrot]], [[Summer Squash]], [[Broccoli]], [[Powdermelon]], and [[Mixed Flower Seeds]] have been added to the game. [[Powdermelon]]s and [[Qi Fruit]]s can now become [[#Giant Crops|Giant Crops]]. Reading [[Ol' Slitherlegs]] now reduces the speed penalty from -1 to -0.33. Giant Crops now require the top left crop of the 3x3 grid to be watered, instead of the center crop.}}
+
+{{NavboxCrop}}
+
+[[Category:Crops]]
+[[Category:Achievements]]
+
+[[de:Nutzpflanzen]]
+[[es:Cultivos]]
+[[fr:Récoltes]]
+[[it:Colture]]
+[[ja:作物]]
+[[ko:작물]]
+[[hu:Termések]]
+[[pt:Lavouras]]
+[[ru:Культуры]]
+[[tr:Ekinler]]
+[[zh:农作物]]

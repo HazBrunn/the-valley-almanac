@@ -1,0 +1,94 @@
+{{Infobox fish
+|eng        = Glacierfish Jr.
+|location   = [[Cindersap Forest]]
+|difficulty = 100
+|price      = 1000
+|edibility  = 10
+|behavior   = Mixed
+|time       = Any
+|season     = Any
+|weather    = Any
+|fl         = 7
+|size       = 26-28
+|roe        = Blue
+}}
+The '''Glacierfish Jr.''' is one of the five [[Fish#Legendary Fish II|Legendary Fish]] that must be caught for [[Mr. Qi]]'s [[Quests#Extended Family|Extended Family Quest]].  It has the same sell price, healing effect, location, and chance of hooking as the [[Glacierfish]]. It can only be caught when the quest is active, but more than one can be caught per quest.
+
+==Map==
+The Glacierfish Jr. can be found off the southern tip of Arrowhead Island in [[Cindersap Forest]].
+{{Map|105|177}}
+
+[[File:GlacierfishLocations.png|400px]]
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Glacierfish Jr. is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Dyeing==
+Glacierfish Jr. can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Glacierfish Jr. can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Glacierfish Jr. [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Blue Roe|1-4|link=Roe}}
+|32
+| 1 || 79%     || 39.5%
+|-
+|{{Name|Blue Roe|1-2|link=Roe}}
+|32
+| 1 || 10.5%     || 5.25%
+|-
+|''Nothing''
+| 
+| 1 || 10.5%     || 55.25%
+|}
+
+==Quests==
+Glacierfish Jr. must be caught for the [[Quests#Extended Family|Extended Family Quest]].
+
+==History==
+{{History|1.5|Introduced.}}
+{{History|1.6|Legendary Fish II [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book.}}
+{{History|1.6.9|Can now be placed in a [[Fish Pond]].}}
+{{History|1.6.13|Reduced chance of obtaining [[Roe]] from Fish Pond.}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:River fish]]
+
+[[de:Gletscherfisch Junior]]
+[[es:Pez glacial jóven]]
+[[fr:Poisson des glaciers junior]]
+[[it:Pesce ghiacciaio Jr.]]
+[[ja:アイスフィッシュ・ジュニア]]
+[[ko:빙하고기 주니어]]
+[[hu:Ifjabb gleccserhal]]
+[[pt:Peixe-Gelo Jr.]]
+[[ru:Ледорыб-младший]]
+[[tr:Buzulbalığın Oğlu]]
+[[zh:小冰川鱼]]

@@ -1,0 +1,103 @@
+{{Infobox fish
+|eng        = Bullhead
+|location   = [[The Mountain|Mountain Lake]]
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 46
+|behavior   = Smooth
+|size       = 12-31
+|price      = 75
+|edibility  = 10
+|roe        = Dark Brown
+}}
+The '''Bullhead''' is a [[fish]] that can be caught in the [[The Mountain|mountain lake]] and [[Farm Maps#Wilderness|Wilderness Farm]] during all seasons. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{Tprice|75}}.
+
+==Map==
+The Bullhead can be found in the mountain lake.
+{{Map|270|43}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Bullhead is used in the {{Bundle|Lake Fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Bullhead can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Fishing Vest]].  [[File:Shirt157.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Bullheads can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is dark brown Bullhead [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 10 [[Bug Meat]], 2-3 [[Clay]], 2-3 [[Green Algae]], or 5 [[Slime]]s || 30
+|-
+| 5   || 7   || 2-3 [[Common Mushroom]]s, 1-2 [[Earth Crystal]]s, or 1 [[Limestone]] || 30
+|-
+| 7   || 10  || 1 [[Mudstone]], 1 [[Snail]], or 5 [[Wild Bait]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Dark Brown Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+Two Bullhead may be requested by [[Dorado]], [[Lingcod]], or [[Pike]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==History==
+{{History|1.4|Added iridium quality. Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Lake fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+
+[[de:Zwergwels]]
+[[es:Siluro]]
+[[fr:Barbotte]]
+[[it:Scazzone]]
+[[ja:ブルヘッド]]
+[[ko:눈동자개]]
+[[hu:Kölönte]]
+[[pt:Peixe-gato-cabeçudo]]
+[[ru:Сомик]]
+[[tr:Yayınbalığı]]
+[[zh:大头鱼]]

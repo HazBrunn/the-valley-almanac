@@ -1,0 +1,38 @@
+{
+  "ruleset": "vanilla-1.6",
+  "gameVersion": "1.6.15",
+  "platforms": "PC (Windows/macOS/Linux) 1.6.15; consoles and mobile on 1.6.x share these mechanics but may lag behind PC patches.",
+  "generatedAt": "2026-11-24",
+  "sources": [
+    {
+      "label": "Stardew Valley Wiki (raw wikitext snapshot)",
+      "url": "https://stardewvalleywiki.com/",
+      "license": "CC BY-NC-SA 3.0",
+      "retrieved": "2026-11-24"
+    },
+    {
+      "label": "stardew-valley-data v1.1.1 by Christopher Pezza",
+      "url": "https://github.com/chiefpansancolt/stardew-valley-data",
+      "license": "MIT",
+      "retrieved": "2026-11-24"
+    }
+  ],
+  "checksums": {
+    "regions": "3b97762ae05bd71d",
+    "places": "960c4e201d421916",
+    "villagers": "1df3fb5332a32e0b",
+    "schedules": "0fc7e6d205597276",
+    "fish-areas": "59cca3eabcdcd5ca",
+    "fish": "efae119fd9f39bbc",
+    "festivals": "3cae65da91f363f8",
+    "checkups": "2f1c3b5b04dda819",
+    "calendar-extras": "18dc68931c932ee0",
+    "shops": "825f9422edbec818",
+    "crops": "97258d87ffe685ad",
+    "forage": "a8e3f5e6b57d65a7",
+    "bundles": "ad47d784dea69c4f",
+    "museum": "48a0b9579e2da423",
+    "recipes": "9fa58094536851e2",
+    "universal-gifts": "4f944da3d41e091b"
+  }
+}

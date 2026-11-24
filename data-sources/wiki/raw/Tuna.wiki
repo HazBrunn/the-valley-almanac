@@ -1,0 +1,113 @@
+{{Infobox fish
+|eng        = Tuna
+|location   = [[The Beach|Ocean]] • [[Ginger Island]]
+|time       = 6am – 7pm
+|season     = {{Season|Summer}} • {{Season|Winter}}<br />
+'''[[Ginger Island]] (except Island North):''' {{Season|All}}
+|weather    = Any
+|difficulty = 70
+|behavior   = Smooth
+|size       = 12-61
+|price      = 100
+|edibility  = 15
+|roe        = Blue
+}}
+The '''Tuna''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Summer]] and [[Winter]]. It can also be caught on [[Ginger Island]] during any season on Island West (ocean), South, Southeast, and in the Pirate Cove. It can also randomly be found in [[Garbage Can]]s during Summer or Winter or at the Traveling Cart for {{tprice|100}}.
+
+Tuna can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+The Tuna can be found at the Beach and on Ginger Island West (ocean), South, Southeast, and Pirate Cove.
+{{Map|275|200|island=true|islandloc1x=68|islandloc1y=175|islandloc2x=210|islandloc2y=165|islandloc3x=240|islandloc3y=160|islandloc4x=260|islandloc4y=145}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+*Tuna is used in the {{Bundle|Ocean Fish||y}}.
+*1 gold/iridium quality Tuna is required for the {{Bundle|quality fish||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Fish Taco|RecipeRow}}
+{{:Maki Roll|RecipeRow}}
+{{:Quality Fertilizer|RecipeRow}}
+{{:Sashimi|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Tuna can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt259a.png|24px]]
+
+==Fish Pond==
+Tuna can be placed in a [[Fish Pond]], where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is blue Tuna [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]] || 35
+|-
+| 5   || 7   || 2 [[Clam]]s or 2 [[Coral]] || 35
+|-
+| 7   || 10  || 2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]s || 35
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Blue Roe|1|link=Roe}}
+|rowspan="2"|13
+| 1-4  || 70%     || 16-33%
+|-
+| 5-10 || 100%    || 55-95%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-4  || 30%     || 84-67%
+|-
+| 5-10 || 0%      || 45-5%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Tuna may be randomly requested in [[Summer]] or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|300}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-4 Tuna to be caught during [[Summer]] or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|100}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Tuna to be caught in [[Summer]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Is now used in a remixed bundle. Special Order quest added. Can now be caught on Ginger Island during any season on Island West (ocean), South, Southeast, and in the Pirate Cove.}}
+
+{{NavboxFish}}
+
+[[Category:Summer fish]]
+[[Category:Winter fish]]
+[[Category:Ocean fish]]
+[[Category:Island fish]]
+
+[[de:Thunfisch]]
+[[es:Atún]]
+[[fr:Thon]]
+[[it:Tonno]]
+[[ja:マグロ]]
+[[ko:참치]]
+[[hu:Tonhal]]
+[[pt:Atum]]
+[[ru:Тунец]]
+[[tr:Ton Balığı]]
+[[zh:金枪鱼]]

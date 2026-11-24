@@ -1,0 +1,914 @@
+{{Infobox villager
+|portrait  = Demetrius.png
+|birthday  = {{Season|Summer}} 19
+|location  = The Mountain
+|address   = [[Carpenter's Shop|24 Mountain Road]]
+|family    = {{NPC|Robin|Wife}}{{NPC|Maru|Daughter}}{{NPC|Sebastian|Step-son}}
+|marriage  = No
+|clinic    = {{Season|Summer}} 25
+|favorites = {{Name|Bean Hotpot}}{{Name|Ice Cream}}{{Name|Rice Pudding}}{{Name|Strawberry}}
+}}
+{{Quote|I'm studying the local plants and animals from my home laboratory. Have you met my daughter Maru? She's interested to meet you.|Demetrius}}
+
+'''Demetrius''' is a [[Villagers|villager]] who resides at [[Carpenter's Shop|24 Mountain Road]], on [[The Mountain]], with his wife [[Robin]], daughter [[Maru]], and step-son [[Sebastian]].
+
+Demetrius is a scientist who studies the valley's local wildlife. He can often be found working in his laboratory or outdoors taking notes.
+
+==Schedule==
+After the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island is unlocked, Demetrius may randomly spend the day there. After leaving the Island at 6pm, Demetrius will immediately go home to bed. Demetrius never visits the Resort on [[Festivals|Festival]] days or his checkup day at [[Harvey's Clinic]].
+
+Shown below are Demetrius' schedules prioritized highest to lowest within each season. For example, if it is raining, that schedule overrides all others below it.
+{{ScheduleHeader|Spring}}                             
+|-
+|
+'''Spring 16 (Bus Service Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|11:30 AM
+|Boards the bus to [[The Desert|Calico Desert]] to attend the [[Desert Festival]].
+|-
+|11:40 AM
+|Stands by the chef stand.
+|-
+|1:20 AM
+|Boards the bus back to the Valley.
+|}
+
+'''Desert Festival (As Vendor)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|11:10 AM
+|Boards the bus to [[The Desert|Calico Desert]].
+|-
+|11:30 AM
+|Arrives at his [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM
+|Leaves booth and takes the bus back to the Valley.
+|}
+
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|In his [[Carpenter's Shop|Home]], reading a newspaper in the laboratory.
+|-
+|11:00 AM
+|Taking notes at the microscope.
+|-
+|3:00 PM
+|Behind the counter of the Carpenter's Shop in the entryway.
+|-
+|3:40 PM
+|Moves back to the microscope in the laboratory.
+|-
+|6:00 PM
+|Stands in front of the fridge in his kitchen.
+|-
+|7:20 PM
+|Stands in front of the stove in his kitchen.
+|-
+|8:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:00 PM
+|Goes to bed.
+|}
+
+'''Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|At [[Carpenter's Shop|home]], taking notes at the microscope.
+|-
+|4:00 PM
+|Heads to The Saloon.
+|-
+|5:50 PM
+|In [[The Stardrop Saloon|The Saloon]] standing next to [[Robin]].
+|-
+|7:20 PM
+|Dances with [[Robin]] in the Saloon.
+|-
+|9:00 PM
+|Heads home from the Saloon to sleep.
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|At [[Carpenter's Shop|home]], standing in front of the sink in his kitchen.
+|-
+|11:00 AM
+|Taking notes at the microscope.
+|-
+|2:30 PM
+|Stands outside, next to the potted plant next to his garage.
+|-
+|3:30 PM
+|Stands at the cliff southeast of his house.
+|-
+|7:00 PM
+|Goes inside and stands in front of the fridge in his kitchen.
+|-
+|8:40 PM
+|Stands in front of the stove in his kitchen.
+|-
+|9:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:30 PM
+|Goes to bed.
+|}
+|}
+
+{{ScheduleHeader|Summer}}
+|-
+|
+'''Green Rain (Year 1)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|All day
+|Collects samples at a bush near his house.
+|}
+
+'''Summer 25'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|08:40 AM
+|Leaves [[Carpenter's Shop|home]] for the [[Harvey's Clinic|Clinic]].
+|-
+|1:30 PM
+|Moves to the left examination room in the Clinic.
+|-
+|4:00 PM
+|Leaves the Clinic to go home and stand next to the bookcase in his bedroom.
+|-
+|10:00 PM
+|Goes to bed.
+|}
+
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|In his [[Carpenter's Shop|Home]], reading a newspaper in the laboratory.
+|-
+|11:00 AM
+|Taking notes at the microscope.
+|-
+|3:00 PM
+|Behind the counter of the Carpenter's Shop in the entryway.
+|-
+|3:40 PM
+|Moves back to the microscope in the laboratory.
+|-
+|6:00 PM
+|Stands in front of the fridge in his kitchen.
+|-
+|7:20 PM
+|Stands in front of the stove in his kitchen.
+|-
+|8:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:00 PM
+|Goes to bed.
+|}
+
+'''Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|At [[Carpenter's Shop|home]], taking notes at the microscope.
+|-
+|4:00 PM
+|Heads to The Saloon.
+|-
+|5:50 PM
+|In [[The Stardrop Saloon|The Saloon]] standing next to [[Robin]].
+|-
+|7:20 PM
+|Dances with [[Robin]] in the Saloon.
+|-
+|9:00 PM
+|Heads home from the Saloon to sleep.
+|-
+|10:40 PM
+|Arrives home with [[Robin]].
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|At [[Carpenter's Shop|home]], standing in front of the sink in his kitchen.
+|-
+|11:00 AM
+|Goes to the fountain west of the Community Center.
+|-
+|7:00 PM
+|Heads [[Carpenter's Shop|home]] to stand in front of the fridge in his kitchen.
+|-
+|8:40 PM
+|Stands in front of the stove in his kitchen.
+|-
+|9:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:30 PM
+|Goes to bed.
+|}
+|}
+
+{{ScheduleHeader|Fall}}
+|-
+|
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|In his [[Carpenter's Shop|Home]], reading a newspaper in the laboratory.
+|-
+|11:00 AM
+|Taking notes at the microscope.
+|-
+|3:00 PM
+|Behind the counter of the Carpenter's Shop in the entryway.
+|-
+|3:40 PM
+|Moves back to the microscope in the laboratory.
+|-
+|6:00 PM
+|Stands in front of the fridge in his kitchen.
+|-
+|7:20 PM
+|Stands in front of the stove in his kitchen.
+|-
+|8:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:00 PM
+|Goes to bed.
+|}
+
+'''Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|At [[Carpenter's Shop|home]], taking notes at the microscope.
+|-
+|4:00 PM
+|Heads to The Saloon.
+|-
+|5:50 PM
+|In [[The Stardrop Saloon|The Saloon]] standing next to [[Robin]].
+|-
+|7:20 PM
+|Dances with [[Robin]] in the Saloon.
+|-
+|9:00 PM
+|Heads home from the Saloon to sleep.
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|At [[Carpenter's Shop|home]], standing in front of the sink in his kitchen.
+|-
+|11:00 AM
+|Heads outside to take notes by the northern end of the lake.
+|-
+|7:00 PM
+|Heads [[Carpenter's Shop|home]] to stand in front of the fridge in his kitchen.
+|-
+|8:40 PM
+|Stands in front of the stove in his kitchen.
+|-
+|9:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:30 PM
+|Goes to bed.
+|}
+|}
+
+{{ScheduleHeader|Winter}}
+|-
+|
+'''Winter 16'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|In his [[Carpenter's Shop|Home]], reading a newspaper in the laboratory.
+|-
+|11:00 AM
+|Taking notes at the microscope.
+|-
+|3:00 PM
+|Behind the counter of the Carpenter's Shop in the entryway.
+|-
+|3:40 PM
+|Leaves home to attend the Night Market.
+|-
+|11:30 PM
+|Leaves Night Market to return home and sleep.
+|}
+
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|In his [[Carpenter's Shop|Home]], reading a newspaper in the laboratory.
+|-
+|11:00 AM
+|Taking notes at the microscope.
+|-
+|3:00 PM
+|Behind the counter of the Carpenter's Shop in the entryway.
+|-
+|3:40 PM
+|Moves back to the microscope in the laboratory.
+|-
+|6:00 PM
+|Stands in front of the fridge in his kitchen.
+|-
+|7:20 PM
+|Stands in front of the stove in his kitchen.
+|-
+|8:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:00 PM
+|Goes to bed.
+|}
+
+'''Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|At [[Carpenter's Shop|home]], taking notes at the microscope.
+|-
+|4:00 PM
+|Heads to The Saloon.
+|-
+|5:50 PM
+|In [[The Stardrop Saloon|The Saloon]] standing next to [[Robin]].
+|-
+|7:20 PM
+|Dances with [[Robin]] in the Saloon.
+|-
+|9:00 PM
+|Heads home from the Saloon to sleep.
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:50 AM
+|In his [[Carpenter's Shop|Home]], reading a newspaper in the laboratory.
+|-
+|11:00 AM
+|Taking notes at the microscope.
+|-
+|3:00 PM
+|Behind the counter of the Carpenter's Shop in the entryway.
+|-
+|3:40 PM
+|Moves back to the microscope in the laboratory.
+|-
+|6:00 PM
+|Stands in front of the fridge in his kitchen.
+|-
+|7:20 PM
+|Stands in front of the stove in his kitchen.
+|-
+|8:00 PM
+|Stands next to the bookshelf in his bedroom.
+|-
+|10:00 PM
+|Goes to bed.
+|}
+|}
+
+==Relationships==
+Demetrius is married to [[Robin]] and lives with his daughter [[Maru]] and step-son [[Sebastian]]. Maru is his daughter with Robin, and Sebastian is Robin's son from an earlier relationship. It is assumed that Demetrius is Robin's second husband, because there are 2 books in the bookcase of their room titled "Maximizing Your Second Marriage" and "Practical Tips For First-Time Step-Dads." Demetrius is very protective of Maru, as shown in her two heart event.
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|You're giving this to me? This is amazing!}}
+''Stardrop Tea''
+{{Squote|Wow, this is a rare substance. I'll have to take it to the lab for... uh... further analysis.}}
+{|class="wikitable roundedborder" style="width:65%; min-width:500px;"
+!style="width: 48px;" | Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Demetrius Happy.png|48px|center]]
+|colspan="4" | <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Bean Hotpot.png|center]]
+|[[Bean Hotpot]]
+|{{Description|Bean Hotpot}}
+|[[Cooking]]
+|{{Name|Green Bean|2}}
+|-
+|[[File:Ice Cream.png|center]]
+|[[Ice Cream]]
+|{{Description|Ice Cream}}
+|[[Cooking]], [[Ice Cream Stand]] or [[Oasis]]
+|{{Name|Milk|1}}{{Name|Sugar|1}}
+|-
+|[[File:Rice Pudding.png|center]]
+|[[Rice Pudding]]
+|{{Description|Rice Pudding}}
+|[[Cooking]]
+|{{Name|Milk|1}}{{Name|Sugar|1}}{{Name|Rice|1}}
+|-
+|[[File:Strawberry.png|center]]
+|[[Strawberry]]
+|{{Description|Strawberry}}
+|[[Farming]] - [[Spring]]
+|
+|}
+
+===Like===
+{{Squote|Thank you! This is a very interesting specimen.}}
+''Dinosaur Egg''
+{{Squote|Wow, an intact dinosaur egg! This is an extremely rare specimen. Now, if only it could be incubated...}}
+
+{|class="wikitable roundedborder" style="width:65%; min-width:500px;"
+!style="width: 48px;" | Image
+!Name
+!Description
+!Source
+|-
+| [[File:Demetrius Happy.png|48px|center]]
+| colspan="3" | <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]'''</li><li>'''All Eggs''' ''(except [[Void Egg]])*''</li><li>'''All [[Fruits|Fruit]]''' ''(except [[Strawberry]])''</li></ul>
+|-
+|[[File:Dinosaur Egg.png|center]]
+|[[Dinosaur Egg]]
+|{{Description|Dinosaur Egg}}
+|[[Artifacts]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging#The Mines|The Mines]]<br />[[The Cave]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Neutral===
+{{Squote|That was very thoughtful of you.}}
+{|class="wikitable sortable roundedborder" style="width:65%; min-width:500px;"
+!style="width: 48px;" class="unsortable"| Image
+!Name
+!Description
+!Source
+|-
+| [[File:Demetrius.png|48px|center]]
+| colspan="3" | <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]'''</li><li>'''All [[Fish#Fish Types|Fish]]''' ''(except [[Carp]] &amp; [[Snail]])''</li><li>'''All Milk'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Foraging]] - [[Winter]]
+|}
+
+===Dislike===
+{{Squote|...What is this?}}
+{|class="wikitable roundedborder" style="width:65%; min-width:500px;"
+!style="width: 48px;" | Image
+!Name
+!Description
+!Source
+|-
+| [[File:Demetrius Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]''' ''(except [[Dinosaur Egg]] &amp; [[Fish#Fish Types|Fish]])''</li></ul>
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Foraging]] - Mines
+|}
+
+===Hate===
+{{Squote|This is disgusting.}}
+{|class="wikitable roundedborder" style="width:65%; min-width:500px;"
+!style="width: 48px;" | Image
+!Name
+!Description
+!Source
+|-
+| [[File:Demetrius Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li></ul>
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World
+<p>[[File:'Wumbus'.png|24px|link=]] Wumbus</p>
+|-
+!Like
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture</p>
+[[File:'Mysterium'.png|24px|link=]] Mysterium
+<p>[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling</p>
+|-
+!Dislike
+|-
+|[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch
+<p>[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express</p>
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Popcorn.png|24px|link=]] Popcorn<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|[[File:Black Licorice.png|24px|link=]] Black Licorice<br />[[File:Hummus Snack Pack.png|24px|link=]] Hummus Snack Pack<br />[[File:Jasmine Tea.png|24px|link=]] Jasmine Tea<br />[[File:Joja Cola (large).png|24px|link=]] Joja Cola<br />[[File:JojaCorn.png|24px|link=]] JojaCorn<br />[[File:Kale Smoothie.png|24px|link=]] Kale Smoothie<br />[[File:Panzanella Salad.png|24px|link=]] Panzanella Salad
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Events==
+When your total earnings reach {{Price|25000}} Demetrius will come by your farm in the morning and tell you about some research he needs help with. He will then volunteer to improve [[The Cave]] to either attract Fruit Bats or to produce Mushrooms.
+
+During the Summer, Demetrius will send you a letter informing you about the [[Dance of the Moonlight Jellies]].
+
+==Heart Events==
+===Anytime===
+At any [[friendship]] level greater than zero friendship points, you may receive a gift in the mail from Demetrius.  The chance of receiving a gift in the mail increases as your friendship with Demetrius increases.
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Details'''&nbsp;
+|-                            
+| 
+	{|class="wikitable"
+	|-
+	!Item
+	!Description
+	|-
+        |{{Name|Nautilus Shell|size=32}}{{Name|Rainbow Shell|size=32}}{{Name|Amethyst|size=32}}{{Name|Bream|size=32}}
+        |Dear (Name),
+         <p>I was conducting a field study the other day, and I found this specimen.</p>
+         <p>I hope you find it as interesting as I did.</p>
+         <p>-Demetrius</p>
+        |}
+|}
+
+===Three Hearts===
+{{heart event
+ |hearts  = 3
+ |trigger = Demetrius sends you a recipe in the mail.
+ |details =
+<table class="wikitable">
+  <tr>
+    <th>Image</th>
+    <th>Recipe</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>{{Recipe|Fried Mushroom|48}}</td>
+    <td>[[Fried Mushroom]]</td>
+    <td>I wanted to say 'thanks' for taking an interest in my work. Here's a cooking recipe that I like.
+
+-Demetrius</td>
+  </tr>
+</table>
+}}
+
+===Six Hearts===
+{{heart event
+ |hearts  = 6
+ |trigger = Enter Demetrius' house while he and [[Robin]] are inside.
+ |details = You see Demetrius and Robin arguing. She asked him to get fruit, so he got tomatoes. She exclaims that tomatoes aren't what he should have thought of because they're not "real" fruit. He defends himself by saying that tomatoes are indeed a fruit and his mistake was reasonable. He asks you to choose whether tomatoes are fruits or vegetables. Your response will affect only his friendship with you, Robin's will be unaffected.
+:{{choice|Vegetable|-30}}
+:Really? I figured a farmer would know the correct answer...
+:{{choice|Fruit|50}}
+:See? [Player] agrees with me.
+}}
+
+===Seven Hearts===
+{{heart event
+ |hearts  = 7
+ |trigger = Demetrius sends you a recipe in the mail.
+ |details =
+<table class="wikitable">
+  <tr>
+    <th>Image</th>
+    <th>Recipe</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>{{Recipe|Autumn's Bounty|48}}</td>
+    <td>[[Autumn's Bounty]]</td>
+    <td>I wanted to say 'thanks' for taking an interest in my work. Here's a cooking recipe that I like.
+
+-Demetrius</td>
+  </tr>
+</table>
+}}
+
+==Quotes==
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular&nbsp;'''
+|-
+|
+
+'''First Meeting'''
+{{Squote|Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself! I'm studying the local plants and animals from my home laboratory. Have you met my daughter Maru? She's interested to meet you.}}
+
+'''Regular'''
+{{Squote|Maru helps me out in the lab sometimes... She's a good kid.}}
+{{Squote|This valley has a very vibrant and diverse ecosystem. That's one reason I was excited to move here.}}
+{{Squote|You're probably growing a lot of interesting plants on your farm, huh? Maybe I'll stop by your place some day and check it out.}}
+{{Squote|Robin has a hot temper. It's better to stay on her good side. Don't tell her I said that.}}
+{{Squote|Let's see... If compounds in the rhizosphere contain sufficient levels of Carbon-13, then... Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?}}
+{{Squote|It's good to take a break from work every now and then. I guess that's kind of difficult when you live on a farm, though. Hey, at least in the winter you don't have to worry about crops.}}
+{{Squote|How's the farming business going? It's [crop] season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day.}}
+
+''4+ Hearts''
+{{Squote|Robin has a hot temper. It's better to stay on her good side. ...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...}}
+{{Squote|Thanks for stopping by. I need to think about something other than legumes for a while. So, what have you been doing lately? That sounds interesting.}}
+
+''6+ Hearts''
+{{Squote|Hi [Player]! How are you doing today? I wish I could make your farming job easier somehow.}}
+{{Squote|I became a scientist because I wanted to contribute to the progression of our species. Of course, none of this would be possible without farmers such as yourself.}}
+{{Squote|Hi [Player]. I'm always glad when you come for a visit. It's nice to have some company after all this lonely lab-work.}}
+
+''If Player is married to Maru''
+{{Squote|It's hard to do good science without Maru's help... But her happiness is much more important than my experiment!}}
+{{Squote|I hope my daughter's keeping up on her math and science!}}
+{{Squote|I'm still flabbergasted about Maru's secret robot... was it all a dream?}}
+
+''If Player incubates a dinosaur egg''
+{{Squote|Say that again! Did you say you successfully incubated a dinosaur egg?! Unprecedented!}}
+{{Squote|Here, take this. I'm so wound up I don't need it anymore...}} He will give the player a Triple Shot Espresso.
+
+
+'''Doctor Visit'''
+{{Squote|The colder season is coming up so I'm here to get my flu vaccine.}}
+{{Squote|Doctor Harvey, have you read the latest 'Biology and Medicine'? There's an article I think you'd be interested in.}}
+
+'''Summer'''
+{{Squote|Sorry, I'm really busy. There's so many plants to study right now.}}
+{{Squote|Make sure to water your plants every day. Although, if you're using water retaining soil you don't need to worry about watering as often. It's pretty convenient.}}
+{{Squote|If you and Maru become friends, I'm sure she'll show you how to use that telescope out back. Pretty exciting, huh?}}
+{{Squote|Hmm... If strigolactone levels could be increased, would it have a proportional effect on mycorhizal growth? Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?}}
+
+'''Green Rain'''
+''Year 1''
+{{Squote|Don't mind me, [Player]. I'm just collecting some samples. This may be a once-in-a-lifetime opportunity! Erm... If you see my wife, can you tell her I'm okay?}}
+''Year 2+''
+{{Squote|The rain appears to be harmless, so I'm taking less precaution this year.}}
+
+'''Fall'''
+{{Squote|During this time of year I divert my attentions to fungi.}}
+{{Squote|We know a lot about nature thanks to science. But there's always a lot more to learn.}}
+{{Squote|How's the farming business going? It's corn season, isn't it? I can imagine it being pretty peaceful, working outdoors with plants all day.}}
+{{Squote|Maru sure spends a lot of time working on those gadgets of hers. I'm glad she's so dedicated.}}
+{{Squote|Let's see... perhaps the nitrogen fixation level is affected by nematode secretions... Oh! Sorry. I was pondering some data and I didn't notice you there. Do you need anything?}}
+
+'''Winter'''
+{{Squote|I'm taking a break from my research right now.}}
+{{Squote|Talk to my wife if you want to increase the size of your house.}}
+{{Squote|Do you have a kitchen in your house yet? Cooking is kind of like doing lab work.}}
+{{Squote|Do you have any animals on your farm?}}
+{{Squote|Let's see... if seasonal nitrogen levels could be modeled by a piecewise function... Oh! Sorry. I was analyzing data and I didn't notice you there. Do you need anything?}}
+{{Squote|Feel free to harvest as much lumber and stone from this area as you please.}}
+
+'''If the player starts dating Maru'''
+{{Squote|Yes, Maru told me the news. I can't say I'm thrilled about it, but maybe you'll prove me wrong.}}
+
+'''If the player marries Maru'''
+{{Squote|*sigh*... [Player], I've come to accept that it's time for my 'little girl' to become a woman. You have my blessing.}}
+
+'''If the player marries Sebastian'''
+{{Squote|Congratulations on the marriage. Robin's been crying since the wedding. 'Tears of joy', as she calls it! A most peculiar concept...}}
+{{Squote|Hmm, now that the basement is unoccupied, I might have to expand the laboratory...}}
+
+'''At Ginger Island'''
+{{Squote|I already spotted a rare crab. This place is great.}}
+{{Squote|Can you believe this place? It's teeming with exotic life!}}
+{{Squote|*crunch*... whoops, there goes an endangered crab species... #Oh, nevermind. It was just the empty shell! I can sleep tonight.}}
+{{Squote|Are you having fun, [Player]? You need to remember to take breaks now and then too!}}
+{{Squote|I usually don't partake... but I'm usually not on a tropical island, either. Hahaha.}}
+{{Squote|I'll be analyzing this data for months.}}
+|}
+
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events&nbsp;'''
+|-
+|
+
+'''[[Egg Festival]]'''
+
+''Odd-numbered year''
+{{Squote|Egg... what a strange thing to eat.}}
+''Even-numbered year''
+{{Squote|Hey [Player], did you get a taste of my carp roe pie? ...What? It is the 'egg' festival, isn't it?}}
+
+
+'''[[Desert Festival]]'''
+{{Squote|Why do humans enjoy spicy food? It's counter-intuitive from a biological perspective.
+Unless there's something I'm missing... }}
+
+''If a shop owner''
+{{Squote|Do you have any eggs to trade? I'm studying the composition of the shell.}}
+
+'''[[Flower Dance]]''' 
+{{Squote|These springtime dances can be traced back to ancient fertility rituals.
+Hey... You should know about this stuff, farmer.}}
+
+'''[[Luau|The Luau]]'''
+{{Squote|This is tiring, honey. Are you ready to visit the buffet soon? <nowiki>*pant*</nowiki>}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+{{Squote|The 'Moonlight Jelly'... what a remarkable species! We're very lucky that they stop here on their long journey south.
+It's unknown why they are attracted to light... very curious.}}
+
+'''[[Stardew Valley Fair]]'''
+{{Squote|Robin really works hard on her carpentry stuff... she deserves a little recognition now and then.}}
+
+'''[[Spirit's Eve]]'''
+{{Squote|I haven't seen Maru in hours... I hope she's alright.}}
+
+'''[[Festival of Ice]]'''
+{{Squote|You know what? I probably should've worn a jacket.}}
+
+'''[[Night Market]]'''
+{{Squote|I highly recommend the submarine tour. There are some very fascinating creatures living in the deep ocean.}}
+
+'''[[Feast of the Winter Star]]'''
+{{Squote|I'll probably get another tool set this year... <nowiki>*sigh*</nowiki>}}
+
+|}
+
+==Quests==
+*[[Quests#Crop Research|"Crop Research"]]: Demetrius will send you a letter on the 20th of [[Summer]] requesting that you bring him a [[Melon]].  The reward is {{Price|550}} and 1 [[Friendship]] heart.
+*[[Quests#Aquatic Research|"Aquatic Research"]]: Demetrius will send you a letter on the 6th of [[Summer]] in year 2 requesting that you bring him a [[Pufferfish]].  The reward is {{Price|1000}} and 1 [[Friendship]] heart.
+*Demetrius may request that you slay a certain number of [[Monsters]] or bring him a random item at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]].  The reward for slaying monsters varies by the number/type of monster, but is always an amount of gold.  The reward for an item delivery quest is 3x the item's base value and 150 [[Friendship]] points.
+*[[Quests#Aquatic Overpopulation|"Aquatic Overpopulation"]]: On the Special Orders board in front of the [[Mayor's Manor]], Demetrius may randomly request that the player catch 10 season-specific fish. The reward is [[gold]] equivalent to selling the fish and the [[Farm Computer]] recipe.
+*[[Quests#Biome Balance|"Biome Balance"]]: On the Special Orders board in front of the [[Mayor's Manor]], Demetrius may randomly request that the player catch 20 [[:Category:River fish|River]], [[:Category:Ocean fish|Ocean]], or [[:Category:Lake fish|Lake]] fish. The reward is {{Price|1500}} and the [[Farm Computer]] recipe.
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:Demetrius.png
+File:Demetrius Happy.png
+File:Demetrius Concerned.png
+File:Demetrius Neutral.png
+File:Demetrius Annoyed.png
+File:Demetrius Surprised.png
+File:Demetrius Thinking.png
+File:Demetrius Green Rain.png
+File:Demetrius Winter 00.png
+File:Demetrius Winter 01.png
+File:Demetrius Winter 02.png
+File:Demetrius Winter 05.png
+File:Demetrius Winter 04.png
+File:Demetrius Winter 06.png
+File:Demetrius Winter 03.png
+</gallery>
+
+==Trivia==
+*If [[Robin]] is constructing something on your farm on the nights she and Demetrius go to [[The Stardrop Saloon|the saloon]], he'll go and dance by himself.
+*Demetrius never mentions [[Sebastian]] in his dialogue outside of cutscenes.
+*Despite Demetrius's six-heart event, [[Tomato]] is considered a vegetable crop by the game.
+*If the player has successfully incubated a [[Dinosaur Egg]], speaking with Demetrius will result in him giving the player [[Triple Shot Espresso]].
+
+==History==
+{{History|1.4|Fixed bug where all recipes would be sent at 3 friendship hearts.}}
+{{History|1.6|Demetrius now likes [[Dinosaur Egg]]. Added custom gift reactions. Added winter portraits. Will now give [[Triple Shot Espresso]] after incubating a [[Dinosaur Egg]] and talking to him.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:Demetrius]]
+[[es:Demetrius]]
+[[fr:Demetrius]]
+[[it:Demetrius]]
+[[ja:ディメトリウス]]
+[[ko:드미트리우스]]
+[[hu:Demetrius]]
+[[pt:Demetrius]]
+[[ru:Деметриус]]
+[[tr:Demetrius]]
+[[zh:德米特里厄斯]]

@@ -1,0 +1,94 @@
+{{Infobox fish
+|eng        = Ms. Angler
+|location   = [[Pelican Town]]
+|time       = Any
+|season     = Any
+|weather    = Any
+|difficulty = 85
+|price      = 900
+|edibility  = 10
+|behavior   = Smooth
+|fl         = 3
+|size       = 17-19
+|roe        = Pink
+}}
+The '''Ms. Angler''' is one of the five [[Fish#Legendary Fish II|Legendary Fish]] that must be caught for [[Mr. Qi]]'s [[Quests#Extended Family|Extended Family Quest]].  It has the same sell price, healing effect, location, and chance of hooking as the [[Angler]]. It can only be caught when the quest is active, but more than one can be caught per quest.
+
+==Map==
+Ms. Angler can be found in the river in [[Pelican Town]] north of [[JojaMart]].
+{{Map|275|70|400}}
+[[File:AnglerLocations.png|thumb|left]]
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Ms. Angler is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Ms. Angler serves as a red dye color in the sewing machine and dye pots, both located at  [[Haley]]'s and [[Emily]]'s house, 
+[[2 Willow Lane]].
+
+==Fish Pond==
+Ms. Angler can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Ms. Angler [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Pink Roe|1-4|link=Roe}}
+|30
+| 1 || 75%     || 37.5%
+|-
+|{{Name|Pink Roe|1-2|link=Roe}}
+|30
+| 1 || 12.5%     || 6.25%
+|-
+|''Nothing''
+| 
+| 1 || 12.5%     || 56.25%
+|}
+
+==Quests==
+Ms. Angler must be caught for the [[Quests#Extended Family|Extended Family Quest]].
+
+==History==
+{{History|1.5|Introduced.}}
+{{History|1.6|Legendary Fish II [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book.}}
+{{History|1.6.9|[[Fish#Legendary Fish|Legendary Fish]] can now be placed in a [[Fish Pond]].}}
+{{History|1.6.13|Reduced chance of obtaining [[Roe]] from Fish Pond.}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:River fish]]
+
+[[de:Frau Angler]]
+[[es:Sra. Angler]]
+[[fr:Mme Poisson-pêcheur]]
+[[it:Sig.ra Rana pescatrice]]
+[[ja:ミズ・ツリビトアンコウ]]
+[[ko:아귀 아씨]]
+[[hu:Miss Ördöghal]]
+[[pt:Srta. Tamboril]]
+[[ru:Мисс Морской черт]]
+[[tr:Bayan Fenerbalığı]]
+[[zh:雌鮟鱇鱼]]

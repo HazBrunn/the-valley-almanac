@@ -1,0 +1,105 @@
+{{Infobox fish
+|eng         = Smallmouth Bass
+|location    = [[Pelican Town|Town]] River • [[Cindersap Forest|Forest Pond]]
+|time        = Any
+|season      = {{Season|Spring}} • {{Season|Fall}}
+|weather     = Any
+|difficulty  = 28
+|behavior    = Mixed
+|size        = 12-25
+|price       = 50
+|edibility   = 10
+|roe        = Dark Brown
+}}
+The '''Smallmouth Bass''' is a [[fish]] that can be caught in the river in [[Pelican Town]] and in the pond in [[Cindersap Forest]] during [[Spring]] and [[Fall]]. It may also randomly appear at the [[Traveling Cart]] for {{Tprice|50}} or in [[Garbage Can]]s during Spring or Fall.
+
+Smallmouth Bass can be caught regardless of season using [[Magic Bait]].
+
+==Map==
+Smallmouth Bass can be found in the town river and forest pond.
+{{Map|200|150|loc2x=88|loc2y=133}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Smallmouth Bass is not used in any bundles.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Smallmouth Bass can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Fishing Vest]].  [[File:Shirt157.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Smallmouth Bass can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is dark brown Smallmouth Bass [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Acorn]]s, 10 [[Bug Meat]], 3 [[Maple Seed]]s, or 3 [[Pine Cone]]s || 30
+|-
+| 5   || 7   || 3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]] || 30
+|-
+| 7   || 10  || 1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Dark Brown Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Smallmouth Bass may be randomly requested in [[Spring]] or [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|150}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may request 1-4 smallmouth bass during [[Spring]] or [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|50}} per fish.  (You get to keep the fish).
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Fall fish]]
+[[Category:River fish]]
+[[Category:Lake fish]]
+[[Category:Pond fish]]
+
+[[de:Schwarzbarsch]]
+[[es:Lubina]]
+[[fr:Achigan à petite bouche]]
+[[it:Boccalino]]
+[[ja:コクチバス]]
+[[ko:작은입우럭]]
+[[hu:Kisszájú sügér]]
+[[pt:Achigã-pequeno]]
+[[ru:Малоротый окунь]]
+[[tr:Ufak Ağızlı Levrek]]
+[[zh:小嘴鲈鱼]]

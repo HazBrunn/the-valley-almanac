@@ -1,0 +1,107 @@
+{{Infobox fish
+|eng        = Perch
+|location   = River • [[The Mountain|Mountain Lake]] • [[Cindersap Forest#Pond|Forest Pond]]
+|time       = Any
+|season     = Winter
+|weather    = Any
+|difficulty = 35
+|behavior   = Dart
+|size       = 10-25
+|price      = 55
+|edibility  = 10
+|roe        = Yellow
+}}
+The '''Perch''' is a [[fish]] that can be caught in the river (in [[Pelican Town]] or [[Cindersap Forest]]), the [[The Mountain|Mountain Lake]], and the [[Cindersap Forest]] pond during [[Winter]].  It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It can also be found in [[Garbage Can]]s during Winter, or randomly at the [[Traveling Cart]] for {{Tprice|55}}. One Perch can sometimes be purchased for {{Price|500}} from [[Pierre]]'s booth at the [[Feast of the Winter Star]].
+
+Perch can be caught regardless of season using [[Magic Bait]].
+
+==Map==
+Perch can be found in the river, mountain lake, and [[Cindersap Forest]] pond.
+{{Map|88|133|loc2x=270|loc2y=43|loc3x=120|loc3y=150|loc4x=200|loc4y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Perch is not used in any bundles.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Perch can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Fishing Vest]].  [[File:Shirt157.png|24px]] It can be used in [[dyeing]], serving as a yellow dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Perch can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is yellow Perch [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Acorn]]s, 10 [[Bug Meat]], 3 [[Maple Seed]]s, or 3 [[Pine Cone]]s || 30
+|-
+| 5   || 7   || 3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]] || 30
+|-
+| 7   || 10  || 1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Yellow Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+*'''Item Delivery:''' One perch may be randomly requested in [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|165}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-4 perch during [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|55}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Perch to be caught in [[Winter]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Special Order quest added.}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. Now sometimes sold at the [[Feast of the Winter Star]].}}
+
+{{NavboxFish}}
+
+[[Category:Pond fish]]
+[[Category:Winter fish]]
+[[Category:Lake fish]]
+[[Category:River fish]]
+
+[[de:Barsch]]
+[[es:Cachuelo]]
+[[fr:Perche]]
+[[it:Pesce persico]]
+[[ja:パーチ]]
+[[ko:농어]]
+[[hu:Sügér]]
+[[pt:Perca]]
+[[ru:Окунь]]
+[[tr:Tatlısu Levreği]]
+[[zh:河鲈]]

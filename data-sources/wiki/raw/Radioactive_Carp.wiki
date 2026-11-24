@@ -1,0 +1,90 @@
+{{Infobox fish
+|eng        = Radioactive Carp
+|location   = [[The Sewers]]
+|difficulty = 80
+|price      = 1000
+|edibility  = 10
+|behavior   = Dart
+|time       = Any
+|season     = All
+|weather    = Any
+|size       = 35-37
+|roe        = Green
+}}
+The '''Radioactive Carp''' is one of the five [[Fish#Legendary Fish II|Legendary Fish]] that must be caught for [[Mr. Qi]]'s [[Quests#Extended Family|Extended Family Quest]].  It has the same sell price, healing effect, location, and chance of hooking as the [[Mutant Carp]]. It can only be caught when the quest is active, but more than one can be caught per quest.
+
+==Map==
+The Radioactive Carp can be found in [[The Sewers]].
+{{Map|222|139|loc2x=124|loc2y=184}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Radioactive Carp is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Dyeing==
+It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Radioactive Carp can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Radioactive Carp [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Green Roe|1-4|link=Roe}}
+|32
+| 1 || 72%     || 36%
+|-
+|{{Name|Green Roe|1-2|link=Roe}}
+|32
+| 1 || 14%     || 7%
+|-
+|''Nothing''
+| 
+| 1 || 14%     || 57%
+|}
+
+==Quests==
+Radioactive Carp must be caught for the [[Quests#Extended Family|Extended Family Quest]].
+
+==History==
+{{History|1.5|Introduced.}}
+{{History|1.6|Legendary Fish II [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book.}}
+{{History|1.6.9|Can now be placed in a [[Fish Pond]].}}
+{{History|1.6.13|Reduced chance of obtaining [[Roe]] from Fish Pond.}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:Sewer fish]]
+
+[[de:Radioaktiver Karpfen]]
+[[es:Carpa radioactiva]]
+[[fr:Carpe radioactive]]
+[[it:Carpa radioattiva]]
+[[ja:放射性コイ]]
+[[ko:방사능 잉어]]
+[[hu:Radioaktív ponty]]
+[[pt:Carpa Radioativa]]
+[[ru:Радиоактивный карп]]
+[[tr:Radyoaktif Sazanbalığı]]
+[[zh:放射性鲤鱼]]

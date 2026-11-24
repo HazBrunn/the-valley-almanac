@@ -1,0 +1,106 @@
+{{Infobox fish
+|eng        = Shad
+|location   = River
+|time       = 9am – 2am
+|season     = {{Season|Spring}} • {{Season|Summer}} • {{Season|Fall}}
+|weather    = Rain
+|difficulty = 45
+|behavior   = Smooth
+|size       = 20-49
+|price      = 60
+|edibility  = 10
+|roe        = Green
+}}
+The '''Shad''' is a [[fish]] that can be caught in the river (in [[Pelican Town]] or [[Cindersap Forest]]) and the [[Farm Maps#Riverland|Riverlands Farm]], [[Farm Maps#Forest|Forest Farm]], or [[Farm Maps#Hill-Top|Hill-Top Farm]] during [[Spring]], [[Summer]], and [[Fall]] while [[Weather|raining]]. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{Tprice|60}}.
+
+Shad can be caught regardless of weather, time, or season using [[Magic Bait]].
+
+==Map==
+Shad can be found in the river.
+{{Map|200|150|loc2x=120|loc2y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+*Shad is used in the {{Bundle|River Fish||y}}.
+*1 gold/iridium quality Shad is used in the {{Bundle|quality fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Shad can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Fish Shirt]].  [[File:Shirt158.png|24px]] It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Shad can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is green Shad [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Acorn]]s, 10 [[Bug Meat]], 3 [[Maple Seed]]s, or 3 [[Pine Cone]]s || 30
+|-
+| 5   || 7   || 3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]] || 30
+|-
+| 7   || 10  || 1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Green Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+Shad is not used in any [[quests]].
+
+==History==
+{{History|1.4|Added iridium quality. Can now be used in [[Tailoring]].}}
+{{History|1.5|Is now used in a remixed bundle.}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:River fish]]
+
+[[de:Blaubarsch]]
+[[es:Sábalo]]
+[[fr:Alose]]
+[[it:Alosa]]
+[[ja:アロサ]]
+[[ko:전어]]
+[[hu:Vándor alóza]]
+[[pt:Alocine]]
+[[ru:Шэд]]
+[[tr:Tirsi]]
+[[zh:西鲱]]

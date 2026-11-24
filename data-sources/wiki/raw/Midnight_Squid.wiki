@@ -1,0 +1,137 @@
+{{Infobox fish
+|eng        = Midnight Squid
+|location   = Submarine at [[Night Market]]
+|time       = Anytime during [[Night Market]] (5pm - 2am)
+|season     = Winter
+|weather    = Any
+|difficulty = 55
+|behavior   = Sinker
+|size       = 8-26
+|price      = 100
+|edibility  = 15
+|roe        = Blue
+}}
+The '''Midnight Squid''' is a [[fish]] that can be caught in the submarine ride at the [[Night Market]], which takes place at [[The Beach]] during [[Winter]] 15-17.
+
+In the submarine ride at the Night Market, there is a 21% chance to hook a Midnight Squid (17% if using a [[Curiosity Lure]]). If using Magic Bait in the southwest corner of the beach, there is a 3.3% chance to hook a Midnight Squid (10.2% if using a Curiosity Lure).<ref name="requirements"/>
+
+When placed in a [[Fish Pond]], Midnight Squid will produce [[Squid Ink]] instead of [[Roe]]. However, Midnight Squid Roe can be found in [[Fishing#Treasure Chests|Fishing Treasure Chests]] after obtaining the power from the [[Jewels Of The Sea]] book.
+
+Midnight Squid can also be caught regardless of time of day or season using [[Magic Bait]] — cast west from the left-most pier in the southwest corner of the beach.
+
+==Map==
+Midnight Squid can be found in the submarine ride at the [[Night Market]] ([[Winter]] 15-17).
+{{Map|243|200}}
+[[File:NightMarketMagicBaitArea.png|thumb|left|Magic Bait locations]]	
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Midnight Squid is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Midnight Squid can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{Name|Fishing Hat|class=inline}}. It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Midnight Squid can be placed in a [[Fish Pond]], where they will reproduce every 3 days.  The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests.  Instead of producing [[Roe]], squid ponds produce [[Squid Ink]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3  || 5  || 3 [[Coral]] or 2 [[Sea Urchin]]s || 35
+|-
+| 5  || 8  || 2 [[Sardine]]s || 35
+|-
+| 8  || 10 || 1 [[Ocean Stone]] || 35
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="5" data-sort-value="Squid Ink 1"|{{Name|Squid Ink|1}}
+|rowspan="5"|14
+| 1-2  || 20%     || 5-6%
+|-
+| 3-4  || 56%     || 22-26%
+|-
+| 5-6  || 82%     || 45-52%
+|-
+| 7-9  || 96%     || 69-84%
+|-
+| 10   || 72%     || 69%
+|-
+|data-sort-value="Squid Ink 2"| {{Name|Squid Ink|2}}
+|14
+| 10   || 25%     || 24%
+|-
+|rowspan="5" data-sort-value="ZZZZ"|''Nothing''
+|rowspan="5"|
+| 1-2  || 80%     || 95-94%
+|-
+| 3-4  || 44%     || 78-74%
+|-
+| 5-6  || 18%     || 55-48%
+|-
+| 7-9  || 4%      || 31-16%
+|-
+| 10   || 3%      || 8%
+|}
+
+==Quests==
+Midnight Squid is not used in any [[quests]].
+
+==Notes==
+* Due to the small size of the Submarine pond limiting its tiles' [[Fishing#Distance from Land|distance from land]], the Midnight Squid can only be caught at its maximum [[Fishing#Fish Size & Quality|Size]] of 26" when fishing on the Beach using Magic Bait.
+
+==References==
+<references>
+    <ref name="requirements">See <samp>Data\Locations.xnb</samp> in the game files.</ref>
+</references>
+
+==History==
+{{History|1.3.27|Introduced.}}
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5.3|Can now be caught by using [[Magic Bait]] in the southwest corner of [[the Beach]].}}
+{{History|1.6|Fixed bug allowing all Night Market fish to be hooked with the [[Training Rod]] during the submarine ride. Chance of hooking using [[Magic Bait]] in the southwest corner of [[the Beach]] using a [[Curiosity Lure]] increased. Midnight Squid [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book.}}
+
+{{NavboxFish}}
+
+[[Category:Winter fish]]
+
+[[de:Mitternächtlicher Tintenfisch]]
+[[es:Calamar de medianoche]]
+[[fr:Calmar de minuit]]
+[[it:Calamaro di mezzanotte]]
+[[ja:夜闇イカ]]
+[[ko:자정오징어]]
+[[hu:Éjféli tintahal]]
+[[pt:Lula da Meia-noite]]
+[[ru:Ночной кальмар]]
+[[tr:Gecekalamarı]]
+[[zh:午夜鱿鱼]]

@@ -1,0 +1,93 @@
+{{Infobox fish
+|eng         = Son of Crimsonfish
+|location    = [[The Beach|Ocean]]
+|difficulty  = 95
+|price       = 1500
+|edibility   = 15
+|behavior    = Mixed
+|fl          = 5
+|size        = 19-21
+|time        = Any
+|season      = Any
+|weather     = Any
+|roe         = Red
+}}
+The '''Son of Crimsonfish''' is one of the five [[Fish#Legendary Fish II|Legendary Fish]] that must be caught for [[Mr. Qi]]'s [[Quests#Extended Family|Extended Family Quest]]. It has the same sell price, healing effect, location, and chance of hooking as the [[Crimsonfish]]. It can only be caught when the quest is active, but more than one can be caught per quest.
+
+==Map==
+Son of Crimsonfish can be found in the ocean at [[The Beach|the beach]] on the eastern pier.
+{{Map|300|185}}
+[[File:CrimsonfishLocations.png|thumb|left]]	
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Son of Crimsonfish is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+The Son of Crimsonfish can be used as a red dye in the dye pots, located at [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Son of Crimsonfish can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Son of Crimsonfish [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Red Roe|1-2|link=Roe}}
+|42
+| 1 || 84%     || 42%
+|-
+|{{Name|Red Roe|1-2|link=Roe}}
+|42
+| 1 || 8%     || 4%
+|-
+|''Nothing''
+| 
+| 1 || 8%     || 54%
+|}
+
+==Quests==
+Son of Crimsonfish must be caught for the [[Quests#Extended Family|Extended Family Quest]].
+
+==History==
+{{History|1.5|Introduced.}}
+{{History|1.6|Legendary Fish II [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book. Introduced bug preventing the fish being caught during the [[Night Market]].}}
+{{History|1.6.9|Can now be placed in a [[Fish Pond]]. Fixed bug where it was not possible to catch the Son of Crimsonfish during the [[Night Market]].}}
+{{History|1.6.13|Reduced chance of obtaining [[Roe]] from Fish Pond.}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:Ocean fish]]
+
+[[de:Sohn vom Purpurfisch]]
+[[es:Hijo de pez carmesí]]
+[[fr:Fils de poisson écarlate]]
+[[it:Figlio del Pesce cremisi]]
+[[ja:クリムゾンフィッシュの息子]]
+[[ko:크림슨피쉬의 아들]]
+[[hu:Bíborhal fia]]
+[[pt:Filho do Peixe-Carmim]]
+[[ru:Малек Багрянника]]
+[[tr:Kızılbalığın Oğlu]]
+[[zh:绯红鱼之子]]

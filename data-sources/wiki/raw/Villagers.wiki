@@ -1,0 +1,86 @@
+'''Villagers''' are characters in ''[[Stardew Valley]]''. They are citizens who live in and around [[Pelican Town]]. Each villager has a daily routine, so they can be located in different sections of town depending on the in-game time of the day and weather.
+
+Villagers provide quests and can be given gifts to increase affection. Each villager has unique likes and dislikes, and will respond to gifts differently.
+:''For villager gift preferences, see the following pages:''
+::''[[Friendship#Universal Gifts|Friendship]]''
+::''[[List of All Gifts]]''
+
+__NOTOC__
+
+==[[Marriage|Marriage]] Candidates==
+===Bachelors===
+<gallery mode="packed" widths=110px heights=110px class="villagergallery">
+File:Alex.png|[[Alex]]|link=Alex
+File:Elliott.png|[[Elliott]]|link=Elliott
+File:Harvey.png|[[Harvey]]|link=Harvey
+File:Sam.png|[[Sam]]|link=Sam
+File:Sebastian.png|[[Sebastian]]|link=Sebastian
+File:Shane.png|[[Shane]]|link=Shane
+</gallery>
+
+===Bachelorettes===
+<gallery mode="packed" widths=110px heights=110px class="villagergallery">
+File:Abigail.png|[[Abigail]]|link=Abigail
+File:Emily.png|[[Emily]]|link=Emily
+File:Haley.png|[[Haley]]|link=Haley
+File:Leah.png|[[Leah]]|link=Leah
+File:Maru.png|[[Maru]]|link=Maru
+File:Penny.png|[[Penny]]|link=Penny
+</gallery>
+
+==Non-marriage candidates==
+<gallery mode="packed" widths=110px heights=110px class="villagergallery">
+File:Caroline.png|[[Caroline]]|link=Caroline
+File:Clint.png|[[Clint]]|link=Clint
+File:Demetrius.png|[[Demetrius]]|link=Demetrius
+File:Dwarf.png|[[Dwarf]]|link=Dwarf
+File:Evelyn.png|[[Evelyn]]|link=Evelyn
+File:George.png|[[George]]|link=George
+File:Gus.png|[[Gus]]|link=Gus
+File:Jas.png|[[Jas]]|link=Jas
+File:Jodi.png|[[Jodi]]|link=Jodi
+File:Kent.png|[[Kent]]|link=Kent
+File:Krobus.png|[[Krobus]]|link=Krobus
+File:Leo.png|[[Leo]]|link=Leo
+File:Lewis.png|[[Lewis]]|link=Lewis
+File:Linus.png|[[Linus]]|link=Linus
+File:Marnie.png|[[Marnie]]|link=Marnie
+File:Pam.png|[[Pam]]|link=Pam
+File:Pierre.png|[[Pierre]]|link=Pierre
+File:Robin.png|[[Robin]]|link=Robin
+File:Sandy.png|[[Sandy]]|link=Sandy
+File:Vincent.png|[[Vincent]]|link=Vincent
+File:Willy.png|[[Willy]]|link=Willy
+File:Wizard.png|[[Wizard]]|link=Wizard
+</gallery>
+
+==Non-giftable NPCs==
+
+<gallery mode="packed" widths=110px heights=110px class="villagergallery">
+File:Birdie.png|[[Birdie]]|link=Birdie
+File:Bouncer.png|[[Bouncer]]|link=Bouncer
+File:Fizz 00.png|[[Fizz]]|link=Fizz
+File:Gil.png|[[Gil]]|link=Gil
+File:Governor.png|[[Governor]]|link=Governor
+File:Grandpa.png|[[Grandpa]]|link=Grandpa
+File:Gunther.png|[[Gunther]]|link=Gunther
+File:Henchman Portrait 1.png|[[Henchman]]|link=Henchman
+File:Marlon.png|[[Marlon]]|link=Marlon
+File:Morris.png|[[Morris]]|link=Morris
+File:Mr. Qi.png|[[Mr. Qi]]|link=Mr. Qi
+File:Professor Snail.png|[[Professor Snail]]|link=Professor Snail
+</gallery>
+
+[[Category:NPCs]]
+
+[[de:Dorfbewohner]]
+[[es:Aldeanos]]
+[[fr:Villageois]]
+[[it:Abitanti del villaggio]]
+[[ja:住人]]
+[[ko:마을 사람들]]
+[[hu:Falusiak]]
+[[pt:Aldeões]]
+[[ru:Жители деревни]]
+[[tr:Kasabalılar]]
+[[zh:居民]]

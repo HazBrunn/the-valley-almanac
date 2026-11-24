@@ -1,0 +1,261 @@
+{{Infobox location
+|mapx      = 142
+|mapy      = 123
+|building  = Ranch.png
+|openhours = 9:00am to 4:00pm<br />(Building open 9am to 6pm)
+|closed    = [[Days of the Week#Monday|Monday]], [[Days of the Week#Tuesday|Tuesday]]<br />(building remains accessible)
+|address   = 
+|occupants = <p style="padding-bottom: 5px;>[[File:Marnie Icon.png|link=]] [[Marnie]]</p><p style="padding-bottom: 5px;>[[File:Jas Icon.png|link=]] [[Jas]]</p><p>[[File:Shane Icon.png|link=]] [[Shane]]</p>
+}} 
+'''Marnie's Ranch''' is located in the northeast area of [[Cindersap Forest]], near the southwest entrance to [[Pelican Town]]. The Ranch is occupied by [[Marnie]], her niece [[Jas]], and her nephew [[Shane]].
+
+Marnie runs her shop from 9:00am to 4:00pm each day, except Mondays, Tuesdays, Fall 18, Winter 18, and Spring 17 (if bus service is restored). The Ranch house is accessible from 9:00am to 6:00pm every day, even when the shop is closed.
+
+If the player has obtained the power from the [[Animal Catalogue]], the shop is accessible even when Marnie is not behind the counter.
+
+The shop is closed on all festival days, with exception of [[Desert Festival]], [[Trout Derby]], [[SquidFest]] and [[Night Market]], as well as [[Dance of the Moonlight Jellies]] and [[Spirit's Eve]].
+
+==Shop Inventory==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Price
+|-
+|[[File:Hay.png|48px|center]]
+|[[Hay]]
+|{{Description|Hay}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Heater.png|x48px|center]]
+|[[Heater]]
+|{{Description|Heater}}
+|data-sort-value="2000"|{{Price|2000}}
+|-
+|[[File:Animal Catalogue.png|48px|center]]
+|[[Animal Catalogue]]
+|{{Description|Animal Catalogue}}<br />''Becomes available in year 2''
+|data-sort-value="5000"|{{Price|5000}}
+|-
+|[[File:Milk Pail.png|48px|center]]
+|[[Milk Pail]]
+|{{Description|Milk Pail}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Shears.png|48px|center]]
+|[[Shears]]
+|{{Description|Shears}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Auto-Grabber.png|36px|center]]
+|[[Auto-Grabber]]
+|{{Description|Auto-Grabber}}<br />''Becomes available at [[Farming]] Level 10''
+|data-sort-value="25000"|{{Price|25000}}
+|-
+|[[File:Ornamental Hay Bale.png|x48px|center]]
+|[[Ornamental Hay Bale]]
+|{{Description|Ornamental Hay Bale}}
+|data-sort-value="00250"|{{Price|250}}
+|-
+|[[File:Golden Egg.png|48px|center]]
+|[[Golden Egg]]
+|{{Description|Golden Egg}}<br />''Becomes available once [[perfection]] is achieved''
+|data-sort-value="100000"|{{Price|100000}}
+|-
+|[[File:Cow Decal.png|48px|center]]
+|[[Cow Decal]]
+|{{Description|furniture}}<br />''Becomes available after getting it from the [[Mayor's Manor#Prize Machine|prize machine]] at the Mayor's Manor''
+|data-sort-value="10000"|{{Price|10000}}
+|-
+|[[File:Doghouse.png|48px|center]]
+|[[Doghouse]]
+|{{Description|furniture outdoors}}
+|data-sort-value="10000"|{{Price|10000}}
+|-
+|[[File:Dark Doghouse.png|48px|center]]
+|[[Dark Doghouse]]
+|{{Description|furniture outdoors}}
+|data-sort-value="10000"|{{Price|10000}}
+|-
+|[[File:Cat Tree.png|48px|center]]
+|[[Cat Tree]]
+|{{Description|decoration}}
+|data-sort-value="10000"|{{Price|10000}}
+|-
+|[[File:Dark Cat Tree.png|48px|center]]
+|[[Dark Cat Tree]]
+|{{Description|decoration}}
+|data-sort-value="10000"|{{Price|10000}}
+|-
+|[[File:Bird House.png|32px|center]]
+|[[Bird House]]
+|{{Description|furniture outdoors}}
+|data-sort-value="5000"|{{Price|5000}}
+|}
+
+==Livestock==
+{|class="wikitable sortable roundedborder"
+! class="unsortable"|Image
+!Name
+!Description
+!Price
+!Building Required
+|-
+|class="no-wrap" style="text-align: center;"|[[File:White Chicken.png]][[File:Brown Chicken.png]][[File:Blue Chicken.png]]
+|[[Chicken]]
+|{{Description|Chicken}}
+|data-sort-value="00800"|{{Price|800}}
+|[[Coop]]
+|-
+|class="no-wrap" style="text-align: center;"|[[File:White Cow.png]][[File:Brown Cow.png]]
+|[[Cow]]
+|{{Description|Cow}}
+|data-sort-value="01500"|{{Price|1500}}
+|[[Barn]]
+|-
+|[[File:Goat.png|center]]
+|[[Goat]]
+|{{Description|Goat}}
+|data-sort-value="04000"|{{Price|4000}}
+|[[Barn|Big Barn]]
+|-
+|[[File:Duck.png|center]]
+|[[Duck]]
+|{{Description|Duck}}
+|data-sort-value="01200"|{{Price|1200}}
+|[[Coop|Big Coop]]
+|-
+|[[File:Sheep.png|center]]
+|[[Sheep]]
+|{{Description|Sheep}}
+|data-sort-value="08000"|{{Price|8000}}
+|[[Barn|Deluxe Barn]]
+|-
+|[[File:Rabbit.png|center]]
+|[[Rabbit]]
+|{{Description|Rabbit}}
+|data-sort-value="08000"|{{Price|8000}}
+|[[Coop|Deluxe Coop]]
+|-
+|[[File:Pig.png|center]]
+|[[Pig]]
+|{{Description|Pig}}
+|data-sort-value="16000"|{{Price|16000}}
+|[[Barn|Deluxe Barn]]
+|}
+
+===Notes===
+* Marnie won't sell animals if the building associated is under construction or during an upgrade.
+* It is possible to see what color animal you will receive before paying for it. When asked to select which building your animal will stay in, the note at the top of the screen will reveal which color the animal it is. Canceling the purchase at that point will return you to the purchase menu.
+* Even though [[Marnie]] uses male pronouns when referring to some of the [[pig]]s and [[sheep]] at purchase, the [[Animals#Animal Births|pregnancy]] feature is still available for them.
+
+==Pet Adoption==
+After a player reaches maximum [[Animals#Friendship|friendship]] with their first [[Animals#Pets|pet]] or reaches Year 2 without having a pet, they can purchase Pet Licenses to adopt additional pets.<ref name="adoptpet" /> Constructing an additional [[Pet Bowl]] for each pet is not necessary to adopt them, but it does prevent friendship loss.
+{|class="wikitable sortable roundedborder"
+! class="unsortable"|Image
+!Name
+!Description
+!Price
+|-
+|[[File:Cat 1.png|48px|center]]
+|[[Animals#Cat or Dog|Cat]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Cat 2.png|48px|center]]
+|[[Animals#Cat or Dog|Cat]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Cat 3.png|48px|center]]
+|[[Animals#Cat or Dog|Cat]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Cat 4.png|48px|center]]
+|[[Animals#Cat or Dog|Cat]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Cat 5.png|48px|center]]
+|[[Animals#Cat or Dog|Cat]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Dog 1.png|48px|center]]
+|[[Animals#Cat or Dog|Dog]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Dog 2.png|48px|center]]
+|[[Animals#Cat or Dog|Dog]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Dog 3.png|48px|center]]
+|[[Animals#Cat or Dog|Dog]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Dog 4.png|48px|center]]
+|[[Animals#Cat or Dog|Dog]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Dog 5.png|48px|center]]
+|[[Animals#Cat or Dog|Dog]]
+|{{Description|Pet License}}
+|data-sort-value="40000"|{{Price|40000}}
+|-
+|[[File:Turtle.png|48px|center]]
+|[[Animals#Pets|Turtle]]
+|{{Description|Pet License}}
+|data-sort-value="60000"|{{Price|60000}}
+|-
+|[[File:Iridium Turtle.png|48px|center]]
+|[[Animals#Pets|Turtle]]
+|{{Description|Pet License}}
+|data-sort-value="500000"|{{Price|500000}}
+|}
+
+==Quests==
+* [[Quests#Mayor's &ldquo;Shorts&rdquo;|Mayor's "Shorts"]] - [[Lewis|Mayor Lewis]]' Purple Shorts can be found in Marnie's room.
+
+==Trivia==
+* When choosing the "Supplies Shop", there is a 0.01% chance for the text under Marnie's portrait to read "*sigh*... When the door opened I thought it might be Lewis."
+* If a player inspects the dresser in Marnie's room, a text box appears, saying "there's a pair of brown suspenders".
+* If the player has a [[Silo]], they can use a scythe to harvest hay from the grass outside Marnie's Ranch, as long as it has grown close enough to the fence to reach.
+
+==References==
+<references>
+   <ref name="adoptpet">See <samp>GameLocation::animalShop</samp> in the game code.</ref>
+</references>
+
+==Gallery==
+<gallery>
+Marnie's Ranch Interior.png|Interior
+</gallery>
+
+==History==
+{{History|1.3.27|Added Auto-Grabber and Ornamental Hay Bale to shop stock.}}
+{{History|1.5|Added Golden Egg to shop stock.}}
+{{History|1.6|Added Animal Catalogue, Doghouses, Cat Trees, and Bird House to stock. Additional [[Animals#Pets|pets]] can now be adopted from Marnie. Ranch interior updated.}}
+{{History|1.6.3|Players can start adopting pets in [[Marnie]]'s shop if they don't have one in year two.}}
+{{History|1.6.9|The grass in front of the Ranch now grows back each Spring. Added [[Cow Decal]] to shop stock.}}
+
+{{NavboxBuildings}}
+
+[[Category:Forest Locations]]
+[[Category:Stores]]
+
+[[de:Marnies Ranch]]
+[[es:Rancho de Marnie]]
+[[fr:Ranch de Marnie]]
+[[it:Ranch di Marnie]]
+[[ja:マーニーの牧場]]
+[[ko:마니의 목장]]
+[[hu:Marnie Tanyája]]
+[[pt:Rancho da Marnie]]
+[[ru:Ранчо Марни]]
+[[tr:Marnie'nin Çiftliği]]
+[[zh:玛妮的牧场]]

@@ -1,0 +1,119 @@
+{{Infobox fish
+|eng        = Catfish
+|location   = River • [[Secret Woods]] • [[Witch's Swamp]]
+|time       = 6am - 12am
+|season     = {{Season|Spring}} • {{Season|Fall}}
+<span class="no-wrap">'''[[Secret Woods]]/[[Witch's Swamp]]:'''<br />
+{{Season|Spring}} • {{Season|Summer}} • {{Season|Fall}}</span>
+<span class="no-wrap">'''Only with [[Rain Totem]]:''' {{Season|Winter}}</span>
+|weather    = Rain
+|difficulty = 75
+|behavior   = Mixed
+|size       = 12-73
+|price      = 200
+|edibility  = 20
+|roe        = Dark Gray
+}}
+The '''Catfish''' is a [[fish]] that can be caught in the river (in [[Pelican Town]] or [[Cindersap Forest]]), and the [[Farm Maps|Riverlands Farm]], [[Farm Maps|Forest Farm]], or [[Farm Maps|Hill-Top Farm]] during [[Spring]] and [[Fall]] when raining, or in the [[Secret Woods]] or [[Witch's Swamp]] during [[Spring]], [[Summer]], and [[Fall]] when raining. It can also be caught in [[Winter]] at these locations if a [[Rain Totem]] is used. 
+
+It can also be acquired from the following:
+*A [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]] may gift it to the player.
+*[[Garbage Can]]s may randomly contain one during Spring and Fall.
+*The [[Traveling Cart]] may randomly sell one for {{Tprice|200}}.
+*[[Linus]] may randomly send a Catfish in the mail as a gift.
+*One Catfish is contained in the [[Bundles#Fish Tank|Community Center Fish Tank]] right after the Community Center is repaired.
+
+Catfish can be caught regardless of weather, time, or season using [[Magic Bait]].
+
+==Map==
+The Catfish can be found in the river, in the Secret Woods pond when it's raining, and in the Witch's Swamp.
+{{Map|10|100|loc2x=200|loc2y=150|loc3x=120|loc3y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Leo
+|hate=Pierre,Evelyn,Haley
+|love=Willy
+}}
+
+==Bundles==
+Catfish is used in the {{Bundle|River Fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Catfish can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Fish Shirt]].  [[File:Shirt158.png|24px]]
+
+==Fish Pond==
+Catfish can be placed in a [[Fish Pond]], where they will reproduce every 4 days.  The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests.  The only possible output is dark gray Catfish [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 2 [[Amethyst]], 3 [[Copper Bar]]s, 3 [[Red Mushroom]]s, or 2 [[Topaz]] || 40
+|-
+| 5   || 7   || 10 [[Bat Wing]], 2 [[Earth Crystal]]s, 5 [[Mixed Seeds]], or 2-3 [[Purple Mushroom]]s || 40
+|-
+| 7   || 10  || 1 [[Diamond]], 3 [[Iron Bar]]s, 1 [[Mayonnaise]], or 1 [[Jellies and Pickles|Pickles]] || 40
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Dark Gray Roe|1|link=Roe}}
+|15
+| 1-10 || 100%    || 23-95%
+|-
+|''Nothing''
+|
+| 1-10 || 0%      || 77-5%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Catfish may be randomly requested in [[Spring]] or [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|600}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-4 Catfish to be caught in [[Spring]] or [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|200}} per fish.  (You get to keep the fish). 
+
+==Bugs==
+*Catfish may be requested in a '''Fishing''' quest during Winter, requiring a [[Rain Totem]] to be used, despite 1.4.4 version patch notes detailing its removal from the quest.
+
+==History==
+{{History|1.4|Removed from garbage cans and most quests in Winter.  Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.4.4|Fixed a mistake in the game data that prevented catfish-specific fish pond data from being applied (in earlier versions, catfish used the same fish pond data as all generic river fish). Catfish can no longer be requested by [[Demetrius]] or [[Willy]] in a [[Quests#Help Wanted Quests|Fishing Help Wanted quest]] during [[Winter]].}}
+{{History|1.6|One is contained in the [[Bundles#Fish Tank|Community Center Fish Tank]] right after it is repaired. Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Fall fish]]
+[[Category:River fish]]
+
+[[de:Katzenfisch]]
+[[es:Pez gato]]
+[[fr:Poisson-chat]]
+[[it:Pesce gatto]]
+[[ja:ナマズ]]
+[[ko:메기]]
+[[hu:Harcsa]]
+[[pt:Bagre]]
+[[ru:Сом]]
+[[tr:Kedibalığı]]
+[[zh:鲶鱼]]

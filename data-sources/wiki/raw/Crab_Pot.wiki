@@ -1,0 +1,357 @@
+{{Infobox
+|eng          = Crab Pot
+|source       = [[Crafting]] • [[Fish Shop]]
+|ingredients  = {{Name|Wood|40}}{{Name|Iron Bar|3}} 
+|tingredients = {{Name|Wood|25}}{{Name|Copper Bar|2}}
+|sellprice    = 50
+|quality      = false
+|recipe       = [[File:Fishing Skill Icon.png|24px|link=]] [[Fishing]] Level 3
+}}
+'''Crab Pots''' can be floated on the shores of bodies of water (lakes, ponds, rivers, or oceans) and primed with [[bait]] to catch [[Fish#Crab Pot Fish|fish]]. Bait must be inserted every day. Players with the [[Skills#Fishing|Luremaster profession]] don't need to add bait.
+
+Harvesting a crab pot gives 5 [[Fishing]] experience points, even if [[trash]] is caught. [[Fish]] caught with crab pots also count towards the four fishing [[achievements]] (Fisherman, Ol' Mariner, Master Angler, and Mother Catch). 
+
+Crab pots can be [[Crafting|crafted]] or purchased from [[Fish Shop|Willy's Fish Shop]] for {{Price|1500}} after reaching [[Skills#Fishing|Fishing level 3]]. Three crab pots are rewarded for completing the {{Bundle|Crab||y}}. 1 Crab Pot is also one of the prizes from the [[Trout Derby]] festival.
+
+If the player has obtained the power from [[The Art O' Crabbing]] book, it gives Crab pots a 25% chance to yield double the amount of items.
+
+==Stages==
+Crab pots have three stages, which can be distinguished visually:
+{|class="wikitable"
+|-
+! Image
+! Description
+|-
+| [[File:Crab Pot.png]]
+| The crab pot is empty. Without the [[Skills#Fishing|Luremaster profession]], [[bait]] must be added before it will catch anything.
+|-
+| [[File:Crab pot (with bait).png]]
+| The crab pot contains bait, and will catch something the next morning. (The 'empty' image will be seen instead with the [[Skills#Fishing|Luremaster profession]].)
+|-
+| [[File:Crab pot (with catch).png]]
+| The crab pot caught something and can be harvested. An icon of what it contains will appear above the crab pot.
+|}
+
+==Specialized Bait==
+Any type of bait can be used in a crab pot. Using certain specialized types of bait provide additional benefits compared to [[Bait (item)|standard bait]]:<ref name="specialized_bait" />
+*[[Deluxe Bait]] increases the quality of Crab Pot fish to silver and, if the player does not have the Mariner profession, decreases the chance of junk (from 38% to 30% in most areas).
+*[[Wild Bait]] gives a 25% chance to yield double the amount of items and, if the player does not have the Mariner profession, decreases the chance of junk by the same amount as Deluxe Bait (from 38% to 30% in most areas).
+*If the player does not have the Mariner profession, using any type of [[Targeted Bait]] also decreases the chance of junk by the same amount (from 38% to 30% in most areas). If a Crab Pot Fish Targeted Bait is used, it also increases the chance to catch that specific Crab Pot fish, decreasing the chance of getting other items which includes decreasing the chance of junk further, down to between 10% to 27% in most areas depending on the Targeted Bait used.
+*Targeted Bait with the Mariner profession, [[Magnet]], [[Magic Bait]], and [[Challenge Bait]] do not provide additional benefits compared to [[Bait (item)|standard bait]].
+
+==Catch==
+The day after placing a crab pot, the following items can be found in it:
+
+===Anywhere===
+Unless the player has the [[Skills#Fishing|Mariner]] profession, the following [[trash]] items can be obtained by putting a crab pot in any type of water. The chance of trash depends on the location and bait used. Specifically, in all areas except for the [[Farm Maps#Beach|Beach Farm pond]]:
+
+*If the player uses [[Bait (item)|Bait]], [[Magnet]], [[Magic Bait]], [[Challenge Bait]], or no bait (with the Luremaster profession only), the chance of trash is 38%.
+*If the player uses [[Deluxe Bait]], [[Wild Bait]], or [[Targeted Bait]], the chance of trash decreases to 30%.
+*The chance of trash further decreases if the player uses Targeted Bait for a specific Crab Pot fish, down to between 10% to 27% depending on the type of targeted bait used.
+
+On the Beach Farm pond, the chance of trash increases to 57%, 40%, and 22.5-35%, respectively.
+
+All trash items are equally likely to appear.<ref name="crabpot_chance" />  Trash can be [[Recycling Machine|recycled]] into useful items.
+{{#lst:Recycling Machine|trash}}
+
+===Saltwater===
+The following creatures can be caught by putting a crab pot in any saltwater location.<ref name="crabpot_chance" />
+{|class="wikitable sortable roundedborder"
+! style="width: 40px;" rowspan="2"|Image
+! rowspan="2"|Name
+! rowspan="2"|Description
+! rowspan="2"|Sell Price
+! colspan="2"|Trap Chance
+! rowspan="2"|Used In
+|-
+! [[File:Mariner.png|24px|link=]] Mariner
+! Non-Mariner
+|-
+|[[File:Lobster.png|center]]
+|[[Lobster]]
+|{{Description|Lobster}}
+|data-sort-value="120"|{{Price|120}}
+|14.3%
+|4.0%
+|{{Name|Lobster Bisque}}<p class="no-wrap">[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}{{Name|Quests Icon|link=Quests#Wanted Lobster{{!}}"Wanted Lobster" Quest|size=28}}{{NPC|Elliott|Loved Gift}}
+|-
+|[[File:Clam.png|center]]
+|[[Clam]]
+|{{Description|Clam}}
+|data-sort-value="050"|{{Price|50}}
+|14.3%
+|8.7%
+|{{Name|Chowder}}<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]<p>{{Bundle|Crab Pot}}</p>
+|-
+|[[File:Crab.png|center]]
+|[[Crab]]
+|{{Description|Crab}}
+|data-sort-value="100"|{{Price|100}}
+|14.3%
+|7.6%
+|{{Name|Crab Cakes}}<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}
+|-
+|[[File:Cockle.png|center]]
+|[[Cockle]]
+|{{Description|Cockle}}
+|data-sort-value="050"|{{Price|50}}
+|14.3%
+|11.9%
+|<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}
+|-
+|[[File:Mussel.png|center]]
+|[[Mussel]]
+|{{Description|Mussel}}
+|data-sort-value="030"|{{Price|30}}
+|14.3%
+|9.7%
+|{{Name|Fish Stew}}<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}
+|-
+|[[File:Shrimp.png|center]]
+|[[Shrimp]]
+|{{Description|Shrimp}}
+|data-sort-value="060"|{{Price|60}}
+|14.3%
+|9.9%
+|{{Name|Tom Kha Soup}}{{Name|Shrimp Cocktail}}<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}
+|-
+|[[File:Oyster.png|center]]
+|[[Oyster]]
+|{{Description|Oyster}}
+|data-sort-value="040"|{{Price|40}}
+|14.3%
+|10.3%
+|<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}
+|}
+
+'''Note:''' If the player has the Mariner profession, the chances of obtaining each fish is equal (at 14.3%) regardless of the bait used or the body of the water the Crab Pot is placed in.
+
+If the player does not have the Mariner profession and uses either [[Deluxe Bait]], [[Wild Bait]], or any type of [[Targeted Bait]] (except for Crab Pot saltwater fish), the percent chance of obtaining each Crab Pot item is multiplied by 1.125 in the table above. The table below shows the chance of getting each item if Targeted Bait for Crab Pot saltwater fish is used and the player does not have the Mariner profession.<ref name="targeted_bait" />
+<section begin="targetedsaltwatercrabpot" /><!-- Transcluded onto Targeted Bait page -->
+{|class="wikitable sortable"
+!class="unsortable"|Image
+!Name
+!% Lobster Bait
+!% Crab Bait
+!% Oyster Bait
+!% Clam Bait
+!% Shrimp Bait
+!% Cockle Bait
+!% Mussel Bait
+|-
+|[[File:Lobster.png|24px|center]]
+|[[Lobster]]
+|18.0%
+|4.5%
+|4.5%
+|4.5%
+|4.5%
+|4.5%
+|4.5%
+|-
+|[[File:Crab.png|24px|center]]
+|[[Crab]]
+|7.2%
+|25.7%
+|8.6%
+|8.6%
+|8.6%
+|8.6%
+|8.6%
+|-
+|[[File:Oyster.png|24px|center]]
+|[[Oyster]]
+|9.7%
+|9.0%
+|34.6%
+|11.5%
+|11.5%
+|11.5%
+|11.5%
+|-
+|[[File:Clam.png|24px|center]]
+|[[Clam]]
+|8.3%
+|7.6%
+|6.3%
+|29.4%
+|9.8%
+|9.8%
+|9.8%
+|-
+|[[File:Shrimp.png|24px|center]]
+|[[Shrimp]]
+|9.4%
+|8.6%
+|7.2%
+|7.2%
+|22.2%
+|11.1%
+|11.1%
+|-
+|[[File:Cockle.png|24px|center]]
+|[[Cockle]]
+|11.2%
+|10.4%
+|8.6%
+|8.6%
+|10.0%
+|26.7%
+|13.3%
+|-
+|[[File:Mussel.png|24px|center]]
+|[[Mussel]]
+|9.2%
+|8.5%
+|7.1%
+|7.1%
+|8.2%
+|6.2%
+|21.8%
+|-
+|[[File:Trash (item).png|24px|center]]
+|[[Trash]]
+|27.0%
+|25.7%
+|23.1%
+|23.1%
+|25.2%
+|21.6%
+|19.3%
+|}<section end="targetedsaltwatercrabpot" />
+
+===Freshwater===
+The following creatures can be caught by putting a crab pot into any freshwater location.<ref name="crabpot_chance" />
+
+[[Farm Pond]]s will yield Crab Pot Fish, even ponds where a Fishing Rod can only catch trash. Crab Pots also work in all underground locations (''e.g.,'' [[The Sewers]]). The pools found in [[the Mines]] are the only exceptions. While Crab Pots can be placed in the mine’s pools, they will vanish and be permanently lost after leaving the level. Crab Pots cannot be placed into fountains (''e.g.,'' in [[Pelican Town]] or outside the [[Spa]]).
+
+{|class="wikitable sortable roundedborder"
+! style="width: 40px;" rowspan="2"|Image
+! rowspan="2"|Name
+! rowspan="2"|Description
+! rowspan="2"|Sell Price
+! colspan="2"|Trap Chance
+! rowspan="2"|Used In
+|-
+! [[File:Mariner.png|24px|link=]] Mariner
+! Non-Mariner
+|-
+|[[File:Crayfish.png|center]]
+|[[Crayfish]]
+|{{Description|Crayfish}}
+|data-sort-value="075"|{{Price|75}}
+|33.3%
+|21.0%
+|{{Name|Fish Stew}}<p class="no-wrap">[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}
+|-
+|[[File:Snail.png|center]]
+|[[Snail]]
+|{{Description|Snail}}
+|data-sort-value="065"|{{Price|65}}
+|33.3%
+|20.0%
+|{{Name|Escargot}}<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}{{NPC|Vincent|loved Gift}}
+|-
+|[[File:Periwinkle.png|center]]
+|[[Periwinkle]]
+|{{Description|Periwinkle}}
+|data-sort-value="020"|{{Price|20}}
+|33.3%
+|21.5%
+|{{Name|Strange Bun}}{{Name|Fish Stew}}<p>[[File:Fish.png|24px]] [[Fish#Recipes|"Any fish" Recipes]]</p>{{Bundle|Crab Pot}}
+|}
+
+'''Note:''' If the player has the Mariner profession, the chances of obtaining each fish is equal (at 33.3%) regardless of the bait used or the body of the water the Crab Pot is placed in.
+
+On the [[Farm Maps#Beach|Beach Farm]] pond, if the player does not have the [[Skills#Fishing|Mariner]] profession, the percent chance of obtaining each Crab Pot item is multiplied by 0.69 in the table above, as trash is more likely to be caught there.<ref name="beach_farm_pond" /> If the player does not have the Mariner profession and uses either [[Deluxe Bait]], [[Wild Bait]], or any type of [[Targeted Bait]] (except for Crab Pot freshwater fish), the percent chance of obtaining each Crab Pot item is multiplied by 1.125 in the table above. On the Beach Farm pond, the percent chance of obtaining each Crab Pot item chance is multiplied by 0.97 in the table above, or by 1.405 for the modified percentages, taking into account the previous 0.69 multiplier. The table below shows the chance of getting each item if Targeted Bait for Crab Pot freshwater fish is used and the player does not have the Mariner profession in all areas except for the Beach Farm pond. For the Beach Farm pond, the percent chance of obtaining each Crab Pot item is multiplied by 0.861 in the table below, with the percent chance of trash adjusted accordingly.<ref name="targeted_bait" />
+<section begin="targetedfreshwatercrabpot" /><!-- Transcluded onto Targeted Bait page -->
+{|class="wikitable sortable"
+!class="unsortable"|Image
+!Name
+!% Snail Bait
+!% Crayfish Bait
+!% Periwinkle Bait
+|-
+|[[File:Snail.png|24px|center]]
+|[[Snail]]
+|45.0%
+|22.5%
+|22.5%
+|-
+|[[File:Crayfish.png|24px|center]]
+|[[Crayfish]]
+|15.8%
+|47.3%
+|23.6%
+|-
+|[[File:Periwinkle.png|24px|center]]
+|[[Periwinkle]]
+|16.1%
+|11.1%
+|43.9%
+|-
+|[[File:Trash (item).png|24px|center]]
+|[[Trash]]
+|23.2%
+|19.1%
+|10.0%
+|}<section end="targetedfreshwatercrabpot" />
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Dyeing==
+Crab Pot can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Gold per Day==
+Crab pots make on average {{Price|47}}/day in freshwater and {{Price|50.5}}/day in the ocean, assuming all [[trash]] is [[Recycling Machine|recycled]] and sold. This number can be increased to about {{Price|75}}/day for freshwater or {{Price|85}}/day for the ocean if all [[fish]] that are worth less than {{Price|75}} are converted into [[Sashimi]] and the [[Skills#Fishing|Mariner]] profession is chosen. Note that all of these numbers are multiplied by 1.25 if the player has the power obtained from [[The Art O' Crabbing]].<ref name="goldperday" />
+
+==Tips==
+* Because the [[#Freshwater|freshwater catches]] sell for a low value and can be easily caught in large quantities, they're ideal choices for turning into [[Quality Fertilizer]] or [[Sashimi]]. It might be helpful to put a handful of crab pots in the farm's ponds (where they're easily accessible to harvest daily) to make fertilizer/sashimi out of their catches and gain some Fishing experience.
+* When the [[Skills#Fishing|Luremaster Profession]] is taken, it becomes easier to accidentally pick up the crab pots. Since 1.5, this has become easier to avoid; simply target a crab pot that still contains its daily catch, and hold the collection button. As long as the button is held, the player can collect as many as they like without fear of accidentally picking up the crab pot. Since 1.6.4 this is even easier to avoid, as there is now a short delay after collecting when the crab pot cannot be picked up.
+** Without the profession, the easiest way is to have the bait selected as the crab pots are emptied, easily baiting the pot right away. Baited Crab Pots cannot be picked up.
+* Without the Trapper profession, the total cost of buying materials to build a crab pot is {{Price|3100}}. With the profession, the total cost of materials is {{Price|1300}}. However, these prices more than double starting in Year 2 due to the rise in the cost of raw materials, while the purchase price from [[Fish Shop|Willy's Fish Shop]] remains fixed at {{Price|1500}}. This makes it much more cost-effective to buy crab pots from Willy's starting in Year 2 instead of buying the ingredients, even with the Trapper profession.
+
+==Notes==
+*Since the game uses a unique beach map during festival days, items a player has placed on [[the Beach]] (Crab Pots, [[Chest]]s, etc.) may disappear during the [[Night Market]]. These items should return on Winter 18.
+**Choosing the Luremaster profession will not bait any unbaited crab pots during the festival.
+
+==References==
+<references>
+    <ref name="specialized_bait">See <samp>CrabPot::DayUpdate</samp> in the game code. The initial chance of junk for Deluxe Bait, Wild Bait, and Targeted Bait is 10% and if this chance does not occur, the code falls back to trash, adding 20.2% more chance of trash. This chance is lower if Crab Pot Fish Targeted Bait is used.</ref>
+    <ref name="crabpot_chance">Crab pot contents are determined by <samp>CrabPot::DayUpdate</samp>. For mariners, there is no chance of junk, and all creatures are equally likely. For non-mariners, there is a 20% chance of junk, then each creature is checked sequentially using the chances specified in <samp>Fish.xnb</samp>. One result of this algorithm is that the actual chance of finding a given creature is smaller than the value in the input file, because it can only be found if junk items and all previous creatures failed their tests. If no creature is found, the code falls back to trash; this adds 18% more chance of trash (for both ocean and freshwater crab pots).  Note that the order in which catches are checked is not the same as the order in the <samp>Data\Fish</samp> table (see [[Talk:Crab Pot|Discussion]] for more details).</ref>
+    <ref name="beach_farm_pond">See <samp>Data\Locations.xnb</samp> in the game files. The value of <samp>CrabPotJunkChance</samp> is 0.45 for the Beach Farm pond while it is 0.2 everywhere else.</ref>
+    <ref name="targeted_bait">See <samp>CrabPot::DayUpdate</samp> in the game code. Each creature is checked in the same way as normal, but the chance specified in <samp>Fish.xnb</samp> is increased for the targeted fish. Specifically, it is quadrupled if the value is less than 0.1, tripled if the value is less than 0.2, and doubled otherwise. This code is skipped if the player has the Mariner profession.</ref>
+    <ref name="goldperday">See the calculations on the [[Talk:Crab Pot#Updated Gold per Day|talk page]].</ref>
+</references>
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.01|Fixed issues regarding placing and removing crab pots.}}
+{{History|1.02|Fixed more issues regarding crab pots.}}
+{{History|1.4|Moving the cursor over a crab pot while holding the action button no longer incorrectly picks it up. Fixed issue where the crab pot placement cursor was always green. Fixed bug where multiple "inventory full" messages would show when harvesting from a Crab Pot with a full inventory.}}
+{{History|1.4.4|Fixed issue where crab pots were rendered incorrectly in [[The Desert]].}}
+{{History|1.5.2|Fixed crash that could occur in Multiplayer when crab pots were removed by a farmhand.}}
+{{History|1.5.3|Crab pots now check the professions of the player who refilled them. This fixes a case in multiplayer where a player's profession (such as Mariner) would appear to not work because the crab pot was originally placed in the water by someone else.}}
+{{History|1.6|Now one of the prizes from the [[Trout Derby]] festival. Increased chance of catching junk on the [[Farm Maps#Beach|Beach Farm]] pond. [[Deluxe Bait]], [[Targeted Bait]] and [[Wild Bait]] now provides special benefits when catching Crab Pot fish. The power from [[The Art O' Crabbing]] gives Crab Pots a 25% chance to yield double items. Crab Pots no longer appear during the [[Dance of the Moonlight Jellies]].}}
+{{History|1.6.4|Crab pots now have a short time period (0.75 seconds) after harvesting from them during which they can’t be removed.}}
+{{History|1.6.9|Fixed duplicating bait when loaded by a [[Hopper]]. Fixed not producing double catches correctly with [[Wild Bait]]. Fixed not applying [[Deluxe Bait]] and [[Wild Bait]] bonuses in some cases.}}
+
+{{NavboxTools}}
+{{NavboxEquipment}}
+
+[[Category:Craftable items]]
+
+[[de:Krabbenreuse]]
+[[es:Trampa para cangrejos]]
+[[fr:Casier à crabes]]
+[[it:Nassa per granchi]]
+[[ja:カニかご]]
+[[ko:게잡이 통발]]
+[[hu:Rákvarsa]]
+[[pt:Covo]]
+[[ru:Крабовая ловушка]]
+[[tr:Yengeç Çömleği]]
+[[zh:蟹笼]]

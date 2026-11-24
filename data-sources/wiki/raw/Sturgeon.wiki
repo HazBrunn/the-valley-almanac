@@ -1,0 +1,131 @@
+{{Infobox fish
+|eng        = Sturgeon
+|location   = [[The Mountain|Mountain Lake]]
+|time       = 6am – 7pm
+|season     = {{Season|Summer}} • {{Season|Winter}}
+|weather    = Any
+|difficulty = 78
+|behavior   = Mixed
+|size       = 12-61
+|price      = 200
+|edibility  = 10
+|roe        = Sturgeon
+}}
+The '''Sturgeon''' is a [[fish]] that can be caught in the [[The Mountain|mountain lake]] during [[Summer]] and [[Winter]]. It is least common during [[Weather|rainy]] winter days (only possible by using a [[Rain Totem]]) and most common on rainy summer days, comprising from 11% to 16% of all items caught. It is most likely to be caught when casting at least 3 tiles from shore.<ref name="spawnrate" /> It can also be caught during [[Summer]] and [[Winter]] on the [[Farm Maps|Wilderness Farm]]. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{Tprice|200}}.
+
+Sturgeon can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+The Sturgeon can be found in the mountain lake.
+{{Map|270|43}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Leo
+|hate=Pierre,Evelyn,Haley
+|love=Willy
+}}
+
+==Bundles==
+Sturgeon is used in the {{Bundle|Lake Fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Sturgeon can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Fishing Vest]].  [[File:Shirt157.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Sturgeon can be placed in a [[Fish Pond]], where they will reproduce every 4 days. The initial pond capacity is 1 fish, but the capacity can be increased to 10 by completing four quests. The only possible output is Sturgeon [[Roe]], which can be put into a [[Preserves Jar]] to make [[Caviar]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+|1 ||3 ||1 [[Diamond]] ||40
+|-
+|3 ||5 ||1 [[Jellies and Pickles|Jelly]], 2 [[Maple Syrup]], or 1 [[Jellies and Pickles|Pickles]] || 40
+|-
+|5 ||7 ||3 [[Omni Geode]]s ||40
+|-
+|7 ||10 ||1 [[Nautilus Shell]] ||40
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="5"|{{Name|Sturgeon Roe|1|link=Roe}}
+|rowspan="5"|18
+| 1-2  || 20%     || 5-6%
+|-
+| 3-5  || 52%     || 20-29%
+|-
+| 6-8  || 81%     || 51-64%
+|-
+| 9    || 96%     || 84%
+|-
+| 10   || 75%     || 71%
+|-
+|{{Name|Sturgeon Roe|2|link=Roe}}
+|18
+| 10   || 25%     || 24%
+|-
+|rowspan="5"|''Nothing''
+|rowspan="5"| 
+| 1-2  || 80%     || 95-94%
+|-
+| 3-5  || 48%     || 80-71%
+|-
+| 6-8  || 19%     || 49-36%
+|-
+| 9    || 4%      || 16%
+|-
+| 10   || 0%      || 5%
+|}
+
+==Quests==
+Sturgeon is not used in any [[quests]].
+
+==References==
+<references>
+<ref name="spawnrate">See <samp>Data/Fish.xnb</samp> and <samp>GameLocation::CheckGenericFishRequirements</samp> in the game code.</ref>
+</references>
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Lake fish]]
+[[Category:Summer fish]]
+[[Category:Winter fish]]
+
+[[de:Stör]]
+[[es:Esturión]]
+[[fr:Esturgeon]]
+[[it:Storione]]
+[[ja:チョウザメ]]
+[[ko:철갑상어]]
+[[hu:Tokhal]]
+[[pt:Esturjão]]
+[[ru:Осетр]]
+[[tr:Mersinbalığı]]
+[[zh:鲟鱼]]

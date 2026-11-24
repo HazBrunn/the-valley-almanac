@@ -1,0 +1,169 @@
+{{Infobox fish
+|eng        = Periwinkle
+|source     = {{Name|Crab Pot|class=inline}}: [[Crab Pot#Freshwater|Freshwater]]
+|xp         = 5 [[Fishing#Experience Points|Fishing XP]]
+|season     = All
+|price      = 20
+|size       = 1-3
+|edibility  = -300
+|quality    = 0,1
+|roe        = Light Blue
+}}
+The '''Periwinkle''' is a [[fish]] that can be caught using a [[Crab Pot]] in any [[Crab Pot#Freshwater|freshwater]] body of water. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It can also randomly be found at the [[Traveling Cart]] for {{Tprice|20}}. Like all fish caught from the crab pot, it cannot be eaten unless it is used in a [[Cooking]] recipe.
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Periwinkle is an option for the {{Bundle|Crab||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Fish Stew|RecipeRow}}
+{{:Maki Roll|RecipeRow}}
+{{:Quality Fertilizer|RecipeRow}}
+{{:Sashimi|RecipeRow}}
+{{:Strange Bun|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Periwinkle can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Rain Coat]].  [[File:Shirt260.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Periwinkles can be placed in a [[Fish Pond]], where they will reproduce every day. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. Typical output includes light blue Periwinkle [[Roe]], [[Green Algae]], and various [[Trash]] items, but more valuable items are possible starting at population 5.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 5 [[Clay]] or 15 [[Fiber]] || 25
+|-
+| 5   || 7   || 10 [[Bug Meat]], 1 [[Cave Carrot]], or 5 [[Hardwood]] || 25
+|-
+| 7   || 10  || 1 [[Field Snack]], 5 [[Solar Essence]], or 1 [[Wild Bait]] || 25
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="3" data-sort-value="Roe"|{{Name|Light Blue Roe|1|link=Roe}}
+|rowspan="3"|11
+| 1-4  || 14%     || 3-7%
+|-
+| 5-8  || 13%     || 7-10%
+|-
+| 9-10 || 12%     || 11-12%
+|-
+|rowspan="3" data-sort-value="Trash"|{{Name|Trash (item)|1|link=Trash (item){{!}}Trash}}
+|rowspan="3"|10
+| 1-4  || 8%      || 1.9-4%
+|-
+| 5-8  || 8%      || 4-6%
+|-
+| 9-10 || 7%      || 6-7%
+|-
+|rowspan="3" data-sort-value="Green Algae"|{{Name|Green Algae|1-3}}
+|rowspan="3"|10
+| 1-4  || 5%      || 1.1-2.4%
+|-
+| 5-8  || 5%      || 3-4%
+|-
+| 9-10 || 5%      || 4%
+|-
+|rowspan="3" data-sort-value="Driftwood"|{{Name|Driftwood|1}}
+|rowspan="3"|10
+| 1-4  || 5%      || 1-2.1%
+|-
+| 5-8  || 4%      || 2.4-3%
+|-
+| 9-10 || 4%      || 3-4%
+|-
+|rowspan="3" data-sort-value="Broken Glasses"|{{Name|Broken Glasses|1}}
+|rowspan="3"|10
+| 1-4  || 4%      || 1-2%
+|-
+| 5-8  || 4%      || 2.2-3%
+|-
+| 9-10 || 4%      || 3-4%
+|-
+|rowspan="3" data-sort-value="Broken CD"|{{Name|Broken CD|1}}
+|rowspan="3"|10
+| 1-4  || 4%      || 0.9-1.9%
+|-
+| 5-8  || 4%      || 2.1-3%
+|-
+| 9-10 || 4%      || 3%
+|-
+|rowspan="3" data-sort-value="Soggy Newspaper"|{{Name|Soggy Newspaper|1}}
+|rowspan="3"|10
+| 1-4  || 4%      || 0.9-1.8%
+|-
+| 5-8  || 4%      || 2-3%
+|-
+| 9-10 || 3%      || 3%
+|-
+|rowspan="2" data-sort-value="Mixed Seeds"|{{Name|Mixed Seeds|2-3}}
+|rowspan="2"|10
+| 5-8  || 5%      || 3-4%
+|-
+| 9-10 || 4%      || 4%
+|-
+|data-sort-value="Warp Totem: Mountains"|{{Name|Warp Totem Mountains|1}}
+|10
+| 9-10 || 8%      || 7%
+|-
+|rowspan="3" data-sort-value="ZZZZ"|''Nothing''
+|rowspan="3"| `
+| 1-4  || 56%     || 90-79%
+|-
+| 5-8  || 53%     || 74-63%
+|-
+| 9-10 || 49%     || 56-52%
+|}
+
+==Quests==
+* One Periwinkle may be requested by several fish in [[Fish Pond#Quests|Fish Pond]] quests.
+* Five Periwinkle may be requested by [[Giant Stump#Questline|The Raccoon]] as part of the first request or as part of the sixth request and beyond.
+
+==Note==
+Periwinkle will never sell for more than {{Price|37}} under any circumstances, making it more profitable to turn them into [[Sashimi]] (worth {{Price|75}}) before selling them.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.6|Can now be requested by the [[Giant Stump#Questline|Raccoon]]. Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. Added silver quality.}}
+
+{{NavboxFish}}
+
+[[Category:Crab pot fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+
+[[de:Strandschnecke]]
+[[es:Bígaro]]
+[[fr:Bigorneau]]
+[[it:Lumachina]]
+[[ja:タマキビ]]
+[[ko:충알고둥]]
+[[hu:Parti csiga]]
+[[pt:Caramujo]]
+[[ru:Литорина]]
+[[tr:Deniz Salyangozu]]
+[[zh:玉黍螺]]

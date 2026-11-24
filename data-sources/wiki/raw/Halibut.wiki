@@ -1,0 +1,108 @@
+{{Infobox fish
+|eng        = Halibut
+|location   = [[The Beach|Ocean]]
+|time       = 6am – 11am<br />7pm – 2am
+|season     = {{Season|Spring}} • {{Season|Summer}} •<br />{{Season|Winter}}
+|weather    = Any
+|difficulty = 50
+|behavior   = Sinker
+|size       = 10-34
+|price      = 80
+|edibility  = 10
+|roe        = Light Gray
+}}
+The '''Halibut''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Spring]], [[Summer]], and [[Winter]]. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{Tprice|80}}.
+
+Halibut can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+The Halibut can be found in the ocean.
+{{Map|275|200}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Halibut is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Halibut can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt259a.png|24px]]
+
+==Fish Pond==
+Halibut can be placed in a [[Fish Pond]], where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is light gray Halibut [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]] || 35
+|-
+| 5   || 7   || 2 [[Clam]]s or 2 [[Coral]] || 35
+|-
+| 7   || 10  || 2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]s || 35
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Light Gray Roe|1|link=Roe}}
+|rowspan="2"|12
+| 1-4  || 70%     || 16-33%
+|-
+| 5-10 || 100%    || 55-95%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-4  || 30%     || 84-67%
+|-
+| 5-10 || 0%      || 45-5%
+|}
+
+==Quests==
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Halibut to be caught in [[Spring]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Added iridium quality. Can now be used in [[Tailoring]].}}
+{{History|1.5|[[Quests#List of Special Orders|Special Order]] quest added.}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Winter fish]]
+[[Category:Ocean fish]]
+
+[[de:Heilbutt]]
+[[es:Fletán]]
+[[fr:Flétan]]
+[[it:Ippoglosso]]
+[[ja:オヒョウ]]
+[[ko:넙치]]
+[[hu:Óriás laposhal]]
+[[pt:Halibute]]
+[[ru:Палтус]]
+[[tr:Pisibalığı]]
+[[zh:大比目鱼]]

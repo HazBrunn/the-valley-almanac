@@ -1,0 +1,133 @@
+{{Infobox fish
+|eng        = Scorpion Carp
+|location   = [[The Desert]]
+|time       = 6am – 8pm
+|season     = All
+|weather    = Any
+|difficulty = 90
+|behavior   = Dart
+|size       = 12-33
+|fl         = 4
+|price      = 150
+|edibility  = -50
+|roe        = Dark Brown
+}}
+The '''Scorpion Carp''' is a [[fish]] that can be caught in the pond at [[The Desert]] during all seasons. It can also randomly be found in [[Garbage Can]]s after unlocking The Desert, or at the [[Traveling Cart]] for {{Tprice|150}}. The only other fish that can be caught in the Desert is the [[Sandfish]].  
+
+Since it is more valuable than the Sandfish, it is more difficult to catch and also has a lower bite rate. Catching the Scorpion Carp requires [[Fishing#Fishing Skill|Fishing level 4]], either naturally or by using fishing [[Buffs]].
+
+Scorpion Carp can be caught regardless of time of day using [[Magic Bait]].
+
+==Map==
+The Scorpion Carp can be found at the Desert.
+{{Map|2|2}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Scorpion Carp is an option in the {{Bundle|Master Fishers||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Scorpion Carp can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{Name|Fishing Hat|class=inline}}. It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Scorpion Carp can be placed in a [[Fish Pond]], where they will reproduce every 4 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is dark brown Scorpion Carp [[Roe]], but [[Cactus Seeds]] are also possible at population 10.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Cactus Fruit]]s or 3 [[Coconut]]s || 40
+|-
+| 5   || 10  || 1 [[Golden Relic]] || 40
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="3" data-sort-value="Roe 1"|{{Name|Dark Brown Roe|1|link=Roe}}
+|rowspan="3"|14
+| 1-7  || 75%     || 17-53%
+|-
+| 8-9  || 38%     || 30-33%
+|-
+| 10   || 27%     || 25%
+|-
+|rowspan="2" data-sort-value="Roe 2"|{{Name|Dark Brown Roe|2|link=Roe}}
+|rowspan="2"|14
+| 8-9  || 50%     || 40-44%
+|-
+| 10   || 36%     || 34%
+|-
+|data-sort-value="Roe 3"|{{Name|Dark Brown Roe|3|link=Roe}}
+|14
+| 10   || 24%     || 23%
+|-
+|data-sort-value="Cactus Seeds"|{{Name|Cactus Seeds|2-5}}
+|10
+| 10   || 5%      || 5%
+|-
+|rowspan="3" data-sort-value="ZZZZ"| ''Nothing''
+|rowspan="3"| 
+| 1-7  || 25%     || 83-47%
+|-
+| 8-9  || 13%     || 31-24%
+|-
+| 10   || 9%      || 13%
+|}
+
+==Quests==
+*'''Item Delivery:'''&nbsp; After unlocking [[The Desert]], Scorpion Carp may be randomly requested at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|450}} and 150 [[Friendship]] points.
+*[[Willy]] requests the player to catch 1 Scorpion Carp during the [[Desert Festival]] for his [[Desert Festival#Willy's Fishing Quests|fishing challenge]] on Spring 16. The reward is {{Price|50|Calico}}.
+
+==Notes==
+* While the Scorpion Carp has a theoretical maximum [[Fishing#Fish Size & Quality|Size]] of 33", in actual gameplay it is impossible to catch a Scorpion Carp longer than 30" due to the Desert pond's tiles only having a maximum [[Fishing#Distance from Land|distance from land]] of 2. A Fishing level of at least 18 is required to catch a 30" Scorpion Carp.
+
+==History==
+{{History|1.4|Added to Help Wanted quests. Added iridium quality. Can now be used in [[Tailoring]].}}
+{{History|1.5|Is now used in a remixed bundle.}}
+{{History|1.6|Added to [[Desert Festival]] quest.}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+[[Category:Desert fish]]
+
+[[de:Skorpionkarpfen]]
+[[es:Carpa escorpión]]
+[[fr:Carpe scorpion]]
+[[it:Carpa scorpione]]
+[[ja:サソリゴイ]]
+[[ko:전갈 잉어]]
+[[hu:Skorpió ponty]]
+[[pt:Carpa escorpiônica]]
+[[ru:Скорпионовый карп]]
+[[tr:Akrepbalığı]]
+[[zh:蝎鲤鱼]]

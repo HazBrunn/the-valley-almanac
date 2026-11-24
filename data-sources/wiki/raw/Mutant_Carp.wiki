@@ -1,0 +1,107 @@
+{{Infobox fish
+|eng        = Mutant Carp
+|location   = [[The Sewers]]
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 80
+|size       = 35-37
+|price      = 1000
+|edibility  = 10
+|behavior   = Dart
+|roe        = Green
+}}
+:''See also: [[Radioactive Carp]]''
+The '''Mutant Carp''' is a [[fish]] that can be caught in [[The Sewers]] during all seasons. It is one of the five [[Fish#Legendary Fish|Legendary Fish]], so it can only be caught once per [[Saves|save file]], or once per player in [[Multiplayer]].
+
+There are no special requirements necessary to hook a Mutant Carp; every cast in the sewers has a 10% chance of hooking one (20% chance if using a [[Curiosity Lure]]).<ref name="placement" />
+
+Although the Mutant Carp cannot be hooked again after it is caught, it is possible to obtain multiple Mutant Carp (per player) by using [[Challenge Bait]] to catch it.
+
+==Map==
+The Mutant Carp can be found in The Sewers.
+{{Map|222|139|loc2x=124|loc2y=184}}
+
+==Strategy==
+A strategy to catch this fish is to stay in the middle of the fishing minigame area until the fish begins resting somewhere else (such as the bottom or top), then stay there. The fish will move up and down continuously to shake the player off and staying in the middle will allow for a slow but continuous catch.
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Mutant Carp is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Dyeing==
+It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Mutant Carp can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Mutant Carp [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Green Roe|1-4|link=Roe}}
+|32
+| 1 || 72%     || 36%
+|-
+|{{Name|Green Roe|1-2|link=Roe}}
+|32
+| 1 || 14%     || 7%
+|-
+|''Nothing''
+| 
+| 1 || 14%     || 57%
+|}
+
+==Quests==
+The Mutant Carp is not used in any [[quests]].
+
+==References==
+<references>
+  <ref name="placement">See <samp>Data\Locations.xnb</samp>.</ref>
+</references>
+
+==History==
+{{History|1.4|Added iridium quality.}}
+{{History|1.5|Chance of catching it can now be increased by using a [[Curiosity Lure]].}}
+{{History|1.6|Fixed bug allowing [[Fish#Legendary Fish|Legendary Fish]] to be hooked with the [[Training Rod]]. Removed extra 8% chance increase to hook the fish on certain unwalkable tiles. Legendary Fish [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book. Can now obtain multiple Mutant Carp per player using [[Challenge Bait]].}}
+{{History|1.6.9|Can now be placed in a [[Fish Pond]].}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:Sewer fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+
+[[de:Mutantenkarpfen]]
+[[es:Carpa mutante]]
+[[fr:Carpe mutante]]
+[[it:Carpa mutante]]
+[[ja:ミュータントゴイ]]
+[[ko:돌연변이 잉어]]
+[[hu:Mutáns ponty]]
+[[pt:Carpa mutante]]
+[[ru:Карп-мутант]]
+[[tr:Türeşik Sazanbalığı]]
+[[zh:变种鲤鱼]]

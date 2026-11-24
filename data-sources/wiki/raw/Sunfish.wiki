@@ -1,0 +1,117 @@
+{{Infobox fish
+|eng         = Sunfish
+|location    = River
+|time        = 6am – 7pm
+|season      = {{Season|Spring}} • {{Season|Summer}}
+|weather     = {{Weather inline|Sun}} • {{Weather inline|Springwind}}
+|difficulty  = 30
+|behavior    = Mixed
+|size        = 5-16
+|price       = 30
+|edibility   = 5
+|roe         = Orange
+}}
+The '''Sunfish''' is a [[fish]] that can be caught in the river (in [[Pelican Town]] or [[Cindersap Forest]]) during [[Spring]] and [[Summer]] during sunny [[weather]]. It may also be caught on the [[Farm Maps|Riverlands Farm]], [[Farm Maps|Forest Farm]], or [[Farm Maps|Hill-top Farm]]. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly be found at the [[Traveling Cart]] for {{Tprice|30}} or in [[Garbage Can]]s during [[Spring]] and [[Summer]].
+
+The Sunfish replaces any ineligible fish or non-fish items for the [[Fish#Tutorial Catch|tutorial catch]]. This can happen regardless of time, weather, season, or location.
+
+One Sunfish is contained in the [[Bundles#Fish Tank|Community Center Fish Tank]] right after it is repaired.
+
+Sunfish can be caught regardless of weather, time, or season using [[Magic Bait]].
+
+==Map==
+Sunfish can be found in the river.
+{{Map|200|150|loc2x=120|loc2y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Sunfish is used in the {{Bundle|River Fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Baked Fish|RecipeRow/NoBuffs}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Sunfish can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Fish Shirt]].  [[File:Shirt158.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Sunfish can be placed in a [[Fish Pond]], where they will reproduce every day. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is orange Sunfish [[Roe]], but [[Solar Essence]] is also possible at population 10.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 2 [[Acorn]]s or 2 [[Geode]]s || 25
+|-
+| 5   || 10  || 1 [[Amethyst]] or 3 [[Mixed Seeds]] || 25
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Orange Roe|1|link=Roe}}
+|rowspan="2"|11
+| 1-9  || 90%     || 21-78%
+|-
+| 10   || 83%     || 79%
+|-
+|{{Name|Solar Essence|1}}
+|11
+| 10   || 8%      || 8%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-9  || 10%     || 79-22%
+|-
+| 10   || 9%      || 14%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Sunfish may be randomly requested in [[Spring]] or [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|90}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-5 sunfish during [[Spring]] or [[Summer]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|30}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Sunfish to be caught in [[Spring]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Added iridium quality. Can now be used in [[Tailoring]].}}
+{{History|1.5|Special Order quest added.}}
+{{History|1.6|One is contained in the [[Bundles#Fish Tank|Community Center Fish Tank]] right after it is repaired. Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:River fish]]
+
+[[de:Gotteslachs]]
+[[es:Pez sol]]
+[[fr:Poisson lune]]
+[[it:Persico sole]]
+[[ja:ブルーギル]]
+[[ko:개복치]]
+[[hu:Naphal]]
+[[pt:Peixe-sol]]
+[[ru:Санфиш]]
+[[tr:Güneşbalığı]]
+[[zh:太阳鱼]]

@@ -1,0 +1,117 @@
+
+[[File:SquidFest.png|500px|right]]
+'''SquidFest''' is a [[fishing]] mini [[Festivals|festival]] which takes place at [[the Beach]] on the 12th and 13th of every [[Winter]]. The festival begins at 6:10am and ends at 2:00am on both days. During the festival, [[Squid]] can be caught all day long. Catching certain amounts of squid will earn the player prizes. 
+
+Unlike other festivals, shops and homes throughout Stardew Valley (including those at the beach) are ''not'' closed on the days of the event, and time continues to pass during the festival. [[Animals]] also need to be fed during the event; the game will not automatically consider them to be fed.
+
+==Booth==
+When interacting with the booth, the player can choose to either claim [[#Prizes|prizes]] or receive an [[#Quotes|explanation]] of the event.
+
+===Prizes===
+There are 4 tiers of prizes: copper, iron, gold and iridium. The squids needed to be caught for each tier are listed on a sign to the left of the shop. The amount of squid the player has caught is shown in a counter on the top-left corner. The counter resets between days.
+
+Below is the list of tiers and rewards with the number of squids required to be caught on that day to earn the reward.<ref name="prizepool" /> The prizes can all be claimed at once. If the player's inventory is full, any unclaimed prizes will drop onto the ground around the player.
+{| class="wikitable"
+|-
+! Day !! Tier !! Squids Required !! Possible Reward(s) !! Notes
+|-
+|rowspan="4"|Winter 12th
+|Copper
+|1
+|{{Name|Deluxe Bait|20}}
+|The player is guaranteed to earn this reward.
+|-
+|Iron
+|3
+|{{Name|Winter Seeds|10}}{{Name|Mystery Box|2}}{{Name|Dish O' The Sea|1}}
+|[[Dish O' The Sea]] is a guaranteed reward. The player will also earn exactly one of 10 [[Winter Seeds]] or 2 [[Mystery Box]]es, chosen with equal probability.
+|-
+|Gold
+|5
+|{{Name|Pearl|1}}{{Name|Coffee|3}}
+|The player is guaranteed to earn both of these rewards.
+|-
+|Iridium
+|8
+|{{Name|'Squid Kid'|1}}{{Name|The Art O' Crabbing|1}}{{Name|Mystery Box|3}}{{Name|Seafoam Pudding|1}}
+|[['Squid Kid']] is a guaranteed reward. The player will also get [[The Art O' Crabbing]] if they haven't already received it at the festival. Otherwise, they will earn 3 [[Mystery Box]]es and 1 [[Seafoam Pudding]].
+|-
+|rowspan="4"|Winter 13th
+|Copper
+|2
+|{{Name|Trap Bobber|1}}
+|The player is guaranteed to earn this reward.
+|-
+|Iron
+|5
+|{{Name|Winter Seeds|15}}{{Name|Mystery Box|3}}{{Name|Dish O' The Sea|1}}
+|[[Dish O' The Sea]] is a guaranteed reward. The player will also earn exactly one of 15 [[Winter Seeds]] or 3 [[Mystery Box]]es, chosen with equal probability.
+|-
+|Gold
+|7
+|{{Name|Treasure Chest|1}}{{Name|Triple Shot Espresso|3}}
+|The player is guaranteed to earn both of these rewards.
+|-
+|Iridium
+|10
+|{{Name|Squid Hat|1}}{{Name|The Art O' Crabbing|1}}{{Name|Mystery Box|3}}{{Name|Seafoam Pudding|1}}
+|[[Squid Hat]] is a guaranteed reward. The player will also get [[The Art O' Crabbing]] if they haven't already received it at the festival. Otherwise, they will earn 3 [[Mystery Box]]es and 1 [[Seafoam Pudding]]. 
+|}
+
+===Quotes===
+{{Quote|It's a squid fishing challenge! If you can hit our daily catch targets, you'll win prizes. Check the sign to the left. We also put special bait in the water so the squid are active all day!|In-game explanation of event}}
+{{Quote|You haven't earned any rewards yet. Better start catching some squid!|Dialogue upon trying to claim a reward without having met the copper tier prize requirement}}
+{{Quote|You don't have any rewards available right now. Keep catching more squid!|Dialogue upon trying to claim a reward after having met some but not all of the tier prize requirements and having already claimed all available rewards}}
+{{Quote|Congratulations! You hit our iridium-level target and earned all possible rewards for today.|Dialogue after claiming the iridium tier prizes}}
+
+==Introduction==
+Starting a few days before the festival, a sign will be erected at the same location as the [[#Booth|booth]].
+
+{{Quote|-----SquidFest-----<br /> Friday the 12th and Saturday the 13th.<br /> A two-day squid fishing bonanza. If you can reach our daily catch targets, you'll win prizes.<br /> (Note: Any personal items found near this sign will be sent to the lost and found)}}
+
+==Characters==
+Other characters from outside Stardew Valley also participate in the festival. Below is a list of quotes from them.
+
+{{Collapse|Quotes|content=<br />
+{{Quote|Fisherman: Squid usually only show up at night. But they threw some special bait in the water that's making them active all day.}}
+{{Quote|Mariner: The cold air makes me feel tough, like a piece of jerky.<br /> Mariner: When the air is too warm I feel like a pudding.}}
+{{Quote|Mariner: Come here, squiddy squiddy...}}
+{{Quote|Fisherman: You're a local, huh? Hope you don't mind if I pinch a few of your fine squid...}}
+{{Quote|Fishing Sisters: We're the famous fishing sisters.<br /> Fishing Sisters: We've been fishing squids since we were kids. Nah nah nah!}}
+{{Quote|Angler: Brrr... It's cold! Maybe I'm not cut out for winter ocean fishing.<br /> Angler: I'm more of a CarpFest kind of guy...}}
+{{Quote|Trout Man: Welp, squid are a bit different than trout, but I can catch them all the same.<br /> Trout Man: You better get to fishing if you want a shot at the prize!}}
+{{Quote|Fisherman: My wife sent me off with a thermos of hot coffee. What a gal!}}
+{{Quote|Fishing Pro: Shhh... I don't want to scare the squid.<br /> Fishing Pro: I came over here to get away from the crowd. Squid can be shy.<br /> Fishing Pro: You can fish here if you want, though. Just try to be quiet.}}
+{{Quote|Fisherman: I'm not too worried about winning the competition. I just want to enjoy the ambience.<br /> Fisherman: Summer's weather is nicer, but there's something special about a rugged winter. And what would life be without contrast?}}
+{{Quote|Fisherman: My fingers are frozen solid, so I'm just going to enjoy a hot cup o' cider over here. Good luck out there!}}
+{{Quote|Squid Chef: Oh, don't mind me... I'm just here for the bulk squid prices!<br /> Squid Chef: Well, what are you waiting for? Those squid aren't going to catch themselves!}}
+}}
+
+==Tips==
+*The player can craft a [[Bait Maker]] to obtain some [[Targeted Bait|Squid Bait]] before the festival, as it will significantly reduce the time needed to catch the required Squids. The player can also take a bait maker to the festival to make more squid bait from the festival catch. The catch count does not decrease.
+*Alternatively, the player may choose to use [[Wild Bait]] for a chance to get two squids from one catch, as both contribute towards the catch count.
+*Unlike most other festivals, the map does not change for this event, so a [[Chest]] placed at the beach prior to or during the event can effectively extend the player's [[inventory]] space and won't be removed after the festival ends.
+
+==References==
+<references>
+    <ref name="prizepool">See <samp>GameLocation::answerDialogueAction</samp> in the game code.</ref>
+</references>
+
+==History==
+{{History|1.6|Introduced.}}
+
+{{NavboxFestivals}}
+
+[[Category:Winter festivals]]
+
+[[de:Tintenfischfest]]
+[[es:Festival del Calamar]]
+[[fr:Fête du calamar]]
+[[it:Calamaride]]
+[[ja:イカ釣りまつり]]
+[[ko:오징어 축제]]
+[[hu:Tintahal fesztivál]]
+[[pt:Festival da Lula]]
+[[ru:Кальмарофест]]
+[[tr:Mürekkepbalığı Şenliği]]
+[[zh:鱿鱼节]]

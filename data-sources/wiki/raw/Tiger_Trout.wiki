@@ -1,0 +1,112 @@
+{{Infobox fish
+|eng        = Tiger Trout
+|location   = River
+|time       = 6am – 7pm
+|season     = {{Season|Fall}} • {{Season|Winter}}
+|weather    = Any
+|difficulty = 60
+|behavior   = Dart
+|size       = 10-21
+|price      = 150
+|edibility  = 10
+|roe        = Dark Brown
+}}
+The '''Tiger Trout''' is a [[fish]] that can be caught in the river (in [[Pelican Town]] or [[Cindersap Forest]]) and the [[Farm Maps|Riverlands Farm]], [[Farm Maps|Forest Farm]], [[Farm Maps|Meadowlands Farm]], or [[Farm Maps|Hill-Top Farm]] during [[Fall]] and [[Winter]]. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{tprice|150}}.
+
+Tiger Trout can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+The Tiger Trout can be found in the river.
+{{Map|200|150|loc2x=120|loc2y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Leo
+|hate=Pierre,Evelyn,Haley
+|like=Willy
+}}
+
+==Bundles==
+Tiger Trout is used in the {{Bundle|River Fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Tiger Trout can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Fish Shirt]].  [[File:Shirt158.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Tiger Trout can be placed in a [[Fish Pond]], but unlike all other fish, they cannot reproduce. <ref name="tigertroutreprod"/>  The pond must be filled with caught Tiger Trout to reach maximum capacity. The initial pond capacity is 10 fish; no quests are necessary to increase the pond capacity. The only possible output is dark brown Tiger Trout [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="3"|{{Name|Dark Brown Roe|1|link=Roe}}
+|rowspan="3"|14
+| 1-4  || 100%    || 23-47%
+|-
+| 5-9  || 60%     || 33-52%
+|-
+| 10   || 12%     || 11%
+|-
+|rowspan="2"|{{Name|Dark Brown Roe|2|link=Roe}}
+|rowspan="2"|14
+| 5-9  || 40%     || 22-35%
+|-
+| 10   || 88%     || 84%
+|-
+|rowspan="3"|''Nothing''
+|rowspan="3"| 
+| 1-4  || 0%      || 77-53%
+|-
+| 5-9  || 0%      || 45-13%
+|-
+| 10   || 0%      || 5%
+|}
+
+==Quests==
+*'''Fishing:''' [[Willy]] may randomly request 1-4 Tiger Trout during [[Fall]] or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|150}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Tiger Trout to be caught in [[Fall]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==Trivia==
+* In real life, as in the game, [[Wikipedia:Tiger Trout|Tiger Trout]] are a sterile hybrid of the [[Wikipedia:Brown Trout|Brown Trout]] and the [[Wikipedia:Brook Trout|Brook Trout]], unable to reproduce.
+
+==References==
+<references>
+<ref name="tigertroutreprod"> In the game code the spawn rate for Tiger Trout is set to 999999 meaning it could technically reproduce after that number of days. To reach that number of days in Stardew Valley would require 8928 years of the game to be played. </ref>
+</references>
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Special Order quest added.}}
+{{History|1.6|Can now be caught on the [[Farm Maps|Meadowlands Farm]]. Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:River fish]]
+[[Category:Lake fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+
+[[de:Tigerforelle]]
+[[es:Trucha tigre]]
+[[fr:Truite tigrée]]
+[[it:Trota tigre]]
+[[ja:タイガートラウト]]
+[[ko:타이거 송어]]
+[[hu:Tigris pisztráng]]
+[[pt:Salmão híbrido]]
+[[ru:Тигровая форель]]
+[[tr:Kaplanbalığı]]
+[[zh:虎纹鳟鱼]]

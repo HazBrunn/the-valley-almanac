@@ -1,0 +1,153 @@
+{{Infobox location
+|mapx      = 20
+|mapy      = 20
+|building  = Casino.png
+|openhours = 9:00am to 11:50pm
+|closed    = Never
+|address   = [[The Desert]]
+|occupants = {{NPC|Mr. Qi}}
+}}
+The '''Casino''' is located in [[The Desert|the Calico Desert]] accessed through the back door of the [[Oasis]]. Access is initially blocked by the [[Bouncer]] until [[Quests#The Mysterious Qi|"The Mysterious Qi" quest]] is completed.
+
+[[Mr. Qi]] is constantly present in the room. To his right is a machine to exchange gold for Qi coins, at a rate of {{Price|1000}} per {{Price|100|Qi}}, or {{Price|10}} per {{Price|1|Qi}} value. Qi coins are used for both gambling and purchasing items inside the Casino, and cannot be converted back to gold.
+
+To the top-left of the room is a terminal that lists multiple statistics for [[the Player]].
+
+There are two forms of gambling available, [[Slot Machine|slot machine]]s and a variant of BlackJack, [[CalicoJack]]. There are two tables for CalicoJack, low stakes ({{Price|100|Qi}}) to the left and high stakes ({{Price|1000|Qi}}) to the right.
+
+In the upper right corner of the room, to the right of the machine for exchanging Qi coins and next to a potted plant, stands a shady individual who offers to sell [[Statue Of Endless Fortune|Statues Of Endless Fortune]] for {{Price|1000000}} each.
+
+==Store==
+The store is located in the top right of the casino. 
+
+In some resolution settings, you may be unable to access the store without using the 'use button' or zooming out (go to menu, options).
+{|class="wikitable sortable" style="min-width: 500px;"
+!class="unsortable"|Image
+!Name
+!Description
+!Stock
+!Price
+|-
+|[[File:'Primal Motion'.png|90px|center]]
+|[['Primal Motion']]
+|{{Description|furniture}}
+|Infinite
+|{{Price|5000|Qi}}
+|-
+|[[File:'Burnt Offering'.png|center]]
+|[['Burnt Offering']]
+|{{Description|furniture}}
+|Infinite
+|{{Price|4000|Qi}}
+|-
+|[[File:'Highway 89'.png|center]]
+|[['Highway 89']]
+|{{Description|furniture}}
+|Infinite
+|{{Price|4000|Qi}}
+|-
+|[[File:'Spires'.png|center]]
+|[['Spires']]
+|{{Description|furniture}}
+|Infinite
+|{{Price|3000|Qi}}
+|-
+|[[File:Top Hat.png|center]]
+|[[Top Hat]]
+|{{Description|Top Hat}}
+|Infinite
+|{{Price|8000|Qi}}
+|-
+|[[File:Rarecrow 3.png|center]]
+|[[Scarecrow#Rarecrows|Rarecrow #3]]
+|{{Description|Rarecrow3}}
+|Infinite
+|{{Price|10000|Qi}}
+|-
+|[[File:Hardwood Fence.png|center]]
+|[[Hardwood Fence]]
+|{{Description|Hardwood Fence}}
+|20
+|{{Price|100|Qi}}
+|-
+|[[File:Magnet.png|center|36px]]
+|[[Magnet]]
+|{{Description|Magnet}}
+|20
+|{{Price|1000|Qi}}
+|-
+|[[File:Warp Totem Farm.png|center]]
+|[[Warp Totem: Farm]]
+|{{Description|Warp Totem: Farm}}
+|20
+|{{Price|1000|Qi}}
+|-
+|[[File:Modern Double Bed.png|center|64px]]
+|[[Modern Double Bed]]
+|{{Description|furniture}}
+|Infinite
+|{{Price|8000|Qi}}
+|-
+|[[File:Fireworks (Red).png|center]]
+|[[Fireworks (Red)]]
+|{{Description|Fireworks (Red)}}
+|20
+|{{Price|200|Qi}}
+|-
+|[[File:Fireworks (Purple).png|center]]
+|[[Fireworks (Purple)]]
+|{{Description|Fireworks (Purple)}}
+|20
+|{{Price|200|Qi}}
+|-
+|[[File:Fireworks (Green).png|center]]
+|[[Fireworks (Green)]]
+|{{Description|Fireworks (Green)}}
+|20
+|{{Price|200|Qi}}
+|-
+|[[File:Wallpaper 137 icon.png|center]]
+|[[Wallpaper]]
+|{{Description|Wallpaper}}
+|Infinite
+|{{Price|10000|Qi}}
+|-
+|[[File:Wallpaper 138 Icon.png|center]]
+|[[Wallpaper]]
+|{{Description|Wallpaper}}
+|Infinite
+|{{Price|100000|Qi}}
+|-
+|[[File:Flooring 65 Icon.png|center]]
+|[[Flooring]]
+|{{Description|Flooring}}
+|Infinite
+|{{Price|100000|Qi}}
+|}
+
+==Tips==
+* Press "y" on [[Controls#Keyboard & Mouse|mouse/keyboard]] to answer "yes" to the dialogue box at the Qi coin vending machine.
+
+==History==
+{{History|1.3.27|Fixed bug where crafting stats would be 0 if the player had not crafted an item the day of visiting the Casino.}}
+{{History|1.4|Casino minigames now slightly favor the player. Random number generation fixed to prevent repeating patterns in [[Slot Machine]]s.}}
+{{History|1.5|Store now stocks [[Modern Double Bed]].}}
+{{History|1.6|Casino now has limited stocks of items. Added fireworks, [[wallpaper]]s, and a [[flooring]].}}
+{{History|1.6.4|Qi coins now show up in the shop menu.}}
+
+{{NavboxBuildings}} 
+
+[[Category:Stores]]
+[[Category:Desert Locations]]
+
+[[de:Kasino]]
+[[es:Casino]]
+[[fr:Casino]]
+[[it:Casinò]]
+[[ja:カジノ]]
+[[ko:카지노]]
+[[hu:Kaszinó]]
+[[pt:Cassino]]
+[[ru:Казино]]
+[[tr:Kumarhane]]
+[[zh:赌场]]

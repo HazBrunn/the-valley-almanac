@@ -1,0 +1,604 @@
+{{Infobox villager
+|portrait  = Kent.png
+|birthday  = {{Season|Spring}} 4
+|location  = Pelican Town
+|address   = [[1 Willow Lane]]
+|family    = {{NPC|Jodi|Wife}}{{NPC|Sam|Son}}{{NPC|Vincent|Son}}
+|marriage  = No
+|favorites = {{Name|Fiddlehead Risotto}}{{Name|Roasted Hazelnuts}}
+}}
+{{Quote|I don't know if I'll ever get used to being back home. The peacefulness of the town feels like a mask. That's probably just me though.|Kent}}
+
+'''Kent''' is a [[Villagers|villager]] who lives in [[Pelican Town]].  He is away serving in the army throughout the first year and returns to live in the town during spring of year two. Year one references to him include the contents of the drawer in [[Jodi]]'s bedroom and dialogue from [[Sam]] and [[Vincent]].
+
+==Schedule==
+After the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island is unlocked, Kent may randomly spend the day there. After leaving the Island at 6pm, Kent will immediately go home to bed. Kent never visits the Resort on [[Festivals|Festival]] days.
+
+Shown below is Kent's schedule, prioritized from the top down.  For example, if it is raining, that schedule overrides all schedules below it.
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Spring 17 (Bus Service Restored)
+|-
+|style="width:15%"|9:00 AM
+|Leaves home to head to the [[Desert Festival]] and stand by one of the villager shops.
+|-
+|12:00 AM
+|Heads to bed.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Desert Festival (As Vendor)
+|-
+|style="width:15%"|11:10 AM
+|Boards the bus to [[The Desert|Calico Desert]].
+|-
+|11:30 AM
+|Arrives at his [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM
+|Leaves booth and takes the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Rain
+|-
+|style="width:15%"|8:30 AM
+|At home, standing in his living room.
+|-
+|2:00 PM
+|Leaves home, stands under a tree just north of his house.
+|-
+|5:00 PM
+|Returns home and stands in the entryway.
+|-
+|7:00 PM
+|Heads to the kitchen.
+|-
+|9:00 PM
+|Leaves home, stands under the tree in front of his house.
+|-
+|11:00 PM
+|Returns home to sleep.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Friday and Saturday
+|-
+|style="width:15%"|7:00 AM
+|Leaves home, stands under the tree between the [[The Sewers|sewer entrance]] and the bridge to [[The Beach|the beach]].
+|-
+|10:30 AM
+|Returns home to stand in his living room.
+|-
+|2:00 PM
+|Leaves home, stands under a tree just north of his house.
+|-
+|5:00 PM
+|Goes to [[The Stardrop Saloon]].
+|-
+|11:50 PM
+|Leaves the Saloon and returns home to sleep.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Sunday (Alex's 14 heart event seen)
+|-
+|style="width:15%"|8:00 AM
+|At home, standing in the kitchen.
+|-
+|8:30 AM
+|Leaves home, heads to the altar room inside [[Pierre's General Store]].
+|-
+|11:10 AM
+|Leaves Pierre's and heads to the back room of [[the Stardrop Saloon]].
+|-
+|3:00 PM
+|Leaves the Saloon and heads home to stand in the entryway.
+|-
+|7:00 PM
+|Heads to the kitchen.
+|-
+|9:00 PM
+|Leaves home, stands under the tree in front of his house.
+|-
+|11:00 PM
+|Returns home to sleep.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Sunday
+|-
+|style="width:15%"|8:00 AM
+|At home, standing in the kitchen.
+|-
+|10:10 AM
+|Leaves home, heads to the altar room inside [[Pierre's General Store]].
+|-
+|2:00 PM
+|Leaves the altar room, moves to Pierre's counter.
+|-
+|4:00 PM
+|Leaves Pierre's and heads home to stand in the entryway.
+|-
+|7:00 PM
+|Heads to the kitchen.
+|-
+|9:00 PM
+|Leaves home, stands under the tree in front of his house.
+|-
+|11:00 PM
+|Returns home to sleep.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Regular Schedule
+|-
+|style="width:15%"|7:00 AM
+|Leaves home, stands under the tree between the [[The Sewers|sewer entrance]] and the bridge to [[The Beach|the beach]].
+|-
+|10:30 AM
+|Returns home to stand in his living room.
+|-
+|2:00 PM
+|Leaves home, stands under a tree just north of his house.
+|-
+|5:00 PM
+|Returns home, stands in the entryway.
+|-
+|7:00 PM
+|Heads to the kitchen.
+|-
+|9:00 PM
+|Leaves home, stands under the tree in front of his house.
+|-
+|11:00 PM
+|Returns home to sleep.
+|-
+|}
+
+==Relationships==
+Kent is married to [[Jodi]] and together they have two sons, [[Sam]] and [[Vincent]].
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you.}}
+''Stardrop Tea''
+{{Squote|For me? Well, that's unexpected... But I won't say no. Thanks!}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Kent Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Fiddlehead Risotto.png|center]]
+|[[Fiddlehead Risotto]]
+|{{Description|Fiddlehead Risotto}}
+|[[Cooking]]
+|{{Name|Oil|1}}{{Name|Fiddlehead Fern|1}}{{Name|Garlic|1}}
+|-
+|[[File:Roasted Hazelnuts.png|center]]
+|[[Roasted Hazelnuts]]
+|{{Description|Roasted Hazelnuts}}
+|[[Cooking]]
+|{{Name|Hazelnut|3}}
+|}
+
+===Like===
+{{Squote|Hey, now this is a really great gift. Thanks.}}
+''Dwarvish Safety Manual''
+{{Squote|Well, I can't read Dwarvish, but it's an interesting collector's item. Thank you.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Kent Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]''' ''(except [[Algae Soup]], [[Piña Colada]], [[Sashimi]], &amp; [[Tortilla]])''</li><li>'''All Eggs''' ''(except [[Void Egg]])*''</li><li>'''All [[Fruits|Fruit]]'''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Dwarvish Safety Manual.png|center]]
+|[[Dwarvish Safety Manual]]
+|{{Description|Dwarvish Safety Manual}}
+|[[Books]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Neutral===
+{{Squote|That's kind of you. The family will like this.}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Kent.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]''' ''(except [[Dwarvish Safety Manual]])''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Foraging]] - [[Winter]]
+|}
+
+===Dislike===
+{{Squote|Ah... It's a... what is this, exactly? Hmm...}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Kent Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]'''</li></ul>
+|-
+|[[File:Piña Colada.png|center]]
+|[[Piña Colada]]
+|{{Description|Piña Colada}}
+|[[Ginger Island#Island South|Beach Resort]] on Sundays
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Mining]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Foraging]] - [[Winter]]
+|}
+
+===Hate===
+{{Squote|This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Kent Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li><li>'''All Milk'''</li></ul>
+|-
+|[[File:Algae Soup.png|center]]
+|[[Algae Soup]]
+|{{Description|Algae Soup}}
+|[[Cooking]]
+|{{Name|Green Algae|4}}
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|
+|-
+|[[File:Sashimi.png|center]]
+|[[Sashimi]]
+|{{Description|Sashimi}}
+|[[Cooking]]
+|{{Name|Fish|1}}
+|-
+|[[File:Tortilla.png|center]]
+|[[Tortilla]]
+|{{Description|Tortilla}}
+|[[Cooking]]
+|{{Name|Corn|1}}
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|N/A
+|-
+!Like
+|-
+|[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture
+<p>[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World</p>
+[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling
+<p>[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch</p>
+[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express
+<p>[[File:'Wumbus'.png|24px|link=]] Wumbus</p>
+|-
+!Dislike
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Mysterium'.png|24px|link=]] Mysterium</p>
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Popcorn.png|24px|link=]] Popcorn<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|[[File:Black Licorice.png|24px|link=]] Black Licorice<br />[[File:Cotton Candy.png|24px|link=]] Cotton Candy<br />[[File:Jawbreaker.png|24px|link=]] Jawbreaker<br />[[File:Joja Cola (large).png|24px|link=]] Joja Cola<br />[[File:JojaCorn.png|24px|link=]] JojaCorn<br />[[File:Rock Candy.png|24px|link=]] Rock Candy<br />[[File:Sour Slimes.png|24px|link=]] Sour Slimes
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Anytime===
+At any [[friendship]] level greater than zero friendship points, you may receive a gift in the mail from Kent.  The chance of receiving a gift in the mail increases as your friendship with Kent increases.
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Details'''&nbsp;
+|-                            
+| 
+	{|class="wikitable roundedborder"
+	|-
+	!Item
+	!Description
+	|-
+	|{{Name|Cherry Bomb|size=32}}{{Name|Bomb|size=32}}{{Name|Mega Bomb|size=32}}{{Name|Battery Pack|size=32}}
+	|<p>Hello [Player]</p><p>This item was collecting dust in the toolshed. I thought you might be able to use it.</p><p>-Kent</p>
+	|}
+|}
+
+===Three Hearts I===
+{{heart event
+ |hearts = 3
+ |trigger = Enter Kent's home while he and [[Jodi]] are both there.
+ |details = When the player enters Jodi and Kent's house, a cutscene begins and player walks into the kitchen and Jodi says, "Hi, (Player)! I'm just making some popcorn." Kent screams and runs into the kitchen exclaiming "That sound... You should've known that sound would remind me of the war!" Jodi stops the popcorn, and Kent goes on to lament the loss of his friends. Jodi says, "But, dear... popcorn was always your favorite before you left." Kent responds with, "...Things have changed." Jodi then quietly asks the player's character if they can say something to Kent. There are three choices:
+* {{choice|Jodi's to blame... she should've known better|-25}} Kent gets angry and says, "You keep quiet! Stop trying to turn me against my wife." Then apologizes to Jodi.
+* {{choice|I know you're hurting... but don't blame your wife.|50}} Kent says the player is "absolutely right," and apologizes to Jodi.
+* {{choice|(Lie) Blame me... I asked for popcorn.|-50}} Kent gets angry and says, "Don't lie to me! I hate lies more than anything!" Then apologizes to Jodi.
+}}
+
+===Three Hearts II===
+{{Hearts|3}}
+
+After reaching three hearts with Kent, he will send the player a recipe in the mail.
+{|class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''Details&nbsp;'''
+|-
+|
+{|class="wikitable roundedborder"
+!Image
+!Recipe
+!Description
+|-
+|{{Recipe|Crispy Bass|48}}
+|[[Crispy Bass]]
+|Picked up this recipe overseas. Enjoy.<p>Want to say thanks for making me feel welcome.</p><p>-Kent</p>
+|}
+|}
+
+===Seven Hearts===
+{{Hearts|7}}
+
+After reaching seven hearts with Kent, he will send the player a recipe in the mail.
+{|class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''Details&nbsp;'''
+|-
+|
+{|class="wikitable roundedborder"
+!Image
+!Recipe
+!Description
+|-
+|{{Recipe|Super Meal|48}}
+|[[Super Meal]]
+|Picked up this recipe overseas. Enjoy.<p>Want to say thanks for making me feel welcome.</p><p>-Kent</p>
+|}
+|}
+
+==Quotes==
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular&nbsp;'''
+|-
+|
+
+'''First Meeting'''
+{{Squote|Um, hello there. My name's Kent. I just got back last night... from overseas. My wife told me that a new farmer had moved in while I was gone.
+Well, I just wanted to introduce myself... I'll see you around.}}
+
+'''Regular'''
+{{Squote|Hello, farmer. I've been gone so long... I feel like a stranger.}}
+{{Squote|I don't know if I'll ever get used to being back home. The peacefulness of the town feels like a mask. That's probably just me though.}}
+{{Squote|Things haven't changed much since I've been gone. Well, except that you're here.}}
+{{Squote|Things haven't changed much since I've been gone. Except that we have a new farmer in town.}}
+{{Squote|You've been here a while now, haven't you? Your farm must be thriving.}}
+{{Squote|I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.}}
+{{Squote|Sam has really grown up since I left. He's a man now. I wish I could've been there for him.}}
+{{Squote|Are you friends with my son? You probably know him better than I do...}}
+{{Squote|It looks like a decent day for fishing, doesn't it?}}
+{{Squote|Jodi tells me you've really become a part of this community. I'm glad to hear it.}}
+{{Squote|I don't know what to do with myself now that I'm back. I'm used to having more structure in my day.}}
+
+''6+ Hearts''
+{{Squote|...I lost a lot of friends in battle. What's sad is that I can't even remember their faces.}}
+
+''8+ Hearts''
+{{Squote|I have trouble sleeping, so please excuse me if I seem tired. I'm sure you can understand.}}
+
+''If Player is married to Sam''
+{{Squote|Hey, [Player]. Are you enjoying the married lifestyle?}}
+
+'''Green Rain'''
+{{Squote|Heh... The rain is a blessing. A reminder that there will always be forces greater than anything conceived of by man. That's actually a comfort, [Player].}}
+
+'''At Ginger Island'''
+{{Squote|Hey, [Player]. Nice to see you.}}
+{{Squote|The boat ride was fun. I even got to use some of my nautical training to help navigate.}}
+{{Squote|Standing on this beach... I feel a rare sense of peace. The ocean is a very special thing.}}
+{{Squote|This is a great place to bond with the family. I really appreciate you fixing it up.}}
+{{Squote|Just getting some water.}}
+{{Squote|Time to head home.}}
+
+'''If the player is married to Sam'''
+{{Squote|It makes a father proud to see his boy become a man. You have my heartfelt blessing.}}
+|}
+
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events&nbsp;'''
+|-
+|
+
+'''[[Egg Festival]]'''
+{{Squote|I'm not a big fan of eggs, to tell you the truth.}}
+
+'''[[Desert Festival]]'''
+{{Squote|Hey, [Player]. Enjoying the heat?}}
+
+'''[[Flower Dance]]'''
+{{Squote|This open field... it makes me nervous. *whisper* Happy thoughts, Kent. Happy Thoughts.}}
+
+'''[[Luau|The Luau]]'''
+{{Squote|Hey, good to see you.}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+{{Squote|Good evening, [Player]. Hope you can find some time to relax before the harvest season.}}
+
+'''[[Stardew Valley Fair]]'''
+{{Squote|I'm waiting for this clown to start doing something funny. Pretty disappointing.}}
+
+'''[[Spirit's Eve]]'''
+{{Squote|Hey, [Player]. Nice evening, isn't it?}}
+
+'''[[Festival of Ice]]'''
+{{Squote|I like winter. It's peaceful.}}
+
+'''[[Feast of the Winter Star]]'''
+{{Squote|Good afternoon, [Player]. Happy Feasting.}}
+
+|}
+
+==Quests==
+*[[Quests#A Soldier's Star|"A Soldier's Star"]]: Kent will send you a letter on the 15th of [[Summer]], year 2, requesting a [[Starfruit]].  The reward is {{Price|500}} and 1 [[Friendship]] heart.
+*Kent may randomly request an item at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]].  The reward is 3x the item's base value and 150 [[Friendship]] points.
+*Kent is to be gifted the [[Quests#War Memento|War Memento]] in [[Quests#The Pirate's Wife|The Pirate's Wife]] quest.
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:Kent.png
+File:Kent Happy.png
+File:Kent Concerned.png
+File:Kent Annoyed.png
+File:Kent Surprised.png
+File:Kent Thinking.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Kent Winter 00.png
+File:Kent Winter 01.png
+File:Kent Winter 02.png
+File:Kent Winter 03.png
+File:Kent Winter 04.png
+File:Kent Winter 05.png
+</gallery>
+
+==Trivia==
+* Kent has [[wikipedia:Post-traumatic_stress_disorder|PTSD]] from the time he's served in the war. This can be noted by his reaction to the popcorn sound in his Three Heart Event and his dislike of open fields in the Flower Dance. Kent can also explain in a dialogue to the player that his fatigue is due to difficulty sleeping, a symptom of PTSD.
+** Despite his dislike of the sound of popcorn, it is a loved concession when given to him at the [[Movie Theater]]. This is most likely because he still loves the snack, but if he were around while it's being cooked it would trigger his PTSD.
+* The chevrons on Kent's sleeve can be interpreted in several ways. Several countries use chevrons (whether pointed upward or downward) to indicate the rank of Corporal, including [[wikipedia:United_States_Army_enlisted_rank_insignia|America]], [[wikipedia:Australian Army enlisted rank insignia|Australia]], [[wikipedia:Military_ranks_of_Brazil#NCO_and_enlisted_grades|Brazil]], [[wikipedia:Irish Defence Forces rank insignia|Ireland]], and the [[wikipedia:British_Army_other_ranks_rank_insignia#Ranks|United Kingdom]]. The [[wikipedia:Ranks in the French Air and Space Force|French]], [[wikipedia:Italian_Army_ranks|Italian]], [[wikipedia:Comparative_military_ranks_of_Korea#Army_ranks_2|Korean]], and [[wikipedia:Çavuş|Turkish]] military forces use variations of gold (or red) chevrons to indicate the rank of Sergeant. In the [[wikipedia:Republic_of_China_Armed_Forces_rank_insignia#Enlisted|Chinese]] and [[wikipedia:Military_ranks_and_insignia_of_the_Japan_Self-Defense_Forces#Warrant_Officer_&_Enlisted_（准尉および曹士）|Japanese]] military forces, two chevrons below a star or other symbol indicate the rank of Private First Class. The [[wikipedia:Ranks and insignia of the Russian Federation's armed forces 1994–2010|Russian]] military used chevrons to indicate various ranks in various branches until 2010. 
+* In a dialogue that occurs on Fridays, [[Sam]] reveals that Kent used to be a garbage man when they lived in Zuzu City.
+* In a dialogue that occurs on Mondays in Summer, Sam says that Kent took him on trips to the desert when he was younger.
+* Despite the fact Kent likes eggs, he tells you during the [[Egg Festival]] that he isn't a big fan of eggs.
+
+==History==
+{{History|1.4|Fixed bug where all recipes would be sent at 3 friendship hearts.}}
+{{History|1.5|Added 2 new portraits.}}
+{{History|1.6|Added winter portraits. Added custom gift dialogue.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:Kent]]
+[[es:Kent]]
+[[fr:Kent]]
+[[it:Kent]]
+[[ja:ケント]]
+[[ko:켄트]]
+[[hu:Kent]]
+[[pt:Kent]]
+[[ru:Кент]]
+[[tr:Kent]]
+[[zh:肯特]]

@@ -1,0 +1,1038 @@
+{{TOC right|npt=y}}
+:''For an index to the completed cooking collection, see [[Collections#Cooking]].''
+'''Cooking''' is a game mechanic that becomes available after upgrading the [[farmhouse]] for the first time. The house upgrade adds a kitchen, which includes a stove and a refrigerator. The stove is the cooking interface, while the refrigerator provides 36 slots of storage space, similar to a [[chest]]. The refrigerator is unique in that it is directly linked with the cooking interface, as if it were an extension of the player's inventory. Only [[Cooking#Ingredients|ingredients]] in the player's inventory, refrigerator or [[Mini-Fridge]] are seen as usable items for a [[Cooking#Recipes|recipe]].
+
+Alternatively, after reaching [[Foraging]] level 3 the player can use a [[Cookout Kit]] to cook anywhere.
+
+The player must learn each recipe before it is unlocked for cooking, with the exception of Fried Egg, which is known by the player upon starting a new save file. Locked recipes are displayed as a black silhouette of the recipe icon, with a tooltip description that says "???". Unlocked recipe icons will appear greyed-out if any of the ingredients are missing, but the tooltip will provide information regarding the recipe. Any missing ingredients will be highlighted in red. If all the ingredients required for a recipe are present either in the player's inventory or the refrigerator (or a combination of the two) the recipe icon will become fully highlighted.
+
+==Buffs==
+Only one food’s [[buffs]] can be active at a time, so eating a food with buffs will wipe out any active food buffs and replace them with the buffs from the newly eaten food. If a newly eaten food has no buffs, any existing buffs will remain in effect. Drink buffs are handled separately, so buffs from one drink ([[Triple Shot Espresso]], [[Coffee]], [[Green Tea]] or [[Ginger Ale]]) can be stacked with one food’s buffs.
+
+Buff duration varies for each food and drink (see [[#Recipes|table below]])<ref name="processtime"/>, but is the same for all buff effects of a given food or drink, except [[Squid Ink Ravioli]]. Using [[#Qi Seasoning|Qi Seasoning]] increases the duration by 50%.
+
+==Achievements==
+There are three [[Achievements]] associated with Cooking:
+*Cook (Cook 10 different recipes)
+*Sous Chef (Cook 25 different recipes)
+*Gourmet Chef (Cook every recipe)
+
+==Qi Seasoning==
+[[Qi Seasoning]], which can be purchased from [[Qi's Walnut Room]] for {{Price|10|gem}} for a stack of ten, makes cooked food Gold quality, increasing its health and energy values by 80% and its sell price by 50%. It will also increase the buffs given (excluding [[Speed]] buffs) by one level. For example, [[Seafoam Pudding]] would give +5 fishing rather than +4 if cooked with Qi Seasoning. It will be used automatically if it is in inventory, the refrigerator, or a [[Mini-Fridge]] when cooking. Running out of Qi Seasoning will result in a message saying: "You've used up all of your Qi Seasoning."
+
+==Recipes==
+Note that any recipes that can be learned from [[The Queen of Sauce]] will be learned immediately by reading the [[Queen Of Sauce Cookbook]], including recipes that have not yet been aired.
+<div style="overflow-x: auto;">
+{{Recipes|Header}}
+{{:Fried Egg|RecipeRow}}
+{{:Omelet|RecipeRow}}
+{{:Salad|RecipeRow}}
+{{:Cheese Cauliflower|RecipeRow}}
+{{:Baked Fish|RecipeRow}}
+{{:Parsnip Soup|RecipeRow}}
+{{:Vegetable Medley|RecipeRow}}
+{{:Complete Breakfast|RecipeRow}}
+{{:Fried Calamari|RecipeRow}}
+{{:Strange Bun|RecipeRow}}
+{{:Lucky Lunch|RecipeRow}}
+{{:Fried Mushroom|RecipeRow}}
+{{:Pizza|RecipeRow}}
+{{:Bean Hotpot|RecipeRow}}
+{{:Glazed Yams|RecipeRow}}
+{{:Carp Surprise|RecipeRow}}
+{{:Hashbrowns|RecipeRow}}
+{{:Pancakes|RecipeRow}}
+{{:Salmon Dinner|RecipeRow}}
+{{:Fish Taco|RecipeRow}}
+{{:Crispy Bass|RecipeRow}}
+{{:Pepper Poppers|RecipeRow}}
+{{:Bread|RecipeRow}}
+{{:Tom Kha Soup|RecipeRow}}
+{{:Trout Soup|RecipeRow}}
+{{:Chocolate Cake|RecipeRow}}
+{{:Pink Cake|RecipeRow}}
+{{:Rhubarb Pie|RecipeRow}}
+{{:Cookie|RecipeRow}}
+{{:Spaghetti|RecipeRow}}
+{{:Fried Eel|RecipeRow}}
+{{:Spicy Eel|RecipeRow}}
+{{:Sashimi|RecipeRow}}
+{{:Maki Roll|RecipeRow}}
+{{:Tortilla|RecipeRow}}
+{{:Red Plate|RecipeRow}}
+{{:Eggplant Parmesan|RecipeRow}}
+{{:Rice Pudding|RecipeRow}}
+{{:Ice Cream|RecipeRow}}
+{{:Blueberry Tart|RecipeRow}}
+{{:Autumn's Bounty|RecipeRow}}
+{{:Pumpkin Soup|RecipeRow}}
+{{:Super Meal|RecipeRow}}
+{{:Cranberry Sauce|RecipeRow}}
+{{:Stuffing|RecipeRow}}
+{{:Farmer's Lunch|RecipeRow}}
+{{:Survival Burger|RecipeRow}}
+{{:Dish O' The Sea|RecipeRow}}
+{{:Miner's Treat|RecipeRow}}
+{{:Roots Platter|RecipeRow}}
+{{:Triple Shot Espresso|RecipeRow}}
+{{:Seafoam Pudding|RecipeRow}}
+{{:Algae Soup|RecipeRow}}
+{{:Pale Broth|RecipeRow}}
+{{:Plum Pudding|RecipeRow}}
+{{:Artichoke Dip|RecipeRow}}
+{{:Stir Fry|RecipeRow}}
+{{:Roasted Hazelnuts|RecipeRow}}
+{{:Pumpkin Pie|RecipeRow}}
+{{:Radish Salad|RecipeRow}}
+{{:Fruit Salad|RecipeRow}}
+{{:Blackberry Cobbler|RecipeRow}}
+{{:Cranberry Candy|RecipeRow}}
+{{:Bruschetta|RecipeRow}}
+{{:Coleslaw|RecipeRow}}
+{{:Fiddlehead Risotto|RecipeRow}}
+{{:Poppyseed Muffin|RecipeRow}}
+{{:Chowder|RecipeRow}}
+{{:Fish Stew|RecipeRow}}
+{{:Escargot|RecipeRow}}
+{{:Lobster Bisque|RecipeRow}}
+{{:Maple Bar|RecipeRow}}
+{{:Crab Cakes|RecipeRow}}
+{{:Shrimp Cocktail|RecipeRow}}
+{{:Ginger Ale|RecipeRow}}
+{{:Banana Pudding|RecipeRow}}
+{{:Mango Sticky Rice|RecipeRow}}
+{{:Poi|RecipeRow}}
+{{:Tropical Curry|RecipeRow}}
+{{:Squid Ink Ravioli|RecipeRow}}
+{{:Moss Soup|RecipeRow}}
+{{Recipes|Footer}}</div>
+
+==Ingredients==
+A minimum of 88 different types of items are needed to cook all 81 dishes in the game, including:
+* 26 crop products
+* 13 foraged goods
+* 4 tree fruits
+* 2 animal products
+* 4 artisan goods
+* 3 miscellaneous items (maple syrup, squid ink, moss)
+* 17 items obtained from fishing
+* 8 crab pot items
+* 5 items bought from [[Pierre's General Store]]
+* 6 dishes used as ingredients
+
+These tables assume crafted dishes will be used to make other crafted dishes.  For example, 1 [[Potato]] would be used to make [[Hashbrowns]], then those Hashbrowns would be used to make [[Complete Breakfast]].  1 more Potato would be needed to make Hashbrowns for [[Dish O' The Sea]].  When finished, the Gourmet Chef achievement would be earned for cooking every dish, but there would be no Hashbrowns because they were used to make the other dishes.
+
+===Crops===
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Season
+!Growth Time
+!Notes
+!Required for
+|-
+|[[File:Parsnip.png|center]]
+|[[Parsnip]]
+|2
+|data-sort-value=1|[[Spring]]
+|4 Days
+|
+|{{Name|Parsnip Soup|1}}{{Name|Farmer's Lunch|1}}
+|-
+|[[File:Kale.png|center]]
+|[[Kale]]
+|2
+|data-sort-value=1|[[Spring]]
+|6 Days
+|Harvest with [[Scythe]]
+|{{Name|Salmon Dinner|1}}{{Name|Stir Fry|1}}
+|-
+|[[File:Potato.png|center]]
+|[[Potato]]
+|2
+|data-sort-value=1|[[Spring]]
+|6 Days
+|Has a 20% chance to yield extra potatoes
+|{{Name|Hashbrowns|2x1}}
+|-
+|[[File:Blue Jazz.png|center]]
+|[[Blue Jazz]]
+|1
+|data-sort-value=1|[[Spring]]
+|7 Days
+|
+|{{Name|Lucky Lunch|1}}
+|-
+|[[File:Green Bean.png|center]]
+|[[Green Bean]]
+|2
+|data-sort-value=1|[[Spring]]
+|10 Days
+|Grows on Trellis.  Continues to produce every 3 days.
+|{{Name|Bean Hotpot|1}}
+|-
+|[[File:Cauliflower.png|center]]
+|[[Cauliflower]]
+|1
+|data-sort-value=1|[[Spring]]
+|12 Days
+|Can become a [[Crops#Giant Crops|Giant Crop]]
+|{{Name|Cheese Cauliflower|1}}
+|-
+|[[File:Rhubarb.png|center]]
+|[[Rhubarb]]
+|1
+|data-sort-value=1|[[Spring]]
+|13 Days
+|Seeds available in the [[Oasis]]
+|{{Name|Rhubarb Pie|1}}
+|-
+|[[File:Garlic.png|center]]
+|[[Garlic]]
+|2
+|data-sort-value=1|[[Spring]]
+|4 Days
+|Available from Year 2
+|{{Name|Fiddlehead Risotto|1}}{{Name|Escargot|1}}
+|-
+|[[File:Hot Pepper.png|center]]
+|[[Hot Pepper]]
+|3
+|data-sort-value=2|[[Summer]]
+|5 Days
+|Continues to produce every 3 days.
+|{{Name|Pepper Poppers|1}}{{Name|Spicy Eel|1}}{{Name|Tropical Curry|1}}
+|-
+|[[File:Radish.png|center]]
+|[[Radish]]
+|2
+|data-sort-value=2|[[Summer]]
+|6 Days
+|
+|{{Name|Red Plate|1}}{{Name|Radish Salad|1}}
+|-
+|[[File:Poppy.png|center]]
+|[[Poppy]]
+|1
+|data-sort-value=2|[[Summer]]
+|7 Days
+|
+|{{Name|Poppyseed Muffin|1}}
+|-
+|[[File:Tomato.png|center]]
+|[[Tomato]]
+|8
+|data-sort-value=2|[[Summer]]
+|11 Days
+|Continues to produce every 4 days.
+|{{Name|Vegetable Medley|1}}{{Name|Pizza|1}}{{Name|Spaghetti|1}}{{Name|Eggplant Parmesan|1}}{{Name|Bruschetta|1}}{{Name|Fish Stew|1}}{{Name|Shrimp Cocktail|1}}{{Name|Squid Ink Ravioli|1}}
+|-
+|[[File:Melon.png|center]]
+|[[Melon]]
+|2
+|data-sort-value=2|[[Summer]]
+|12 Days
+|Can become a [[Crops#Giant Crops|Giant Crop]]
+|{{Name|Pink Cake|1}}{{Name|Fruit Salad|1}}
+|-
+|[[File:Blueberry.png|center]]
+|[[Blueberry]]
+|2
+|data-sort-value=2|[[Summer]]
+|13 Days
+|Produces multiple blueberries each harvest.  Continues to produce every 4 days.
+|{{Name|Blueberry Tart|1}}{{Name|Fruit Salad|1}}
+|-
+|[[File:Corn.png|center]]
+|[[Corn]]
+|2
+|data-sort-value=2.5|[[Summer]]/[[Fall]]
+|14 Days
+|Continues to produce every 4 days.
+|{{Name|Tortilla|2x1}}
+|-
+|[[File:Red Cabbage.png|center]]
+|[[Red Cabbage]]
+|3
+|data-sort-value=2|[[Summer]]
+|9 Days
+|Available from Year 2
+|{{Name|Fish Taco|1}}{{Name|Red Plate|1}}{{Name|Coleslaw|1}}
+|-
+|[[File:Bok Choy.png|center]]
+|[[Bok Choy]]
+|1
+|data-sort-value=3|[[Fall]]
+|4 Days
+|
+|{{Name|Super Meal|1}}
+|-
+|[[File:Eggplant.png|center]]
+|[[Eggplant]]
+|2
+|data-sort-value=3|[[Fall]]
+|5 Days
+|Continues to produce every 5 days.
+|{{Name|Eggplant Parmesan|1}}{{Name|Survival Burger|1}}
+|-
+|[[File:Amaranth.png|center]]
+|[[Amaranth]]
+|1
+|data-sort-value=3|[[Fall]]
+|7 Days
+|Harvested with [[Scythe]]
+|{{Name|Salmon Dinner|1}}
+|-
+|[[File:Cranberries.png|center]]
+|[[Cranberries]]
+|4
+|data-sort-value=3|[[Fall]]
+|7 Days
+|Produces 2 Cranberries at harvest.  Continues to produce every 5 days.
+|{{Name|Super Meal|1}}{{Name|Cranberry Sauce|1}}{{Name|Stuffing|1}}{{Name|Cranberry Candy|1}}
+|-
+|[[File:Yam.png|center]]
+|[[Yam]]
+|2
+|data-sort-value=3|[[Fall]]
+|10 Days
+|
+|{{Name|Glazed Yams|1}}{{Name|Autumn's Bounty|1}}
+|-
+|[[File:Pumpkin.png|center]]
+|[[Pumpkin]]
+|3
+|data-sort-value=3|[[Fall]]
+|13 Days
+|Can become a [[Crops#Giant Crops|Giant Crop]]
+|{{Name|Autumn's Bounty|1}}{{Name|Pumpkin Soup|1}}{{Name|Pumpkin Pie|1}}
+|-
+|[[File:Beet.png|center]]
+|[[Beet]]
+|1
+|data-sort-value=3|[[Fall]]
+|6 Days
+|Seeds available at the [[Oasis]]
+|{{Name|Vegetable Medley|1}}
+|-
+|[[File:Artichoke.png|center]]
+|[[Artichoke]]
+|2
+|data-sort-value=3|[[Fall]]
+|8 Days
+|Available from Year 2
+|{{Name|Super Meal|1}}{{Name|Artichoke Dip|1}}
+|-
+|[[File:Pineapple.png|center]]
+|[[Pineapple]]
+|1
+|data-sort-value=2|[[Summer]]
+|14 Days
+|
+|{{Name|Tropical Curry|1}}
+|-
+|[[File:Taro Root.png|center]]
+|[[Taro Root]]
+|4
+|data-sort-value=2|[[Summer]]
+|10 Days
+|
+|{{Name|Poi|1}}
+|}
+
+===Foraged Goods===
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Season
+!Location
+!Required for
+|-
+|[[File:Blackberry.png|center]]
+|[[Blackberry]]
+|2
+|data-sort-value=3|[[Fall]]
+|Throughout Stardew Valley
+|{{Name|Blackberry Cobbler|1}}
+|-
+|[[File:Cave Carrot.png|center]]
+|[[Cave Carrot]]
+|5
+|data-sort-value=0|[[Seasons|All Seasons]]
+|[[The Mines]]
+|{{Name|Survival Burger|1}}{{Name|Miner's Treat|2}}{{Name|Roots Platter|1}}{{Name|Stir Fry|1}}
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|3
+|data-sort-value=1|[[Spring]]/[[Fall]]
+|Throughout Stardew Valley
+|{{Name|Fried Mushroom|1}}{{Name|Tom Kha Soup|1}}{{Name|Stir Fry|1}}
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|1
+|data-sort-value=1|[[Spring]]
+|Throughout Stardew Valley
+|{{Name|Salad|1}}
+|-
+|[[File:Coconut.png|center]]
+|[[Coconut]]
+|3
+|data-sort-value=0|[[Seasons|All Seasons]]
+|[[The Desert]], [[Ginger Island]]
+|{{Name|Mango Sticky Rice|1}}{{Name|Tom Kha Soup|1}}{{Name|Tropical Curry|1}}
+|-
+|[[File:Fiddlehead Fern.png|center]]
+|[[Fiddlehead Fern]]
+|1
+|data-sort-value=2|[[Summer]]
+|[[Secret Woods]]
+|{{Name|Fiddlehead Risotto|1}}
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|4
+|data-sort-value=3|[[Fall]]
+|Throughout Stardew Valley
+|{{Name|Stuffing|1}}{{Name|Roasted Hazelnuts|1}}
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|1
+|data-sort-value=1|[[Spring]]
+|Throughout Stardew Valley
+|{{Name|Shrimp Cocktail|1}}
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|1
+|data-sort-value=1|[[Spring]]
+|Throughout Stardew Valley
+|{{Name|Salad|1}}
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|1
+|data-sort-value=1|[[Spring]]
+|[[The Cave]], [[Secret Woods]]
+|{{Name|Fried Mushroom|1}}
+|-
+|[[File:Wild Plum.png|center]]
+|[[Wild Plum]]
+|2
+|data-sort-value=3|[[Fall]]
+|Throughout Stardew Valley
+|{{Name|Plum Pudding|1}}
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|1
+|data-sort-value=4|[[Winter]]
+|Throughout Stardew Valley, [[The Mines]]
+|{{Name|Roots Platter|1}}
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|3
+|data-sort-value=0|[[Seasons|All Seasons]]
+|Throughout [[Ginger Island]], dropped by Tiger Slimes
+|{{Name|Ginger Ale|1}}
+|}
+
+===Tree Fruit===
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Source
+!Season
+!Required for
+|-
+|[[File:Apple.png|center]]
+|[[Apple]]
+|1
+|[[Apple Tree]]
+|data-sort-value=3|[[Fall]]
+|{{Name|Cranberry Candy|1}}
+|-
+|[[File:Apricot.png|center]]
+|[[Apricot]]
+|1
+|[[Apricot Tree]]
+|data-sort-value=1|[[Spring]]
+|{{Name|Fruit Salad|1}}
+|-
+|[[File:Banana.png|center]]
+|[[Banana]]
+|1
+|[[Banana Tree]]
+|data-sort-value=2|[[Summer]]
+|{{Name|Banana Pudding|1}}
+|-
+|[[File:Mango.png|center]]
+|[[Mango]]
+|1
+|[[Mango Tree]]
+|data-sort-value=2|[[Summer]]
+|{{Name|Mango Sticky Rice|1}}
+|}
+
+===Animal Products===
+'''Note:''' All recipes requiring milk will accept [[Milk]], [[Large Milk]], [[Goat Milk]], or [[Large Goat Milk]].
+
+For egg recipes, all chicken eggs are allowed, including [[Void Egg]]s and [[Golden Egg]]s. [[Duck Egg]]s and [[Ostrich Egg]]s may also be used.
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Amount needed
+!Source
+!Notes
+!Required for
+|-
+|[[File:Egg.png|center]]
+|[[Egg]]
+|8
+||[[Chicken]]s, [[Duck]]s,<br />[[Void Chicken]]s,<br />[[Golden Chicken]]s,<br />[[Ostrich]]es
+|
+|{{Name|Fried Egg|1}}{{Name|Omelet|1}}{{Name|Pancakes|1}}{{Name|Chocolate Cake|1}}{{Name|Pink Cake|1}}{{Name|Cookie|1}}{{Name|Blueberry Tart|1}}{{Name|Crab Cakes|1}}
+|-
+|[[File:Milk.png|center]]
+|[[Milk]]
+|12
+|[[Cow]]s, [[Goat]]s
+|Obtain with [[Milk Pail]] or [[Auto-Grabber]]
+|{{Name|Omelet|1}}{{Name|Parsnip Soup|1}}{{Name|Complete Breakfast|1}}{{Name|Rice Pudding|1}}{{Name|Ice Cream|1}}{{Name|Pumpkin Soup|1}}{{Name|Miner's Treat|1}}{{Name|Artichoke Dip|1}}{{Name|Pumpkin Pie|1}}{{Name|Chowder|1}}{{Name|Lobster Bisque|1}}{{Name|Banana Pudding|1}}
+|}
+
+===Artisan Goods===
+Note that [[Coffee]] can instead be purchased from [[The Stardrop Saloon]] for {{Price|300}} each instead of creating it.
+
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Source
+!Input Item
+!Producing Time
+!Required for
+|-
+|[[File:Cheese.png|center]]
+|[[Cheese]]
+|3
+|[[Cheese Press]]
+|{{Name|Milk|1}}
+|3.3 hours
+|{{Name|Cheese Cauliflower|1}}{{Name|Pizza|1}}{{Name|Pepper Poppers|1}}
+|-
+|[[File:Mayonnaise.png|center]]
+|[[Mayonnaise]]
+|2
+|[[Mayonnaise Machine]]
+|{{Name|Egg|1}}
+|3 hours
+|{{Name|Fish Taco|1}}{{Name|Coleslaw|1}}
+|-
+|[[File:Void Mayonnaise.png|center]]
+|[[Void Mayonnaise]]
+|1
+|[[Mayonnaise Machine]]
+|{{Name|Void Egg|1}}
+|3 hours
+|{{Name|Strange Bun|1}}
+|-
+|[[File:Coffee.png|center]]
+|[[Coffee]]
+|3
+|[[Keg]]
+|{{Name|Coffee Bean|5}}
+|2 hours
+|{{Name|Triple Shot Espresso|1}}
+|}
+
+===Miscellaneous===
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Amount needed
+!Source
+!Producing Time
+!Required for
+|-
+|[[File:Maple Syrup.png|center]]
+|[[Maple Syrup]]
+|1
+|[[Tapper|Tapped]] [[Maple Tree]]
+|7-8 days
+|{{Name|Maple Bar|1}}
+|-
+|[[File:Squid Ink.png|center]]
+|[[Squid Ink]]
+|2
+|[[Squid Kid]] or [[Blue Squid]] drop, [[Fish Pond]] containing [[Squid]] or [[Midnight Squid]]
+|''Varies depending on Fish Pond population''
+|{{Name|Seafoam Pudding|1}}{{Name|Squid Ink Ravioli|1}}
+|-
+|[[File:Moss.png|center]]
+|[[Moss]]
+|20
+|Moss-covered trees
+|N/A
+|{{Name|Moss Soup|1}}
+|}
+
+===Fishing===
+Note that [[Seaweed]] can be foraged from the [[The Beach#Tide Pools|Tide Pools]] during any season.  [[Green Algae]] and [[White Algae]] may also be dropped by various monsters in [[Secret Woods]] and [[The Mines]].
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Location
+!Time
+!Season
+!Weather
+!Difficulty
+!Required for
+|-
+|[[File:Tuna.png|center]]
+|[[Tuna]]
+|1
+|[[The Beach|Ocean]], [[Ginger Island]] Oceans
+|6am – 7pm
+|[[Summer]]/[[Winter]]
+|Any
+|70
+|{{Name|Fish Taco|1}}
+|-
+|[[File:Sardine.png|center]]
+|[[Sardine]]
+|2
+|[[The Beach|Ocean]]
+|6am – 7pm
+|[[Spring]]/[[Fall]]/[[Winter]]
+|Any
+|30
+|{{Name|Dish O' The Sea|1}}
+|-
+|[[File:Bream.png|center]]
+|[[Bream]]
+|1
+|[[Pelican Town|Town]] River, [[Cindersap Forest|Forest]] River
+|6pm – 2am
+|[[Seasons|All Seasons]]
+|Any
+|35
+|{{Name|Baked Fish|1}}
+|-
+|[[File:Largemouth Bass.png|center]]
+|[[Largemouth Bass]]
+|1
+|[[The Mountain|Mountain]] Lake
+|6am – 7pm
+|[[Seasons|All Seasons]]
+|Any
+|50
+|{{Name|Crispy Bass|1}}
+|-
+|[[File:Rainbow Trout.png|center]]
+|[[Rainbow Trout]]
+|1
+|[[Pelican Town|Town]] River, [[Cindersap Forest|Forest]] River, [[The Mountain|Mountain]] Lake
+|6am – 7pm
+|[[Summer]]
+|{{Weather inline|Sun}}
+|45
+|{{Name|Trout Soup|1}}
+|-
+|[[File:Salmon.png|center]]
+|[[Salmon]]
+|1
+|[[Pelican Town|Town]] River, [[Cindersap Forest|Forest]] River, [[Cindersap Forest|Forest]] Waterfalls
+|6am – 7pm
+|[[Fall]]
+|Any
+|50
+|{{Name|Salmon Dinner|1}}
+|-
+|[[File:Flounder.png]]
+|[[Flounder]]
+|1
+|[[The Beach|Ocean]], [[Ginger Island]] Oceans
+|6am-8pm
+|[[Spring]]/[[Summer]]
+|Any
+|50
+|{{Name|Seafoam Pudding|1}}
+|-
+|[[File:Midnight Carp.png]]
+|[[Midnight Carp]]
+|1
+|[[The Mountain|Mountain]] Lake, [[Cindersap Forest|Forest]] Pond, [[Ginger Island]] Rivers
+|10pm-2am
+|[[Fall]]/[[Winter]]
+|Any
+|55
+|{{Name|Seafoam Pudding|1}}
+|-
+|[[File:Carp.png|center]]
+|[[Carp]]
+|4
+|[[The Mountain|Mountain]] Lake, [[Cindersap Forest|Forest]] Pond, [[The Sewers|Sewers]], [[Secret Woods]], [[Mutant Bug Lair]]
+|Anytime
+|[[Seasons|All Seasons]]
+|Any
+|15
+|{{Name|Carp Surprise|1}}
+|-
+|[[File:Sunfish.png|center]]
+|[[Sunfish]]
+|1
+|[[Pelican Town|Town]] River, [[Cindersap Forest|Forest]] River
+|6am – 7pm
+|[[Spring]]/[[Summer]]
+|{{Weather inline|Sun}}<br />{{Weather inline|Springwind}}
+|30
+|{{Name|Baked Fish|1}}
+|-
+|[[File:Eel.png|center]]
+|[[Eel]]
+|2
+|[[The Beach|Ocean]]
+|4pm – 2am
+|[[Spring]]/[[Fall]]
+|{{Weather inline|Rain}}
+|70
+|{{Name|Fried Eel|1}}{{Name|Spicy Eel|1}}
+|-
+|[[File:Squid.png|center]]
+|[[Squid]]
+|1
+|[[The Beach|Ocean]]
+|6pm – 2am
+|[[Winter]]
+|Any
+|75
+|{{Name|Fried Calamari|1}}
+|-
+|[[File:Sea Cucumber.png|center]]
+|[[Sea Cucumber]]
+|1
+|[[The Beach|Ocean]]
+|6am – 7pm
+|[[Fall]]/[[Winter]]
+|Any
+|40
+|{{Name|Lucky Lunch|1}}
+|-
+|[[File:Fish.png|center]]
+|Fish (Any)
+|2
+|Anywhere
+|Anytime
+|[[Seasons|All Seasons]]
+|Any
+|N/A
+|{{Name|Sashimi|1}}{{Name|Maki Roll|1}}
+|-
+|[[File:Seaweed.png|centerg]]
+|[[Seaweed]]
+|1
+|[[The Beach|Ocean]], [[Ginger Island]] Oceans
+|Anytime
+|[[Seasons|All Seasons]]
+|Any
+|0
+|{{Name|Maki Roll|1}}
+|-
+|[[File:Green Algae.png|center]]
+|[[Green Algae]]
+|5
+|Freshwater (except the [[Farm Pond]])
+|Anytime
+|[[Seasons|All Seasons]]
+|Any
+|0
+|{{Name|Trout Soup|1}}{{Name|Algae Soup|1}}
+|-
+|[[File:White Algae.png|center]]
+|[[White Algae]]
+|2
+|[[The Mines|Mines]], [[The Sewers|Sewers]], [[Mutant Bug Lair]], [[Witch's Swamp]]
+|Anytime
+|[[Seasons|All Seasons]]
+|Any
+|0
+|{{Name|Pale Broth|1}}
+|}
+
+===Crab Pot Items===
+Note that [[Clam]]s and [[Mussel]]s can be foraged from [[The Beach]] during any season.  [[Crab]]s may also be dropped by [[Rock Crab]]s or [[Lava Crab]]s in [[The Mines]].
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Location
+!Required for
+|-
+|[[File:Lobster.png|center]]
+|[[Lobster]]
+|1
+|Ocean
+|{{Name|Lobster Bisque|1}}
+|-
+|[[File:Clam.png|center]]
+|[[Clam]]
+|1
+|Ocean
+|{{Name|Chowder|1}}
+|-
+|[[File:Crayfish.png|center]]
+|[[Crayfish]]
+|1
+|Freshwater
+|{{Name|Fish Stew|1}}
+|-
+|[[File:Crab.png|center]]
+|[[Crab]]
+|1
+|Ocean
+|{{Name|Crab Cakes|1}}
+|-
+|[[File:Mussel.png|center]]
+|[[Mussel]]
+|1
+|Ocean
+|{{Name|Fish Stew|1}}
+|-
+|[[File:Shrimp.png|center]]
+|[[Shrimp]]
+|2
+|Ocean
+|{{Name|Tom Kha Soup|1}}{{Name|Shrimp Cocktail|1}}
+|-
+|[[File:Snail.png|center]]
+|[[Snail]]
+|1
+|Freshwater
+|{{Name|Escargot|1}}
+|-
+|[[File:Periwinkle.png|center]]
+|[[Periwinkle]]
+|2
+|Freshwater
+|{{Name|Strange Bun|1}}{{Name|Fish Stew|1}}
+|}
+
+===General Store Items===
+Purchased from [[Pierre]] at [[Pierre's General Store]].
+
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Price per unit/Total
+!Notes
+!Required for
+|-
+|[[File:Sugar.png|center]]
+|[[Sugar]]
+|18
+|100g/1800g 
+(or if grown 20g/360g)
+|Can also be produced with [[Beet]]s in a [[Mill]].
+|<div style="float: left; margin-right: 8px;">{{Name|Banana Pudding|1}}{{Name|Blackberry Cobbler|1}}{{Name|Blueberry Tart|1}}{{Name|Chocolate Cake|1}}{{Name|Cookie|1}}{{Name|Cranberry Candy|1}}{{Name|Cranberry Sauce|1}}{{Name|Ginger Ale|1}}{{Name|Glazed Yams|1}}</div><div style="float: left;">{{Name|Ice Cream|1}}{{Name|Maple Bar|1}}{{Name|Miner's Treat|1}}{{Name|Pink Cake|1}}{{Name|Plum Pudding|1}}{{Name|Poppyseed Muffin|1}}{{Name|Pumpkin Pie|1}}{{Name|Rhubarb Pie|1}}{{Name|Rice Pudding|1}}</div>
+|-
+|[[File:Wheat Flour.png|center]]
+|[[Wheat Flour]]
+|22
+|100g/2200g 
+(or if grown 10g/220g)
+|Can also be produced with [[Wheat]] in a [[Mill]].
+|<div style="float: left; margin-right: 8px;">{{Name|Baked Fish|1}}{{Name|Blackberry Cobbler|1}}{{Name|Blueberry Tart|1}}{{Name|Bread|3x1}}{{Name|Cookie|1}}{{Name|Crab Cakes|1}}{{Name|Fried Calamari|1}}{{Name|Chocolate Cake|1}}{{Name|Crispy Bass|1}}{{Name|Maple Bar|1}}</div><div style="float:
+ left;">{{Name|Pancakes|1}}{{Name|Pink Cake|1}}{{Name|Pizza|1}}{{Name|Plum Pudding|1}}{{Name|Poppyseed Muffin|1}}{{Name|Pumpkin Pie|1}}{{Name|Rhubarb Pie|1}}{{Name|Spaghetti|1}}{{Name|Squid Ink Ravioli|1}}{{Name|Strange Bun|1}}</div>
+|-
+|[[File:Rice.png|center]]
+|[[Rice]]
+|3
+|200g/600g
+(or if grown 40g/120g)
+|Can also be produced with [[Unmilled Rice]] in a [[Mill]].
+|{{Name|Maki Roll|1}}{{Name|Rice Pudding|1}}{{Name|Mango Sticky Rice|1}}
+|-
+|[[File:Oil.png|center]]
+|[[Oil]]
+|11
+|200g/2200g
+|Can be obtained with [[Oil Maker]] instead.
+|<div style="float: left; margin-right: 8px;">{{Name|Bruschetta|1}}{{Name|Crab Cakes|1}}{{Name|Crispy Bass|1}}{{Name|Fiddlehead Risotto|1}}{{Name|Fried Calamari|1}}</div><div style="float: left;">{{Name|Fried Eel|1}}{{Name|Fried Mushroom|1}}{{Name|Hashbrowns|2x1}}{{Name|Radish Salad|1}}{{Name|Stir Fry|1}}</div>
+|-
+|[[File:Vinegar.png|center]]
+|[[Vinegar]]
+|4
+|200g/800g
+|Can also be produced with [[Rice]] in a [[Keg]].
+|{{Name|Coleslaw|1}}{{Name|Parsnip Soup|1}}{{Name|Radish Salad|1}}{{Name|Salad|1}}
+|}
+
+===Ingredient Dishes===
+The ingredients for these are already included in the previous lists. These are used as ingredients in other dishes.
+
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Amount needed
+!Ingredients
+!Required for
+|-
+|[[File:Fried Egg.png]]
+|[[Fried Egg]]
+|1
+|{{Name|Egg|1}}
+|{{Name|Complete Breakfast|1}}
+|-
+|[[File:Hashbrowns.png]]
+|[[Hashbrowns]]
+|2
+|{{Name|Potato|1}}{{Name|Oil|1}}
+|{{Name|Complete Breakfast|1}}{{Name|Dish O' The Sea|1}}
+|-
+|[[File:Pancakes.png]]
+|[[Pancakes]]
+|1
+|{{Name|Wheat Flour|1}}{{Name|Egg|1}}
+|{{Name|Complete Breakfast|1}}
+|-
+|[[File:Tortilla.png]]
+|[[Tortilla]]
+|2
+|{{Name|Corn|1}}
+|{{Name|Fish Taco|1}}{{Name|Lucky Lunch|1}}
+|-
+|[[File:Bread.png]]
+|[[Bread]]
+|3
+|{{Name|Wheat Flour|1}}
+|{{Name|Bruschetta|1}}{{Name|Stuffing|1}}{{Name|Survival Burger|1}}
+|-
+|[[File:Omelet.png]]
+|[[Omelet]]
+|1
+|{{Name|Egg|1}}{{Name|Milk|1}}
+|{{Name|Farmer's Lunch|1}}
+|}
+
+==Profitable Recipes==
+:''See Also: [[Fish#When to turn fish into Sashimi|When to turn fish into sashimi]]''
+While most recipes will sell for less than the cost or profit from their ingredients, there are a few that will always result in profit when using the lowest quality ingredients.  
+
+''Note: It may be more profitable to save [[Fish]] for [[Quests#Help Wanted Quests|"Help Wanted" quests]], which generally pay triple the fish's base value, than to turn them into [[Sashimi]].''
+
+The following recipes will result in profit when using the lowest-quality ingredients:
+{|
+|- 
+|style="vertical-align: top; padding-right: 12px;"|
+* {{Name|Algae Soup|class=inline}}
+* {{Name|Bean Hotpot|class=inline}}
+* {{Name|Blackberry Cobbler|class=inline}} (either without [[Bear's Knowledge]] or using [[Wheat Flour]] and/or [[Sugar]] from the [[Mill]])
+* {{Name|Bread|class=inline}} (if made with [[Wheat Flour]] from the [[Mill]])
+* {{Name|Carp Surprise|class=inline|though [[Sashimi]] is more profitable}}
+* {{Name|Chocolate Cake|class=inline}} (if using [[Wheat Flour]] and [[Sugar]] from the [[Mill]])
+* {{Name|Eggplant Parmesan|class=inline}}
+* {{Name|Fiddlehead Risotto|class=inline|if made with homemade [[Oil]]}}
+* {{Name|Fruit Salad|class=inline}}
+* {{Name|Lucky Lunch|class=inline}}
+* {{Name|Maki Roll|class=inline}} (if using [[Rice]] from the [[Mill]] and fish worth less than {{Price|100}})
+* {{Name|Pale Broth|class=inline}}
+* {{Name|Pink Cake|class=inline}} (if using [[Wheat Flour]] and [[Sugar]] from the [[Mill]])
+* {{Name|Poppyseed Muffin|class=inline}} (if using [[Wheat Flour]] and [[Sugar]] from the [[Mill]])
+* {{Name|Radish Salad|class=inline}} (if using [[Rice]] from the [[Mill]] and [[Vinegar]] from a [[keg]])
+* {{Name|Red Plate|class=inline}}
+* {{Name|Rhubarb Pie|class=inline}} (if using [[Wheat Flour]] and [[Sugar]] from the [[Mill]])
+* {{Name|Roots Platter|class=inline}}
+* {{Name|Spaghetti|class=inline}} (if made with [[Wheat Flour]] from the [[Mill]])
+* {{Name|Spicy Eel|class=inline}}
+* {{Name|Stir Fry|class=inline|if made with homemade [[Oil]]}}
+* {{Name|Survival Burger|class=inline}} (if using [[Bread]] made with [[Wheat Flour]] from the [[Mill]])
+* {{Name|Tom Kha Soup|class=inline}}
+* {{Name|Tropical Curry|class=inline}}
+* {{Name|Trout Soup|class=inline|without the [[Skills#Fishing|Angler Profession]]}}
+|
+* {{Name|Sashimi|class=inline}}, when cooked with any fish worth less than {{Price|75}}:
+** {{Name|Anchovy|class=inline}}
+** {{Name|Bream|class=inline}}
+** {{Name|Carp|class=inline}}
+** {{Name|Chub|class=inline}}<sup>&#9733;</sup>
+** {{Name|Cockle|class=inline}}<sup>&#9733;</sup> 
+** {{Name|Ghostfish|class=inline}}
+** {{Name|Herring|class=inline}}
+** {{Name|Mussel|class=inline}}
+** {{Name|Oyster|class=inline}}
+** {{Name|Perch|class=inline}}<sup>&#9733;</sup>
+** {{Name|Periwinkle|class=inline}}
+** {{Name|Rainbow Trout|class=inline}}<sup>&#9734;</sup>
+** {{Name|Red Snapper|class=inline}}<sup>&#9733;</sup>
+** {{Name|Sardine|class=inline}}
+** {{Name|Shad|class=inline}}<sup>&#9734;</sup>
+** {{Name|Shrimp|class=inline}}<sup>&#9734;</sup>
+** {{Name|Smallmouth Bass|class=inline}}<sup>&#9733;</sup>
+** {{Name|Snail|class=inline}}<sup>&#9734;</sup>
+** {{Name|Sunfish|class=inline}}
+<sup>&#9734;</sup>''Not profitable with the [[Fishing#Fishing Skill|Fisher or Angler professions]]''
+<br /><sup>&#9733;</sup>''Not profitable with the [[Fishing#Fishing Skill|Angler Profession]]''
+|}
+
+However, for maximum profit, it is ''always'' better to process ingredients in a [[Preserves Jar]], [[Keg]], [[Mayonnaise Machine]], or [[Cheese Press]].
+The only noteworthy exceptions (since cooking is the only way to process algae) are [[Algae Soup]] (+{{Price|40}}), and [[Pale Broth]] (+{{Price|100}}). Before 1.6, [[Roots Platter]] with normal quality winter roots was also profitable (+{{Price|5}}). However, as of 1.6, winter roots can be processed in Preserves Jars and Kegs, making the recipe no longer profitable.
+
+It is better to process fish with a [[Fish Smoker]] in almost all cases. Generally, only fish that sell for less than {{Price|28}} will be profitable to turn into [[Sashimi]]. In practice, this means regular and silver quality [[Periwinkle]] with neither the Fisher or Angler professions, and only regular quality with the Fisher profession. No fish are more profitable to turn into Sashimi with the Angler profession. If the selling or buying price of coal is factored in, the amount of fish worth turning into Sashimi will rise.
+
+Aside from these cases, cooking for profit only becomes attractive if the ingredient production greatly exceeds the processing capacity.
+
+==Quests==
+{{Price|100000}} worth of freshly cooked items are requested in the [[Quests#Qi's Cuisine|Qi's Cuisine]] quest. During this quest, cooking will create dishes with the word "Fresh" at the beginning of their names (''i.e.,'' Fresh Fried Egg, Fresh Omelet, etc.), which cannot stack with food items cooked before the start of the quest.
+
+==Notes==
+<section begin="ingredientorder" /><!--Transcluded on the Mini-Fridge page-->
+* Every recipe searches for ingredients in the following locations, always in the same order from the ''bottom right'' slot to the top left slot:
+#first in the player's inventory
+#then in the main refrigerator
+#finally in any [[Mini-Fridge|Mini-Fridges]]
+* When auto-sorted with the Organize button, this bottom-right-first order will automatically consume lower quality items of the same type. However, for recipes with substitutes, place ingredients accordingly as desired towards the bottom right, in order to avoid using more valuable ingredients in less valuable recipes, or in recipes that accept a wide variety of ingredients. As an example, [[Tuna]] (which is required for [[Fish Taco]]) is accepted in [[Sashimi]] which accepts any type of fish. However, by placing a [[Mussel]] in the bottom right slot, the Mussel will be picked first and save the Tuna for the more exclusive and valuable recipe.
+* When searching multiple [[Mini-Fridge]]s, the game picks from the last placed one in the exact chronological order in which the fridges were first placed, and then works backwards. The location of the fridge in the farmhouse does not matter.<section end="ingredientorder" />
+
+==Bugs==
+* The game has a limited display area for active buffs at the top right of the screen (about the width of 3½ buff icons). For any buff icons active outside of that range, the source and timer will not be displayed when hovered over.
+
+==References==
+<references>
+  <ref name="processtime">Buff duration for each food and drink appears in <samp>Content\Data\ObjectInformation.xnb</samp> at the 8th index. The given number must be then multiplied by 700 to have the duration in milliseconds. The formula in set in <samp>Buff::Buff</samp> in the game code.</ref>
+</references>
+
+==History==
+*Sometime between [[Version History|v1.11]] and [[Version History|v1.3]], a bug was removed that caused the duration of buffs to decrease as the day progressed.
+{{History|1.3.27|[[Artichoke Dip]], [[Pumpkin Pie]], [[Chowder]], and [[Lobster Bisque]] now accept [[Large Milk]] in place of regular milk.}}
+{{History|1.4|Added [[Shrimp Cocktail]], [[Seafoam Pudding]], [[Triple Shot Espresso]].  Fixed bugged [[Bean Hotpot]] buff.  Standardized cooking tab with stove interface across all languages.  Added [[Mini-Fridge]] as a storage option for ingredients.}}
+{{History|1.5|Added [[Banana Pudding]], [[Ginger Ale]], [[Mango Sticky Rice]], [[Poi]], [[Tropical Curry]], [[Squid Ink Ravioli]].  [[Goat Milk]] and [[Large Goat Milk]] can now be used in recipes.}}
+{{History|1.6|Added [[Moss Soup]].}}
+{{History|1.6.9|Fixed mobile bug allowing food buffs to be carried over from a previous save.}}
+
+{{NavboxRecipes}}
+
+[[Category:Cooking]]
+[[Category:Gameplay]]
+[[Category:Achievements]]
+[[Category:Bugs tested in 1.5]]
+
+[[de:Kochen]]
+[[es:Cocina]]
+[[fr:Cuisine]]
+[[it:Cucina]]
+[[ja:料理]]
+[[ko:요리]]
+[[hu:Ételek]]
+[[pt:Culinária]]
+[[ru:Готовка]]
+[[tr:Yemekler]]
+[[zh:烹饪]]

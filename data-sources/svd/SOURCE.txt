@@ -1,0 +1,1 @@
+commit 028b2966fee9111df26af96fd655d129e1cc0510 (v1.1.1), retrieved 2026-11-24 from https://github.com/chiefpansancolt/stardew-valley-data

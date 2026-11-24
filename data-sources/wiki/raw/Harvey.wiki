@@ -1,0 +1,1357 @@
+{{Infobox villager
+|portrait  = Harvey.png
+|birthday  = {{Season|Winter}} 14
+|location  = Pelican Town
+|address   = [[Harvey's Clinic|Medical Clinic]]
+|friends   = {{NPC|Maru}}
+|marriage  = Yes
+|favorites = {{Name|Coffee}}{{Name|Pickles}}{{Name|Super Meal}}{{Name|Truffle Oil}}{{Name|Wine}}
+}}
+{{Quote|Harvey is the town doctor. He’s a little old for a bachelor, but he has a kind heart and a respected position in the community. He lives in a small apartment above the medical clinic, but spends most of his time working. You can sense a sadness about him, as if there’s something he’s not telling you…|[https://www.stardewvalley.net/dev-update-12/ Dev Update #12]}}
+
+'''Harvey''' is a [[Villagers|villager]] who lives in [[Pelican Town]]. He runs the town's [[Harvey's Clinic|medical clinic]] and is passionate about the health of the townsfolk. He's one of the twelve characters available to [[Marriage|marry]].
+
+==Schedule==
+On Tuesdays and Thursdays Harvey gives villagers their annual or quarterly checkups. On most other days he spends the morning manning the counter at the clinic, and the afternoon taking exercise around town. 
+
+On rainy days, Harvey leaves the clinic and walks upstairs to his room at 12pm, regardless of whether or not there are patients in the clinic. Later, he stops by [[the Stardrop Saloon]].
+
+After the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island is unlocked, Harvey may randomly spend the day there. After leaving the Island at 6pm, Harvey will immediately go home to bed. Harvey never visits the Resort on Tuesdays, Thursdays, or [[Festivals|Festival]] days.
+
+Shown below are Harvey's schedules prioritized highest to lowest within each season. For example, if it is raining, that schedule overrides all others below it.
+
+{{ScheduleHeader|Spring}}
+|-
+|
+'''Desert Festival (As Vendor)'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|11:10 AM ||Boards bus to [[The Desert|Calico Desert]].
+|-
+|11:30 AM ||Arrives at his [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM ||Leaves booth and boards bus back to the Valley.
+|-
+|}
+
+'''Spring 15, 16 and 17 (Bus Service Restored)'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:20 AM ||Boards bus to [[The Desert|Calico Desert]] to attend the [[Desert Festival]].
+|-
+|8:40 AM ||Stands at the medical tent.
+|-
+|}
+
+'''Rain'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM ||In his room.
+|-
+|8:40 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes upstairs to his room, sits in front of radio.
+|-
+|4:00 PM ||Moves to bookshelf to read.
+|-
+|5:30 PM ||Heads to [[the Stardrop Saloon]].
+|-
+|10:00 PM ||Returns home and goes to bed.
+|-
+|}
+
+'''Tuesday and Thursday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:30 AM ||In exam room of [[Harvey's Clinic|clinic]].
+|-
+|12:50 PM ||Moves to waiting room.
+|-
+|1:30 PM ||Returns to exam room.
+|-
+|4:30 PM ||Works at the clinic's front desk.
+|-
+|6:00 PM ||Goes up to his room, stands in front of bookshelf.
+|-
+|11:00 PM ||Goes to bed.
+|-
+|}
+
+'''Friday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:00 AM ||Stands in front of refrigerator in his room.
+|-
+|8:30 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes to [[Pierre's General Store]].
+|-
+|3:00 PM ||Returns to his room above the clinic.
+|-
+|10:00 PM ||Goes to bed.
+|-
+|}
+
+'''Saturday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:30 AM ||Leaves home to go to the [[Museum]].
+|-
+|3:00 PM ||Leaves the Museum to return to his room above the clinic.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:00 AM ||Stands in front of refrigerator in his room.
+|-
+|8:30 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Walks around the park west of the town square.
+|-
+|5:30 PM ||Returns to clinic, stands at right side of front desk.
+|-
+|6:40 PM ||Goes upstairs to his room, reads in front of bookshelf.
+|-
+|10:00 PM ||Goes to bed.
+|-
+|}
+|}
+
+{{ScheduleHeader|Summer}}
+|-
+|
+'''Green Rain (Year 1)'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|All day ||At [[the Stardrop Saloon]].
+|-
+|}
+
+'''Rain'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM ||In his room.
+|-
+|8:40 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes upstairs to his room, sits in front of radio.
+|-
+|4:00 PM ||Moves to bookshelf to read.
+|-
+|5:30 PM ||Heads to [[the Stardrop Saloon]].
+|-
+|10:00 PM ||Returns home and goes to bed.
+|-
+|}
+
+'''Tuesday and Thursday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:30 AM ||In exam room of [[Harvey's Clinic|clinic]].
+|-
+|12:50 PM ||Moves to waiting room.
+|-
+|1:30 PM ||Returns to exam room.
+|-
+|4:30 PM ||Works at the clinic's front desk.
+|-
+|6:00 PM ||Goes upstairs to his room, reads in front of bookshelf.
+|-
+|11:00 PM ||Goes to bed.
+|-
+|}
+
+'''Friday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:00 AM ||Stands in front of refrigerator in his room.
+|-
+|8:30 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes to [[Pierre's General Store]].
+|-
+|3:00 PM ||Returns to his room above the clinic.
+|-
+|10:00 PM ||Goes to bed.
+|-
+|}
+
+'''Saturday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:30 AM ||Leaves home to go to the [[Museum]].
+|-
+|3:00 PM ||Leaves the Museum to return to his room above the clinic.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:00 AM ||Stands in front of refrigerator in his room.
+|-
+|8:30 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Walks south of fountain west of the [[Community Center]].
+|-
+|5:30 PM ||Returns to clinic, stands at right side of front desk.
+|-
+|6:40 PM ||Goes up to his room, reads in front of bookshelf.
+|-
+|10:00 PM ||Goes to bed.
+|-
+|}
+|}
+
+{{ScheduleHeader|Fall}}
+|-
+|
+'''Rain'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM ||In his room.
+|-
+|8:40 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes upstairs to his room, sits in front of radio.
+|-
+|4:00 PM ||Moves to bookshelf to read.
+|-
+|5:30 PM ||Heads to [[the Stardrop Saloon]].
+|-
+|10:00 PM ||Returns home and goes to bed.
+|-
+|}
+
+'''Tuesday and Thursday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:30 AM ||In exam room of [[Harvey's Clinic|clinic]].
+|-
+|12:50 PM ||Moves to waiting room.
+|-
+|1:30 PM ||Returns to exam room.
+|-
+|4:30 PM ||Works at the clinic's front desk.
+|-
+|6:00 PM ||Goes upstairs to his room, reads in front of bookshelf.
+|-
+|11:00 PM ||Goes to bed.
+|-
+|}
+
+'''Friday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:00 AM ||Stands in front of refrigerator in his room.
+|-
+|8:30 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes to [[Pierre's General Store]].
+|-
+|3:00 PM ||Returns to his room above the clinic.
+|-
+|10:00 PM ||Goes to bed.
+|-
+|}
+
+'''Saturday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:30 AM ||Leaves home to go to the [[Museum]].
+|-
+|3:00 PM ||Leaves the Museum to return to his room above the clinic.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:00 AM ||Stands in front of refrigerator in his room.
+|-
+|8:30 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Walks into town, stands by tree west of bridge to [[the Beach]].
+|-
+|5:00 PM ||Returns to his room, sits in front of radio.
+|-
+|10:00 PM ||Goes to bed.
+|-
+|}
+|}
+
+{{ScheduleHeader|Winter}}
+|-
+|
+'''Winter 15'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM ||Stands in front of microwave in his room.
+|-
+|8:40 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes upstairs to his room, sits in front of radio.
+|-
+|4:00 PM ||Moves to bookshelf in his room.
+|-
+|5:00 PM ||Walks to beach to attend [[Night Market]].
+|-
+|12:00 AM ||Returns home and goes to bed.
+|-
+|}
+
+'''Rain'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM ||In his room.
+|-
+|8:40 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes upstairs to his room, sits in front of radio.
+|-
+|4:00 PM ||Moves to bookshelf to read.
+|-
+|5:30 PM ||Heads to [[the Stardrop Saloon]].
+|-
+|10:00 PM ||Returns home and goes to bed.
+|-
+|}
+
+'''Tuesday and Thursday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:30 AM ||In exam room of [[Harvey's Clinic|clinic]].
+|-
+|12:50 PM ||Moves to waiting room.
+|-
+|1:30 PM ||Returns to exam room.
+|-
+|4:30 PM ||Works at the clinic's front desk.
+|-
+|6:00 PM ||Goes upstairs to his room, reads in front of bookshelf.
+|-
+|11:00 PM ||Goes to bed.
+|-
+|}
+
+'''Friday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|7:00 AM ||Stands in front of refrigerator in his room.
+|-
+|8:30 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes to [[Pierre's General Store]].
+|-
+|3:00 PM ||Returns to his room above the clinic.
+|-
+|10:00 PM ||Goes to bed.
+|-
+|}
+
+'''Saturday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:30 AM ||Leaves home to go to the [[Museum]].
+|-
+|3:00 PM ||Leaves the Museum to return to his room above the clinic.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM ||In his room.
+|-
+|8:40 AM ||Works at the clinic's front desk.
+|-
+|12:00 PM ||Goes upstairs to his room, sits in front of radio.
+|-
+|4:00 PM ||Moves to bookshelf to read.
+|-
+|5:50 PM ||Heads to [[the Stardrop Saloon]].
+|-
+|10:00 PM ||Returns home and goes to bed.
+|-
+|}
+|}
+
+{{ScheduleHeader|Marriage}}
+|-
+|
+'''Spring 15, 16 and 17 (Bus Service Restored)'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM ||Leaves the farmhouse and heads to the [[Desert Festival]].
+|-
+|9:40 AM ||Stands at the medical tent.
+|-
+|}
+
+'''Monday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:30 AM
+|Leaves the farmhouse and heads to [[Pierre's General Store]].
+|-
+|12:00 PM
+|Walks to fountain left of [[Community Center]].
+|-
+|5:00 PM
+|Leaves town and heads home to the farm.
+|}
+
+'''Tuesday and Thursday'''
+{|class="wikitable" style="width:500px"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|6:30 AM
+|Leaves the farmhouse and heads to the clinic.
+|-
+|6:00 PM
+|Leaves the clinic to return home to the farm.
+|}
+|}
+
+==Relationships==
+Harvey works with [[Maru]] at the clinic, and can be seen standing with her at the [[Luau]].
+
+Harvey will dance with Maru at the [[Flower Dance]] if neither of them are dancing with the player.
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|It's for me? This is my favorite stuff! It's like you read my mind.}}
+''Stardrop Tea''
+{{Squote|You're giving me this? I'm honored. Thank you!}}
+''Truffle Oil''
+{{Squote|It's for me? Thank you! This will be fantastic drizzled on some pasta.}}
+''Wine''
+{{Squote|For me? What a gift! This looks fantastic!<br/>You know, on a physiological level, I wouldn't advise the consumption of alcohol...<br/>But there's no denying the benefit of kicking back and enjoying a glass of fine Stardew Valley wine!}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Harvey Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Coffee.png|center]]
+|[[Coffee]]
+|{{Description|Coffee}}
+|[[Keg]], [[The Stardrop Saloon]]
+|{{Name|Coffee Bean|5}}
+|-
+|[[File:Pickles.png|center]]
+|[[Jellies and Pickles|Pickles]]
+|{{Description|Pickles}}
+|[[Preserves Jar]]
+|Any [[Vegetables|vegetable]] or [[Ginger]] (1)
+|-
+|[[File:Super Meal.png|center]]
+|[[Super Meal]]
+|{{Description|Super Meal}}
+|[[Cooking]]
+|{{Name|Bok Choy|1}}{{Name|Cranberries|1}}{{Name|Artichoke|1}}
+|-
+|[[File:Truffle Oil.png|center]]
+|[[Truffle Oil]]
+|{{Description|Truffle Oil}}
+|[[Oil Maker]]
+|{{Name|Truffle|1}}
+|-
+|[[File:Wine.png|center]]
+|[[Wine]]
+|{{Description|Wine}}
+|[[Keg]]
+|Any [[Fruits|fruit]] (1)
+|}
+
+===Like===
+{{Squote|That's such a nice gift. Thank you!}}
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Harvey Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]''' ''(except [[Cheese]],  [[Goat Cheese]], [[Rainbow Shell]], and the following '''[[Cooking|cooked dishes]]''':  [[Blueberry Tart]], [[Chocolate Cake]], [[Cookie]], [[Cranberry Sauce]], [[Fried Mushroom]], [[Glazed Yams]], [[Hashbrowns]], [[Ice Cream]], [[Pancakes]], [[Pink Cake]], [[Pizza]], [[Rhubarb Pie]], & [[Rice Pudding]])''</li><li>'''All [[Fruits|Fruit]]''' ''(except [[Salmonberry]] &amp; [[Spice Berry]])''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Duck Egg.png|center]]
+|[[Duck Egg]]
+|{{Description|Duck Egg}}
+|[[Duck]]
+|-
+|[[File:Duck Feather.png|center]]
+|[[Duck Feather]]
+|{{Description|Duck Feather}}
+|[[Duck]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Goat Milk.png|center]]
+|[[Goat Milk]]
+|{{Description|Goat Milk}}
+|[[Goat]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Large Goat Milk.png|center]]
+|[[Large Goat Milk]]
+|{{Description|Large Goat Milk}}
+|[[Goat]]
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Hoes|Tilling]] - [[Winter]]
+|-
+|[[File:Spring Onion.png|center]]
+|[[Spring Onion]]
+|{{Description|Spring Onion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Hoes|Tilling]] - [[Winter]]
+|}
+
+===Neutral===
+{{Squote|Thanks. That's very kind of you.}}
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Harvey.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]''' ''(except [[Bread]], [[Coral]], [[Duck Feather]], &amp; [[Nautilus Shell]])''</li><li>'''All Eggs''' ''(except [[Duck Egg]] &amp; [[Void Egg]])*''</li></ul>
+|-
+|[[File:Large Milk.png|center]]
+|[[Large Milk]]
+|{{Description|Large Milk}}
+|[[Cow]]
+|-
+|[[File:Milk.png|center]]
+|[[Milk]]
+|{{Description|Milk}}
+|[[Cow]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Dislike===
+{{Squote|Hmm... Are you sure this is healthy?}}
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Harvey Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]''' ''(except [[Spring Onion]])''</li></ul>
+|-
+|[[File:Blueberry Tart.png|center]]
+|[[Blueberry Tart]]
+|{{Description|Blueberry Tart}}
+|[[Cooking]]
+|{{Name|Blueberry|1}}{{Name|Wheat Flour|1}}{{Name|Sugar|1}}{{Name|Egg|1}}
+|-
+|[[File:Bread.png|center]]
+|[[Bread]]
+|{{Description|Bread}}
+|[[Cooking]]
+|{{Name|Wheat Flour|1}}
+|-
+|[[File:Cheese.png|center]]
+|[[Cheese]]
+|{{Description|Cheese}}
+|[[Cheese Press]]
+|{{Name|Milk|1}}
+|-
+|[[File:Chocolate Cake.png|center]]
+|[[Chocolate Cake]]
+|{{Description|Chocolate Cake}}
+|[[Cooking]]
+|{{Name|Wheat Flour|1}}{{Name|Sugar|1}}{{Name|Egg|1}}
+|-
+|[[File:Cookie.png|center]]
+|[[Cookie]]
+|{{Description|Cookie}}
+|[[Cooking]]
+|{{Name|Wheat Flour|1}}{{Name|Sugar|1}}{{Name|Egg|1}}
+|-
+|[[File:Cranberry Sauce.png|center]]
+|[[Cranberry Sauce]]
+|{{Description|Cranberry Sauce}}
+|[[Cooking]]
+|{{Name|Cranberries|1}}{{Name|Sugar|1}}
+|-
+|[[File:Fried Mushroom.png|center]]
+|[[Fried Mushroom]]
+|{{Description|Fried Mushroom}}
+|[[Cooking]]
+|{{Name|Common Mushroom|1}}{{Name|Morel|1}}{{Name|Oil|1}}
+|-
+|[[File:Glazed Yams.png|center]]
+|[[Glazed Yams]]
+|{{Description|Glazed Yams}}
+|[[Cooking]]
+|{{Name|Yam|1}}{{Name|Sugar|1}}
+|-
+|[[File:Goat Cheese.png|center]]
+|[[Goat Cheese]]
+|{{Description|Goat Cheese}}
+|[[Cheese Press]]
+|{{Name|Goat Milk|1}}
+|-
+|[[File:Hashbrowns.png|center]]
+|[[Hashbrowns]]
+|{{Description|Hashbrowns}}
+|[[Cooking]]
+|{{Name|Potato|1}}{{Name|Oil|1}}
+|-
+|[[File:Ice Cream.png|center]]
+|[[Ice Cream]]
+|{{Description|Ice Cream}}
+|[[Cooking]]
+|{{Name|Milk|1}}{{Name|Sugar|1}}
+|-
+|[[File:Pancakes.png|center]]
+|[[Pancakes]]
+|{{Description|Pancakes}}
+|[[Cooking]]
+|{{Name|Wheat Flour|1}}{{Name|Egg|1}}
+|-
+|[[File:Pink Cake.png|center]]
+|[[Pink Cake]]
+|{{Description|Pink Cake}}
+|[[Cooking]]
+|{{Name|Melon|1}}{{Name|Wheat Flour|1}}{{Name|Sugar|1}}{{Name|Egg|1}}
+|-
+|[[File:Pizza.png|center]]
+|[[Pizza]]
+|{{Description|Pizza}}
+|[[Cooking]]
+|{{Name|Wheat Flour|1}}{{Name|Tomato|1}}{{Name|Cheese|1}}
+|-
+|[[File:Rhubarb Pie.png|center]]
+|[[Rhubarb Pie]]
+|{{Description|Rhubarb Pie}}
+|[[Cooking]]
+|{{Name|Rhubarb|1}}{{Name|Wheat Flour|1}}{{Name|Sugar|1}}
+|-
+|[[File:Rice Pudding.png|center]]
+|[[Rice Pudding]]
+|{{Description|Rice Pudding}}
+|[[Cooking]]
+|{{Name|Milk|1}}{{Name|Sugar|1}}{{Name|Rice|1}}
+|}
+
+===Hate===
+{{Squote|...I think I'm allergic to this.}}
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Harvey Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li></ul>
+|-
+|[[File:Coral.png|center]]
+|[[Coral]]
+|{{Description|Coral}}
+|[[Foraging]] - [[The Beach]]
+|-
+|[[File:Nautilus Shell.png|center]]
+|[[Nautilus Shell]]
+|{{Description|Nautilus Shell}}
+|[[Foraging]] - [[The Beach]]
+|-
+|[[File:Rainbow Shell.png|center]]
+|[[Rainbow Shell]]
+|{{Description|Rainbow Shell}}
+|[[Foraging]] - [[The Beach]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[Salmonberry]]
+|{{Description|Salmonberry}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Spice Berry.png|center]]
+|[[Spice Berry]]
+|{{Description|Spice Berry}}
+|[[Foraging]] - [[Summer]]
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch
+<p>[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express</p>
+|-
+!Like
+|-
+|[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World
+<p>[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling</p>
+[[File:'Wumbus'.png|24px|link=]] Wumbus
+|-
+!Dislike
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture</p>
+[[File:'Mysterium'.png|24px|link=]] Mysterium
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Apple Slices.png|24px|link=]] Apple Slices<br />[[File:Jasmine Tea.png|24px|link=]] Jasmine Tea<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|[[File:Cappuccino Mousse Cake.png|24px|link=]] Cappuccino Mousse Cake<br />[[File:Hummus Snack Pack.png|24px|link=]] Hummus Snack Pack<br />[[File:Kale Smoothie.png|24px|link=]] Kale Smoothie<br />[[File:Panzanella Salad.png|24px|link=]] Panzanella Salad<br />[[File:Salmon Burger.png|24px|link=]] Salmon Burger<br />[[File:Sour Slimes.png|24px|link=]] Sour Slimes<br />[[File:Truffle Popcorn.png|24px|link=]] Truffle Popcorn
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Two Hearts===
+{{heart event
+ |hearts  = 2
+ |trigger = Enter [[1 River Road|George's house]] while [[George]] is there.
+ |details = Harvey is performing a private check-up on George. He tries to explain that George needs to make some lifestyle changes if he wants to keep healthy, but George seems irritated with his advice and states that he knows what's best for his own body. Harvey explains that he went to school for eight years so that he could help people in an attempt to get George to cooperate, but then his attention is drawn away as he notices your arrival. Harvey says you shouldn't be there because it is a private session, but George stops you from leaving by asking for a second opinion on the matter. 
+
+* {{choice|"George should follow Dr. Harvey's advice."|40}} He again says that he's only trying to help and George finally gives in and agrees to follow doctor's orders. After that Harvey thanks you for the help and say that he appreciates you.
+* {{choice|"George knows what's best for his own body."|-40}} He sighs and tells George that if he's going to behave like this, Harvey will have to tell George's wife and she won't be happy. George begrudgingly concedes to the doctor's orders. Harvey tells you that it's better not to give patients mixed messages.
+}}
+
+===Four Hearts===
+{{heart event
+ |hearts  = 4
+ |trigger = Enter the [[Harvey's Clinic|clinic]] when Harvey is there.
+ |details = Harvey says he was just about to write you a letter about how you're due for your annual check-up. As he's looking you over, he notices your pulse seems high.
+* {{choice|"I'm a little nervous..."|20}} Harvey assumes that it's because of the Hospital and tells you to relax because he's here to help.
+* {{choice|"I'm out of breath from working on the farm."|20}}
+* {{choice|"Are you really a doctor? My pulse is fine!"|-50}}
+
+At the end of it, Harvey declares you healthy and says you should take care not to overwork yourself on the farm.
+}}
+
+===Six Hearts===
+{{heart event
+ |hearts  = 6
+ |trigger = Enter the [[Pierre's General Store|general store]] between 11am and 3pm.
+ |details = You witness a dance aerobics session with some of the ladies and, unexpectedly, Harvey. Harvey seems out of breath as the session comes to an end, heading towards the door to leave but running into you on the way. Harvey seems incredibly embarrassed when he finds out you were watching, wanting to keep it a secret. He explains that he's doing it to stay healthy, which becomes more difficult with age and the stress of running the clinic essentially alone. Harvey seems discouraged because of how difficult it is for him to keep up with the rest of the group, figuring he must not be in good shape. He asks you not to tell the rest of the town that he's doing dance aerobics. 
+*{{choice|"I won't tell"|20}} Harvey thanks you and says that he appreciates you.
+*{{choice|"I can't promise that."|-50}} Harvey sighs and says "rude".
+
+[[File:Harvey Six Heart Event 1.jpg|400px]]
+}}
+
+===Eight Hearts===
+{{heart event
+ |hearts  = 8
+ |trigger = Enter the [[Harvey's Clinic|clinic]].
+ |details = You head into Harvey's room to find him using his equipment in an attempt to contact a pilot. He suddenly gets a response, surprising him and making his pulse race, but he manages to respond with his coordinates before quickly signing off. As you enter the room, you are presented with two choices:
+* {{choice|"Ask Harvey why he's all flustered."}}
+* {{choice|"Pretend like everything's normal."}}
+Either way, Harvey's response is the same. He notices you and tells you he made contact with a real pilot. He excitedly tells you to come over to the window to watch the pilot fly overhead with him. After the plane passes Harvey opens up about how he always wanted to be a pilot when he was younger, but couldn't because of his bad eyesight and crippling fear of heights. He tells you not to be sad about it, that he's accepted not everyone can achieve their dreams and that is just the way the world is. Harvey tries to lighten the mood by asking you to look at his model planes, having just finished the TR-Starbird deluxe set.
+
+[[File:Harvey Eight Heart Event.png|400px]]
+}}
+
+===Ten Hearts===
+{{heart event
+ |hearts  = 10
+ |trigger = Harvey sends you a letter asking to meet at the [[Railroad|railroad tracks]]. Go there between 9am and 5pm.
+ |details = When you meet him there, he says he's glad you came and that something should be happening very soon. A man in a hot air balloon, Marcello, lands nearby, says the balloon is yours for the next two hours, and heads into town for [[the Stardrop Saloon]]. Harvey tells you that he saw the hot air balloon rental advertised in the newspaper and thought it was a perfect thing to do together. Before hopping in, you can either immediately get to it or ask him why he did this since you know about his incredible fear of heights. If you opt to ask him, he bashfully explains that while his fear is still a major factor, he admires you and your courage and says that it should be more than enough for the both of you. 
+
+Boarding the hot air balloon, Harvey switches on the burner below to make it ascend but freaks out once he realizes how fast it's rising. High in the sky, his mood oscillates between fear and elation, eventually coming to his senses and remembering that you're there with him. He marvels at how much he can see below and is glad that he's doing this with you. Soon before the two-hour rental is up, you draw close into a kiss. You return the balloon to the rental man at least a half hour late.
+
+[[File:Harvey Ten Heart Event 5.jpg|500px]]
+}}
+
+===Group Ten-Heart Event===
+{{Hearts|10}}
+{{#lst:Bouquet|boys}}<!-- Transcluded from Bouquet page -->
+
+===Fourteen Hearts===
+{{heart event
+ |hearts  = 14
+ |trigger = Enter an upgraded farm house (needs to be upgraded at least twice) between 8pm and midnight.
+ |details = In the cutscene, Harvey is seen cooking and then setting the table for dinner. As you enter, Harvey says you're just in time and tells you he's cooked angel hair pasta with clams. He asks you how the dish tastes and he asks what you did that day. 
+
+At the end, Harvey offers to wash the dishes and says he is happy to do so.
+}}
+
+==Marriage==
+{{Main article|Marriage}}
+Once married, Harvey will move into the [[farmhouse]]. Like other marriage candidates, he will add his own room to the right of the bedroom. He'll also set up a small garden behind the farmhouse where he'll sometimes go to read. He will continue to work at the [[Harvey's Clinic|clinic]] and travel to [[Pelican Town|town]] to work there on Tuesdays and Thursdays.
+
+On mornings when Harvey stays inside the farmhouse all day, he may offer you [[Complete Breakfast]]. On rainy nights he may offer you dinner: [[Salmon Dinner]], [[Crispy Bass]], [[Fried Eel]], [[Carp Surprise]], or [[Vegetable Medley]].
+
+<gallery>
+Harvey Marriage Ceremony 2.jpg|Marriage ceremony
+Harvey Spouse Room.png|Harvey's room
+Penny, harvey. elliot.png|Harvey's garden
+</gallery>
+
+==Quotes==
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular'''&nbsp;
+|-
+|
+
+'''First Meeting'''
+{{Squote|It's a pleasure to meet you. I'm Harvey, the local doctor. I perform regular check-ups and medical procedures for all the residents of Pelican Town. It's rewarding work. I hope you'll find your own work equally rewarding, in time.}}
+
+'''Regular'''
+{{Squote|We sell a few over-the-counter medicines at the clinic... feel free to stop by if you're feeling exhausted. I know that being a farmer is pretty tiring work... don't overdo it!}}
+{{Squote|I feel responsible for the health of this whole community... it's kind of stressful. It's a pretty small community, and I'm fortunate to be able to build a good relationship with my patients.}}
+{{Squote|Feel free to stop by my office if you're ever feeling ill. You're young, though. You'll probably stay healthy without trying.}}
+{{Squote|I'd like to get to know you better, [Player]. Let's put aside our doctor-patient relationship.}}
+{{Squote|Remember to cover your mouth when you sneeze. Then make sure to wash your hands.}}
+{{Squote|Nutrition is important, so make sure and eat well. Try to increase your vegetable intake! Home-cooked meals are best. Do you cook?}}
+{{Squote|It's a beautiful day, isn't it? I wish I had less work to do.}}
+{{Squote|If you want to hang out in my apartment, that's okay with me. I live above the clinic.}}
+{{Squote|Can I do anything for you? Take care.}}
+{{Squote|I came here because I liked the small-town atmosphere, and the potential for a holistic approach to patient care. I've grown to really love it.}}
+{{Squote|Hmm... I'm struggling to make ends meet. I don't have enough patients. I guess I should try to get patients from the neighboring towns...}}
+
+''During other villagers' doctor visits''
+{{Squote|Now just hold still... Take a deep breath for me.}}
+
+'''Summer'''
+{{Squote|It's okay to get a moderate amount of sunlight. Just don't get burnt. Okay. Take care! Stay healthy.}}
+{{Squote|Exercise is important, but don't get too exhausted, or you might end up at my clinic! Make sure and listen to your body.}}
+{{Squote|People don't get sick much during the summer. That's nice, but it also means less business for me.}}
+
+'''Fall'''
+{{Squote|Have you been going into the mines, [Player]? It's a dangerous place. I recommend against it.}}
+{{Squote|When you eat certain foods you'll perform better. Eating a 'Farmer's Lunch' will give you the nutrition you need to water and harvest crops better!}}
+
+'''Winter'''
+{{Squote|It's flu season, so you'd better be extra careful. Make sure to wash your hands often.}}
+{{Squote|I hate to say this, but I do make a lot more money during flu season. I guess if people stopped getting sick, I'd be out of business. Don't get the wrong idea! I want people to be healthy... really!}}
+
+'''Green Rain'''
+''Year 1''
+{{Squote|I brought some medical supplies, just in case. Be careful out there!}}
+''Years 2+''
+{{Squote|The first time this happened, we were all worried that the rain might be dangerous. But what if it's actually healthy for the body? Who knows... The plants seem to respond well to it, at least.}}
+
+'''At Ginger Island'''
+{{Squote|Sunscreen? Check... Sun hat? Check...}}
+{{Squote|I'll let you in on a little secret... I can only swim with floaties.}}
+{{Squote|I combed the whole beach for glass. We wouldn't want anyone to get a cut on their foot!}}
+{{Squote|It's nice to have an opportunity to relax now and then. The trouble is actually letting go of your worries...}}
+{{Squote|It's important to stay hydrated in this heat. I'm going to ask Gus if he has any coconut water!}}
+{{Squote|If you get burnt, a little aloe vera cream might help soothe the skin.}}
+
+'''6+ Hearts'''
+{{Squote|I'd like to stay in Stardew Valley for a while. I'm finally starting to feel involved in the community. It feels good to know that you're useful.}}
+{{Squote|It's nice to have a friend in town.}}
+{{Squote|Imagine having a patient's life completely in your hands, and failing to keep them alive... that's something that will haunt you forever.}}
+
+''If player has seen Harvey's 6 Heart Event:''
+{{Squote|Well now that you know my secret, I might as well give you an update... I was significantly less winded after aerobics class this week!}}
+
+'''8+ Hearts'''
+{{Squote|Don't overwork yourself, [Player]. Doctor's orders! Your health is important to me.}}
+{{Squote|You have a really healthy glow. That's good.}}
+{{Squote|It's a lot of work, being a doctor. I don't eat as well as I should. If I didn't live alone I think it would be easier.}}
+{{Squote|<nowiki>*Sigh*</nowiki>... I'm starting to feel kind of old... The older you get the more memories you're burdened with. It can be overwhelming. I think I'll stay younger with you around.}}
+
+'''After receiving the bouquet'''
+{{Squote|I've never felt like this before...}}
+
+'''Dating (after 1 day)'''
+{{Squote|I've been thinking about you so much, I can hardly do my work.}}
+
+'''Dating / 10 Hearts'''
+{{Squote|Oh! Hi, [Player]. Do you... have any medical questions?}}
+{{Squote|Stop by my place if you ever need a confidential check-up.}}
+{{Squote|I've been thinking about you so much, I can hardly do my work.}}
+
+'''Rainy Days'''
+{{Squote|Hi [Player]! Er...read anything interesting in the library lately?
+Heh. Well, um...I'll see you around then?}}
+
+'''After receiving a [[Wilted Bouquet]]'''
+{{Squote|...Y...You...?}}
+{{Squote|*gulp*... I... I think I'm going to be sick...}}
+
+'''When given the Mermaid's Pendant'''
+{{Squote|...!!! I accept!! ... I'll set everything up. We'll have the ceremony in three days, okay?}}
+{{Squote|Oh my goodness! I have so much to prepare before the wedding! I'm nervous.}}
+{{Squote|I'll be relieved after we're all settled in your farm.}}
+
+'''If the player starts dating Maru'''
+{{Squote|Maru's been unusually cheerful lately... I hear you may have something to do with that.}}
+
+'''If the player marries Maru'''
+{{Squote|Congratulations on your marriage, [Player]. Maru's already informed me that she'll continue to work at the clinic, which is a relief!}}
+
+'''When engaged'''
+{{Squote|I'm very happy. This was always my secret wish.}}
+
+'''After Group 10 Heart Event'''
+{{Squote|I'm busy with my work. I can't speak to you.}}
+{{Squote|I want you back in my life, [Player]. I'm willing to forget what happened.}}
+
+|-
+|}
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events'''&nbsp;
+|-
+|
+
+'''[[Egg Festival]]'''
+
+''Odd-numbered year''
+{{Squote|Eggs definitely have a place in the well-balanced diet. Oops... I should take off my Doctor's hat for the time being.}}
+''Even-numbered year''
+{{Squote|Eggs are fine, but I'd advise against eating thirty per day!}}
+''If married:''
+{{Squote|How is everyone doing? I'm just taking a break for a little while. I'm looking forward to seeing you in the egg hunt!}}
+
+'''[[Desert Festival]]'''
+{{Squote|Going into the caves can be really dangerous. I hope there are no accidents, but still...I’ll be here all day just in case.
+As a doctor, I’d normally recommend minimizing your exposure to serpent-infested caverns! But ultimately, it’s your choice.}}
+
+'''[[Flower Dance]]'''
+
+''Odd-numbered year''
+{{Squote|I'm working up the courage to ask someone to dance with me.}}
+''Even-numbered year''
+{{Squote|If you spend some time pondering the hardships of life, it can put things into perspective. 
+Suddenly, dancing in front of the whole town in an ill-fitting suit doesn't seem so bad!}}
+''(asked to be dance partner, refused request.)''
+{{Squote|Oh! I'm sorry... I, er... have plans to ask someone else.}}
+''(asked to be dance partner, accepted request.)''
+{{Squote|Oh! You... want to dance with me?
+...Yes. I'd love to!}}
+''(asked to be dance partner, married.)''
+{{Squote|I've been looking forward to it all afternoon! You look radiant in the fresh spring air, my dear.}}
+
+'''The [[Luau]]'''
+
+''Odd-numbered year''
+{{Squote|Good thing I brought my sunscreen,
+I wonder if Maru could use some sunscreen on her shoulders?}}
+''Even-numbered year''
+{{Squote|*pant*... *pant*... ahhhh, I can't wait for a bowl of piping hot soup...}}
+''If married:''
+{{Squote|Oh dear... I've got sand in my socks...}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+
+''Odd-numbered year''
+{{Squote|Well, summer's over. To be honest, I'll be happy to say goodbye to these blasted mosquitos!}}
+''Even-numbered year''
+{{Squote|With each passing second, my anticipation grows...}}
+
+'''[[Stardew Valley Fair]]'''
+
+''Odd-numbered year''
+{{Squote|And just a few steps over there, Gus is grilling up a batch of pork ribs... Yikes.
+I've got some soul-searching to do...}}
+''Even-numbered year''
+{{Squote|I'm astonished by the level of craftsmanship on display here. Some people are so talented!}}
+''If married:''
+{{Squote|I'll wait here until you're ready to go home...}}
+
+'''[[Spirit's Eve]]'''
+
+''Odd-numbered year''
+{{Squote|Oh! You found me... The truth is, I got too scared so I came here to hide. Don't tell anyone.}}
+''Even-numbered year''
+{{Squote|I’m afraid to say I’m quite puzzled on this one.}}
+''If married:''
+{{Squote|Hi... I was hoping you'd find me here...}}
+
+'''[[Festival of Ice]]'''
+
+''Odd-numbered year''
+{{Squote|Extreme temperatures can put your body under a lot of stress, so make sure to bundle up!
+Oh and enjoy the festival!}}
+''Even-numbered year''
+{{Squote|I shouldn’t have waxed my moustache this morning, it’s frozen solid! Oh dear…}}
+{{Squote|Well, if you need an ice pick, you know where to find me...}}
+''If married:''
+{{Squote|I'm dreaming of our warm fire back home...}}
+
+'''[[Night Market]]'''
+{{Squote|Winter can be a dreary season, but events like this make it a little brighter!}}
+
+'''[[Feast of the Winter Star]]'''
+
+''Odd-numbered year''
+{{Squote|I'm thankful there were no medical emergencies this year!}}
+''Even-numbered year''
+{{Squote|Have you tried the pecan pie? It's my favorite.}}
+''If married:''
+{{Squote|I'm feeling a little overwhelmed... thank goodness for this crisp air...}}
+
+|-
+|}
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''After Marriage'''&nbsp;
+|-
+|
+
+'''Indoor Days'''
+{{Squote|I think we're all striving to reach some kind of balance in life. An equilibrium of complexity. For me, moving here was exactly what my body needed to find that balance.}}
+{{Squote|I'm going to study the medical literature today. It's important for me to keep up-to-date so I can give my patients the best care possible!}}
+{{Squote|I'm going to listen to some jazz music and finalize my medical reports today. What do you have planned?}}
+{{Squote|I was afraid of you when we first met. It's funny to think about now that we've come so far.}}
+{{Squote|The sky looks great today... so clear! From now on, I'm only going to go into the clinic when I have appointments. Otherwise I can just work from home!}}
+{{Squote|Hi (affectionate nickname)! I got up early and fed all the farm animals. I hope it makes your job a little easier today.}}
+{{Squote|I wonder who lived here before us?}}
+''Giving [[Complete Breakfast]]''
+{{Squote|Good morning, [Player]! I made you a nutritious breakfast. Eggs are a good source of essential nutrients, so eat up.}}
+''In his side room''
+{{Squote|No air-traffic this morning, honey. But it’s still fun to break out the equipment now and then. I’m working on a new model plane. It’s so much more relaxing here than in my old apartment.}}
+
+'''Outdoor Days'''
+{{Squote|This is a very safe spot. You go on ahead and take care of business, don't worry about me.}}
+{{Squote|I believe this must be the ideal place to raise children, scientifically. What do you think?}}
+{{Squote|I may not be the most exciting guy, but I'll stay loyal to you for the rest of my life.}}
+{{Squote|[Player]... you... you mean the world to me.}}
+{{Squote|As a scientist I'm fascinated by the delicate interplay of insect and plant life.}}
+{{Squote|This is so much nicer than being cooped up in the clinic all day. I love watching you on the farm... hehe}}
+''On Patio''
+{{Squote|You know, this 'journal of tendon dynamics' is actually bearable when I'm reading out here.}}
+
+'''Indoor Nights'''
+{{Squote|You look exhausted, dear. Let me give you a massage tonight. I promise it will reduce the inflammation in your muscle tissue!}}
+{{Squote|I took it easy today... spent some time reading books, fiddled with my radio, and worked on a model airplane. It's important to take a day off now and then to relax... stress is unhealthy.}}
+{{Squote|Good evening... did you finish everything you needed to do today? Don't worry about me. I'm very self-sufficient. If you have more work to do go right ahead.}}
+{{Squote|It's stressful to be a doctor, so it's really great to live somewhere as relaxing as [farm name] Farm.}}
+{{Squote|Oh! I was just daydreaming about the circulatory system and forgot what I was trying to do. It's a classic doctor's problem.}}
+{{Squote|You look like you could use a good massage tonight. Doctor's orders... It's good for the circulation!}}
+
+'''Rainy Days'''
+{{Squote|It's a myth that rainy weather causes the flu. However, take care that you don't slip on the mud! I often worry about you.}}
+{{Squote|It was so incredibly lonely living above the clinic by myself... I'm much happier now.}}
+{{Squote|I woke up early, but I made sure not to wake you. You looked so peaceful.}}
+{{Squote|I don't mind the rain. Sure, I can't watch the planes go by, but I can still listen to the radio chatter. It makes the whole thing a little more mysterious.}}
+{{Squote|I have a backlog of house chores I want to complete today. I've got plenty to keep me busy!}}
+{{Squote|Make sure you stay dry today, dear. I don't want you to become hypothermic.}}
+
+'''Rainy Nights'''
+{{Squote|How was your day, honey? I was going to do the dishes but I got absorbed in the latest issue of "Knee Surgery Enthusiast".}}
+{{Squote|If you're enjoying life, who cares if it's a little repetitive? That's what I say.}}
+{{Squote|You look a little soggy, [hun/dear]. Why don't you warm yourself by the fire?}}
+{{Squote|The sound of rain gives our minds something to focus on, so we're not distracted by random thoughts. That's my theory for why it's so soothing...}}
+{{Squote|Hi. It's good to see you. I spent the day skimming through some medical journals.}}
+''Giving dinner''
+{{Squote|I made us a nice healthy dinner. Only fresh, wholesome ingredients from the valley! Just make sure to eat a reasonable portion, dear.}}
+
+'''Going Out'''
+{{Squote|I think I'll take a little walk today. I need to unwind.}}
+{{Squote|I had a nice day. It's refreshing to spend some time alone now and then. Did you have a good day, honey?}}
+
+''Pierre's General Store''
+{{Squote|Hi! I'm just shopping for some essentials, so I can continue to cook healthy meals for us.}}
+
+''On Tuesdays and Thursday's''
+{{Squote|I have to go into the clinic today. Have a nice day, okay?}}
+{{Squote|Hi, honey. How was your day? *Phew*... I'm exhausted... My patients are still healthy, so it was a good day.}}
+
+'''High Hearts'''
+{{Squote|[Player]...I still can't believe we're married...}}
+{{Squote|You rescued me from a life of loneliness, and filled the emptiness in my heart. Thank you.}}
+{{Squote|I knew you were the one from the moment you moved here.}}
+{{Squote|Be careful out there! I have nightmares about your limp body being wheeled into the emergency room.}}
+{{Squote|This place is my home now... I'm happy here.}}
+<small>If male</small>
+{{Squote|Wow, you look really handsome today! Did you shave?}}
+<small>If female</small>
+{{Squote|Oh, my... you look beautiful today.}}
+
+'''When pregnant'''
+{{Squote|(Farmer's name), we're going to have a baby soon.}}
+{{Squote| I was afraid of you when we first met. It's funny to think about now that we've come so far.}}
+{{Squote|Dear, I filed our adoption papers. Now all we can do is cross our fingers and wait.}}
+{{Squote|(Farmer's name), I hope our adoption request gets approved. I want a baby.}}
+{{Squote|[Term of endearment], can't you tell? You're pregnant.}}
+
+'''After having one child'''
+{{Squote|You and (baby's name) are the most important parts of my life.}}
+{{Squote|Little [child] is going to have the perfect childhood here. We're really fortunate to have this opportunity.}}
+{{Squote|So far, I really like being a father!}}
+{{Squote|Don't worry, I'll feed (baby's name) today. You can just focus on running the farm.}}
+
+'''After having two children'''
+{{Squote|I already gave [child] and [child] their breakfasts. I'm trying to teach them to enjoy healthy food!}}
+{{Squote|I believe a child should be allowed to play and explore to their heart's content. You're only a kid once.}}
+{{Squote|Maybe [child] will grow up to become a pilot, like I never could?}}
+{{Squote|My life is devoted to you and the children now, and I'm very happy about it. I always dreamed of having a wonderful family. I had nightmares of being a bachelor forever.... I love you so much.}}
+{{Squote|Everything went well, and now little (baby's name) is part of the family. We're very fortunate.}}
+
+'''Spring'''
+{{Squote|Let's plant some healthy vegetables this spring.}}
+
+''Spring 1''
+{{Squote|It's wonderful to see all the plants return to life. The greenery is refreshing after a monochrome winter.}}
+
+''Day before the [[Egg Festival]]''
+{{Squote|Oh, it's a festival tomorrow, isn't it? Large crowds, activities... *gulp*}}
+
+''Spring 23''
+{{Squote|W…Will you dance with me at the festival tomorrow? It’s always a little embarrassing.}}
+
+'''Summer'''
+{{Squote|Make sure you don't get sunburnt, honey... That can really damage your skin.}}
+
+''Summer 1''
+{{Squote|Make sure you don't get sunburnt, dear! It's very dangerous for your skin. As your husband and doctor, I consider your health and safety my top priority!}}
+
+''Day before the [[Luau]]
+{{Squote|Have you thought about what you're going to put in the luau soup? I would put an item of high value and quality. We all want to leave a great impression on the governor!}}
+
+''Summer 27''
+{{Squote|As summer draws to a close, and the colder season begins, my workload tends to increase. Sorry in advance if I'm a little moody...}}
+
+'''Fall'''
+{{Squote|I could sure go for some wine.}}
+''Fall 1''
+{{Squote|Make sure and diversify your harvests this fall, my dear. Or just grow cranberries... It's really up to you. What do I know?}}
+
+''Day before the [[Stardew Valley Fair]]''
+{{Squote|Tomorrow's the fair. The food is very rich and salty, but I'm fine with splurging once in a while.}}
+
+''Day before [[Spirit's Eve]]''
+{{Squote|I'll admit, the spirit's eve festival usually gives me intestinal pain... but I'll do my best to be brave.}}
+
+'''Winter'''
+{{Squote|Winter is flu season, so work is probably going to be a lot more stressful. Sorry in advance if I’m grouchy.}}
+
+''Winter 1''
+{{Squote|The air is very dry during winter. That's why our skin tends to become irritated. Don't worry, I'll rub a little truffle oil onto your back every night.}}
+
+''Day before the [[Festival of Ice]]''
+{{Squote|Are we going to stop by the ice festival tomorrow? I do enjoy the igloos...}}
+
+''Winter 28''
+{{Squote|Well, here's to a fantastic year. I have complete confidence that next year will be even better!}}
+
+'''Special [[The Summit#Cutscene|Summit Cutscene]] Dialogue'''
+{{Squote|When I'm next to you, I'm not even scared of falling off this cliff and dashing onto the sharp rocks below... I... I love and admire you very much, [Player]...}}
+
+'''After Divorce'''
+{{Squote|I... I can't look at you. Please spare me any more pain.}}
+|-
+|}
+
+==Quests==
+*Harvey may randomly request an item at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]]. The reward is 3x the item's base value and 150 [[Friendship]] points.
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:Harvey.png
+File:Harvey Happy.png
+File:Harvey Concerned.png
+File:Harvey Neutral.png
+File:Harvey Flustered.png
+File:Harvey Surprised.png
+File:Harvey Blush.png
+File:Harvey Earbuds.png
+File:Harvey Headphones.png
+File:Harvey Headphones Surprised.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Harvey Winter 06.png
+File:Harvey Winter 01.png
+File:Harvey Winter 02.png
+File:Harvey Winter 05.png
+File:Harvey Winter 07.png
+File:Harvey Winter 08.png
+File:Harvey Winter 04.png
+File:Harvey Winter 03.png
+File:Harvey Winter 09.png
+File:Harvey Winter 10.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Harvey Beach.png
+File:Harvey Beach Happy.png
+File:Harvey Beach Concerned.png
+File:Harvey Beach Neutral.png
+File:Harvey Beach Flustered.png
+File:Harvey Beach Surprised.png
+File:Harvey Beach Blush.png
+</gallery>
+
+==Timeline==
+Harvey's look evolved over the years the game was in development.
+Here's a timeline showing how ConcernedApe's art and Harvey's style changed over the years before the game was launched.
+[[File:Harvey Timeline.png|center]]
+
+==Trivia==
+[[File:Harvey Location Cutscene.jpg|thumb|right|200px|Harvey's coordinates]]
+* During the eight-heart event in his room, he mentions that his coordinates are 52 North, 43.5 East. In the real world, this would put his location in southwest Russia, between Ukraine and Kazakhstan.
+* Despite telling others to eat healthily, his fridge is filled with convenience food and his microwave oven is well-used.
+* Harvey's radio has a tape inside of it named "Anthology of Classic Jazz", and his TV is set to the history station.
+* Despite loving [[Coffee]], he only likes the [[Triple Shot Espresso]].
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Added reading garden area behind farmhouse if [[Marriage|married]].}}
+{{History|1.3.27|Added group 10-heart event.}}
+{{History|1.4|Added 14 heart event. Now goes to the [[Museum]] on Saturdays. Now dislikes many [[Cooking#Recipes|cooked dishes]]. Fixed bug where viewing the 10-heart event while a train passed would soft-lock the game. Now goes to [[the Stardrop Saloon]] at night.}}
+{{History|1.5|Added beach portraits.}}
+{{History|1.6|Added winter portraits and more beach portraits. Added [[Harvey Portrait]]. Saturday Fall dialogue changed from "Farmer's Brunch" to "Farmer's Lunch".}}
+
+{{NavboxVillagers}}
+
+[[Category:Marriage candidates]]
+
+[[de:Harvey]]
+[[es:Harvey]]
+[[fr:Harvey]]
+[[it:Harvey]]
+[[ja:ハーヴィー]]
+[[ko:하비]]
+[[hu:Harvey]]
+[[pt:Harvey]]
+[[ru:Харви]]
+[[tr:Harvey]]
+[[zh:哈维]]

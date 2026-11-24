@@ -1,0 +1,194 @@
+<div id="infoboxborder" style="min-width:0;">[[File:Winter.png|150px|class=pixels]]</div>
+
+'''Winter''' is the fourth [[Seasons|season]] in [[Stardew Valley]]. It is followed by [[Spring]] and preceded by [[Fall]].
+
+Winter is unique amongst the seasons in that no outdoors [[Crops]], apart from [[Powdermelon Seeds]], [[Winter Seeds]] and [[Fiber Seeds]], will grow, and all [[Weeds]] and most tilled soil (including all fertilizer, even if the tile remains tilled) will all be removed at the start of the season. [[Grass]] remains but does not spread. [[Bee House]]s will also not produce [[honey]] during winter. Finally, standard [[trees]], including those planted on the farm (except fruit trees) do not grow in winter unless [[Tree Fertilizer]] is applied.
+
+Overall, with plant growth stopped, Winter can become a challenging season for farmers, leaving only [[Animals|animal]] produce and the [[Greenhouse]] as the mainstay of farm produce. However, the reduced intensity of farming makes it an excellent season for other activities, including [[foraging]], [[The Mines]]/[[Skull Cavern]] exploration, [[fishing]], digging at [[Artifact Spot|artifact spots]], and gift-giving - with nine birthdays, Winter is tied with [[Summer]] for most birthdays in a season. It also makes it easier to obtain [[The Farm|Farm]] and [[Tools|Tool]] upgrades without impacting normal routines.
+
+Animals require additional care during this season, as they cannot go outside due to the cold. Providing them with a [[Heater]] will also make them happier. Additionally, due to the lack of grass and weeds, [[Fiber]] and [[Hay]] are more difficult to obtain outdoors. However fiber still can be found in [[the Mines]] and [[Mutant Bug Lair]], or alternatively grown with [[Fiber Seeds]]. Hay can be purchased from [[Marnie's Ranch]], or randomly gifted from [[Marnie|her]] in the mail. It can also be obtained as a byproduct of [[Wheat]] grown in the [[Greenhouse]].
+
+There are several winter events and [[festivals]] which give the player unique opportunities to acquire items. One takes place early in the month and one takes place towards the end, marking the end of the year in the Valley. Additional [[SquidFest]] and [[Night Market]] activities occur halfway through the season.
+
+__TOC__
+
+==Events==
+{{Calendar|winter}}
+{|
+|-
+|style="vertical-align: top;"|
+===Festivals===
+{| class="wikitable roundedborder"
+!Day
+!Name
+|-
+|08||<p>[[File:Calendar Flag Anim.gif]] [[Festival of Ice]]</p>
+|-
+|12–13||<p>[[File:Hook Icon.png]] [[SquidFest]]</p>
+|-
+|15–17||<p>[[File:Iridium Quality.png]] [[Night Market]]</p>
+|-
+|25||<p>[[File:Calendar Flag Anim.gif]] [[Feast of the Winter Star]]</p>
+|}
+===Other===
+{|class="wikitable roundedborder"
+|-
+!Day
+!Event
+|-
+|2x randomly:<br /><span style="font-size: smaller;">5, 11, 12, 19, 22, 24</span>
+|[[Bookseller]]
+|-
+|}
+|style="width: 1em;"|
+|
+
+===Birthdays===
+{| class="wikitable sortable roundedborder"
+!Day
+!Villager
+|-
+|01||[[File:Krobus Icon.png|link=]] [[Krobus]]
+|-
+|03||[[File:Linus Icon.png|link=]] [[Linus]]
+|-
+|07||[[File:Caroline Icon.png|link=]] [[Caroline]]
+|-
+|10||[[File:Sebastian Icon.png|link=]] [[Sebastian]]
+|-
+|14||[[File:Harvey Icon.png|link=]] [[Harvey]]
+|-
+|17||[[File:Wizard Icon.png|link=]] [[Wizard]]
+|-
+|20||[[File:Evelyn Icon.png|link=]] [[Evelyn]]
+|-
+|23||[[File:Leah Icon.png|link=]] [[Leah]]
+|-
+|26||[[File:Clint Icon.png|link=]] [[Clint]]
+|}
+|}
+
+==Crops==
+{{Main article|Crops#Winter Crops{{!}}Crops}}
+:''See also: [[Farming#Experience Points]]''
+The following crop is the only one that can be grown in Winter. "Maximum Harvests per Season" assumes no [[fertilizer]] is used and the [[Farming#Farming Skill|Agriculturist profession]] is not chosen. "Gold/Day" assumes no fertilizer is used and the [[Farming#Farming Skill|Tiller profession]] is not chosen. See the [[Crops#Gold per Day|Crops page]] for the full calculation.
+
+{|class="wikitable roundedborder" style="text-align: center;"
+|-
+! Crop !! Seed Price !! Days<br />to Grow !! Maximum Harvests<br />per Season !! Sells For !! Gold/Day
+|-
+|style="text-align: left;"|{{Name|Powdermelon}} ||N/A ||7 days || 3 ||{{Price|60}} ||&#8776;{{Price|8.57}}
+|-
+|}
+
+===Other===
+The following can also be planted in Winter, but do not grant any farming experience.
+
+{|class="wikitable sortable roundedborder" style="text-align: center;"
+|-
+! Seed !! Days<br />to Grow !! Maximum Harvests<br />per Season !! Ingredients !! Recipe Source
+|-
+|style="text-align: left;"|{{Name|Winter Seeds}} || data-sort-value="7"|7 days || 3 
+|style="text-align: left;"| {{Name|Winter Root|1}}{{Name|Crystal Fruit|1}}{{Name|Snow Yam|1}}{{Name|Crocus|1}} || [[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 7
+|-
+|style="text-align: left;"|{{Name|Fiber Seeds}} || data-sort-value="7"|7 days || 3 
+|style="text-align: left;"| {{Name|Mixed Seeds|1}}{{Name|Sap|5}}{{Name|Clay|1}} || {{NPC|Linus|[[Quests#Community Cleanup|Special Order]]}}
+|-
+|}
+
+==Forage==
+{{Main article|Foraging#Winter{{!}}Foraging}}
+The {{Name|Nautilus Shell|class=inline}} can be found at [[The Beach]] only in Winter.  In addition, the items shown below can be found while foraging during Winter. The percentages provided for each location are the percentage of all foraged items in the location that will (on average) be the specified item. <ref name="spawnpercent" />
+{{#lsth:Foraging|Winter}}<!--Transcluded from Foraging page-->
+
+==Fish==
+{{Main article|Fish#Fish Types{{!}}Fish}}
+Certain [[Fish|fish]] can be caught only during specific seasons.  Listed below are all fish catchable during Winter.  
+
+''Fish that can be caught during all seasons are not listed.''
+
+Note: Any Fish can be used for recipes with the tag "any fish" (''i.e.,'' {{Name|Sashimi|class=inline}}, {{Name|Maki Roll|class=inline}}, {{Name|Quality Fertilizer|class=inline}}).
+<div style="overflow-x: auto;">
+{| class="wikitable sortable roundedborder"
+|-
+! class="unsortable" | Image
+! Name
+! Description
+! Price
+! [[File:Fisher.png|24px|link=]] Fisher Profession (+25%)
+! [[File:Angler Icon.png|24px|link=]] Angler Profession (+50%)
+! Location
+! Time
+! Season
+! Weather
+! Size (inches)
+! Difficulty &amp; Behavior
+! Base XP
+! Used In
+|-
+{{#lst:Fish|Tuna}}
+|-
+{{#lst:Fish|Sardine}}
+|-
+{{#lst:Fish|Perch}}
+|-
+{{#lst:Fish|Pike}}
+|-
+{{#lst:Fish|Red Mullet}}
+|-
+{{#lst:Fish|Herring}}
+|-
+{{#lst:Fish|Squid}}
+|-
+{{#lst:Fish|Sea Cucumber}}
+|-
+{{#lst:Fish|Sturgeon}}
+|-
+{{#lst:Fish|Tiger Trout}}
+|-
+{{#lst:Fish|Albacore}}
+|-
+{{#lst:Fish|Lingcod}}
+|-
+{{#lst:Fish|Walleye}}
+|-
+{{#lst:Fish|Catfish}}
+|-
+{{#lst:Fish|Red Snapper}}
+|-
+{{#lst:Fish|Halibut}}
+|-
+{{#lst:Fish|Midnight Carp}}
+|-
+{{#lst:Fish|Glacierfish}}||
+|-
+|}</div>
+
+===Night Market Fish===
+{{#lsth:Fish|Night Market Fish}}
+
+== Livin' Off The Land Tips ==
+[[File:Winter Tip.png|700px]]
+
+==References==
+<references>
+<ref name="spawnpercent">The foraged items that can spawn in a given location each season are determined by <samp>GameLocation::spawnObjects</samp> in the game code, using input from the data file <samp>Content\Locations.xnb</samp>.  The percentages provided here have been normalized to ensure that the percentages sum to 100% for each location. The data was normalized by:
+# Calculating the sum of all percentages listed in <samp>Locations.xnb</samp> for Winter
+# Dividing each percentage by the sum</ref>
+</references>
+
+{{NavboxSeasons}}
+
+[[Category:Seasons]]
+
+[[de:Winter]]
+[[es:Invierno]]
+[[fr:Hiver]]
+[[it:Inverno]]
+[[ja:冬]]
+[[ko:겨울]]
+[[hu:Tél]]
+[[pt:Inverno]]
+[[ru:Зима]]
+[[tr:Kış]]
+[[zh:冬季]]

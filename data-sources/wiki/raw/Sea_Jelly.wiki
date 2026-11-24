@@ -1,0 +1,81 @@
+
+{{Infobox
+|eng       = Sea Jelly
+|source    = [[Tools#Fishing Poles|Fishing Pole]] • [[Flounder]] [[Fish Pond]] • [[Bookseller]] • [[Animals#Pets|Turtle]]
+|buff      = {{Name|Fishing|+1}}
+|buffduration  = 7m
+|xp        = <nowiki />
+* Fishing Pole: 3 [[Fishing#Experience Points|Fishing XP]]
+* Fish Pond: 15 [[Fishing#Experience Points|Fishing XP]]
+|season    = All
+|edibility = 35
+|sellprice = 200
+|quality   = false
+|professions = false
+}}
+'''Sea Jelly''' is an item that can be caught using a [[Tools#Fishing Poles|Fishing Pole]] during all seasons at [[the Beach]], on the [[Farm Maps#Beach|Beach Farm]], the submarine ride at the [[Night Market]], and at [[Ginger Island]] West (ocean), South, Southeast, and the [[Ginger Island#Pirate Cove|Pirate Cove]]. Each level of [[Luck#Luck Buffs|Luck Buff]] applied significantly increases the chance of catching it. [[Luck#Daily Luck|Daily Luck]] has no effect.
+
+It can also be acquired from a [[Flounder]] [[Fish Pond]] with a population of at least 7. The [[Bookseller]] may trade 3 Sea Jelly for 1 [[Jewels Of The Sea]] each, provided the player has already earned the power from that book. It can also be gifted by a [[Animals#Pets|pet]] turtle with max [[Animals#Friendship|friendship]].
+
+Sea Jelly is displayed in the [[Collections#Fish|Fish section]] of the [[Collections|collection]] tab, and counts towards the four fishing [[Fishing#Achievements|Achievements]]. However, it is otherwise not considered to be a fish, and therefore cannot be sold to [[Willy]] at the [[Fish Shop]], does not benefit from fish price bonuses, cannot be used in place of "Any Fish" in [[Cooking#Recipes|recipes]], and cannot be put in a [[Bait Maker]], [[Fish Smoker]], or [[Fish Pond]].
+
+==Crafting==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Fish Smoker.png|center]]
+|[[Fish Smoker]] (1)
+|{{Description|Fish Smoker}}
+|{{Name|Hardwood|10}}{{Name|Sea Jelly|1}}{{Name|River Jelly|1}}{{Name|Cave Jelly|1}}
+|[[Fish Shop]] for {{Price|10000}}
+|}
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Tailoring==
+Sea Jelly is not used in any [[tailoring]]. It can be used in [[dyeing]], serving as a blue dye at the dye pots located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]]. It can also be used as a cyan dye when used in the spool of the [[Sewing Machine]] with a dyeable clothing item in the feed.
+
+==Bundles==
+Sea Jelly is not used in any [[bundles]].
+
+==Quests==
+One Sea Jelly is requested by [[Flounder]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 10.
+
+==Strategy==
+The highest possible rates for Sea Jelly are when fishing on the beach in [[Ginger Island#Island West|Ginger Island West]] using a [[Training Rod]]. Under these conditions, there are only 2 possible catches: Sea Jelly and [[Snake Skull]], as all of the fish that can be caught have difficulty greater than or equal to 50. Only if the farmer fails the random check to catch both of these will the farmer get [[Trash]]. 
+
+It is also possible to achieve similar rates however on [[Ginger Island#Island South|Ginger Island South]], or on [[the Beach]] during [[Summer]], although [[Seaweed]] instead of Snake Skulls will be the alternative drop.
+
+However, unlike when catching regular fish or other items, the random value used to determine whether a Sea Jelly is successfully caught is predetermined. This value only changes when catching a [[Cave Jelly|Cave]], [[River Jelly|River]], or Sea Jelly, or any [[Fish]]. It is not changed by catching Seaweed, Trash, or any other catchable items.<ref name="jelly_RNG"/> Because of this, after catching Trash using the Training Rod, it is necessary to catch a regular fish before another Sea Jelly. This can easily be done by switching to any [[Fishing Pole]] other than the Training Rod, continuing to fish until an actual fish is caught, and then switching back to the Training Rod.
+
+Ordinarily, 10% of possible random values result in a successful Sea Jelly catch. Each level of [[Luck#Luck Buffs|Luck Buff]] increases the chance of a successful catch by 5%.<ref name="jelly_rate"/> So with +8 Luck, 50% of random values will result in a successful catch. This allows for longer streaks without failing a Sea Jelly catch, although the player will still unavoidably catch some Snake Skulls or Seaweed, depending on the area chosen.
+
+==References==
+<references>
+    <ref name="jelly_RNG">See <samp>GameLocation::GetFishFromLocationData</samp> and <samp>FishingRod::tickUpdate</samp> in the game code. The seeded RNG function is only progressed when the "PreciseFishCaught" stat is incremented, and "PreciseFishCaught" is only incremented on catching a fish or item with the "counts_as_fish_catch" tag from a non-fish pond. The only items with that tag are Sea, River, and Cave Jelly, see <samp>Data/Objects.xnb</samp> in the game files.</ref>
+    <ref name="jelly_rate">See <samp>Locations.xnb</samp> in the game files, and <samp>SpawnFishData::GetChance</samp> in the game code for how it's applied.</ref>
+</references>
+
+==History==
+{{History|1.6|Introduced.}}
+
+[[Category:Fishing]]
+
+[[de:Seegelee]]
+[[es:Gelatina de Mar]]
+[[fr:Gelée de mer]]
+[[it:Gelatina marina]]
+[[ja:海ゼリー]]
+[[ko:바다 젤리]]
+[[hu:Tengeri zselé]]
+[[pt:Geléia do Mar]]
+[[ru:Морское желе]]
+[[tr:Deniz Jeli]]
+[[zh:海凝胶]]

@@ -1,0 +1,98 @@
+[[File:Egg Festival.png|500px|right]]
+
+The '''Egg Festival''' is the first [[Festivals|festival]] of the year, taking place on the 13th of every [[Spring]] in [[Pelican Town]] Square. Like other festivals, the event lasts for most of the day and consists of two parts: a social portion and an [[#Egg Hunt|Egg Hunt]] activity to finish the day. To take part, enter [[Pelican Town]] Square between 9am and 2pm.  (It is impossible to enter the town before 9am; attempting to enter will say that the event is still being set up.) The festival will end immediately after the Egg Hunt or if the player leaves the Town, returning them to [[The Farm]] at 10pm. 
+
+At first, the [[villagers]] will be gathered in the town square and the player can [[Friendship|socialize]] with them. There is also a booth set up where the player can purchase decorative items and [[Strawberry Seeds]]. Talking to [[Lewis|Mayor Lewis]] triggers the second portion of the event, the [[#Egg Hunt|Egg Hunt]], which in turn leads to the end of the day. It will not be possible to talk to anyone or buy items after the Egg Hunt.
+
+Note that the layout of the festival and the placement of eggs during the [[#Egg Hunt|Egg Hunt]] is different for even years, compared to odd years.
+
+==Shop==
+As with all festivals, nothing can be sold to Pierre during the festival.
+{|class="wikitable sortable"
+!Image
+!Name
+!Description
+!Price
+|-
+|[[File:Lawn Flamingo.png|36px|center]]
+|[[Lawn Flamingo]]
+|{{Description|Lawn Flamingo}}
+|{{Price|400}}
+|-
+|[[File:Plush Bunny.png|36px|center]]
+|[[Plush Bunny]] (1)
+|{{Description|Plush Bunny}}
+|{{Price|2000}}
+|-
+|[[File:Strawberry Seeds.png|center]]
+|[[Strawberry Seeds]]
+|{{Description|Strawberry Seeds}}
+|{{Price|100}}
+|-
+|[[File:Seasonal Plant 1 Spring.png|36px|center]]
+|[[Seasonal Plant]]
+|{{Description|Seasonal Plant}}
+|{{Price|350}}
+|-
+|[[File:Seasonal Plant 2 Spring.png|36px|center]]
+|[[Seasonal Plant]]
+|{{Description|Seasonal Plant}}
+|{{Price|350}}
+|-
+|[[File:Colorful Set.png|36px|center]]
+|[[Colorful Set]]
+|{{Description|furniture notoutdoors}}
+|{{Price|500}}
+|-
+|[[File:Pastel Banner.png|36px|center]]
+|[[Pastel Banner]]
+|{{Description|furniture notoutdoors}}
+|{{Price|1000}}
+|-
+|[[File:Decorative Pitchfork.png|36px|center]]
+|[[Decorative Pitchfork]]
+|{{Description|furniture notoutdoors}}
+|{{Price|1000}}
+|}
+
+==Mail==
+[[File:Egg Festival Mail.png|400px]]
+
+==Egg Hunt==
+The player and some other villagers will have 50 seconds to search for small colored eggs hidden around Pelican Town.  The amount of eggs required to win is dependent on the number of players currently in the game. With only 1 player, the player must gather 9 colored eggs, or else [[Abigail]] will win. With 2 players, 6 eggs are required to win. 5 eggs with 3 players. Or 4 eggs with 4 or more players.<ref>See <samp>Event::eggHuntWinner</samp> in the game code.</ref> 
+
+If the player wins, they will receive a [[Straw Hat]] as a reward. If the player has already won an Egg Hunt in previous years, they will receive a [[Prize Ticket]]. In a [[Multiplayer]] game, if two or more players find enough eggs to win, then only the player with the highest number of eggs gets the prize. If 2 or more players tie, then all winning players get the prize. 
+
+<gallery mode="packed" widths=300px heights=200px>
+EggHuntEggs.jpg|All Egg Locations (Odd years)
+Egg Festival 18 Eggs.jpg|An optimized route to collect 18 eggs (Odd years)
+EggHuntEggsY2.jpg|All Egg Locations (Even years)
+</gallery>
+
+==Trivia==
+*To talk to [[Pierre]] in his booth in odd-numbered years, walk behind [[Pierre's General Store]]. In even-numbered years, simply walk to the right of the booth.
+
+==References==
+<references />
+
+==History==
+{{History|1.3.27|Added Lawn Flamingo, Seasonal Plants to Pierre's shop.}}
+{{History|1.4|Fixed bug preventing the egg in the back of Mayor Lewis' truck from being picked up. Fixed bug where NPCs would follow non-festival schedules after the festival.}}
+{{History|1.5|Added new shop wares. Added new even-numbered year dialogues.}}
+{{History|1.6|Repeat wins of the egg hunt now give out prize tickets instead of {{Price|1000}}. Layout of festival and placement of eggs now different on even years. Fixed bug where Egg Festival would require 12 eggs to win instead of 4 if there were 5 or more players.}}
+
+{{NavboxFestivals}}
+
+[[Category:Spring festivals]]
+
+[[de:Eierfest]]
+[[es:Festival del huevo]]
+[[fr:Fête des Oeufs]]
+[[it:Festival delle uova]]
+[[ja:エッグフェスティバル]]
+[[ko:달걀 축제]]
+[[hu:Tojás Fesztivál]]
+[[pt:Festival do Ovo]]
+[[ru:Яичный фестиваль]]
+[[tr:Yumurta Şöleni]]
+[[zh:复活节]]

@@ -1,0 +1,1375 @@
+{{Infobox villager
+|portrait  = Jodi.png
+|birthday  = {{Season|Fall}} 11
+|location  = Pelican Town
+|address   = [[1 Willow Lane]]
+|family    = {{NPC|Kent|Husband}}{{NPC|Sam|Son}}{{NPC|Vincent|Son}}
+|marriage  = No
+|clinic    = {{Season|Spring}} 11 (with [[Vincent]])<br />{{Season|Spring}} 18
+|favorites = {{Name|Chocolate Cake}}{{Name|Crispy Bass}}{{Name|Diamond}}{{Name|Eggplant Parmesan}}{{Name|Fried Eel}}{{Name|Pancakes}}{{Name|Rhubarb Pie}}{{Name|Vegetable Medley}}
+}}
+{{Quote|Maybe I've spoiled the boys a bit. They've never had to do any chores. I guess I want them to be able to enjoy their childhood while they still can.|Jodi}}
+
+'''Jodi''' is a [[Villagers|villager]] who lives in [[Pelican Town]]. She lives at [[1 Willow Lane]] with her husband [[Kent]] (who is away serving in the military until the first of Spring Year 2) and two sons, [[Sam]] and [[Vincent]].
+
+==Schedule==
+After the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island is unlocked, Jodi may randomly spend the day there. After leaving the Island at 6pm, Jodi will immediately go home to bed. Jodi never visits the Resort on [[Festivals|Festival]] days or her checkup day at [[Harvey's Clinic]]. She also won't visit the Resort on [[Vincent]]'s checkup day.
+
+Shown below are Jodi's schedules prioritized highest to lowest within each season. For example, if it is raining, that schedule overrides all others below it.
+{{ScheduleHeader|Spring}}
+|-
+|
+'''Spring 17 (Bus Service Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|10:20 AM
+|Boards the bus to [[The Desert|Calico Desert]] to attend the [[Desert Festival]].
+|-
+|10:30 AM
+|Stands by one of the villager shops with [[Vincent]].
+|-
+|12:10 AM
+|Boards the bus back to the Valley.
+|}
+
+'''Desert Festival (As Vendor)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|11:10 AM
+|Boards the bus to [[The Desert|Calico Desert]].
+|-
+|11:30 AM
+|Arrives at her [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM
+|Leaves booth and takes the bus back to the Valley.
+|}
+
+'''Spring 11'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM||In the kitchen.
+|-
+|11:30 AM||Walks to the waiting room at [[Harvey's Clinic]].
+|-
+|1:30 PM||Moves to the left examination room.
+|-
+|4:00 PM||Walks to Vincent's room.
+|-
+|8:00 PM||Moves to the living room.
+|-
+|9:00 PM||Puts Vincent to bed.
+|-
+|10:00 PM||Heads to bed.
+|}
+
+'''Spring 18'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM||In the kitchen.
+|-
+|11:30 AM||Walks to the waiting room at [[Harvey's Clinic]].
+|-
+|1:30 PM||Moves to the left examination room.
+|-
+|4:00 PM||Returns to the kitchen.
+|-
+|7:30 PM||In the living room.
+|-
+|9:00 PM||Puts Vincent to bed.
+|-
+|10:00 PM||Heads to bed.
+|}
+
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM||In the kitchen.
+|-
+|11:30 AM||Moves to the living room.
+|-
+|4:00 PM||In the kitchen.
+|-
+|7:30 PM||In the living room.
+|-
+|9:00 PM||Puts Vincent to bed.
+|-
+|10:00 PM||Heads to bed.
+|}
+
+'''Tuesday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In the kitchen.
+|-
+|10:10 AM
+|Leaves her house, heading to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Enters [[Pierre's General Store]].
+|-
+|11:30 AM
+|Standing by the fireplace in the back area of Pierre's.
+|-
+|1:00 PM
+|Begins exercising with [[Marnie]], [[Caroline]], [[Emily]], and [[Robin]].
+|-
+|4:00 PM 
+|Stands by the fireplace with Caroline, Marnie, and Robin.
+|-
+|6:20 PM
+|Exits Pierre's, heading home.
+|-
+|7:10 PM
+|Enters her house.
+|-
+|9:10 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Leaves [[Vincent]]'s room, heads to bed.
+|-
+|10:20 PM
+|Enters her bedroom and goes to sleep.
+|}
+
+'''Wednesday and Friday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|Inside her house, in the kitchen.
+|-
+|11:00 AM
+|Arrives at [[Pierre's General Store]].
+|-
+|5:00 PM
+|Inside her house, in the kitchen.
+|-
+|9:00 PM
+|Vincent's Room.
+|-
+|10:00 PM
+|Go to bed.
+|-
+|}
+
+'''Wednesday and Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:00 AM
+|Leaves her house and heads for [[JojaMart]].
+|-
+|12:50 PM
+|Arrives at [[JojaMart]].
+|-
+|5:00 PM
+|Leaves [[JojaMart]] and heads home.
+|-
+|6:30 PM
+|At home in front of fridge.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed
+|}
+
+'''Saturday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM
+|In the kitchen.
+|-
+|11:00 AM
+|Leaves home, walks to Community Center, stands inside main room.
+|-
+|5:00 PM
+|Returns home, stands in living room.
+|-
+|9:00 PM
+|Goes to bed
+|}
+
+'''Sunday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|At home in the kitchen.
+|-
+|10:00 AM
+|Leaves home, walks to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Arrives at Pierre's, walks into the Chapel in the back.
+|-
+|4:00 PM
+|Leaves [[Pierre's General Store]], walks home.
+|-
+|5:00 PM
+|At home on Couch.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:30 AM
+|Sits in living room.
+|-
+|1:30 PM 
+|Leaves and heads to Town Square.
+|-
+|4:00 PM
+|Leaves and heads to her home.
+|-
+|4:30 PM
+|Stands in kitchen.
+|-
+|7:30 PM
+|Stands in living room.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed.
+|}
+|}
+
+{{ScheduleHeader|Summer}}
+|-
+|
+'''Green Rain (Year 1)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|All day
+|In the living room.
+|-
+|}
+
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM||In the kitchen.
+|-
+|11:30 AM||Moves to the living room.
+|-
+|4:00 PM||In the kitchen.
+|-
+|7:30 PM||In the living room.
+|-
+|9:00 PM||Puts Vincent to bed.
+|-
+|10:00 PM||Heads to bed.
+|}
+
+'''Tuesday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In the kitchen.
+|-
+|10:10 AM
+|Leaves her house, heading to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Enters [[Pierre's General Store]].
+|-
+|11:30 AM
+|Standing by the fireplace in the back area of Pierre's.
+|-
+|1:00 PM
+|Begins exercising with [[Marnie]], [[Caroline]], [[Emily]], and [[Robin]].
+|-
+|4:00 PM 
+|Stands by the fireplace with Caroline, Marnie, and Robin.
+|-
+|6:20 PM
+|Exits Pierre's, heading home.
+|-
+|7:10 PM
+|Enters her house.
+|-
+|9:10 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Leaves [[Vincent]]'s room, heads to bed.
+|-
+|10:20 PM
+|Enters her bedroom and goes to sleep.
+|}
+
+'''Wednesday and Friday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|Inside her house, in the kitchen.
+|-
+|11:00 AM
+|Arrives at [[Pierre's General Store]].
+|-
+|5:00 PM
+|Inside her house, in the kitchen.
+|-
+|9:00 PM
+|Vincent's Room.
+|-
+|10:00 PM
+|Go to bed.
+|-
+|}
+
+'''Wednesday and Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:00 AM
+|Leaves her house and heads for [[JojaMart]].
+|-
+|12:50 PM
+|Arrives at [[JojaMart]].
+|-
+|5:00 PM
+|Leaves [[JojaMart]] and heads home.
+|-
+|6:30 PM
+|At home in front of fridge.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed.
+|}
+
+'''Saturday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM
+|In the kitchen.
+|-
+|11:00 AM
+|Leaves home, walks to Community Center, stands inside main room.
+|-
+|5:00 PM
+|Returns home, stands in living room.
+|-
+|9:00 PM
+|Goes to bed.
+|}
+
+'''Sunday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|At home in the kitchen.
+|-
+|10:00 AM
+|Leaves home, walks to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Arrives at Pierre's, walks into the Chapel in the back.
+|-
+|4:00 PM
+|Leaves [[Pierre's General Store]], walks home.
+|-
+|5:00 PM
+|At home on Couch.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:30 AM
+|Sits in living room.
+|-
+|1:30 PM 
+|Leaves and heads to Town Square.
+|-
+|4:00 PM
+|Leaves and heads to her home.
+|-
+|4:30 PM
+|Stands in kitchen.
+|-
+|7:30 PM
+|Stands in living room.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed.
+|}
+|}
+
+{{ScheduleHeader|Fall}}
+|-
+|
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM||In the kitchen.
+|-
+|11:30 AM||Moves to the living room.
+|-
+|4:00 PM||In the kitchen.
+|-
+|7:30 PM||In the living room.
+|-
+|9:00 PM||Puts Vincent to bed.
+|-
+|10:00 PM||Heads to bed.
+|}
+
+'''Tuesday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In the kitchen.
+|-
+|10:10 AM
+|Leaves her house, heading to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Enters [[Pierre's General Store]].
+|-
+|11:30 AM
+|Standing by the fireplace in the back area of Pierre's.
+|-
+|1:00 PM
+|Begins exercising with [[Marnie]], [[Caroline]], [[Emily]], and [[Robin]].
+|-
+|4:00 PM 
+|Stands by the fireplace with Caroline, Marnie, and Robin.
+|-
+|6:20 PM
+|Exits Pierre's, heading home.
+|-
+|7:10 PM
+|Enters her house.
+|-
+|9:10 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Leaves [[Vincent]]'s room, heads to bed.
+|-
+|10:20 PM
+|Enters her bedroom and goes to sleep.
+|}
+
+'''Wednesday and Friday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|Inside her house, in the kitchen.
+|-
+|11:00 AM
+|Arrives at [[Pierre's General Store]].
+|-
+|5:00 PM
+|Inside her house, in the kitchen.
+|-
+|9:00 PM
+|Vincent's Room.
+|-
+|10:00 PM
+|Go to bed.
+|-
+|}
+
+'''Wednesday and Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:00 AM
+|Leaves her house and heads for [[JojaMart]].
+|-
+|12:50 PM
+|Arrives at [[JojaMart]].
+|-
+|5:00 PM
+|Leaves [[JojaMart]] and heads home.
+|-
+|6:30 PM
+|At home in front of fridge.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed.
+|}
+
+'''Saturday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM
+|In the kitchen.
+|-
+|11:00 AM
+|Leaves home, walks to Community Center, stands inside main room.
+|-
+|5:00 PM
+|Returns home, stands in living room.
+|-
+|9:00 PM
+|Goes to bed.
+|}
+
+'''Sunday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|At home in the kitchen.
+|-
+|10:00 AM
+|Leaves home, walks to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Arrives at Pierre's, walks into the Chapel in the back.
+|-
+|4:00 PM
+|Leaves [[Pierre's General Store]], walks home.
+|-
+|5:00 PM
+|At home on Couch.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:30 AM
+|Sits in living room.
+|-
+|1:30 PM 
+|Leaves and heads to Town Square.
+|-
+|4:00 PM
+|Leaves and heads to her home.
+|-
+|4:30 PM
+|Stands in kitchen.
+|-
+|7:30 PM
+|Stands in living room.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed.
+|}
+|}
+
+{{ScheduleHeader|Winter}}
+|-
+|
+'''Winter 17'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|Inside her house, in the kitchen.
+|-
+|11:40 AM
+|Inside her house, in the living room, sitting on the blue sofa.
+|-
+|2:00 PM
+|Meets with Caroline in the north near her house.
+|-
+|4:30 PM
+|Attends the [[Night Market]].
+|-
+|11:30 PM
+|Returns home.
+|}
+
+'''Rain'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM||In the kitchen.
+|-
+|11:30 AM||Moves to the living room.
+|-
+|4:00 PM||In the kitchen.
+|-
+|7:30 PM||In the living room.
+|-
+|9:00 PM||Puts Vincent to bed.
+|-
+|10:00 PM||Heads to bed.
+|}
+
+'''Tuesday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In the kitchen.
+|-
+|10:10 AM
+|Leaves her house, heading to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Enters [[Pierre's General Store]].
+|-
+|11:30 AM
+|Standing by the fireplace in the back area of Pierre's.
+|-
+|1:00 PM
+|Begins exercising with [[Marnie]], [[Caroline]], [[Emily]], and [[Robin]].
+|-
+|4:00 PM 
+|Stands by the fireplace with Caroline, Marnie, and Robin.
+|-
+|6:20 PM
+|Exits Pierre's, heading home.
+|-
+|7:10 PM
+|Enters her house.
+|-
+|9:10 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Leaves [[Vincent]]'s room, heads to bed.
+|-
+|10:20 PM
+|Enters her bedroom and goes to sleep.
+|}
+
+'''Wednesday and Friday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|Inside her house, in the kitchen.
+|-
+|11:00 AM
+|Arrives at [[Pierre's General Store]].
+|-
+|5:00 PM
+|Inside her house, in the kitchen.
+|-
+|9:00 PM
+|Vincent's Room.
+|-
+|10:00 PM
+|Go to bed.
+|-
+|}
+
+'''Wednesday and Friday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:00 AM
+|Leaves her house and heads for [[JojaMart]].
+|-
+|12:50 PM
+|Arrives at [[JojaMart]].
+|-
+|5:00 PM
+|Leaves [[JojaMart]] and heads home.
+|-
+|6:30 PM
+|At home in front of fridge.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed.
+|}
+
+'''Saturday (Community Center Restored)'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|8:00 AM
+|In the kitchen.
+|-
+|11:00 AM
+|Leaves home, walks to Community Center, stands inside main room.
+|-
+|5:00 PM
+|Returns home, stands in living room.
+|-
+|9:00 PM
+|Goes to bed.
+|}
+
+'''Sunday'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|At home in the kitchen.
+|-
+|10:00 AM
+|Leaves home, walks to [[Pierre's General Store]].
+|-
+|11:00 AM
+|Arrives at Pierre's, walks into the Chapel in the back.
+|-
+|4:00 PM
+|Leaves [[Pierre's General Store]], walks home.
+|-
+|5:00 PM
+|At home on Couch.
+|-
+|}
+
+'''Regular Schedule'''
+{|class="wikitable" style="width: 500px;"
+! style="width: 15%;" | Time
+! style="width: 85%;" | Location
+|-
+|9:00 AM
+|In kitchen.
+|-
+|11:30 AM
+|Sits in living room.
+|-
+|1:30 PM 
+|Leaves and heads to Town Square.
+|-
+|4:00 PM
+|Leaves and heads to her home.
+|-
+|4:30 PM
+|Stands in kitchen.
+|-
+|7:30 PM
+|Stands in living room.
+|-
+|9:00 PM
+|Puts [[Vincent]] to bed.
+|-
+|10:00 PM
+|Heads to bed.
+|}
+|}
+
+==Relationships==
+Jodi is married to Kent and together they have two sons, Sam and Vincent.
+
+Jodi will mention that [[Caroline]] is her best friend and that she is able to tell her anything. They also attend exercise classes along with some of the other Pelican Town ladies.
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|Oh, you're such a sweetheart! I really love this!}}
+''Stardrop Tea''
+{{Squote|Ah... You sure you want to give away such a precious item? Well, thank you!}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Jodi Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Chocolate Cake.png|center]]
+|[[Chocolate Cake]]
+|{{Description|Chocolate Cake}}
+|[[Cooking]]
+|{{Name|Wheat Flour|1}}{{Name|Sugar|1}}{{Name|Egg|1}}
+|-
+|[[File:Crispy Bass.png|center]]
+|[[Crispy Bass]]
+|{{Description|Crispy Bass}}
+|[[Cooking]]
+|{{Name|Largemouth Bass|1}}{{Name|Wheat Flour|1}}{{Name|Oil|1}}
+|-
+|[[File:Diamond.png|center]]
+|[[Diamond]]
+|{{Description|Diamond}}
+|[[Mining]]
+|
+|-
+|[[File:Eggplant Parmesan.png|center]]
+|[[Eggplant Parmesan]]
+|{{Description|Eggplant Parmesan}}
+|[[Cooking]]
+|{{Name|Eggplant|1}}{{Name|Tomato|1}}
+|-
+|[[File:Fried Eel.png|center]]
+|[[Fried Eel]]
+|{{Description|Fried Eel}}
+|[[Cooking]]
+|{{Name|Eel|1}}{{Name|Oil|1}}
+|-
+|[[File:Pancakes.png|center]]
+|[[Pancakes]]
+|{{Description|Pancakes}}
+|[[Cooking]]
+|{{Name|Wheat Flour|1}}{{Name|Egg|1}}
+|-
+|[[File:Rhubarb Pie.png|center]]
+|[[Rhubarb Pie]]
+|{{Description|Rhubarb Pie}}
+|[[Cooking]]
+|{{Name|Rhubarb|1}}{{Name|Wheat Flour|1}}{{Name|Sugar|1}}
+|-
+|[[File:Vegetable Medley.png|center]]
+|[[Vegetable Medley]]
+|{{Description|Vegetable Medley}}
+|[[Cooking]]
+|{{Name|Tomato|1}}{{Name|Beet|1}}
+|}
+
+===Like===
+{{Squote|Thank you! This makes my day really special.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Jodi Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]''' ''(except [[Garlic]])''</li><li>'''All Eggs''' ''(except [[Void Egg]])*''</li><li>'''All [[Fruits|Fruit]]''' ''(except [[Spice Berry]])''</li><li>'''All Milk'''</li></ul>
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Neutral===
+{{Squote|That's so nice of you! Thanks.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Jodi.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]'''</li></ul>
+|}
+
+===Dislike===
+{{Squote|Hmm, well I guess I could always put this in the compost...}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Jodi Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Garlic.png|center]]
+|[[Garlic]]
+|{{Description|Garlic}}
+|[[Farming]] - [[Spring]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Foraging]] - [[Winter]]
+|}
+
+===Hate===
+{{Squote|*Blech*... I hate this...}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Jodi Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Spice Berry.png|center]]
+|[[Spice Berry]]
+|{{Description|Spice Berry}}
+|[[Foraging]] - [[Summer]]
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express
+|-
+!Like
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture</p>
+[[File:'Mysterium'.png|24px|link=]] Mysterium
+<p>[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World</p>
+[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling
+<p>[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch</p>
+[[File:'Wumbus'.png|24px|link=]] Wumbus
+|-
+!Dislike
+|-
+|N/A
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Chocolate Popcorn.png|24px|link=]] Chocolate Popcorn<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|[[File:Cappuccino Mousse Cake.png|24px|link=]] Cappuccino Mousse Cake<br />[[File:Fries.png|24px|link=]] Fries<br />[[File:Ice Cream Sandwich.png|24px|link=]] Ice Cream Sandwich<br />[[File:Jasmine Tea.png|24px|link=]] Jasmine Tea<br />[[File:Nachos.png|24px|link=]] Nachos<br />[[File:Personal Pizza.png|24px|link=]] Personal Pizza<br />[[File:Popcorn.png|24px|link=]] Popcorn<br />[[File:Salmon Burger.png|24px|link=]] Salmon Burger<br />[[File:Salted Peanuts.png|24px|link=]] Salted Peanuts<br />[[File:Star Cookie.png|24px|link=]] Star Cookie
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Anytime===
+At any [[friendship]] level greater than zero friendship points, you may receive a gift in the mail from Jodi.  The chance of receiving a gift in the mail increases as your friendship with Jodi increases.
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Details'''&nbsp;
+|-                            
+| 
+	{|class="wikitable"
+	|-
+	!Item
+	!Description
+	|-
+	|{{Name|Basic Fertilizer|5}}{{Name|Quality Fertilizer|5}}{{Name|Basic Retaining Soil|5}}
+	|Dear (Name),<p>I ordered too much fertilizer for the garden!! I bet you can put it to some good use. Take care!</p><p>-Jodi</p>
+	|}
+|}
+
+===Two Hearts===
+{{hearts|2}}
+
+When the player reaches 2 hearts, they can enter her room and find a letter from her husband [[Kent]] in the drawer next to her bed.
+{|class="mw-collapsible mw-collapsed" style="font-weight: bold;"
+|-
+|Details&nbsp;
+|-
+|style="font-weight: normal;"|{{Squote|Jodi-<p>Since I'll be coming home soon I want to tell you a few things.</p><p>I might not be the same man you remember. I've seen some things out here that have really shaken me up. I've been having a real hard time relaxing.</p><p>I don't want to scare you or make you upset. I just don't want you to be shocked when I get back.</p><p>Remember, no matter how I act, you and the kids mean everything to me.</p><p>I'll see you soon.</p>-Kent}}
+|}
+
+===Three Hearts===
+{{heart event
+ |hearts  = 3
+ |trigger = After reaching 3 hearts, Jodi will send you a recipe in the mail.
+ |details =
+<table class="wikitable">
+  <tr>
+    <th>Image</th>
+    <th>Recipe</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>{{Recipe|Fried Calamari|48}}</td>
+    <td>[[Fried Calamari]]</td>
+    <td>(Player),
+This recipe of mine won 1st place in a cooking competition!  I hope you like it.  Thanks for being a friend!
+
+-Jodi</td>
+</table>
+}}
+
+===Four Hearts===
+{{Hearts|4}}
+
+Leave your [[farmhouse]] between 6:00am - 9:30am on a Monday to find Jodi waiting outside.
+{|class="mw-collapsible mw-collapsed"
+|-
+!style="text-align: left;"|Details&nbsp;
+|-
+|{{Squote|*puff*  ...hi (name)! *pant* Whew... that was quite a workout, walking all the way up here.<br />Anyway...  I came by to ask if you wanted to have dinner with us tonight!<br />You don't have to... but if you decide to come, could you please bring a largemouth bass with you?<br />...that's right.  One of those big, slimy fish from the lake.  I need one for the casserole I'm making.<br />Okay, well... it'll be at our house at around 7:00 PM tonight... don't forget the largemouth bass!  Bye.|Jodi}}
+|-
+|You need to bring a [[Largemouth Bass]] for her casserole at 7:00 pm when you enter her house.  This can be done on any day after Jodi invites you, except [[Festivals|festival]] days (other than [[Spirit's Eve]] and [[Dance of the Moonlight Jellies]]).
+|}
+
+===Seven Hearts===
+{{heart event
+ |hearts  = 7
+ |trigger = After reaching 7 hearts, Jodi sends you a recipe in the mail.
+ |details =
+<table class="wikitable">
+  <tr>
+    <th>Image</th>
+    <th>Recipe</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>{{Recipe|Ice Cream|48}}</td>
+    <td>[[Ice Cream]]</td>
+    <td>(Player),<p>This recipe of mine won 1st place in a cooking competition!  I hope you like it.  Thanks for being a friend!</p><p>-Jodi</p></td>
+  </tr>
+</table>
+}}
+
+==Quotes==
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular&nbsp;'''
+|-
+|
+
+'''First Meeting'''
+{{Squote|Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi.
+It's a quiet little town, so it's very exciting when someone new moves in! Having a farmer around could really change things.}}
+
+'''Regular'''
+{{Squote|Maintaining a household is difficult work... but somebody has to do it. Yes?}}
+{{Squote|Exercise is important for staying healthy. I always make sure to set aside some time for it. As a parent, I don't have much time to devote to myself. So I try and make every minute count.}}
+{{Squote|I wish I could spend more time outside, but there's so much work to do.
+I started wearing rubber gloves to keep my hands soft. The older you get, the more work you have to do to stay healthy. Ok, bye!}}
+{{Squote|What did you say? It's [current time] already? My goodness! I still have tons of work to do!}}
+{{Squote|So you're a farmer, huh? Interesting. I've never met a farmer before. Maybe some day you can teach me how to grow vegetables.}}
+{{Squote|The food at JojaMart might not be the healthiest for my family, but with such low prices you'd be crazy to shop anywhere else!}}
+{{Squote|Hi. Need something?}}
+{{Squote|I'm so glad you're trying to improve that old farm. Once you've got everything in order, it's going to add a lot to our community! It's going to be a lot of work for you, though. Bye.}}
+{{Squote|I'm taking a break from house chores today. I'm taking the day off. If I don't spend any time outside, I'll go crazy! Plus I don't want my legs to turn soft.}}
+
+''If Joja has closed''
+{{Squote|The food at [[Pierre's General Store|Pierre's]] is so much fresher and healthier than anything I ever bought at [[JojaMart]]. I do miss those cheap Joja prices, though.}}
+
+''If sold high quality crops to [[Pierre's General Store|Pierre]]''
+{{Squote|Hi... did you sell [item] to the general store the other day? I think I bought it... It was pretty high-quality stuff. As soon as I smelled it I was back in Granny's old cottage...}}
+
+''Before [[Kent]]'s return''
+{{Squote|My husband Kent is a soldier, working overseas. That's why he's not here right now. I know he'll come back safe once his tour is over! Need something?}}
+{{Squote|Yesterday I visited [[Yoba]]'s Altar to ask for my husband's safe return. I'm trying to stay positive, but it's hard sometimes.}}
+
+''After Kent's return''
+{{Squote|Kent has been home for a while now, but he still seems uneasy.}}
+
+''If Player is married to [[Sam]]''
+{{Squote|How's Sam doing? I have to admit, there's less cooking and cleaning to do since he moved out...}}
+
+''6+ Hearts''
+{{Squote|It's nice to have a family... but I'd be lying if I said I never long for the freedom of youth...}}
+{{Squote|Where does all the time go? *sigh* I remember when Sam was a little baby wearing diapers. He was such a cute little kid. Don't tell him I said that. You must really like talking to me, huh?}}
+{{Squote|*sigh*... Sometimes I dream about life on my own... without a family to look after. Is that horrible? Don't tell anyone.}}
+
+''8+ Hearts''
+{{Squote|I had a dream that I had complete freedom, no obligation to anyone but myself...
+...Then I woke up and realized I had a full day of house chores ahead of me...
+But I don't regret having a family [Player]...Sam and Vincent mean everything to me!}}
+{{Squote|We kind of rushed into our marriage, with Kent being a soldier and all... I hardly got a taste of youth and freedom, and now it's too late to ever go back. Just don't make the same mistake.}}
+
+'''Doctor Visit'''
+
+''In the clinic's examination room''
+{{Squote|Hey! You can't just barge into a private appointment!}}
+
+'''Vincent's Doctor Visit'''
+
+''Before leaving home for [[Vincent]]'s doctor visit''
+{{Squote|Vincent hates going to the doctor more than anything, but he'll just have to deal with it.}}
+
+''In the clinic's waiting room with Vincent''
+{{Squote|Be brave, Vincent. Think of your father.}}
+
+''In the clinic's examination room with Vincent''
+{{Squote|Doctor Harvey? I'm worried about Vincent's height. Isn't he a little short for his age?}}
+
+'''Summer'''
+{{Squote|Summer is nice, but it also means more work. I'll have to keep the garden in shape on top of working in the house!}}
+{{Squote|Hello. Do you need something? I'm a little busy.}}
+{{Squote|Housework is frustrating because you're never finished. The day after I sweep the floor, it's dirty again.}}
+{{Squote|What in the world am I going to make for dinner? *sigh*...}}
+
+'''Green Rain'''
+
+''Year 1''
+{{Squote|Are you alright? We've never seen anything like this before... I wish my husband was here. He'd know exactly what to do.}}
+''Year 2+''
+{{Squote|Vincent got up early to go play in the rain. I just hope they're right about it being completely harmless!}}
+
+'''Fall'''
+{{Squote|Maybe I've spoiled the boys a bit. They've never had to do any chores. I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though. I hope he hasn't grow up to be lazy. That won't do. Being a parent isn't very easy.}}
+{{Squote|[[Caroline]] and I are good friends. I tell her everything.}}
+{{Squote|When you become a parent, you have to leave your old lifestyle behind. Maybe that's not entirely true... but if you're not careful, it will happen.}}
+
+'''Winter'''
+{{Squote|I loved playing in the snow when I was a kid. The great thing about being a mother is that I get to enjoy it again.}}
+{{Squote|Hi. Do you get tired of people asking about your farm all the time? I think I would.}}
+{{Squote|What do I do for fun? Hmm... That'a a good question. I like sleeping.}}
+{{Squote|[[Sam]] makes a lot of noise with that music of his. I hope it doesn't disturb the neighbors.}}
+{{Squote|It would be nice to take a vacation once in a while...}}
+{{Squote|If I was rich the first thing I'd do would be to hire a maid and a chef. My goodness, that would be nice!}}
+
+'''If the player starts dating Sam'''
+
+{{Squote|I heard about you and Sam. Hopefully he won't cause you any trouble!}}
+
+'''If the player marries Sam'''
+{{Squote|I'm so happy for you and Sam. I think you two are the perfect match!}}
+{{Squote|I never thought I'd say it... but I'll miss those awful noises from Sam's guitar...}}
+
+'''At Ginger Island'''
+{{Squote|What a treat!}}
+{{Squote|The view is breathtaking! Deep blue as far as the eye can see...}}
+{{Squote|We all love it when Gus shows up.}}
+{{Squote|I think I'll make seafood tonight.}}
+|}
+
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events&nbsp;'''
+|-
+|
+
+'''[[Egg Festival]]'''
+
+''Odd-numbered year''
+{{Squote|Vincent loves this festival... it's a joy to see him so happy.}}
+''Even-numbered year''
+{{Squote|Kent always seems a little antsy during big gatherings like this...}}
+
+
+'''[[Desert Festival]]'''
+{{Squote|Oh, don't mind me. I'm just doing a little shopping.
+If I don't browse the shops, I might miss the perfect decoration for our living room!}}
+
+'''[[Flower Dance]]'''
+
+''Odd-numbered year''
+{{Squote|Are you going to be dancing today, [Player]?}}
+''Even-numbered year''
+{{Squote|I have special earrings I only wear once a year for this event. They're little daffodils... see?}}
+
+'''[[Luau|The Luau]]'''
+{{Squote|I hope the soup is good this year.}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+{{Squote|There! I just saw something glowing! Oh... It's gone.}}
+
+'''[[Stardew Valley Fair]]'''
+{{Squote|He doesn't look very happy... I guess Mayor Lewis had to cut costs with a budget clown this year}}
+
+'''[[Spirit's Eve]]'''
+{{Squote|Vincent's upset that I won't let him go into the haunted maze... but he's just a little boy!}}
+
+'''[[Festival of Ice]]'''
+{{Squote|The forest looks beautiful in the winter, doesn't it?}}
+
+'''[[Night Market]]'''
+{{Squote|It must be so thrilling to travel the world like they do... *sigh*...}}
+
+'''[[Feast of the Winter Star]]'''
+{{Squote|It's not a good time of year for a diet...}}
+
+|}
+
+==Quests==
+*[[Quests#Jodi's Request|"Jodi's Request"]]: Jodi will send you a letter on the 19th of [[Spring]] requesting a [[Cauliflower]].  The reward is {{Price|350}} and 1 [[Friendship]] heart.
+*[[Quests#Fish Casserole|"Fish Casserole"]]: After reaching 4 hearts with Jodi, she will visit your farm and invite you to dinner at her house, requesting that you bring a [[Largemouth Bass]].  There is no reward other than a cutscene.
+*Jodi may randomly request an item at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]].  The reward is 3x the item's base value and 150 [[Friendship]] points.
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:Jodi.png
+File:Jodi Happy.png
+File:Jodi Concerned.png
+File:Jodi Annoyed.png
+File:Jodi Neutral.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Jodi Winter 00.png
+File:Jodi Winter 01.png
+File:Jodi Winter 02.png
+File:Jodi Winter 03.png
+File:Jodi Winter 04.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Jodi Beach.png
+File:Jodi Beach Happy.png
+File:Jodi Beach Concerned.png
+File:Jodi Beach Annoyed.png
+</gallery>
+
+==History==
+{{History|1.4|Fixed bug where all recipes would be sent at 3 friendship hearts.}}
+{{History|1.5|Added beach portraits.}}
+{{History|1.6|Added custom gift reactions. Added winter portraits.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:Jodi]]
+[[es:Jodi]]
+[[fr:Jodi]]
+[[it:Jodi]]
+[[ja:ジョディ]]
+[[ko:조디]]
+[[hu:Jodi]]
+[[pt:Jodi]]
+[[ru:Джоди]]
+[[tr:Jodi]]
+[[zh:乔迪]]

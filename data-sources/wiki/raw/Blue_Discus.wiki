@@ -1,0 +1,116 @@
+{{Infobox fish
+|eng        = Blue Discus
+|location   = [[Ginger Island]]
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 60
+|behavior   = Dart
+|size       = 2-10
+|price      = 120
+|edibility  = 15
+|roe        = Light Blue
+}}
+The '''Blue Discus''' is a [[fish]] that can be caught on [[Ginger Island]] during any season on Island North and West (freshwater).
+
+The [[Island Trader]] sells 1 [[Oceanic Rug]] for 3 Blue Discus on [[Days of the Week#Saturday|Saturdays]].
+
+==Map==
+The Blue Discus can be found in [[Ginger Island]] North and West (freshwater).
+{{Map|main=false|island=true|islandloc1x=90|islandloc1y=145|islandloc2x=100|islandloc2y=160|islandloc3x=180|islandloc3y=90}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Leo,Pam,Elliott,Willy
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Blue Discus is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Blue Discus can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[File:Shirt259a.png|24px]] [[Tailoring|Sailor Shirt]]. It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Blue Discus can be placed in a [[Fish Pond]], where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is blue Blue Discus [[Roe]], but more valuable items are possible starting at population 4.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Taro Root]] || 35
+|-
+| 5   || 10  || 10 [[Taro Root]] || 35
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="4" data-sort-value="Roe"|{{Name|Light Blue Roe|1|link=Roe}}
+|rowspan="4"|13
+| 1-3  || 100%    || 23-39%
+|-
+| 4-6  || 98%     || 46-62%
+|-
+| 7-8  || 93%     || 66-74%
+|-
+| 9-10 || 79%     || 69-75%
+|-
+|rowspan="3" data-sort-value="Banana"|{{Name|Banana|1}}
+|rowspan="3"|16
+| 4-6  || 2%     || 1%
+|-
+| 7-8  || 7%     || 5%
+|-
+| 9-10 || 16%    || 14-15%
+|-
+|data-sort-value="Golden Coconut"|{{Name|Golden Coconut|1}}
+|10
+| 9-10 || 5%      || 4-5%
+|-
+|data-sort-value="ZZZZ"|''Nothing''
+|
+| 1-10  || 0%     || 77-5%
+|}
+
+==Quests==
+*[[Willy]] may request 5 Blue Discus to be caught at the [[Quests#Tropical Fish|Special Orders board]] outside the [[Mayor's Manor]] after [[Ginger Island]] is unlocked as part of the "Tropical Fish" special order.
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxFish}}
+
+[[Category:Island fish]]
+
+[[de:Blauer Diskusbuntbarsch]]
+[[es:Pez disco]]
+[[fr:Discus bleu]]
+[[it:Pesce disco]]
+[[ja:ブルーディスカス]]
+[[ko:블루 디스커스]]
+[[hu:Kék diszkoszhal]]
+[[pt:Acará-disco Azul]]
+[[ru:Голубой дискус]]
+[[tr:Mavi Diskus]]
+[[zh:蓝铁饼鱼]]

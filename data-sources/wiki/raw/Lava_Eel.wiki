@@ -1,0 +1,186 @@
+{{Infobox fish
+|eng        = Lava Eel
+|location   = Floor 100 of [[The Mines]] • [[Forge|Volcano Caldera]]
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 90
+|behavior   = Mixed
+|size       = 31-33
+|fl         = 7 (Forge)
+|price      = 700
+|edibility  = 20
+|roe        = Red
+}}
+The '''Lava Eel''' is a [[fish]] that can be caught during all times and seasons in [[the Mines]] on the 100th floor and at the [[Forge|Volcano Caldera]]. It is the only fish that can spawn in lava.
+
+In the Mines, the chances of hooking a Lava Eel depends on fishing level and equipment of the farmer, as well as the [[Fishing#Distance from Land|distance from land]] of the fished tile. The base chance of hooking a Lava Eel is 1.8%, which is increased by 0.32% per Fishing Level and 0.08% per tile from land. This is increased by a further 4% if a [[Curiosity Lure]] is equipped, and by 8% if [[Targeted Bait|Lava Eel Bait]] is equipped.<ref name="mines_rates"/> For example, with a Fishing Level of 10 and 5 tiles from land, the chance of hooking a Lava Eel is 5.4%. This increases to 9.4% with a Curiosity Lure equipped, to 13.4% with Lava Eel Bait equipped, and to 17.4% with both a Curiosity Lure and Lava Eel Bait equipped.
+
+At the Volcano Caldera, the percent chance of hooking a Lava Eel is equivalent to 10 times the [[Fishing#Distance from Land|distance from land]] of the spot fished, assuming the [['Physics 101']] painting was not caught. For example, there is a 50% chance to hook a Lava Eel if the bobber lands 5 tiles from land.<ref name="forgechance" />
+
+Of the non-[[Fish#Legendary Fish|legendary fish]], it is the fish with the highest sell price and the second highest difficulty fish (after [[Octopus]], tied with the [[Scorpion Carp]]).
+
+==Map==
+The Lava Eel can be found in the Mines and at the Volcano Caldera.
+{{Map|270|20|island=true|islandloc1x=203|islandloc1y=32}}
+
+==Gifting==
+{{GiftsByItem
+|love=Dwarf
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Lava Eel is an option in the {{Bundle|Master Fishers||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Lava Eel is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{Name|Logo Cap|class=inline}}. It can also be used as a red dye color at the dye pots in [[Emily]]'s and [[Haley]]'s house, located at [[2 Willow Lane]].
+
+==Fish Pond==
+Lava Eels can be placed in a [[Fish Pond]], where they will reproduce every 5 days. The initial pond capacity is 1 fish, but the capacity can be increased to 10 by completing four quests. After the first quest is completed, the color of the pond water changes to red. The primary output is red Lava Eel [[Roe]], but [[Gold Ore]] is possible starting at population 3 and several more valuable items are possible starting at population 8.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 1   || 3   || 3 [[Fire Quartz]] || 45
+|-
+| 3   || 5   || 1 [[Basalt]], 2 [[Diamond]]s, or 1 [[Dwarf Scroll III]] || 45
+|-
+| 5   || 7   || 2 [[Mega Bomb]]s || 45
+|-
+| 7   || 10  || 1 [[Iridium Bar]] || 45
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="6" data-sort-value="Roe 1"|{{Name|Red Roe|1|link=Roe}}
+|rowspan="6"|25
+| 1-2  || 80%     || 18-25%
+|-
+| 3-5  || 72%     || 28-40%
+|-
+| 6-7  || 90%     || 57-64%
+|-
+| 8    || 86%     || 68%
+|-
+| 9    || 67%     || 58%
+|-
+| 10   || 62%     || 59%
+|-
+|rowspan="2" data-sort-value="Roe 2"|{{Name|Red Roe|2|link=Roe}}
+|rowspan="2"|25
+| 9    || 14%     || 12%
+|-
+| 10   || 13%     || 12%
+|-
+|rowspan="2" data-sort-value="Roe 3"|{{Name|Red Roe|3|link=Roe}}
+|rowspan="2"|25
+| 9    || 3.1%      || 2.7%
+|-
+| 10   || 2.9%      || 2.7%
+|-
+|rowspan="4" data-sort-value="Gold Ore"|{{Name|Gold Ore|5}}
+|rowspan="4"|11
+| 3-7  || 10%     || 4-7%
+|-
+| 8    || 9.6%    || 7.6%
+|-
+| 9    || 7.4%    || 6.4%
+|-
+| 10   || 6.9%    || 6.5%
+|-
+|rowspan="3" data-sort-value="Cave Jelly 1"|{{Name|Cave Jelly|1}}
+|rowspan="3"|17
+| 8   || 4%      || 3.2%
+|-
+| 9   || 3.1%      || 2.7%
+|-
+| 10   || 2.9%      || 2.7%
+|-
+|data-sort-value="Cave Jelly 3"|{{Name|Cave Jelly|3}}
+|17
+| 10   || 3.9%      || 3.7%
+|-
+|rowspan="2" data-sort-value="Spicy Eel"|{{Name|Spicy Eel|5}}
+|rowspan="2"|17
+| 9    || 3.9%      || 3.4%
+|-
+| 10   || 3.6%      || 3.5%
+|-
+|rowspan="2" data-sort-value="Magma Geode 5"|{{Name|Magma Geode|5}}
+|rowspan="2"|16
+| 9    || 2%      || 1.7%
+|-
+| 10   || 1.9%    || 1.8%
+|-
+|data-sort-value="Magma Geode 10"|{{Name|Magma Geode|10}}
+|16
+| 10   || 3.3%      || 3.1%
+|-
+|rowspan="3" data-sort-value="ZZZZ"|''Nothing''
+|rowspan="3"| 
+| 1-2  || 20%     || 82-75%
+|-
+| 3-5  || 18%     || 68-55%
+|-
+| 6-10 || 0%      || 37-5%
+|}
+
+==Quests==
+Lava Eel is not used in any [[quests]].
+
+==References==
+<references>
+    <ref name="mines_rates">See <samp>MineShaft::getFish</samp> in the game code. As the code used to fish in Level 100 of the Mines never invokes the default Fishing function, this means that Location and Fish data is unused, bypassing the requirement for Level 7 Fishing.</ref>
+    <ref name="forgechance">See <samp>Data\Locations.xnb</samp> in the game files.</ref>
+</references>
+
+==History==
+{{History|1.4|Added iridium quality. Can now be used in [[Tailoring]].}}
+{{History|1.5|Is now used in a remixed bundle. Can now be caught at the [[Forge]]. Chance of catching it in [[The Mines]] now increased by 4% when using a [[Curiosity Lure]].}}
+{{History|1.6|Added [[Cave Jelly]] to possible [[Fish Pond]] outputs. Dwarf now loves Lava Eel. Chance of catching it in [[The Mines]] now increased by 8% when using [[Targeted Bait|Lava Eel Bait]]. Spawn rates in the [[Forge]] significantly reduced. Now requires [[Fishing#Fishing Skill|Fishing level 7]] to hook in the Forge.}}
+{{History|1.6.9|Spawn rates in the Forge changed back to what they were in 1.5}} 
+
+{{NavboxFish}}
+
+[[Category:Mine fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+[[Category:Island fish]]
+
+[[de:Lava-Aal]]
+[[es:Anguila de lava]]
+[[fr:Anguille de lave]]
+[[it:Anguilla lavica]]
+[[ja:溶岩ウナギ]]
+[[ko:용암 장어]]
+[[hu:Láva angolna]]
+[[pt:Enguia de lava]]
+[[ru:Лавовый угорь]]
+[[tr:Lav Yılanbalığı]]
+[[zh:岩浆鳗鱼]]

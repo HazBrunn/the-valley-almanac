@@ -1,0 +1,172 @@
+{{Infobox location
+|name      = Desert Trader
+|mapx      = 30
+|mapy      = 5
+|building  = Desert Trader.png
+|openhours = Always
+|closed    = 15-17 Winter
+|address   = [[The Desert|Calico Desert]]
+|occupants = [[File:Desert Trader Icon.png|24px|link=]] Desert Trader
+}}
+The '''Desert Trader''' is a merchant located in [[The Desert|the Calico Desert]] who sells a variety of exotic goods. The Desert Trader does not accept [[gold]], but only barters in exchange for other items. 
+
+During the [[Night Market]], the corner shop in the Desert is closed and no purchases are possible. Instead, the Desert Trader can be spoken to at the Night Market for one free cup of [[Coffee]] per night.
+
+==Permanent Stock==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Price
+|-
+|[[File:Artifact Trove.png|center]]
+|[[Artifact Trove]]
+|{{Name|Omni Geode|5}}
+|-
+|[[File:Warp Totem Desert.png|center]]
+|[[Warp Totem: Desert]]
+|{{Name|Omni Geode|3}}
+|-
+|[[File:Triple Shot Espresso.png|center]]
+|[[Triple Shot Espresso]]
+|{{Name|Diamond|1}}
+|-
+|[[File:Spicy Eel.png|center]]
+|[[Spicy Eel]]
+|{{Name|Ruby|1}}
+|-
+|[[File:Mega Bomb.png|center]]
+|[[Mega Bomb]]
+|{{Name|Iridium Ore|5}}
+|-
+|[[File:Bomb.png|center]]
+|[[Bomb]]
+|{{Name|Quartz|5}}
+|-
+|{{Recipe|Warp Totem Desert|48|center}}
+|[[Warp Totem: Desert]] Recipe
+|{{Name|Iridium Bar|10}}
+|-
+|[[File:Butterfly Hutch.png|x48px|center]]
+|[[Butterfly Hutch]]
+|{{Name|Bat Wing|200}}
+|-
+|[[File:Green Turban.png|center]]
+|[[Green Turban]]
+|{{Name|Omni Geode|50}}
+|-
+|[[File:Birch Double Bed.png|x48px|center]]
+|[[Birch Double Bed]]
+|{{Name|Pearl|1}}
+|-
+|[[File:Midnight Beach Bed.png|x48px|center]]
+|[[Midnight Beach Bed]]
+|{{Name|Iridium Bar|15}}
+|-
+|[[File:Midnight Beach Double Bed.png|x48px|center]]
+|[[Midnight Beach Double Bed]]
+|{{Name|Iridium Bar|30}}
+|-
+|[[File:Dark Piano.png|48px|center]]
+|[[Dark Piano]]
+|{{Name|Coal|999}}
+|}
+
+==Rotating Stock==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Price
+!Day Sold
+|-
+|[[File:Hay.png|center]]
+|[[Hay]] (x3)
+|{{Name|Omni Geode|1}}
+|Monday
+|-
+|[[File:Fiber.png|center]]
+|[[Fiber]]
+|{{Name|Stone|5}}
+|Tuesday
+|-
+|[[File:Cloth.png|center]]
+|[[Cloth]]
+|{{Name|Aquamarine|3}}
+|Wednesday
+|-
+|[[File:Magic Rock Candy.png|center]]
+|[[Magic Rock Candy]]
+|{{Name|Prismatic Shard|3}}
+|Thursday <br />  ''Can purchase only 1 each Thursday''
+|-
+|[[File:Cheese.png|center]]
+|[[Cheese]]
+|{{Name|Emerald|1}}
+|Friday
+|-
+|[[File:Spring Seeds.png|center]]
+|[[Spring Seeds]]
+|{{Name|Summer Seeds|2}}
+|Saturday
+|-
+|[[File:Summer Seeds.png|center]]
+|[[Summer Seeds]]
+|{{Name|Fall Seeds|2}}
+|Saturday
+|-
+|[[File:Fall Seeds.png|center]]
+|[[Fall Seeds]]
+|{{Name|Winter Seeds|2}}
+|Saturday
+|-
+|[[File:Winter Seeds.png|center]]
+|[[Winter Seeds]]
+|{{Name|Spring Seeds|2}}
+|Saturday
+|-
+|[[File:Staircase.png|center]]
+|[[Staircase]]
+|{{Name|Jade|1}}
+|Sunday
+|-
+|[[File:Magic Turban.png|center]]
+|[[Magic Turban]]
+|{{Name|Omni Geode|333}}
+|Even days
+|-
+|[[File:Magic Cowboy Hat.png|center]]
+|[[Magic Cowboy Hat]]
+|{{Name|Omni Geode|333}}
+|Odd days
+|-
+|[[File:Void Ghost Pendant.png|center]]
+|[[Void Ghost Pendant]]
+|{{Name|Void Essence|200}}
+|After max hearts with [[Krobus]]<br />''Only available if the player isn't married <br /> Can only be purchased if the player has upgraded their house''
+|}
+
+==Notes==
+* The Desert Trader does not accept gold, and will explain to the player "Your coin has no value where I come from.... Do you have anything else to trade?"
+* [[Sandy]] mentions the Desert Trader during [[Emily]]'s visit on her birthday (Fall 15). If the player interacts with her while she is standing in front of the Desert Trader, Sandy says "I think she sells some rare products."
+
+==History==
+{{History|1.4|Introduced.}}
+{{History|1.4.1|Now only one Magic Rock Candy can be purchased each Thursday.}}
+{{History|1.5|Added Birch Double Bed to stock.}}
+{{History|1.6|Added Midnight Beach Beds and Dark Piano to shop inventory.}}
+
+{{NavboxBuildings}}
+
+[[Category:Desert Locations]]
+[[Category:Stores]]
+
+[[de:Wüstenhändler]]
+[[es:Comerciante del desierto]]
+[[fr:Marchand du Désert]]
+[[it:Mercante del deserto]]
+[[ja:砂漠の商人]]
+[[ko:사막 상인]]
+[[hu:Sivatagi kereskedő]]
+[[pt:Comerciante do Deserto]]
+[[ru:Меняла]]
+[[tr:Çöl Tüccarı]]
+[[zh:沙漠商人]]

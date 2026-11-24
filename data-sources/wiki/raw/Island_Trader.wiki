@@ -1,0 +1,181 @@
+{{Infobox location
+|name      = Island Trader
+|mapx      = 200
+|mapy      = 110
+|building  = Island Trader.png
+|openhours = Always
+|address   = [[Ginger Island#Island North|Ginger Island]]
+|occupants = {{NPC|Island Trader}}
+|island    = true
+}}
+The '''Island Trader''' is a bluebird merchant located on the North side of [[Ginger Island#Island North|Ginger Island]]. Like the [[Desert Trader]], the Island Trader does not accept gold but only barters in exchange for other items.
+
+The Island Trader is unlocked for {{Price|10|Walnut}} [[Golden Walnut]]s after purchasing the [[Island Farmhouse]].
+
+==Fixed Stock==
+
+{|class="wikitable sortable"
+!class="unsortable"|Image
+!Name
+!Description
+!Price
+|-
+|[[File:Warp Totem Farm.png|36px|center]]
+|[[Warp Totem: Farm]]
+|{{Description|Warp Totem: Farm}}
+|{{Name|Taro Root|5}}
+|-
+|[[File:Taro Tuber.png|36px|center]]
+|[[Taro Tuber]]
+|{{Description|Taro Tuber}}
+|{{Name|Bone Fragment|2}}
+|-
+|[[File:Pineapple Seeds.png|36px|center]]
+|[[Pineapple Seeds]]
+|{{Description|Pineapple Seeds}}
+|{{Name|Magma Cap|1}}
+|-
+|[[File:Golden Coconut.png|36px|center]]
+|[[Golden Coconut]]
+|{{Description|Golden Coconut}}<br />''(Only available after cracking at least one [[Golden Coconut]])''
+|{{Name|Coconut|10}}
+|-
+|[[File:Tropical TV.png|36px|center]]
+|[[Tropical TV]]
+|{{Description|Furniture}}
+|{{Name|Taro Root|30}}
+|-
+|[[File:Jungle Torch.png|36px|center]]
+|[[Jungle Torch]]
+|{{Description|Decoration}}
+|{{Name|Cinder Shard|5}}
+|-
+|[[File:Banana Sapling.png|36px|center]]
+|[[Banana Sapling]]
+|{{Description|Banana Sapling}}
+|{{Name|Dragon Tooth|5}}
+|-
+|[[File:Mango Sapling.png|36px|center]]
+|[[Mango Sapling]]
+|{{Description|Mango Sapling}}
+|{{Name|Mussel|75}}
+|-
+|[[File:Wild Double Bed.png|36px|center]]
+|[[Wild Double Bed]]
+|{{Description|Furniture}}
+|{{Name|Cinder Shard|100}}
+|-
+|[[File:Tropical Bed.png|36px|center]]
+|[[Tropical Bed]]
+|{{Description|Furniture}}
+|{{Name|Ginger|20}}
+|-
+|[[File:Mahogany Seed.png|36px|center]]
+|[[Mahogany Seed]]
+|{{Description|Mahogany Seed}}
+|{{Name|Stingray|1}}
+|-
+|[[File:Luau Skirt.png|36px|center]]
+|[[Luau Skirt]]
+|{{Description|Luau Skirt}}
+|{{Name|Taro Root|50}}
+|-
+|{{Recipe|Banana Pudding|36|center}}
+|[[Banana Pudding]] Recipe
+|{{Description|Recipe|Banana Pudding}}
+|{{Name|Bone Fragment|30}}
+|-
+|{{Recipe|Deluxe Retaining Soil|36|center}}
+|[[Deluxe Retaining Soil]] Recipe
+|{{Description|Recipe|Deluxe Retaining Soil}}
+|{{Name|Cinder Shard|50}}
+|}
+
+==Rotating Stock==
+
+{|class="wikitable sortable"
+!class="unsortable"|Image
+!Name
+!Description
+!Price
+!Day Sold
+|-
+|[[File:Tropical Chair.png|36px|center]]
+|[[Tropical Chair]]
+|{{Description|Furniture}}
+|{{Name|Lionfish|1}}
+|Even Days of the season
+|-
+|[[File:Small Cap.png|36px|center]]
+|[[Small Cap]]
+|{{Description|Small Cap}}
+|{{Name|Taro Root|30}}
+|Every Monday
+|-
+|[[File:Palm Wall Ornament.png|36px|center]]
+|[[Palm Wall Ornament]]
+|{{Description|Furniture}}
+|{{Name|Pineapple|1}}
+|Every Tuesday
+|-
+|[[File:Bluebird Mask.png|36px|center]]
+|[[Bluebird Mask]]
+|{{Description|Bluebird Mask}}
+|{{Name|Taro Root|30}}
+|Every Wednesday
+|-
+|[[File:'Volcano' Photo.png|36px|center]]
+|[['Volcano' Photo]]
+|{{Description|Furniture}}
+|{{Name|Mango|5}}
+|Every Thursday
+|-
+|[[File:Deluxe Cowboy Hat.png|36px|center]]
+|[[Deluxe Cowboy Hat]]
+|{{Description|Deluxe Cowboy Hat}}
+|{{Name|Taro Root|30}}
+|Every Friday
+|-
+|[[File:Oceanic Rug.png|36px|center]]
+|[[Oceanic Rug]]
+|{{Description|Furniture}}
+|{{Name|Blue Discus|3}}
+|Every Saturday
+|-
+|[[File:Tropical Double Bed.png|36px|center]]
+|[[Tropical Double Bed]]
+|{{Description|Furniture}}
+|{{Name|Banana|5}}
+|Every Sunday
+|-
+|[[File:Galaxy Soul.png|36px|center]]
+|[[Galaxy Soul]]
+|{{Description|Galaxy Soul}}<br />''(Available after killing at least 50 [[Monsters#Dangerous Monsters|dangerous monsters]]<ref name="galaxy soul" />)''
+|{{Name|Radioactive Bar|10}}
+|Last Day of Season
+|}
+
+==References==
+<references>
+    <ref name="galaxy soul">See <samp>Locations.IslandNorth::getIslandMerchantTradeStock</samp> in the game code.</ref>
+</references>
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxBuildings}}
+
+[[Category:Island Locations]]
+[[Category:Stores]]
+
+[[de:Inselhändler]]
+[[es:Comerciante isleño]]
+[[fr:Commerçant insulaire]]
+[[it:Mercante dell'isola]]
+[[ja:島のトレーダー]]
+[[ko:섬 상인]]
+[[hu:Sziget kereskedő]]
+[[pt:Comerciante da Ilha]]
+[[ru:Островной торговец]]
+[[tr:Ada Taciri]]
+[[zh:姜岛商人]]

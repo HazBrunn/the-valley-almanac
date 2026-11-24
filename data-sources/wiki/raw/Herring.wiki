@@ -1,0 +1,101 @@
+{{Infobox fish
+|eng        = Herring
+|location   = [[The Beach|Ocean]]
+|time       = Any
+|season     = {{Season|Spring}} • {{Season|Winter}}
+|weather    = Any
+|difficulty = 25
+|behavior   = Dart
+|size       = 8-21
+|price      = 30
+|edibility  = 5
+|roe        = Blue
+}}
+The '''Herring''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Spring]] and [[Winter]]. It can also be found randomly at the [[Traveling Cart]] for {{Tprice|30}} or in [[Garbage Can]]s during Spring or Winter.
+
+Herring can be caught regardless of season using [[Magic Bait]].
+
+==Map==
+The Herring can be found in the ocean.
+{{Map|275|200}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Herring is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Herring can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt259a.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Herring can be placed in a [[Fish Pond]], where they will reproduce every day. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The only possible output is blue Herring [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Driftwood]] || 25
+|-
+| 5   || 10  || 1 [[Coral]] || 25
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Blue Roe|1|link=Roe}}
+|11
+| 1-10 || 100%    || 23-95%
+|-
+|''Nothing''
+| 
+| 1-10 || 0%      || 77-5%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Herring may be randomly requested in [[Spring]] or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|90}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-5 herring during [[Spring]] or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|30}} per fish.  (You get to keep the fish).
+
+==History==
+{{History|1.4|Added iridium quality. Can now be used in [[Tailoring]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Winter fish]]
+[[Category:Ocean fish]]
+
+[[de:Hering]]
+[[es:Arenque]]
+[[fr:Hareng]]
+[[it:Aringa]]
+[[ja:ニシン]]
+[[ko:청어]]
+[[hu:Hering]]
+[[pt:Arenque]]
+[[ru:Сельдь]]
+[[tr:Ringa Balığı]]
+[[zh:鲱鱼]]

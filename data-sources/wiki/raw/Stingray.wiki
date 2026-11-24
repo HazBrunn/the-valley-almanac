@@ -1,0 +1,133 @@
+{{Infobox fish
+|eng        = Stingray
+|location   = [[Ginger Island#Pirate Cove|Pirate Cove]]
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 80
+|behavior   = Sinker
+|size       = 18-61
+|price      = 180
+|edibility  = 15
+|roe        = Dark Brown
+}}
+The '''Stingray''' is a [[fish]] that can be caught at the [[Ginger Island#Pirate Cove|Pirate Cove]] on [[Ginger Island#Island Southeast|Ginger Island Southeast]].
+
+The player can purchase [[Mahogany Seed]]s from the [[Island Trader]] for 1 stingray each.
+
+==Map==
+The Stingray can be found in the [[Ginger Island#Pirate Cove|Pirate Cove]].
+{{Map|main=false|island=true|islandloc1x=260|islandloc1y=145}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Leo,Pam,Elliott,Willy
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Stingray is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Stingray can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt259a.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Stingrays can be placed in a [[Fish Pond]], where they will reproduce every 4 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is dark brown Stingray [[Roe]], but more valuable items are possible starting at population 4.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 7 [[Cinder Shard]]s || 40
+|-
+| 5   || 10  || 1 [[Dragon Tooth]] || 40
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="5" data-sort-value="Roe"|{{Name|Dark Brown Roe|1|link=Roe}}
+|rowspan="5"|14
+| 1-3  || 80%     || 18-31%
+|-
+| 4    || 76%     || 36%
+|-
+| 5-6  || 95%     || 52-60%
+|-
+| 7-8  || 86%     || 61-68%
+|-
+| 9-10 || 72%     || 63-69%
+|-
+|rowspan="3" data-sort-value="Magma Cap"|{{Name|Magma Cap|1}}
+|rowspan="3"|26
+| 4-6  || 5%      || 2-3%
+|-
+| 7-8  || 4%      || 3-4%
+|-
+| 9-10 || 4%      || 4%
+|-
+|rowspan="2" data-sort-value="Cinder Shard"|{{Name|Cinder Shard|2-5}}
+|rowspan="2"|12
+| 7-8  || 10%     || 7-8%
+|-
+| 9-10 || 8%      || 9-10%
+|-
+|data-sort-value="Dragon Tooth"|{{Name|Dragon Tooth|1}}
+|30
+| 9-10 || 5%      || 5%
+|-
+|data-sort-value="Battery Pack"|{{Name|Battery Pack|1}}
+|30
+| 9-10 || 10%      || 9-10%
+|-
+|rowspan="4" data-sort-value="ZZZZ"|''Nothing''
+|rowspan="4"|
+| 1-3  || 20%     || 82-69%
+|-
+| 4    || 19%     || 68%
+|-
+| 5-10 || 0%     || 45-5%
+|-
+|}
+
+==Quests==
+*[[Willy]] may request 5 Stingray to be caught at the [[Quests#Tropical Fish|Special Orders board]] outside the [[Mayor's Manor]] after [[Ginger Island]] is unlocked as part of the "Tropical Fish" special order.
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxFish}}
+
+[[Category:Island fish]]
+
+[[de:Stachelrochen]]
+[[es:Mantarraya]]
+[[fr:Raie]]
+[[it:Razza]]
+[[ja:エイ]]
+[[ko:가오리]]
+[[hu:Rája]]
+[[pt:Arraia]]
+[[ru:Скат]]
+[[tr:İğnelivatoz]]
+[[zh:黄貂鱼]]

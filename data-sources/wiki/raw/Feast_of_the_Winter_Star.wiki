@@ -1,0 +1,345 @@
+[[File:Feast of the Winterstar.png|500px|right]]
+The '''Feast of the Winter Star''' is a [[Festivals|festival]] that takes place on the 25th of every [[Winter]]. The player attends the festival by entering [[Pelican Town]] between 9am and 2pm.  When the player leaves the festival, they will be returned to [[The Farm]] at 10pm.
+
+The main event of the Feast of the Winter Star is secret gift-giving. A random [[Villagers|villager]] will be selected to give the player a gift, and the player is assigned a random villager to give a gift to. A week beforehand, on the 18th, [[Lewis|Mayor Lewis]] will send a letter telling the player who their gift recipient is. The player finds out who is giving them a gift at the festival.
+
+The festival ends when the player leaves [[Pelican Town]].
+
+==Shop==
+[[Pierre]] has a booth from which he sells the following items.
+
+===Fixed Stock===
+{|class="wikitable sortable roundedborder"
+!class="unsortable"|Image
+!Name
+!Description
+!Price
+|-
+|[[File:Winter Banner.png|24px|center]]
+|[[Winter Banner]]
+|{{Description|Furniture}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:L. Light String.png|36px|center]]
+|[[L. Light String]]
+|{{Description|Furniture}}
+|data-sort-value="0800"|{{Price|800}}
+|-
+|[[File:S. Pine.png|36px|center]]
+|[[S. Pine]]
+|{{Description|Decoration}}
+|data-sort-value="500"|{{Price|500}}
+|-
+|[[File:Ornate Window.png|36px|center]]
+|[[Ornate Window]]
+|{{Description|Furniture}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:House Plant 7.png|36px|center]]
+|[[House Plant]]
+|{{Description|Decoration}}
+|data-sort-value="0700"|{{Price|700}}
+|-
+|[[File:Festive Dining Table.png|36px|center]]
+|[[Festive Dining Table]]
+|{{Description|Decoration}}
+|data-sort-value="3000"|{{Price|3000}}
+|-
+|[[File:Large Red Rug.png|36px|center]]
+|[[Large Red Rug]]
+|{{Description|Furniture}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Decorative Axe.png|24px|center]]
+|[[Decorative Axe]]
+|{{Description|Furniture}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Wood Panel.png|24px|center]]
+|[[Wood Panel]]
+|{{Description|Furniture}}
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Log Panel 1.png|24px|center]]
+|[[Log Panel]]
+|{{Description|Furniture}}
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Log Panel 2.png|24px|center]]
+|[[Log Panel]]
+|{{Description|Furniture}}
+|data-sort-value="0700"|{{Price|700}}
+|-
+|[[File:Tree of the Winter Star.png|36px|center]]
+|[[Tree of the Winter Star]]
+|{{Description|Decoration}}
+|data-sort-value="5000"|{{Price|5000}}
+|-
+|[[File:Manicured Pine.png|24px|center]]
+|[[Manicured Pine]]
+|{{Description|Decoration}}
+|data-sort-value="0800"|{{Price|800}}
+|-
+|[[File:Wallpaper 132 Icon.png|48px|center]]
+|[[Wallpaper]]
+|{{Description|Wallpaper}}
+|data-sort-value="0500"|{{Price|500}}
+|-
+|}
+
+===Random Stock===
+The first 3 items in Pierre's stock are randomly chosen from separate item pools. Each of these items have a purchase limit of 1 per year.
+{|
+|-
+| style="background-color: transparent; border: 0; padding: 0;"|
+{|class="wikitable sortable" style="float: left; margin-right: 12px;"
+!colspan="4"|Item 1
+|-
+!class="unsortable"|Image
+!Name
+!Price
+|-
+|[[File:Triple Shot Espresso.png|24px|center]]||[[Triple Shot Espresso]]||data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Powdermelon.png|24px|center]]||[[Powdermelon]]||data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Garlic.png|24px|center]]||[[Garlic]]||data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Fire Quartz.png|24px|center]]||[[Fire Quartz]]||data-sort-value="2500"|{{Price|2500}}
+|}
+
+{|class="wikitable sortable" style="float: left; margin-right: 12px;"
+!colspan="4"|Item 2
+|-
+!class="unsortable"|Image
+!Name
+!Price
+|-
+|[[File:Frozen Tear.png|24px|center]]||[[Frozen Tear]]||data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Fried Mushroom.png|24px|center]]||[[Fried Mushroom]]||data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Duck Egg.png|24px|center]]||[[Duck Egg]]||data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Bread.png|24px|center]]||[[Bread]]||data-sort-value="2500"|{{Price|2500}}
+|}
+
+{|class="wikitable sortable" style="float: left;"
+!colspan="4"|Item 3
+|-
+!class="unsortable"|Image
+!Name
+!Price
+|-
+|[[File:Cave Carrot.png|24px|center]]||[[Cave Carrot]]||data-sort-value="500"|{{Price|500}}
+|-
+|[[File:Perch.png|24px|center]]||[[Perch]]||data-sort-value="500"|{{Price|500}}
+|-
+|[[File:Clam.png|24px|center]]||[[Clam]]||data-sort-value="500"|{{Price|500}}
+|-
+|[[File:Winter Root.png|24px|center]]||[[Winter Root]]||data-sort-value="500"|{{Price|500}}
+|}
+|}
+
+==Gift-giving==
+The gift the player selects for their villager will be worth 5x the normal amount of [[friendship]] points. After the player gives their gift, their Secret Gift-Giver will reveal themself and give them their present.
+
+[[File:Feast of the Winterstar Secret Santa.png|500px]]
+
+===Possible Received Gifts===
+This is a list of gifts the player can receive from their secret gift-giver. The only children are [[Jas]], [[Vincent]], and [[Leo]] (if he has moved into Stardew Valley); everyone else is an adult. The [[Dwarf]], [[Krobus]], [[Marlon]], [[Sandy]], and the [[Wizard]] are never secret gift givers.
+{|class="wikitable sortable roundedborder"
+!class="unsortable"|Image
+!Name
+!Quantity
+!Gift Giver
+|-
+|[[File:Iridium Bar.png|center|32px]]
+|[[Iridium Bar]]
+|1
+|[[Clint]]
+|-
+|[[File:Gold Bar.png|center|32px]]
+|[[Gold Bar]]
+|5
+|[[Clint]]
+|-
+|[[File:Geode.png|center|32px]]
+|[[Geode]]
+|5 from Clint, 1 from any child
+|[[Clint]] or any child
+|-
+|[[File:Frozen Geode.png|center|32px]]
+|[[Frozen Geode]]
+|5 from Clint, 1 from any child
+|[[Clint]] or any child
+|-
+|[[File:Magma Geode.png|center|32px]]
+|[[Magma Geode]]
+|5 from Clint 1 from any child
+|[[Clint]] or any child
+|-
+|[[File:Egg.png|center|32px]]
+|[[Egg]]
+|12
+|[[Marnie]]
+|-
+|[[File:Wood.png|center|32px]]
+|[[Wood]]
+|99
+|[[Robin]]
+|-
+|[[File:Stone.png|center|32px]]
+|[[Stone]]
+|50
+|[[Robin]]
+|-
+|[[File:Hardwood.png|center|32px]]
+|[[Hardwood]]
+|25
+|[[Robin]]
+|-
+|[[File:Warp Totem Beach.png|center|32px]]
+|[[Warp Totem: Beach]]
+|25
+|[[Willy]]
+|-
+|[[File:Dressed Spinner.png|center|32px]]
+|[[Dressed Spinner]]
+|1
+|[[Willy]]
+|-
+|[[File:Magnet.png|center|32px]]
+|[[Magnet]]
+|1
+|[[Willy]]
+|-
+|[[File:Cookie.png|center|32px]]
+|[[Cookie]]
+|1
+|[[Evelyn]]
+|-
+|[[File:Clay.png|center|32px]]
+|[[Clay]]
+|1
+|Any child
+|-
+|[[File:Ancient Doll.png|center|32px]]
+|[[Ancient Doll]]
+|1
+|Any child
+|-
+|[[File:Rainbow Shell.png|center|32px]]
+|[[Rainbow Shell]]
+|1
+|Any child
+|-
+|[[File:Pumpkin Pie.png|center|32px]]
+|[[Pumpkin Pie]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Poppyseed Muffin.png|center|32px]]
+|[[Poppyseed Muffin]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Blackberry Cobbler.png|center|32px]]
+|[[Blackberry Cobbler]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Glow Ring.png|center|32px]]
+|[[Glow Ring]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Deluxe Speed-Gro.png|center|32px]]
+|[[Deluxe Speed-Gro]]
+|10
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Purple Mushroom.png|center|32px]]
+|[[Purple Mushroom]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Nautilus Shell.png|center|32px]]
+|[[Nautilus Shell]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Wine.png|center|32px]]
+|[[Wine]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Beer.png|center|32px]]
+|[[Beer]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Tea Set.png|center|32px]]
+|[[Tea Set]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Pink Cake.png|center|32px]]
+|[[Pink Cake]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Ruby.png|center|32px]]
+|[[Ruby]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Emerald.png|center|32px]]
+|[[Emerald]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|-
+|[[File:Jade.png|center|32px]]
+|[[Jade]]
+|1
+|Any adult except [[Clint]], [[Evelyn]], [[Marnie]], [[Robin]], or [[Willy]]
+|}
+
+==Mail==
+{{Quote|Dear [Player],<br />I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.<br />A favorite tradition is the "secret gift exchange", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprises them with something special!<br /><br />This year, your secret friend is:<br />[Villager]<br />Don't tell anyone! The feast will take place on the 25th from 9AM to 2PM at the town square. See you then!<br />-Mayor Lewis}}
+
+==Trivia==
+*Speaking to [[Willy]] gives the player the option to hear the story of the Winter Star:
+:''"In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it. They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as [[Stardrop]] is connected to the Winter Star in some way."''
+*On the [[Secrets#Shipping Screen|shipping summary screen]] at end of the 24th day of Winter, [[wikipedia:Santa Claus|Santa Claus]] will ride across the sky with a few reindeer in his sleigh.
+*If the player talks to [[George]], he will deprecate the feast and shout "Humbug!", a reference to Ebenezer Scrooge, the elderly protagonist of Charles Dickens' novel ''[[wikipedia:A Christmas Carol|A Christmas Carol]]''.
+*It is possible to have your secret friend be [[Lewis]]. If that happens, Lewis will still send you a letter telling you so, and will still act surprised when you give him his gift.
+
+==Bugs==
+*It's possible for [[Leo]] to be the secret friend after the player meets him but before he moves from [[Ginger Island]] to the mainland. In this case, Leo does not attend the festival, so the player cannot give him a gift (and then cannot receive a gift).
+
+==History==
+{{History|1.3.32|Fixed bug where the player could not move after receiving their gift.}}
+{{History|1.4|Fixed bug where the entire stack of items given to the secret gift recipient would be consumed. Fixed NPCs following non-festival schedules after the festival.}}
+{{History|1.4.4|Quest items and non-giftable items can no longer be given as gifts at the festival.}}
+{{History|1.5|Introduced [[Pierre]]'s booth.}}
+{{History|1.5.1|[[Leo]] can no longer be the player's secret friend if the player has not met him.}}
+{{History|1.6|Fixed [[Lewis]]' letter for the Feast of the Winter Star saying it starts at 10am instead of 9am. Added new items to [[Pierre]]'s booth.}}
+{{History|1.6.6|[[Pierre's Missing Stocklist]] can no longer be given away at the festival.}}
+
+{{NavboxFestivals}}
+
+[[Category:Winter festivals]]
+[[Category:Bugs tested in 1.5]]
+
+[[de:Fest des Wintersterns]]
+[[es:Fiesta de la estrella de invierno]]
+[[fr:Fête de l'Étoile Hivernale]]
+[[it:Banchetto della Stella d'inverno]]
+[[ja:冬星祭]]
+[[ko:겨울 별의 만찬]]
+[[hu:A Téli Csillag Ünnepe]]
+[[pt:Festival da Estrela Invernal]]
+[[ru:Пир Зимней звезды]]
+[[tr:Kış Yıldızı Şöleni]]
+[[zh:冬日星盛宴]]

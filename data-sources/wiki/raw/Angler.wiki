@@ -1,0 +1,112 @@
+{{Infobox fish
+|eng        = Angler
+|location   = [[Pelican Town]]
+|time       = Any
+|season     = Fall
+|weather    = Any
+|difficulty = 85
+|size       = 17-19
+|fl         = 3
+|price      = 900
+|edibility  = 10
+|behavior   = Smooth
+|roe        = Yellow
+}}
+{{For|the profession|Fishing#Fishing Skill|R=This article is about the fish.}}
+:''See also: [[Ms. Angler]]''
+The '''Angler''' is a [[fish]] that can be caught in [[Pelican Town]] during [[Fall]]. It is one of the five [[Fish#Legendary Fish|Legendary Fish]], so it can only be caught once per [[Saves|save file]], or once per player in [[Multiplayer]].
+
+The special requirements necessary to hook an Angler are:<ref name="requirements"/>
+* [[Fishing#Fishing Skill|Fishing level 3]], either naturally or using Fishing [[Buffs]].
+* The player must be standing at the northernmost end of the river (within 15 tiles of the map edge). This includes the wooden plank bridge, all shoreline north of the bridge, as well as the shoreline up to three tiles south of the wood bridge.
+* There is no [[Fishing#Distance from Land|distance from land]] requirement; the bobber can be located anywhere in the river as long as the player is standing in a valid location.
+
+When all of these requirements are met, each cast has a 20% chance of hooking an Angler (25% if using a [[Curiosity Lure]]).
+
+Although the Angler cannot be hooked again after it is caught, it is possible to obtain multiple Anglers (per player) by using [[Challenge Bait]] to catch it or by [[Pans|Panning]] in the correct [[#Maps|tiles]] with the [[Forge#Enchantments|Fisher enchantment]]. 
+
+The Angler can be caught regardless of season using [[Magic Bait]].
+
+==Map==
+The Angler can be found in the river in [[Pelican Town]] north of [[JojaMart]].
+{{Map|275|70|400}}
+[[File:AnglerLocations.png|thumb|left]]
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Angler is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Dyeing==
+Angler can serve as a yellow [[Dyeing|dye]] in the dye pots, located at [[Emily]]'s and [[Haley]]'s house [[2 Willow Lane]].
+
+==Fish Pond==
+Angler can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Angler [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Yellow Roe|1-4|link=Roe}}
+|30
+| 1 || 75%     || 37.5%
+|-
+|{{Name|Yellow Roe|1-2|link=Roe}}
+|30
+| 1 || 12.5%     || 6.25%
+|-
+|''Nothing''
+| 
+| 1 || 12.5%     || 56.25%
+|}
+
+==Quests==
+The Angler is not used in any [[quests]].
+
+==References==
+<references>
+    <ref name="requirements">See <samp>Data\Locations.xnb</samp>.</ref>
+</references>
+
+==History==
+{{History|1.4|Added iridium quality.}}
+{{History|1.5|Chance of catching it can now be increased by using a [[Curiosity Lure]].}}
+{{History|1.6|Fixed bug allowing [[Fish#Legendary Fish|Legendary Fish]] to be hooked with the [[Training Rod]]. Legendary Fish [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book. Can now obtain multiple Anglers per player using [[Challenge Bait]] or by [[Pans|panning]] with the [[Forge#Enchantments|Fisher enchantment]].}}
+{{History|1.6.9|[[Fish#Legendary Fish|Legendary Fish]] can now be placed in a [[Fish Pond]].}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:Fall fish]]
+[[Category:River fish]]
+
+[[de:Anglerfisch]]
+[[es:Rape]]
+[[fr:Poisson-pêcheur]]
+[[it:Rana pescatrice]]
+[[ja:ツリビトアンコウ]]
+[[ko:아귀]]
+[[hu:Ördöghal]]
+[[pt:Tamboril]]
+[[ru:Морской черт]]
+[[tr:Fenerbalığı]]
+[[zh:鮟鱇鱼]]

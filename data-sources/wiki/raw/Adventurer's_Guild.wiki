@@ -1,0 +1,488 @@
+{{Infobox location
+|mapx      = 293
+|mapy      = 30
+|building  = Adventurer's Guild.gif
+|openhours = 2:00pm to 2:00am
+|closed    =
+|address   = Just east of [[The Mines|the mines]], northeast of [[Pelican Town|town]].
+|occupants = {{NPC|Marlon}}{{NPC|Gil}}
+}}
+The '''Adventurer's Guild''' is located east of [[the Mines]] and is the home of [[Marlon]] and [[Gil]]. There the player can purchase [[Weapons]], [[Footwear|Boots]], and [[Rings]]. Marlon will also buy weapons, boots, and rings, as well as [[Monster Loot]] from the player.
+
+To access the Adventurer's Guild, the player must first complete the story quest [[Quests#Initiation|"Initiation"]]. Once completed, the guild is open daily from 2pm to 2am, except on festival days when the door is locked.
+
+The guild is closed on all festival days, with exception of [[Desert Festival]], [[Trout Derby]], [[SquidFest]] and [[Night Market]], as well as [[Dance of the Moonlight Jellies]] and [[Spirit's Eve]].
+
+==Interior Layout==
+Inside the Adventurer's Guild building players can find [[Marlon]] manning the counter, offering weapons, boots and rings for sale. [[Gil]] is sitting in his rocking chair beside the fire, and just to the left of the fireplace is the monster eradication goal list.
+
+Neither [[Marlon]] nor [[Gil]] accept gifts, gain [[friendship]] points, or have bedrooms for the player to enter. The back room of the guild is accessible only after slaying 1,000 monsters.<ref name="guilddoor" /> In that room, there is a box containing the [[Mapping Cave Systems]] book.
+
+[[File:Adventurer's Guild Interior.png|300px]]
+
+==Monster Eradication Goals==
+A list of how many of certain types of [[monsters]] killed is stored on the wall to the right of Marlon's desk. When the allotted amount has been slain, Gil will give the player a reward. Previously earned rewards can be purchased from Marlon. If the player has a full inventory and cannot take the reward(s) from [[Gil]], when they close the inventory they will be unable to retrieve the reward from him. If the inventory is full they can select the item in the dialog and drop it on the floor. It will remain on the floor while they sort out space in their inventory. Otherwise the player will have to purchase the item from [[Marlon]].
+{|class="wikitable sortable roundedborder"
+!Monster Type
+!Quantity
+!Reward
+!Reward Description
+|-
+|id="Slime"|[[File:Green Slime.png|24px]] [[Slimes|Slime]] (any color, excludes Big<br />Slimes and Slimes in the [[Slime Hutch]])
+|1000
+|{{Name|Slime Charmer Ring}}
+|{{Description|Slime Charmer Ring}}
+|-
+|id="Void Spirit"|'''Void Spirits:'''{{Name|Shadow Shaman|size=16}}{{Name|Shadow Shaman Dangerous|size=16}}{{Name|Shadow Brute|size=16}}{{Name|Shadow Brute Dangerous|size=16}} {{Name|Shadow Sniper|size=16}}
+|150
+|{{Name|Savage Ring}}
+|{{Description|Savage Ring}}
+|-
+|id="Bat"|'''Bats:'''{{Name|Bat}}{{Name|Bat Dangerous}}{{Name|Frost Bat}}{{Name|Frost Bat Dangerous}}{{Name|Lava Bat}}{{Name|Iridium Bat}}
+|200
+|{{Name|Vampire Ring}}
+|{{Description|Vampire Ring}}
+|-
+|id="Skeleton"|'''Skeletons:'''{{Name|Skeleton|size=16}}{{Name|Skeleton Dangerous|size=16}}{{Name|Skeleton Mage Dangerous|size=16}}
+|50
+|{{Name|Skeleton Mask}}
+|{{Description|Skeleton Mask}}
+|-
+|id="Cave Insect"|'''Cave Insects:'''{{Name|Bug}}{{Name|Bug Dangerous}}{{Name|Cave Fly}}{{Name|Cave Fly Dangerous}}{{Name|Grub}}{{Name|Grub Dangerous}}{{Name|Mutant Fly}} {{Name|Mutant Grub}}{{Name|Armored Bug}}{{Name|Armored Bug Dangerous}}
+|80
+|{{Name|Insect Head}}
+|{{Description|Insect Head}}
+|-
+|id="Duggy"|'''Duggies:'''{{Name|Duggy}}{{Name|Duggy Dangerous}}{{Name|Magma Duggy}}
+|30
+|{{Name|Hard Hat}}
+|{{Description|Hard Hat}}
+|-
+|id="Dust Sprite"|'''Dust Sprites:'''{{Name|Dust Sprite}}{{Name|Dust Sprite Dangerous}}
+|500
+|{{Name|Burglar's Ring}}
+|{{Description|Burglar's Ring}}
+|-
+|id="Rock Crab"|'''Rock Crabs:'''{{Name|Rock Crab}}{{Name|Rock Crab Dangerous}}{{Name|Lava Crab}}{{Name|Lava Crab Dangerous}}{{Name|Iridium Crab}}
+|60
+|{{Name|Crabshell Ring}}
+|{{Description|Crabshell Ring}}
+|-
+|id="Mummy"|'''Mummies:'''{{Name|Mummy|size=16}}{{Name|Mummy Dangerous|size=16}}
+|100
+|{{Name|Arcane Hat}}
+|{{Description|Arcane Hat}}
+|-
+|id="Pepper Rex"|{{Name|Pepper Rex}}
+|50
+|{{Name|Knight's Helmet}}
+|{{Description|Knight's Helmet}}
+|-
+|id="Serpent"|'''Serpents:'''{{Name|Serpent}}{{Name|Royal Serpent}}
+|250
+|{{Name|Napalm Ring}}
+|{{Description|Napalm Ring}}
+|-
+|id="Magma Sprite"|'''Magma Sprites:'''{{Name|Magma Sprite}}{{Name|Magma Sparker}}
+|150
+|Marlon's Phone Number
+|Can call to utilize Item Recovery Service from home
+|}
+
+==Shop==
+{|class="wikitable sortable roundedborder"
+!class="unsortable"|Image
+!Name
+!Description
+!Unlocked
+!Buy Price
+!Sell Price
+|-
+|[[File:Rusty Sword.png|36px|center]]
+|[[Rusty Sword]]
+|{{Description|Rusty Sword}}
+|
+|data-sort-value="0250"|{{Price|250}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Wooden Blade.png|36px|center]]
+|[[Wooden Blade]]
+|{{Description|Wooden Blade}}
+|
+|data-sort-value="0250"|{{Price|250}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Femur.png|36px|center]]
+|[[Femur]]
+|{{Description|Femur}}
+|Reach Floor 10 of [[the Mines]].
+|data-sort-value="0350"|{{Price|350}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Iron Dirk.png|36px|center]]
+|[[Iron Dirk]]
+|{{Description|Iron Dirk}}
+|Reach Floor 15 of [[the Mines]].
+|data-sort-value="0500"|{{Price|500}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Silver Saber.png|36px|center]]
+|[[Silver Saber]]
+|{{Description|Silver Saber}}
+|Reach Floor 20 of [[the Mines]].
+|data-sort-value="0750"|{{Price|750}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Elf Blade.png|36px|center]]
+|[[Elf Blade]]
+|{{Description|Elf Blade}}
+|Reach Floor 20 of [[the Mines]].
+|data-sort-value="0750"|{{Price|750}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Steel Smallsword.png|36px|center]]
+|[[Steel Smallsword]]
+|{{Description|Steel Smallsword}}
+|Reach Floor 20 of [[the Mines]].
+|data-sort-value="0750"|{{Price|750}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Pirate's Sword.png|36px|center]]
+|[[Pirate's Sword]]
+|{{Description|Pirate's Sword}}
+|Reach Floor 25 of [[the Mines]].
+|data-sort-value="0850"|{{Price|850}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Cutlass.png|36px|center]]
+|[[Cutlass]]
+|{{Description|Cutlass}}
+|Reach Floor 25 of [[the Mines]].
+|data-sort-value="1500"|{{Price|1500}}
+|data-sort-value="0150"|{{Price|150}}
+|-
+|[[File:Wood Mallet.png|36px|center]]
+|[[Wood Mallet]]
+|{{Description|Wood Mallet}}
+|Reach Floor 40 of [[the Mines]].
+|data-sort-value="2000"|{{Price|2000}}
+|data-sort-value="0150"|{{Price|150}}
+|-
+|[[File:Claymore.png|36px|center]]
+|[[Claymore]]
+|{{Description|Claymore}}
+|Reach Floor 45 of [[the Mines]].
+|data-sort-value="2000"|{{Price|2000}}
+|data-sort-value="0250"|{{Price|250}}
+|-
+|[[File:Templar's Blade.png|36px|center]]
+|[[Templar's Blade]]
+|{{Description|Templar's Blade}}
+|Reach Floor 55 of [[the Mines]].
+|data-sort-value="4000"|{{Price|4000}}
+|data-sort-value="0250"|{{Price|250}}
+|-
+|[[File:Crystal Dagger.png|36px|center]]
+|[[Crystal Dagger]]
+|{{Description|Crystal Dagger}}
+|Reach Floor 60 of [[the Mines]].
+|data-sort-value="4500"|{{Price|4500}}
+|data-sort-value="0200"|{{Price|200}}
+|-
+|[[File:Bone Sword.png|36px|center]]
+|[[Bone Sword]]
+|{{Description|Bone Sword}}
+|Reach Floor 75 of [[the Mines]].
+|data-sort-value="6000"|{{Price|6000}}
+|data-sort-value="0250"|{{Price|250}}
+|-
+|[[File:Steel Falchion.png|36px|center]]
+|[[Steel Falchion]]
+|{{Description|Steel Falchion}}
+|Reach Floor 90 of [[the Mines]].
+|data-sort-value="9000"|{{Price|9000}}
+|data-sort-value="0400"|{{Price|400}}
+|-
+|[[File:Obsidian Edge.png|36px|center]]
+|[[Obsidian Edge]]
+|{{Description|Obsidian Edge}}
+|Reach Floor 90 of [[the Mines]].
+|data-sort-value="9000"|{{Price|9000}}
+|data-sort-value="0300"|{{Price|300}}
+|-
+|[[File:Lava Katana.png|36px|center]]
+|[[Lava Katana]]
+|{{Description|Lava Katana}}
+|Reach the bottom of [[the Mines]].
+|data-sort-value="25000"|{{Price|25000}}
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Galaxy Sword.png|36px|center]]
+|[[Galaxy Sword]]
+|{{Description|Galaxy Sword}}
+|Bring a [[Prismatic Shard]] to the [[The Desert#Three Pillars|Three Pillars]] in [[the Desert]].
+|data-sort-value="50000"|{{Price|50000}}
+|data-sort-value="650"|{{Price|650}}
+|-
+|[[File:Galaxy Dagger.png|36px|center]]
+|[[Galaxy Dagger]]
+|{{Description|Galaxy Dagger}}
+|After collecting the [[Galaxy Sword]].
+|data-sort-value="35000"|{{Price|35000}}
+|data-sort-value="400"|{{Price|400}}
+|-
+|[[File:Galaxy Hammer.png|36px|center]]
+|[[Galaxy Hammer]]
+|{{Description|Galaxy Hammer}}
+|After collecting the [[Galaxy Sword]].
+|data-sort-value="75000"|{{Price|75000}}
+|data-sort-value="0600"|{{Price|600}}
+|-
+|[[File:Sneakers.png|36px|center]]
+|[[Sneakers]]
+|{{Description|Sneakers}}
+|
+|data-sort-value="0500"|{{Price|500}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Leather Boots.png|36px|center]]
+|[[Leather Boots]]
+|{{Description|Leather Boots}}
+|Reach Floor 10 of [[the Mines]].
+|data-sort-value="0500"|{{Price|500}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Work Boots.png|36px|center]]
+|[[Work Boots]]
+|{{Description|Work Boots}}
+|Reach Floor 10 of [[the Mines]].
+|data-sort-value="0700"|{{Price|700}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Tundra Boots.png|36px|center]]
+|[[Tundra Boots]]
+|{{Description|Tundra Boots}}
+|Reach Floor 50 of [[the Mines]].
+|data-sort-value="0750"|{{Price|750}}
+|data-sort-value="0150"|{{Price|150}}
+|-
+|[[File:Combat Boots.png|36px|center]]
+|[[Combat Boots]]
+|{{Description|Combat Boots}}
+|Reach Floor 40 of [[the Mines]].
+|data-sort-value="1250"|{{Price|1250}}
+|data-sort-value="0150"|{{Price|150}}
+|-
+|[[File:Firewalker Boots.png|36px|center]]
+|[[Firewalker Boots]]
+|{{Description|Firewalker Boots}}
+|Reach Floor 80 of [[the Mines]].
+|data-sort-value="2000"|{{Price|2000}}
+|data-sort-value="0300"|{{Price|300}}
+|-
+|[[File:Dark Boots.png|36px|center]]
+|[[Dark Boots]]
+|{{Description|Dark Boots}}
+|Reach Floor 80 of [[the Mines]].
+|data-sort-value="2500"|{{Price|2500}}
+|data-sort-value="0300"|{{Price|300}}
+|-
+|[[File:Space Boots.png|36px|center]]
+|[[Space Boots]]
+|{{Description|Space Boots}}
+|Reach Floor 110 of [[the Mines]].
+|data-sort-value="5000"|{{Price|5000}}
+|data-sort-value="0400"|{{Price|400}}
+|-
+|[[File:Amethyst Ring.png|36px|center]]
+|[[Amethyst Ring]]
+|{{Description|Amethyst Ring}}
+|
+|data-sort-value="1000"|{{Price|1000}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Topaz Ring.png|36px|center]]
+|[[Topaz Ring]]
+|{{Description|Topaz Ring}}
+|
+|data-sort-value="1000"|{{Price|1000}}
+|data-sort-value="0100"|{{Price|100}}
+|-
+|[[File:Aquamarine Ring.png|36px|center]]
+|[[Aquamarine Ring]]
+|{{Description|Aquamarine Ring}}
+|Reach Floor 40 of [[the Mines]].
+|data-sort-value="2500"|{{Price|2500}}
+|data-sort-value="0200"|{{Price|200}}
+|-
+|[[File:Jade Ring.png|36px|center]]
+|[[Jade Ring]]
+|{{Description|Jade Ring}}
+|Reach Floor 40 of [[the Mines]].
+|data-sort-value="2500"|{{Price|2500}}
+|data-sort-value="0200"|{{Price|200}}
+|-
+|[[File:Emerald Ring.png|36px|center]]
+|[[Emerald Ring]]
+|{{Description|Emerald Ring}}
+|Reach Floor 80 of [[the Mines]].
+|data-sort-value="5000"|{{Price|5000}}
+|data-sort-value="0300"|{{Price|300}}
+|-
+|[[File:Ruby Ring.png|36px|center]]
+|[[Ruby Ring]]
+|{{Description|Ruby Ring}}
+|Reach Floor 80 of [[the Mines]].
+|data-sort-value="5000"|{{Price|5000}}
+|data-sort-value="0300"|{{Price|300}}
+|-
+|[[File:Slingshot.png|36px|center]]
+|[[Slingshot]]
+|{{Description|Slingshot}}
+|Reach Floor 40 of [[the Mines]].
+|data-sort-value="0500"|{{Price|500}}
+|data-sort-value="0000"|N/A
+|-
+|[[File:Master Slingshot.png|36px|center]]
+|[[Master Slingshot]]
+|{{Description|Master Slingshot}}
+|Reach Floor 70 of [[the Mines]].
+|data-sort-value="1000"|{{Price|1000}}
+|data-sort-value="0000"|N/A
+|-
+|[[File:Explosive Ammo.png|36px|center]]
+|[[Explosive Ammo]]
+|{{Description|Explosive Ammo}}
+|Unlock the recipe for [[Explosive Ammo]].
+|data-sort-value="0300"|{{Price|300}}
+|data-sort-value="0020"|{{Price|20}}
+|-
+|[[File:Wall Sword.png|x48px|center]]
+|[[Wall Sword]]
+|{{Description|furniture}}
+|
+|data-sort-value="2000"|{{Price|2000}}
+|data-sort-value="0"|N/A
+|-
+|[[File:Decorative Sword.png|48px|center]]
+|[[Decorative Sword]]
+|{{Description|decoration}}
+|
+|data-sort-value="10000"|{{Price|10000}}
+|data-sort-value="0"|N/A
+|-
+|[[File:Slime Charmer Ring.png|36px|center]]
+|[[Slime Charmer Ring]]
+|{{Description|Slime Charmer Ring}}
+|Kill 1000 [[Slimes]]
+|data-sort-value="25000"|{{Price|25000}}
+|data-sort-value="0350"|{{Price|350}}
+|-
+|[[File:Savage Ring.png|36px|center]]
+|[[Savage Ring]]
+|{{Description|Savage Ring}}
+|Kill 150 Void Spirits ([[Shadow Shaman]] / [[Shadow Brute]])
+|data-sort-value="25000"|{{Price|25000}}
+|data-sort-value="0750"|{{Price|750}}
+|-
+|[[File:Burglar's Ring.png|36px|center]]
+|[[Burglar's Ring]]
+|{{Description|Burglar's Ring}}
+|Kill 500 [[Dust Sprite]]s
+|data-sort-value="20000"|{{Price|20000}}
+|data-sort-value="0750"|{{Price|750}}
+|-
+|[[File:Vampire Ring.png|36px|center]]
+|[[Vampire Ring]]
+|{{Description|Vampire Ring}}
+|Kill 200 [[Bats]]
+|data-sort-value="15000"|{{Price|15000}}
+|data-sort-value="0750"|{{Price|750}}
+|-
+|[[File:Crabshell Ring.png|36px|center]]
+|[[Crabshell Ring]]
+|{{Description|Crabshell Ring}}
+|Kill 60 [[Rock Crab]]s
+|data-sort-value="15000"|{{Price|15000}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Napalm Ring.png|36px|center]]
+|[[Napalm Ring]]
+|{{Description|Napalm Ring}}
+|Kill 250 [[Serpent]]s
+|data-sort-value="30000"|{{Price|30000}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Skeleton Mask.png|36px|center]]
+|[[Skeleton Mask]]
+|{{Description|Skeleton Mask}}
+|Kill 50 [[Skeleton]]s
+|data-sort-value="20000"|{{Price|20000}}
+|data-sort-value="0000"|N/A
+|-
+|[[File:Hard Hat.png|36px|center]]
+|[[Hard Hat]]
+|{{Description|Hard Hat}}
+|Kill 30 [[Duggy|Duggies]]
+|data-sort-value="20000"|{{Price|20000}}
+|data-sort-value="0000"|N/A
+|-
+|[[File:Arcane Hat.png|36px|center]]
+|[[Arcane Hat]]
+|{{Description|Arcane Hat}}
+|Kill 100 [[Mummy|Mummies]]
+|data-sort-value="20000"|{{Price|20000}}
+|data-sort-value="0000"|N/A
+|-
+|[[File:Knight's Helmet.png|36px|center]]
+|[[Knight's Helmet]]
+|{{Description|Knight's Helmet}}
+|Kill 50 [[Pepper Rex]]
+|data-sort-value="20000"|{{Price|20000}}
+|data-sort-value="0000"|N/A
+|-
+|[[File:Insect Head.png|36px|center]]
+|[[Insect Head]]
+|{{Description|Insect Head}}
+|Kill 80 [[Cave Fly|Cave Insects]]
+|data-sort-value="10000"|{{Price|10000}}
+|data-sort-value="0200"|{{Price|200}}
+|}
+
+==Item Recovery Service==
+The player can lose items if they collapse due to low health in [[the Mines]], [[Quarry Mine]], [[Skull Cavern]] or [[Volcano Dungeon]]. In that case they can speak to [[Marlon]] in the Adventurer's Guild to use the "Item Recovery Service", which will recover one of the lost items for a fee. The fee is equivalent to the sell price of the item or stack - recovering a non-saleable item is free. The item will be mailed to the player overnight. Only one item (or one stack) can be recovered; the rest are lost permanently after it's selected. The player can make their choice anytime until their next collapse due to low health, which will reset it to the new lost items.
+
+If the player has completed the Monster Eradication Goal of killing 150 [[Magma Sprite]]s, they will receive Marlon's phone number. This allows the player to use the Item Recovery Service from a [[Telephone]].
+
+If a player has obtained the power from the [[Mapping Cave Systems]] book, they will get a 50% discount on the recovery fee.
+
+==References==
+<references>
+    <ref name="guilddoor">See <samp>Maps\AdventureGuild.tmx</samp> in the game files.</ref>
+</references>
+
+==History==
+{{History|1.1|Changed [[#Monster Eradication Goals|Monster Eradication Goal]] for cave insects from 150 to 125.}}
+{{History|1.4|Added Monster Eradication Goals for [[Rock Crab]], [[Mummy]], [[Pepper Rex]], and [[Serpent]]. Added [[#Item Recovery Service|Item Recovery Service]].}}
+{{History|1.4.1|Increased price of [[Explosive Ammo]] from {{Price|100}} to {{Price|300}}. Unlocks once the player learns the crafting recipe instead of when they have a [[Weapons#Slingshot|slingshot]] weapon in inventory.}}
+{{History|1.5|Added [[Slingshot]] and [[Master Slingshot]] to shop inventory. Fixed bug where Iridium Bats were not counted towards the relevant Monster Eradication Goal. Added Monster Eradication Goal for [[Magma Sprite]].}}
+{{History|1.6|Changed open hours from 2pm-10pm to 2pm-2am. Changed Monster Eradication Goal for cave insects from 125 to 80. Added wall and decorative swords to shop inventory. Reading [[Mapping Cave Systems]] will decrease the price to retrieve items.}}
+{{History|1.6.2|Now shows the Guild is open from 2pm-2am rather than 2pm-10pm.}}
+{{History|1.6.9|Added [[Rusty Sword]], [[Femur]], [[Elf Blade]], [[Steel Smallsword]], [[Crystal Dagger]], [[Obsidian Edge]], and [[Work Boots]] to shop inventory.}}
+
+{{NavboxBuildings}}
+
+[[Category:Mountain Locations]]
+[[Category:Stores]]
+
+[[de:Abenteurergilde]]
+[[es:Gremio de aventureros]]
+[[fr:Guilde des aventuriers]]
+[[it:Gilda degli Avventurieri]]
+[[ja:冒険者ギルド]]
+[[ko:모험가의 길드]]
+[[hu:Kalandorok Céhe]]
+[[pt:Guilda dos Aventureiros]]
+[[ru:Гильдия искателей приключений]]
+[[tr:Maceraperestler Loncası]]
+[[zh:探险家公会]]

@@ -1,0 +1,207 @@
+{{Infobox location
+|mapx      = 280
+|mapy      = 120
+|building  = Blacksmith.png
+|openhours = 9:00am to 4:00pm
+|closed    = [[Days of the Week#Friday|Friday]], after [[Community Center]] restored and at 10:30 AM Winter 16
+|address   = Across the town's river, to the bottom right
+|occupants = {{NPC|Clint}}
+}}
+{{For|the profession|Mining#Mining Skill|R=This article is about the store and building.}}
+Clint's '''Blacksmith''' shop provides multiple services primarily related to [[:Category:Resources|resources]] found in [[the Mines]]. It chiefly serves as a location for upgrading [[tools]], and breaking open [[Minerals#Geodes|geodes]], although he also trades in [[Coal]] and ores ([[Copper Ore|copper]], [[Iron Ore|iron]], &amp; [[Gold Ore|gold]]). Finally, the building is also [[Clint]]'s home, and his bedroom is out the back of the shop floor.
+
+The shop is closed on all festival days, with exception of [[Desert Festival]], [[Trout Derby]], [[SquidFest]] and [[Night Market]], as well as [[Dance of the Moonlight Jellies]].
+
+==Stock==
+The purchase prices of ore and coal increase in Years 2+. The player will receive a letter in the mail on [[Spring]] 1 of Year 2 saying "Notice: The price of raw materials at [[Carpenter's Shop|Robin's shop]] and Clint's shop has increased." The gold obtained by selling items to Clint (or through the [[Shipping|shipping bin]]) does not increase.
+{|class="wikitable sortable roundedborder"
+!class="unsortable"|Item
+!Name
+!Description
+!Year 1<br />Price
+!Year 2+<br />Price
+|-
+|[[File:Copper Ore.png|center]]
+|[[Copper Ore]]
+|{{Description|Copper Ore}}
+|data-sort-value="075"|{{Price|75}}
+|data-sort-value="150"|{{Price|150}}
+|-
+|[[File:Iron Ore.png|center]]
+|[[Iron Ore]]
+|{{Description|Iron Ore}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="250"|{{Price|250}}
+|-
+|[[File:Coal.png|center]]
+|[[Coal]]
+|{{Description|Coal}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="250"|{{Price|250}}
+|-
+|[[File:Gold Ore.png|center]]
+|[[Gold Ore]]
+|{{Description|Gold Ore}}
+|data-sort-value="400"|{{Price|400}}
+|data-sort-value="750"|{{Price|750}}
+|}
+
+===Selling===
+Similar to how it is possible to sell crops directly to [[Pierre's General Store|Pierre]], it is also possible to sell [[Minerals#Gems|gems]], [[minerals]], ore, and bars directly to Clint. Note that Clint will not directly buy any kind of [[Minerals#Geodes|geodes]] (although it is possible to sell any ores they contain back to him).
+
+==Upgrade Tools==
+[[Clint]] can upgrade the four main [[tools]], the [[Pans|Pan]], and the inventory [[Trash Cans|Trash Can]]. Each quality-upgrade must be completed in sequence and a quality-upgrade cannot be skipped. (If a tool is at the [[copper]] quality, it can't be upgraded to [[gold]] quality until the steel upgrade is completed.) It takes 2 days to upgrade a tool. Other Blacksmith services are still available while Clint is upgrading a tool. A notification will pop up on the bottom left side of the screen on the morning a tool upgrade is ready.
+
+When the Blacksmith's shop is closed for festival days (although the door will not be shut for the [[Dance of the Moonlight Jellies]] in the Summer, and the [[Spirit's Eve]] festival in the Fall), Clint will still work on tools. If a player drops off a tool the day before a festival, it will be ready the day after the festival as normal. However, if a player drops off a tool 2 days before a festival and the Blacksmith's shop is closed due to the festival, the player will be unable to pick up the tool and must wait an additional day.
+
+All [[Axes|Axe]] and [[Pickaxes|Pickaxe]] upgrades reduce the number of hits necessary to remove trees and rocks. In addition, higher level tools can break larger objects of their respective type (logs and stumps for Axes, boulders and meteorites for Pickaxes). Upgraded versions of the [[Watering Cans|Watering Can]] and [[Hoes|Hoe]] allow the player to water and till multiple squares of land in a single use (using click-and-hold). Upgrading the Watering Can also refills it. Upgraded versions of the Pan yield more items from panning while also having higher chance to spawn another panning spot. The Trash Can upgrades increase the auto-sell value of any objects placed into them up to 60%. 
+
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Ingredient
+!Cost
+|-
+|[[File:Copper Hoe.png]] [[File:Copper Pickaxe.png]] [[File:Copper Axe.png]] [[File:Copper Watering Can.png]]
+|Copper Tool
+|{{Name|Copper Bar|5}}
+|{{Price|2000}}
+|-
+|[[File:Steel Hoe.png]] [[File:Steel Pickaxe.png]] [[File:Steel Axe.png]] [[File:Steel Watering Can.png]] [[File:Steel Pan.png]]
+|Steel Tool
+|{{Name|Iron Bar|5}}
+|{{Price|5000}}
+|-
+|[[File:Gold Hoe.png]] [[File:Gold Pickaxe.png]] [[File:Gold Axe.png]] [[File:Gold Watering Can.png]] [[File:Gold Pan.png]]
+|Gold Tool
+|{{Name|Gold Bar|5}}
+|{{Price|10000}}
+|-
+|[[File:Iridium Hoe.png]] [[File:Iridium Pickaxe.png]] [[File:Iridium Axe.png]] [[File:Iridium Watering Can.png]] [[File:Iridium Pan.png]]
+|Iridium Tool
+|{{Name|Iridium Bar|5}}
+|{{Price|25000}}
+|}
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Ingredient
+!Cost
+|-
+|[[File:Trash Can Copper.png|36px|center]]
+|Copper Trash Can
+|{{Name|Copper Bar|5}}
+|{{Price|1000}}
+|-
+|[[File:Trash Can Steel.png|36px|center]]
+|Steel Trash Can
+|{{Name|Iron Bar|5}}
+|{{Price|2500}}
+|-
+|[[File:Trash Can Gold.png|36px|center]]
+|Gold Trash Can
+|{{Name|Gold Bar|5}}
+|{{Price|5000}}
+|-
+|[[File:Trash Can Iridium.png|36px|center]]
+|Iridium Trash Can
+|{{Name|Iridium Bar|5}}
+|{{Price|12500}}
+|}
+
+==Process Geodes==
+Clint can break open [[Minerals#Geodes|geodes]] for {{Price|25}}. [[Minerals#Gems|Gems]] and [[Minerals#Geode Minerals|Minerals]] can be found within, as well as common resources like [[Stone]], [[Clay]], and [[Coal]].
+
+If the sell price of the item inside the geode is {{Price|75}} or less, a "clink" sound will be heard when it is broken open. Otherwise a short melody will be heard and the item will sparkle.
+
+[[Artifact Trove]]s can be purchased from the [[Desert Trader]] for 5 [[Omni Geode]]s. Clint will break these open like a geode, but instead of [[minerals]], [[artifacts]] or treasures can be found inside.
+
+{|class="wikitable roundedborder"
+! style="width: 48px;" | Image
+! Name
+! Description
+! Cost to Process
+|-
+|[[File:Geode.png|center]]
+|[[Geode]]
+|{{Description|Geode}}
+|rowspan="8"|{{Price|25}}
+|-
+|[[File:Frozen Geode.png|center]]
+|[[Frozen Geode]]
+|{{Description|Frozen Geode}}
+|-
+|[[File:Magma Geode.png|center]]
+|[[Magma Geode]]
+|{{Description|Magma Geode}}
+|-
+|[[File:Omni Geode.png|center]]
+|[[Omni Geode]]
+|{{Description|Omni Geode}}
+|-
+|[[File:Artifact Trove.png|center]]
+|[[Artifact Trove]]
+|{{Description|Artifact Trove}}
+|-
+|[[File:Golden Coconut.png|center]]
+|[[Golden Coconut]]
+|{{Description|Golden Coconut}}
+|-
+|[[File:Mystery Box.png|center]]
+|[[Mystery Box]]
+|{{Description|Mystery Box}}
+|-
+|[[File:Golden Mystery Box.png|center]]
+|[[Golden Mystery Box]]
+|{{Description|Golden Mystery Box}}
+|}
+
+==Tips==
+*To avoid missing a day of watering, water crops, then upgrade the Watering Can when the weather report indicates rain the next day. Crops will be watered the day the can is taken to the Blacksmith, the following day by the rain, and the Watering Can can be picked up the day after that. It can also be a good idea to upgrade the watering can near the end of a season if there is nothing in the ground that will bear fruit until then.
+*Regarding coal prices, during year 1, it's cheaper to buy wood from the [[Carpenter's Shop]] and use a [[Charcoal Kiln]] to make [[coal]] than it is to buy coal from the Blacksmith's. Conversely, starting in year 2, the price of [[wood]] increases from {{Price|10}} to {{Price|50}}, so it is cheaper to purchase coal.
+*At [[Skills#Mining|Mining Skill]] 7, it is cheaper to purchase [[Iron Ore]], smelt [[Iron Bar]]s, and use the Transmute (Au) recipe to create [[Gold Bar]]s than it is to purchase [[Gold Ore]] and smelt it into Gold Bars.
+* Although the door to the Blacksmith locks at 4pm, as long as the player is inside the building they can still interact with the counter after 4pm to make purchases, upgrade tools etc., even after Clint walks away from the counter at 5pm.
+
+==External Links==
+Users with access to their [[Saves|saved game files]] may find the "Stardew Predictor" utility helpful for predicting which items will be produced from breaking open geodes.  The utility is located at: https://mouseypounds.github.io/stardew-predictor/
+
+==Gallery==
+<gallery>
+Blacksmith Interior.png|Interior
+</gallery>
+
+==History==
+*{{History|1.04}}
+**Price of Copper Ore increased from {{Price|50}} to {{Price|75}}.
+**Price of Iron Ore increased from {{Price|100}} to {{Price|150}}.
+**Price of Coal increased from {{Price|100}} to {{Price|150}}.
+**Price of Gold Ore increased from {{Price|300}} to {{Price|400}}.
+*{{History|1.3.27}}
+**Price of Copper Ore increases in Year 2+ from {{Price|75}} to {{Price|150}}.
+**Price of Iron Ore increases in Year 2+ from {{Price|150}} to {{Price|250}}.
+**Price of Coal increases in Year 2+ from {{Price|150}} to {{Price|250}}.
+**Price of Gold Ore increases in Year 2+ from {{Price|400}} to {{Price|750}}.
+{{History|1.4|Added popup notification when upgraded tools are ready. Added [[Artifact Trove]]s.}}
+{{History|1.5|Added [[Golden Coconut]]s.}}
+{{History|1.6|Added [[Mystery Box]]es and [[Golden Mystery Box]]es.}}
+**A [[Mining#Gold Node|Gold]] and [[Mining#Copper Node|Copper Node]] have been added to the right of the door on a shelf, as a decoration.
+**Added steel, gold, and iridium [[pans]].
+{{History|1.6.3|Blacksmith services are now available while a tool is being upgraded.}}
+{{History|1.6.9|Watering Cans are automatically refilled when upgraded.}}
+
+{{NavboxBuildings}}
+
+[[Category:Town Locations]]
+[[Category:Stores]]
+
+[[de:Schmied]]
+[[es:Herrería]]
+[[fr:Forgeron]]
+[[it:Fabbro]]
+[[ja:鍛冶屋]]
+[[ko:대장간]]
+[[hu:Kovács]]
+[[pt:Ferreiro]]
+[[ru:Кузнец]]
+[[tr:Demirci]]
+[[zh:铁匠铺]]

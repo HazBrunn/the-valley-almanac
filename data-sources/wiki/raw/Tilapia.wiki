@@ -1,0 +1,108 @@
+{{Infobox fish
+|eng        = Tilapia
+|location   = [[The Beach|Ocean]] • [[Ginger Island]]
+|time       = 6am – 2pm
+|season     = {{Season|Summer}} • {{Season|Fall}}
+|weather    = Any
+|difficulty = 50
+|behavior   = Mixed
+|size       = 11-31
+|price      = 75
+|edibility  = 10
+|roe        = Dark Gray
+}}
+The '''Tilapia''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Summer]] and [[Fall]] between 6am and 2pm. It can also be caught during any season on [[Ginger Island]] West (freshwater) or North. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{tprice|75}}.
+
+Tilapia can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+The Tilapia can be found at The Beach or on Ginger Island.
+{{Map|275|200|island=true|islandloc1x=100|islandloc1y=160|islandloc2x=180|islandloc2y=90}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Tilapia is used in the {{Bundle|Ocean Fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Tilapia can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt259a.png|24px]]
+
+==Fish Pond==
+Tilapia can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is dark gray Tilapia [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]] || 30
+|-
+| 5   || 7   || 2 [[Clam]]s or 2 [[Coral]] || 30
+|-
+| 7   || 10  || 2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]s || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Dark Gray Roe|1|link=Roe}}
+|rowspan="2"|12
+| 1-4  || 70%     || 16-33%
+|-
+| 5-10 || 100%    || 55-95%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-4  || 30%     || 84-67%
+|-
+| 5-10 || 0%      || 45-5%
+|}
+
+==Quests==
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Tilapia to be caught in [[Summer]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Special Order quest added. Can now be caught at Ginger Island during any season on Island West (freshwater) and North.}}
+
+{{NavboxFish}}
+
+[[Category:Ocean fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Island fish]]
+
+[[de:Buntbarsch]]
+[[es:Tilapia]]
+[[fr:Tilapia]]
+[[it:Tilapia]]
+[[ja:ティラピア]]
+[[ko:틸라피아]]
+[[hu:Tilápia]]
+[[pt:Tilápia]]
+[[ru:Тиляпия]]
+[[tr:Tilapi]]
+[[zh:罗非鱼]]

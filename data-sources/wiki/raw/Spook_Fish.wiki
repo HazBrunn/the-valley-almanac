@@ -1,0 +1,124 @@
+{{Infobox fish
+|eng        = Spook Fish
+|location   = Submarine at [[Night Market]]
+|time       = Anytime during [[Night Market]] (5pm - 2am)
+|season     = Winter
+|weather    = Any
+|difficulty = 60
+|behavior   = Dart
+|size       = 8-26
+|price      = 220
+|edibility  = 15
+|roe        = Blue
+}}
+The '''Spook Fish''' is a [[fish]] that can be caught in the submarine ride at the [[Night Market]], which takes place at [[The Beach]] during [[Winter]] 15-17.
+
+In the submarine ride at the Night Market, there is a 16% chance to hook a Spook Fish (18% if using a [[Curiosity Lure]]). If using Magic Bait in the southwest corner of the beach, there is a 3.3% chance to hook a Spook Fish (10.2% if using a Curiosity Lure).<ref name="requirements"/>
+
+Spook Fish can also be caught regardless of time of day or season using [[Magic Bait]] — cast west from the left-most pier in the southwest corner of the beach.
+
+==Map==
+The Spook Fish can be found in the submarine ride at the Night Market (Winter 15-17).
+{{Map|243|200}}
+[[File:NightMarketMagicBaitArea.png|thumb|left|Magic Bait locations]]	
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Spook Fish is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Spook Fish can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{Name|Fishing Hat|class=inline}}. It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Spook Fish can be placed in a [[Fish Pond]], where they will reproduce every 4 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The primary output is blue Spook Fish [[Roe]], but [[Treasure Chest]]s are also possible starting at population 9.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+|3 ||5 ||3 [[Amethyst]]s, 3 [[Coral]], 3 [[Iron Bar]]s, 1 [[Oyster]], 3 [[Red Mushroom]]s, or 3 [[Refined Quartz]] ||40
+|-
+|5 ||7 ||1 [[Dried Starfish]], 2 [[Emerald]]s, 1 [[Granite]], 2-3 [[Omni Geode]]s, or 2-3 [[Purple Mushroom]]s ||40
+|-
+|7 ||10 ||1 [[Diamond]], 3 [[Gold Bar]]s, 1 [[Iridium Ore]], 1 [[Mayonnaise]], or 1 [[Jellies and Pickles|Pickles]] ||40
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Blue Roe|1|link=Roe}}
+|rowspan="2"|15
+|1-8 ||100% ||23-79%
+|-
+|9-10 ||99.7% ||87-95%
+|-
+|data-sort-value="Treasure Chest"|{{Name|Treasure Chest|1}}
+|210
+|9-10 ||0.3% ||0.3%
+|-
+|rowspan="2" data-sort-value="ZZZZ"|''Nothing''
+|rowspan="2"| 
+|1-8 ||0% ||77-21%
+|-
+|9-10 ||0% ||13-5%
+|}
+
+==Quests==
+Spook Fish is not used in any [[quests]].
+
+==Notes==
+* Due to the small size of the Submarine pond limiting its tiles' [[Fishing#Distance from Land|distance from land]], the Spook Fish can only be caught at its maximum [[Fishing#Fish Size & Quality|Size]] of 26" when fishing on the Beach using Magic Bait.
+
+==References==
+<references>
+    <ref name="requirements">See <samp>Data\Locations.xnb</samp> in the game files.</ref>
+</references>
+
+==History==
+{{History|1.3.27|Introduced.}}
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Chance of catching it in the submarine can now be increased by using a [[Curiosity Lure]].}}
+{{History|1.5.3|Can now be caught by using [[Magic Bait]] in the southwest corner of [[the Beach]].}}
+{{History|1.6|Fixed bug allowing all Night Market fish to be hooked with the [[Training Rod]] during the submarine ride. Chance of hooking using [[Magic Bait]] in the southwest corner of [[the Beach]] using a [[Curiosity Lure]] increased.}}
+
+{{NavboxFish}}
+
+[[Category:Winter fish]]
+
+[[de:Gruselfisch]]
+[[es:Pez asustado]]
+[[fr:Poisson-espion]]
+[[it:Pesce spettro]]
+[[ja:ぶきみ魚]]
+[[ko:통안어]]
+[[hu:Rémhal]]
+[[pt:Peixe Assustador]]
+[[ru:Жуть-рыба]]
+[[tr:Hortlakbalığı]]
+[[zh:幽灵鱼]]

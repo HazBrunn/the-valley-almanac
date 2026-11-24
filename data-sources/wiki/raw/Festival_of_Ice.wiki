@@ -1,0 +1,131 @@
+[[File:Festival of Ice.png|500px|right]]
+The '''Festival of Ice''' takes place on the 8th of every [[Winter]]. The player attends the [[Festivals|festival]] by entering [[Cindersap Forest]] between 9am and 2pm.  When the festival ends, the player will be returned to [[The Farm]] at 10pm. 
+
+The festival features ice sculptures, snowmen, and igloos. There's also an Ice Fishing Contest the player can take part in along with [[Pam]], [[Willy]], and [[Elliott]].  The player must catch at least five fish to win the competition, or else [[Willy]] will win. The first time the player wins, their prize is two [[tackle]]s (a {{Name|Barbed Hook|class=inline}} and a {{Name|Dressed Spinner|class=inline}}), a {{Name|Magnet|class=inline}}, and a {{Name|Sailor's Cap|class=inline}}. Thereafter, winning awards a {{Name|Prize Ticket|class=inline}}.
+
+If two or more players in a [[Multiplayer]] game win the Ice Fishing Contest, all winning players receive the reward(s).
+
+The holes in the ice are quite small, so it can be difficult to cast into them. Standing close to the hole and casting a minimal distance is the easiest way to do this.  It is possible to catch fish outside of the frozen lake, in the forest pond and the forest river. Fish caught in the forest pond count towards the fishing competition, but those caught in the river do not.
+
+The festival ends automatically after [[Lewis|Mayor Lewis]] judges the fishing contest.
+
+On the day of the Festival, every home and shop in Stardew Valley is "locked" and cannot be entered. 
+
+==Shop==
+The [[Traveling Cart|Traveling Merchant]] has a booth from which she sells the following items.
+
+{|class="wikitable sortable roundedborder"
+!class="unsortable"|Image
+!Name
+!Description
+!Price
+|-
+|[[File:Rarecrow 4.png|36px|center]]
+|[[Scarecrow#Rarecrows|Rarecrow]] (1)
+|{{Description|rarecrow4}}
+|data-sort-value="5000"|{{Price|5000}}
+|-
+|[[File:Tree of the Winter Star.png|36px|center]]
+|[[Tree of the Winter Star]]
+|{{Description|decoration}}
+|data-sort-value="5000"|{{Price|5000}}
+|-
+|[[File:Wallpaper 132 Icon.png|48px|center]]
+|[[Wallpaper]]
+|{{Description|Wallpaper}}
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:'Frozen Dreams'.png|36px|center]]
+|[['Frozen Dreams']]
+|{{Description|furniture}}
+|data-sort-value="2000"|{{Price|2000}}
+|-
+|[[File:Icy Rug.png|36px|center]]
+|[[Icy Rug]]
+|{{Description|furniture}}
+|data-sort-value="4000"|{{Price|4000}}
+|-
+|[[File:Winter Dining Table.png|36px|center]]
+|[[Winter Dining Table]]
+|{{Description|decoration}}
+|data-sort-value="3000"|{{Price|3000}}
+|-
+|[[File:Icy Banner.png|28px|center]]
+|[[Icy Banner]]
+|{{Description|furniture}}
+|data-sort-value="0800"|{{Price|800}}
+|-
+|[[File:Wall Sconce 6.png|36px|center]]
+|[[Wall Sconce]]
+|{{Description|furniture}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Winter End Table.png|36px|center]]
+|[[Winter End Table]]
+|{{Description|decoration}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Cranberry Sauce.png|36px|center]]
+|[[Cranberry Sauce]] (1)
+|{{Description|cranberry sauce}}
+|data-sort-value="200"|{{Price|200}}
+|-
+|[[File:Stuffing.png|36px|center]]
+|[[Stuffing]] (1)
+|{{Description|Stuffing}}
+|data-sort-value="200"|{{Price|200}}
+|-
+|[[File:Pumpkin Soup.png|36px|center]]
+|[[Pumpkin Soup]] (1)
+|{{Description|Pumpkin Soup}}
+|data-sort-value="250"|{{Price|250}}
+|}
+
+==Dialogue==
+Each odd-numbered year, unless she is married, [[Penny]] will ask what kind of snowman she and [[Jas]] should build. Three responses are possible:
+
+*{{Choice|Classic Snowman (carrot nose, coal eyes, scarf)}}
+:Penny responds: I guess maybe it's best to stick with the classics, huh?
+*{{Choice|A Funky Snowman (Icicle antennae, pine cone eyes)}}
+:Penny responds: Okay! That sounds like fun.
+*{{Choice|Snowmen are boring. Think outside of the box!}}
+:Penny responds: Um, okay... I think I might stick with something more conventional.
+
+Each odd-numbered year, [[Willy]] will ask if the player is ready for some ice fishing. Three answers are possible:
+*{{Choice|Yes. I'll do my best!}}
+:Willy responds: That's the spirit!
+*{{Choice|Yes, and I'm going to beat you!}}
+:Willy responds: We'll see.
+*{{Choice|To be honest, no. I'm bad at fishing.}}
+:Willy responds: Well, then think of it as good practice!
+
+==Mail==
+[[File:Festival of Ice Mail.png|400px]]
+
+==Trivia==
+*Contest fish do not register as "caught" unless the animation showing the fish flying back to the player is completed. It is possible to catch the fifth fish just as time runs out (with the bar announcing a "perfect" catch) and still lose the contest because the fifth fish did not complete its flying animation.
+*Fish caught during the festival don't give fishing experience.  Because of this, if the player has never fished, they'll see the fishing instructions every time they attempt to catch one.
+*The player does not use their own fishing rod when fishing during the festival, so the player will not be able to use bait, tackle, or fishing rods with enchantments.
+
+==History==
+{{History|1.4|Fixed bug where NPCs would follow non-festival schedules after the festival. Festival winnings count towards total earnings.}}
+{{History|1.5|Traveling Merchant's shop introduced. Clicking pigs at the festival now produces a pig sound. Fixed various issues relating to the map, such as being able to prematurely end the festival from certain tiles.}}
+{{History|1.5.3|Can no longer catch [[Qi Bean]]s when fishing during the festival.}}
+{{History|1.5.4|Fixed the common fishing rod softlock during the festival.}}
+{{History|1.6|Fixed unable to leave the Festival of Ice until it ends. Fixed [[Lewis]] skipping his final dialogue at the Festival of Ice on subsequent player wins. Fixed the <code>!</code> fish bite icon not shown when fishing in the Festival of Ice. Adjusted variety of fish players can catch during the festival. Changed the winning prize when winning after the first win from {{Price|2000}} to a [[Prize Ticket]]. Fixed bugs where player would get stuck in fishing pose. It is no longer possible to catch [[Secret Notes]] during the contest. The player can no longer interact with NPCs during the ice fishing event.}}
+
+{{NavboxFestivals}}
+
+[[Category:Winter festivals]]
+
+[[de:Fest des Eises]]
+[[es:Festival del hielo]]
+[[fr:Festival des Glaces]]
+[[it:Festival del ghiaccio]]
+[[ja:氷まつり]]
+[[ko:얼음 축제]]
+[[hu:A Jég Fesztiválja]]
+[[pt:Festival do Gelo]]
+[[ru:Ледовый праздник]]
+[[tr:Buz Şöleni]]
+[[zh:冰雪节]]

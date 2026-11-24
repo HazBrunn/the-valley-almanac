@@ -1,0 +1,187 @@
+<div id="infoboxborder" style="min-width:0;">[[File:Spring.png|150px|alt=Spring icon|class=pixels]]</div>
+
+'''Spring''' is the [[Seasons|season]] when players first begin the game. It's followed by [[Summer]] and preceded by [[Winter]].
+
+In Spring, the [[grass]] is green. [[Trees]] regain their leaves, and pink petals blow through the air on [[Weather|windy]] days. There is also a variety of [[crops]], [[Foraging|forageable items]], and [[fish]] which appear only during this [[Seasons|season]]. [[Salmonberry]] season lasts between the 15th-18th of Spring. When Spring starts, new logs, rocks, and grass patches will spawn on the farm, in [[Cindersap Forest]], and [[Pelican Town]].
+
+__TOC__
+==Events==
+<!--This section is transcluded on the Calendar page-->
+{{Calendar|spring}}
+{|
+|-
+|style="vertical-align: top;"|
+===Festivals===
+{| class="wikitable roundedborder"
+!Day
+!Name
+|-
+|13||<p>[[File:Calendar Flag Anim.gif|link=]] [[Egg Festival]]</p>
+|-
+|15–17||<p>[[File:Iridium Quality.png]] [[Desert Festival]]</p>
+|-
+|24||<p>[[File:Calendar Flag Anim.gif|link=]] [[Flower Dance]]</p>
+|}
+
+===Other===
+{|class="wikitable roundedborder"
+|-
+!Day
+!Event
+|-
+|15–18 ||[[Salmonberry]] Season
+|-
+|17||[[Cindersap Forest#Pot of Gold|Pot of Gold]] in Cindersap Forest
+|-
+|2x randomly:<br /><span style="font-size: smaller;">11, 12, 21, 22, 25</span>
+|[[Bookseller]]
+|-
+|}
+|style="width: 1em;"|
+|
+
+===Birthdays===
+{| class="wikitable sortable roundedborder"
+!Day
+!Villager
+|-
+|04||[[File:Kent Icon.png|link=]] [[Kent]]
+|-
+|07||[[File:Lewis Icon.png|link=]] [[Lewis]]
+|-
+|10||[[File:Vincent Icon.png|link=]] [[Vincent]]
+|-
+|14||[[File:Haley Icon.png|link=]] [[Haley]]
+|-
+|18||[[File:Pam Icon.png|link=]] [[Pam]]
+|-
+|20||[[File:Shane Icon.png|link=]] [[Shane]]
+|-
+|26||[[File:Pierre Icon.png|link=]] [[Pierre]]
+|-
+|27||[[File:Emily Icon.png|link=]] [[Emily]]
+|}
+|}
+
+==Crops==
+{{Main article|Crops#Spring Crops{{!}}Crops}}
+:''See also: [[Farming#Experience Points]]''
+The following [[Crops]] can be grown in Spring. Note that the "Seed Price" shown is the [[Pierre's General Store|General Store]] price unless otherwise indicated. "Maximum Harvests per Season" assumes no [[fertilizer]] is used and the [[Farming#Farming Skill|Agriculturist]] profession is not chosen. "Gold/Day" assumes no fertilizer is used and the [[Farming#Farming Skill|Tiller profession]] is not chosen. See the [[Crops#Gold per Day|Crops page]] for the full calculation.
+
+===Single Harvest===
+{| class="wikitable sortable roundedborder" style="text-align: center;"
+|-
+! Crop !! Seed Price !! Days<br />to Grow !! Maximum Harvests<br />per Season !! Sells For !! Gold/Day
+|-
+|style="text-align: left;"|{{Name|Blue Jazz}} ||data-sort-value="30"|{{Price|30}} || data-sort-value="7"|7 days || 3 || data-sort-value="50"|{{Price|50}} ||data-sort-value="2.86"|&#8776;{{Price|2.86}}
+|-
+|style="text-align: left;"|{{Name|Cauliflower}} ||data-sort-value="80"|{{Price|80}} || data-sort-value="12"|12 days  || 2 || data-sort-value="175"|{{Price|175}} || data-sort-value="7.92"|&#8776;{{Price|7.92}}
+|-
+|style="text-align: left;"|{{Name|Garlic}} ||data-sort-value="40"|{{Price|40}} || data-sort-value="4"|4 days || 6 || data-sort-value="60"|{{Price|60}} || data-sort-value="5"|{{Price|5.00}}
+|-
+|style="text-align: left;"|{{Name|Kale}} || data-sort-value="70"|{{Price|70}} || data-sort-value="6"|6 days || 4 || data-sort-value="110"|{{Price|110}} || data-sort-value="6.67"|&#8776;{{Price|6.67}}
+|- 
+|style="text-align: left;"|{{Name|Parsnip}} || data-sort-value="20"|{{Price|20}} || data-sort-value="4"|4 days || 6 || data-sort-value="35"|{{Price|35}} || data-sort-value="3.75"|{{Price|3.75}}
+|-
+|style="text-align: left;"|{{Name|Potato}} ||data-sort-value="50"|{{Price|50}} || data-sort-value="6"|6 days || 4 || data-sort-value="80"|{{Price|80}} || data-sort-value="5"|{{Price|5}}
+|-
+|style="text-align: left;"|{{Name|Rhubarb}} ||data-sort-value="100"|[[Oasis]]: {{Price|100}} || data-sort-value="13"|13 days || 2 || data-sort-value="220"|{{Price|220}} || data-sort-value="9.23"|&#8776;{{Price|9.23}}
+|-
+|style="text-align: left;"|{{Name|Tulip}} ||data-sort-value="20"|{{Price|20}} || data-sort-value="6"|6 days || 4 || data-sort-value="30"|{{Price|30}} || data-sort-value="1.67"|&#8776;{{Price|1.67}}
+|-
+|style="text-align: left;"|{{Name|Unmilled Rice}} ||data-sort-value="40"|{{Price|40}} || data-sort-value="8"|Irrigated: 6<br />Unirrigated: 8||data-sort-value="3"| 4<br />3 || data-sort-value="30"|{{Price|30}} || data-sort-value="-1.25"|Irrigated: &#8776;{{Price|-1.67}}<br />Unirrigated: {{Price|-1.25}}
+|-
+|style="text-align: left;"|{{Name|Carrot}} ||data-sort-value="0"|{{Price|0}}|| data-sort-value="3"|3 days || 9 || data-sort-value="35"|{{Price|35}} || data-sort-value="11.67"|&#8776;{{Price|11.67}}
+|-
+|}
+
+===Multiple Harvests===
+Note that each coffee plant produces 4 [[Coffee Bean]]s at harvest.
+{| class="wikitable sortable roundedborder" style="text-align: center;"
+|-
+! Crop !! Seed Price !! Days<br />to Grow !! Regrowth !! Maximum Harvests<br />per Season !! Sells For !! Gold/Day
+|- 
+|style="text-align: left;"|{{Name|Coffee Bean}} || [[Traveling Cart]]: {{Price|2500}} || data-sort-value="10"|10 days || data-sort-value="2"|2 days || Spring: 9<br />Spring and Summer: 23 || data-sort-value="15"|{{Price|15}} (x4) || data-sort-value="25.56"|Traveling Cart (2 seasons): {{Price|-20.74}}<br />Harvested Coffee Bean/[[Dust Sprite]] (1 season): {{Price|20.77}}<br />Harvested Coffee Bean/[[Dust Sprite]] (2 seasons): {{Price|25.56}}
+|- 
+|style="text-align: left;"|{{Name|Green Bean}} ||{{Price|60}} || data-sort-value="10"|10 days || data-sort-value="3"|3 days || 6 || data-sort-value="40"|{{Price|40}} || data-sort-value="7.2"|{{Price|7.2}}
+|-
+|style="text-align: left;"|{{Name|Strawberry}} ||[[Egg Festival]]: {{Price|100}} || data-sort-value="8"|8 days || data-sort-value="4"|4 days || Planted on 1st day of Spring: 5<br />Planted on day of [[Egg Festival]]: 2 || data-sort-value="120"|{{Price|120}} || data-sort-value="20.834"|Planted on 1st day of Spring: &#8776;{{Price|20.83}}<br />Planted on day of [[Egg Festival]]: &#8776;{{Price|11.67}}
+|-
+|}
+
+==Forage==
+{{Main article|Foraging#Spring{{!}}Foraging}}
+The items shown below can be found while foraging during Spring. The percentages provided for each location are the percentage of all foraged items in the location that will (on average) be the specified item. <ref name="spawnpercent" />
+{{#lsth:Foraging|Spring}}<!--transcluded from Foraging page-->
+
+==Fish==
+{{Main article|Fish#Fish Types{{!}}Fish}}
+Certain [[Fish|fish]] can be caught only during specific seasons. Listed below are all fish catchable during Spring.  
+
+''Fish that can be caught during all seasons are not listed.''
+
+Note: Any Fish can be used for recipes with the tag "any fish" (''i.e.,'' {{Name|Sashimi|class=inline}}, {{Name|Maki Roll|class=inline}}, {{Name|Quality Fertilizer|class=inline}}).
+<div style="overflow-x: auto;">
+{| class="wikitable sortable roundedborder"
+|-
+! class="unsortable" | Image
+! Name
+! Description
+! Price
+! [[File:Fisher.png|24px|link=]] Fisher Profession (+25%)
+! [[File:Angler Icon.png|24px|link=]] Angler Profession (+50%)
+! Location
+! Time
+! Season
+! Weather
+! Size (inches)
+! Difficulty &amp; Behavior
+! Base XP
+! Used In
+|-
+{{#lst:Fish|Anchovy}}
+|-
+{{#lst:Fish|Smallmouth Bass}}
+|-
+{{#lst:Fish|Catfish}}
+|-
+{{#lst:Fish|Sunfish}}
+|-
+{{#lst:Fish|Herring}}
+|-
+{{#lst:Fish|Eel}}
+|-
+{{#lst:Fish|Sardine}}
+|-
+{{#lst:Fish|Shad}}
+|-
+{{#lst:Fish|Flounder}}
+|-
+{{#lst:Fish|Halibut}}
+|-
+{{#lst:Fish|Legend}}||
+|-
+|}</div>
+
+==References==
+<references>
+<ref name="spawnpercent">The foraged items that can spawn in a given location each season are determined by <samp>GameLocation::spawnObjects</samp> in the game code, using input from the data file <samp>Content\Locations.xnb</samp>. The percentages provided here have been normalized to ensure that the percentages sum to 100% for each location. The data was normalized by:
+# Calculating the sum of all percentages listed in <samp>Locations.xnb</samp> for Spring
+# Dividing each percentage by the sum</ref>
+</references>
+
+{{NavboxSeasons}}
+
+[[Category:Seasons]]
+
+[[de:Frühling]]
+[[es:Primavera]]
+[[fr:Printemps]]
+[[it:Primavera]]
+[[ja:春]]
+[[ko:봄]]
+[[hu:Tavasz]]
+[[pt:Primavera]]
+[[ru:Весна]]
+[[tr:Bahar]]
+[[zh:春季]]

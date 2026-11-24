@@ -1,0 +1,107 @@
+{{Infobox fish
+|eng        = Bream
+|location   = River
+|time       = 6pm – 2am
+|season     = All
+|weather    = Any
+|difficulty = 35
+|behavior   = Smooth
+|size       = 12-31
+|price      = 45
+|edibility  = 5
+|roe        = Blue
+}}
+The '''Bream''' is a [[fish]] that can be found in the river (in [[Pelican Town]] or [[Cindersap Forest]]) during all seasons after 6pm. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It can also randomly be found in [[Garbage Can]]s during any season, or at the [[Traveling Cart]] for {{Tprice|45}}. [[Demetrius]] can randomly send a Bream in the mail as a gift.
+
+A Bream can be caught regardless of the time of day using [[Magic Bait]].
+
+==Map==
+The Bream can be found in the river.
+{{Map|200|150|loc2x=120|loc2y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Bream is used in the {{Bundle|Night Fish||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Baked Fish|RecipeRow/NoBuffs}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Bream can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Fish Shirt]].  [[File:Shirt158.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Bream can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is blue Bream [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Acorn]]s, 10 [[Bug Meat]], 3 [[Maple Seed]]s, or 3 [[Pine Cone]]s || 30
+|-
+| 5   || 7   || 3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]] || 30
+|-
+| 7   || 10  || 1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Blue Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Bream may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|135}} and 150 [[Friendship]] points.
+*Two Bream may be requested by [[Dorado]], [[Lingcod]], or [[Pike]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5.
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].  Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+[[Category:River fish]]
+
+[[de:Brasse]]
+[[es:Besugo]]
+[[fr:Dorade]]
+[[it:Abramide]]
+[[ja:ブリーム]]
+[[ko:도미]]
+[[hu:Keszeg]]
+[[pt:Brema]]
+[[ru:Лещ]]
+[[tr:Mercanbalığı]]
+[[zh:鲷鱼]]

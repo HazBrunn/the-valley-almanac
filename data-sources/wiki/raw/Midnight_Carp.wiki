@@ -1,0 +1,116 @@
+{{Infobox fish
+|eng        = Midnight Carp
+|location   = [[The Mountain|Mountain Lake]] • [[Cindersap Forest|Forest Pond]] • [[Ginger Island#Island North|Ginger Island North]] & [[Ginger Island#Island West|West]] (freshwater)
+|time       = 10pm – 2am
+|season     = {{Season|Fall}} • {{Season|Winter}}
+|weather    = Any
+|difficulty = 55
+|behavior   = Mixed
+|size       = 12-53
+|price      = 150
+|edibility  = 20
+|roe        = Violet
+}}
+The '''Midnight Carp''' is a [[fish]] that can be caught in [[The Mountain|the mountain lake]] and the [[Cindersap Forest]] pond during [[Fall]] and [[Winter]] late at night.  It can also be caught on many of the non-standard [[Farm Maps]]: Forest, Riverland, Wilderness, and the large pond on the Four Corners Map. It can also be caught during any season in [[Ginger Island]] North and West (freshwater). It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It can also randomly be found at the [[Traveling Cart]] for {{Tprice|150}} or in [[Garbage Can]]s during Fall or Winter.
+
+Midnight Carp can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+Midnight Carp can be found in the mountain lake, Cindersap Forest pond, and Ginger Island North and West (freshwater).
+{{Map|270|43|loc2x=88|loc2y=133|island=true|islandloc1x=90|islandloc1y=145|islandloc2x=100|islandloc2y=160|islandloc3x=180|islandloc3y=90}}
+
+==Gifting==
+{{GiftsByItem
+|neutral=Demetrius,Elliott,Linus,Pam,Willy,Sebastian,Leo
+|dislike=Abigail,Alex,Caroline,Clint,Dwarf,Emily,George,Gus,Harvey,Jas,Jodi,Kent,Krobus,Leah,Lewis,Marnie,Maru,Penny,Robin,Sam,Sandy,Shane,Vincent,Wizard
+|hate=Evelyn,Haley,Pierre
+}}
+
+==Bundles==
+Midnight Carp is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header}}
+{{:Maki Roll|RecipeRow}}
+{{:Quality Fertilizer|RecipeRow}}
+{{:Sashimi|RecipeRow}}
+{{:Seafoam Pudding|RecipeRow}}
+{{Recipes|footer}}
+
+==Fish Pond==
+Midnight Carp can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is violet Midnight Carp [[Roe]]. However, [[River Jelly]] is also possible starting at population 7.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 10 [[Coal]] || 30
+|-
+| 5   || 10   || 1 [[River Jelly]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="3"|{{Name|Violet Roe|1|link=Roe}}
+|rowspan="3"|14
+|1-6  || 100% || 23-63%
+|-
+|7-8  || 95%  || 67-75%
+|-
+|9-10 || 92%  || 80-87%
+|-
+|rowspan="2"|{{Name|River Jelly|1}}
+|rowspan="2"|15
+|7-8  || 5%   || 3.6-4%
+|-
+|9-10 || 7.8% || 6.8-7.4%
+|-
+|''Nothing''
+| 
+|1-10 || 0% || 77-5%
+|}
+
+==Tailoring==
+Midnight Carp can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[File:Shirt157.png|24px|link=]] [[Tailoring#Shirts|Fishing Vest]]. It can be used in [[dyeing]], serving as a purple dye at the dye pots located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]]. It can also be used as an iridium dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+==Quests==
+*'''Item Delivery:''' One Midnight Carp may be randomly requested in [[Fall]] or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|450}} and 150 [[Friendship]] points.
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Midnight Carp to be caught in [[Fall]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Introduced.}}
+{{History|1.5|Can now be caught on [[Ginger Island]] North and West (freshwater). Special Order quest added.}}
+{{History|1.6|Completely revamped the Midnight Carp Fish Pond mechanics by changing Fish Pond quests, reducing spawn time from 4 days to 2 days, and adding [[River Jelly]] to possible outputs. Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Lake fish]]
+[[Category:Pond fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+[[Category:Island fish]]
+
+[[de:Mitternachtskarpfen]]
+[[es:Carpa de medianoche]]
+[[fr:Carpe de minuit]]
+[[it:Carpa di mezzanotte]]
+[[ja:シャイなコイ]]
+[[ko:자정 잉어]]
+[[hu:Éjfél ponty]]
+[[pt:Carpa da meia-noite]]
+[[ru:Полуночный карп]]
+[[tr:Alacakaranlık Sazanı]]
+[[zh:午夜鲤鱼]]

@@ -1,0 +1,481 @@
+{{Infobox villager
+|portrait  = Sandy.png
+|birthday  = {{Season|Fall}} 15
+|location  = The Desert
+|address   = [[Oasis]]
+|marriage  = No
+|favorites = {{Name|Crocus}}{{Name|Daffodil}}{{Name|Mango Sticky Rice}}{{Name|Sweet Pea}}
+}}
+{{Quote|My name's not really Sandy, you know. It's just good for business.|Sandy}}
+
+'''Sandy''' is a [[Villagers|villager]] who lives in [[The Desert|the Calico Desert]] where she runs the store, the [[Oasis]].  Players won't meet her until they've repaired the bus by completing [[Bundles#Vault|the vault bundle]] or purchasing "Bus" for {{Price|40000}} through the [[Joja Community Development Form]].
+
+==Schedule==
+Sandy does not leave the [[Oasis]], and can be found there when the store is open, from 9am to 11:50pm except on her birthday, Fall 15. On Fall 15, the Oasis is open in the morning but at 1pm Sandy leaves to walk around the desert with Emily.
+
+Sandy never visits the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island.
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Spring 15, 16 and 17 (Bus Service Restored)
+|-
+|style="width:15%"|8:30 AM
+|Exits the [[Oasis]] to stand at [[Emily|Emily's]] [[Desert Festival#Emily's Outfit Services|outfit services]].
+|-
+|12:00 AM
+|Returns to the Oasis.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Fall 15 (Bus Service Restored)
+|-
+|style="width:15%"|9:00 AM
+|Stands behind the counter in the [[Oasis]].
+|-
+|12:00 PM
+|Chats sideways with [[Emily]] behind the counter.
+|-
+|1:00 PM
+|Leaves the [[Oasis]] and stands next to the bench on the left.
+|-
+|3:00 PM
+|Goes to the pond in the northwest section.
+|-
+|5:00 PM
+|Leaves and then stands next to the [[The Desert#Sand Dragon|Sand Dragon]].
+|-
+|6:00 PM
+|Goes to the side of the bus.
+|-
+|7:00 PM
+|Moves to the front of the [[Desert Trader]].
+|-
+|8:00 PM
+|Returns to the front of the [[Oasis]].
+|-
+|10:50 PM
+|Leaves the front of the [[Oasis]].
+|-
+|11:30 PM<ref name="arrival" />
+|Arrives by the bench next to the bus.
+|-
+|12:00 AM
+|Says goodbye to [[Emily]].
+|-
+|12:10 AM
+|Goes back to the [[Oasis]].
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+|-
+!colspan="2"|Regular Schedule
+|-
+|style="width:15%"|All day
+|Behind the counter at the [[Oasis]].
+|}
+
+==Relationships==
+Sandy allows [[Mr. Qi]] to operate his [[casino]] behind her shop. It's clear they're not close, but she accepts his money and "looks the other way" with whatever he's doing back there. She mentions that she's friends with [[Emily]]; during the first meeting with the player she mentions that Emily wrote to her about "the new farmer" in town. She also mentions that "my friend runs a shop in the desert", referring to the [[Desert Trader]].
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|Ooo! I absolutely love getting gifts from the valley. I'm so happy!~}} 
+''Crocus''
+{{Squote|Ahh... even in winter, Stardew Valley has beautiful flowers.}} 
+''Daffodil''
+{{Squote|Oh, wow! Nothing says 'spring' like a Stardew Valley daffodil!}} 
+''Stardrop Tea'' 
+{{Squote|Wow, that's so rare... I can't believe you're giving this to me! Thanks, honey!}} 
+''Sweet Pea''
+{{Squote|*sniff*... Mmm... sweet peas have the most wonderful smell.}} 
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Sandy Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Crocus.png|center]]
+|[[Crocus]]
+|{{Description|Crocus}}
+|[[Foraging]] - [[Winter]]
+|
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging]] - [[Spring]]
+|
+|-
+|[[File:Mango Sticky Rice.png|center]]
+|[[Mango Sticky Rice]]
+|{{Description|Mango Sticky Rice}}
+|[[Cooking]]
+|{{Name|Mango|1}}{{Name|Coconut|1}}{{Name|Rice|1}}
+|-
+|[[File:Sweet Pea.png|center]]
+|[[Sweet Pea]]
+|{{Description|Sweet Pea}}
+|[[Foraging]] - [[Summer]]
+|
+|}
+
+===Like===
+{{Squote|This looks wonderful. Thanks so much!}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Sandy Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]'''</li><li>'''All [[Fruits|Fruit]]'''</li></ul>
+|-
+|[[File:Goat Milk.png|center]]
+|[[Goat Milk]]
+|{{Description|Goat Milk}}
+|[[Goat]]s
+|-
+|[[File:Large Goat Milk.png|center]]
+|[[Large Goat Milk]]
+|{{Description|Large Goat Milk}}
+|[[Goat]]s
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Wool.png|center]]
+|[[Wool]]
+|{{Description|Wool}}
+|[[Animals|Sheep, Rabbits]]
+|}
+
+===Neutral===
+{{Squote|This is for me? Thank you!}}
+
+{| class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Sandy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]''' ''(except [[Wool]])''</li><li>'''All Eggs''' ''(except [[Void Egg]])*''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Large Milk.png|center]]
+|[[Large Milk]]
+|{{Description|Large Milk}}
+|[[Cow]]s
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Milk.png|center]]
+|[[Milk]]
+|{{Description|Milk}}
+|[[Cow]]s
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Foraging]] - [[Winter]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Dislike===
+{{Squote|Oh... Um. Thanks.}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Sandy Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]'''</li></ul>
+|}
+
+===Hate===
+{{Squote|*sniff* ...what is it?}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Sandy Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li></ul>
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture</p>
+[[File:'Mysterium'.png|24px|link=]] Mysterium
+<p>[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World</p>
+[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling
+<p>[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch</p>
+[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express
+<p>[[File:'Wumbus'.png|24px|link=]] Wumbus</p>
+|-
+!Like
+|-
+|N/A
+|-
+!Dislike
+|-
+|N/A
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Cotton Candy.png|24px|link=]] Cotton Candy<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|[[File:Black Licorice.png|24px|link=]] Black Licorice<br />[[File:Joja Cola (large).png|24px|link=]] Joja Cola<br />[[File:JojaCorn.png|24px|link=]] JojaCorn<br />[[File:Sour Slimes.png|24px|link=]] Sour Slimes
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Anytime===
+At any [[friendship]] level greater than zero friendship points, you may receive a gift in the mail from Sandy.  The chance of receiving a gift in the mail increases as your friendship with Sandy increases.
+{| class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Details'''&nbsp;
+|-                            
+| 
+	{| class="wikitable roundedborder"
+	|-
+	!Item
+	!Description
+	|-
+	|{{Name|Cactus Fruit}}{{Name|Coconut}}{{Name|Tom Kha Soup}}
+	|Greetings from Calico Desert!<p>Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person!</p><p>-Sandy</p>
+	|}
+|}
+
+===Seven Hearts===
+{{Hearts|7}}
+
+After reaching seven hearts with Sandy, she will send you a recipe in the mail.
+{| class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''Details&nbsp;'''
+|-
+|
+{| class="wikitable roundedborder"
+!Image
+!Recipe
+!Description
+|-
+|{{Recipe|Tom Kha Soup|48}}
+|[[Tom Kha Soup]]
+|Dear (Name),<p>I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon!</p><p>-Sandy</p>
+|}
+|}
+
+==Quotes==
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''First Meeting'''&nbsp;
+|-
+|{{Squote|A... customer?
+Hi! Welcome to 'Sandy's Oasis'!
+Hey, you look just like the new farmer that Emily wrote to me about!
+Then... the bus line to Stardew Valley is back in service! Oh, I'm so happy!}}
+|-
+|}
+
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular'''&nbsp;
+|-
+|
+''Monday''
+{{Squote|Hello hello, sweetie! I'm so glad that the bus is back in service. It was starting to get lonely out here. ...I almost went out of business. Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?}}
+''Tuesday''
+{{Squote|You can find coconuts and cactus fruits outside. Feel free to take as many as you can find. They're oooh-yummy, too. Heeee!}}
+''Wednesday''
+{{Squote|Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'? Thanks!}}
+''Thursday''
+{{Squote|That shady-looking guy in the back? I'm not supposed to talk about it. Anyway... what's the weather like in the valley?}}
+''Friday''
+{{Squote|You wouldn't have much luck farming out here, honey. Well, unless you were a cactus farmer.}}
+''Saturday''
+{{Squote|Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!
+<nowiki>*whisper*</nowiki> Did I sound professional? Make sure to check out our seasonal seed selection.
+You look really thirsty. Here, have a taste of this ice cold [[milk]]. [gifts Player milk] Tasty, huh?}}
+''Sunday''
+{{Squote|It's always sunny here, even in winter! Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.}}
+
+'''4+ Hearts'''
+
+''Thursday''
+{{Squote|Hey... I think I can trust you. You can keep a secret, right? *whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions. SOOOOoo! How's that Stardew Valley weather right now?}}
+''Friday''
+{{Squote|My name's not really Sandy, you know. It's just good for business. But everyone calls me Sandy anyway, so I've just gotten used to it.}}
+
+'''8+ Hearts'''
+
+''Wednesday''
+{{Squote|Isn't it expensive, coming to the desert so often like you do? You must really like to see me, huh? Hmmm...}}
+''Sunday''
+{{Squote|Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm... Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him.}}
+
+'''10 Hearts'''
+
+''Tuesday''
+{{Squote|Hi!~ Stay as long as you like. The air conditioning sure feels nice, doesn't it?}}
+''Wednesday''
+{{Squote|Hey, it's [Player]! I'm glad to see you, kid. I was starting to think you'd never come back!
+If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.
+You'll just have to visit me more often so I don't get depressed.}}
+
+'''[[Desert Festival]]'''
+''Even-Numbered Year''
+{{Squote|This is probably the busiest time of the year for me! It's nice to be able to see everyone.}}
+
+'''Green Rain'''
+{{Squote|I heard there's a rare weather event in the valley. I wish it rained here sometimes...}}
+
+'''After you receive "club card" and get rid of Bouncer'''
+{{Squote|What happened? You're a club member?!}}
+|-
+|}
+
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Birthday (with [[Emily]])'''&nbsp;
+|-
+|{{Squote|Oh, Emily! I was hoping you'd show up! I was actually feeling a little lonely this morning. But I'm glad you're here!}}
+{{Squote|How's that Stardew Valley weather right now? The flowers there smell lovely.}}
+{{Squote|It always seems to stay a little cooler by the lake. It's good to get out of the house now and then!}}
+{{Squote|Strange, isn't it?}}
+{{Squote|I think she sells some rare products.}}
+{{Squote|I had a great time. Thanks for being my friend. Come back again any time!}}
+|-
+|}
+
+==Quests==
+*Sandy may randomly request an item at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]].  The reward is 3x the item's base value and 150 [[Friendship]] points.
+*Sandy is to be gifted the [[Quests#Stardew Valley Rose|Stardew Valley Rose]] in [[Quests#The Pirate's Wife|The Pirate's Wife]] quest.
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:Sandy.png
+File:Sandy Happy.png
+File:Sandy Concerned.png
+</gallery>
+
+==Trivia==
+*As stated at the top of the page, Sandy is not her real name.  The game never discloses what her real name is.
+*On Saturdays Sandy says "You look really thirsty. Here, have a taste of this ice cold milk." and gives the player [[Milk]] when talked to.
+*Sandy may attend [[Movie Theater|movies]] with [[Emily]].
+*Sandy's top can be tailored with 1 [[Cloth]] and 1 [[Tom Kha Soup]], creating the [[Tailoring#Shirts|Oasis Gown]].
+
+==References==
+<references>
+    <ref name="arrival">The time is preceded with the single character 'a' to indicate that the event should end (that is, Sandy should arrive at the destination) at the given time. See [[Modding:Schedule data#Schedule points|Schedule Data]] for more information.</ref>
+</references>
+
+==History==
+{{History|1.3.27|Letters from Sandy use a new white lined stationery, which is unique to her.}}
+{{History|1.6|Added custom gift reactions.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:Sandy]]
+[[es:Sandy]]
+[[fr:Sandy]]
+[[it:Sandy]]
+[[ja:サンディ]]
+[[ko:샌디]]
+[[hu:Sandy]]
+[[pt:Sandy]]
+[[ru:Сэнди]]
+[[tr:Sandy]]
+[[zh:桑迪]]

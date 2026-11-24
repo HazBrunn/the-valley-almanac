@@ -1,0 +1,256 @@
+{{Infobox location
+|mapx      = 20
+|mapy      = 20
+|building  = Oasis.png
+|openhours = 9:00am to 11:50pm
+|closed    = [[Desert Festival]] days, [[Fall]] 15 after 1pm
+|address   = [[The Desert]]
+|occupants = {{NPC|Sandy}}
+|width     = 250px
+}}
+The '''Oasis''' is a store located in [[The Desert]] and run by [[Sandy]], open from 9am to 11:50pm. It sells unique seeds as well as items purchasable from other shops, sometimes at a reduced price.
+
+The path in the back leads to the [[Casino]], run by [[Mr. Qi]], which is accessible after completion of [[Quests#The Mysterious Qi|"The Mysterious Qi" quest]].
+
+The [[Key To The Town]] does not function at this store. However, this store is still open on [[Festivals|festival days]] with the exception of the [[Desert Festival]].
+
+==Fixed Stock==
+The Oasis sells these items every day.  The random shirt is always one of the shirts that can be chosen during character creation at the start of the game.
+{|class="wikitable sortable"
+!class="unsortable"|Image
+!Name
+!Description
+!Price
+|-
+|[[File:Cactus Seeds.png|center]]
+|[[Cactus Seeds]]
+|{{Description|Cactus Seeds}}
+|data-sort-value="150"|{{Price|150}}
+|-
+|[[File:Rhubarb Seeds.png|center]]
+|[[Rhubarb Seeds]]
+|{{Description|Rhubarb Seeds}}
+|data-sort-value="100"|{{Price|100}}
+|-
+|[[File:Starfruit Seeds.png|center]]
+|[[Starfruit Seeds]]
+|{{Description|Starfruit Seeds}}
+|data-sort-value="400"|{{Price|400}}
+|-
+|[[File:Beet Seeds.png|center]]
+|[[Beet Seeds]]
+|{{Description|Beet Seeds}}
+|data-sort-value="020"|{{Price|20}}
+|-
+|[[File:Seasonal Plant 4 Spring.png|x48px|center]]
+|[[Seasonal Plant]]
+|{{Description|Seasonal Plant}}
+|data-sort-value="100"|{{Price|100}}
+|-
+|style="text-align: center;"|''Varies''
+|[[Tailoring|Random shirt]]
+|''Varies''
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Mannequin (M).png|x48px|center]]
+|[[Mannequins|Mannequins(M)]]
+|{{Description|Mannequin}}
+|data-sort-value="12000"|{{Price|12000}}
+|-
+|[[File:Mannequin (F).png|x48px|center]]
+|[[Mannequins|Mannequins(F)]]
+|{{Description|Mannequin}}
+|data-sort-value="12000"|{{Price|12000}}
+|-
+|[[File:Coat Stand.png|x48px|center]]
+|[[Coat Stand]]
+|{{Description|decoration}}
+|data-sort-value="2000"|{{Price|2000}}
+|-
+|[[File:Clothesline.png|48px|center]]
+|[[Clothesline]]
+|{{Description|furniture outdoors}}
+|data-sort-value="5000"|{{Price|5000}}
+|-
+|[[File:Wall Cactus.png|x48px|center]]
+|[[Wall Cactus]]
+|{{Description|furniture}}
+|data-sort-value="700"|{{Price|700}}
+|-
+|[[File:Farmer Pants.png|48px|center]]
+|[[Tailoring#Pants|Farmer Pants]]
+|Comfortable and durable for long hours in the field.
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Shorts.png|48px|center]]
+|[[Tailoring#Pants|Shorts]]
+|Perfect for a hot summer's day... your legs will thank you.
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Long Dress.png|48px|center]]
+|[[Tailoring#Pants|Long Dress]]
+|A long, flowy dress.
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Skirt.png|48px|center]]
+|[[Tailoring#Pants|Skirt]]
+|A cute skirt.
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Pleated Skirt.png|48px|center]]
+|[[Tailoring#Pants|Pleated Skirt]]
+|A cute pleated skirt.
+|data-sort-value="1000"|{{Price|1000}}
+|}
+
+==Daily Stock==
+The Oasis sells at least two items that change daily.
+{|class="wikitable sortable"
+! class="unsortable" |Image
+!Name
+!Description
+!Day
+!Price
+|-
+|[[File:Coconut.png|center]]
+|[[Coconut]] (10)
+|{{Description|Coconut}}
+|data-sort-value="1" |Monday
+|data-sort-value="0200"|{{Price|200}}
+|-
+|[[File:Large Cottage Rug.png|center|75px]]
+|[[Large Cottage Rug]]
+|{{Description|furniture}}
+|data-sort-value="1" |Monday
+|data-sort-value="2000"|{{Price|2000}}
+|-
+|[[File:Cactus Fruit.png|center]]
+|[[Cactus Fruit]]
+|{{Description|Cactus Fruit}}
+|data-sort-value="2" |Tuesday
+|data-sort-value="0150"|{{Price|150}}
+|-
+|[[File:Wall Sconce 1.png|center]]
+|[[Wall Sconce]]
+|{{Description|furniture}}
+|data-sort-value="2" |Randomly available on Tuesday
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Wall Sconce 2.png|center]]
+|[[Wall Sconce]]
+|{{Description|furniture}}
+|data-sort-value="2" |Randomly available on Tuesday
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Wall Sconce 3.png|center]]
+|[[Wall Sconce]]
+|{{Description|furniture}}
+|data-sort-value="2" |Randomly available on Tuesday
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Wall Sconce 4.png|center]]
+|[[Wall Sconce]]
+|{{Description|furniture}}
+|data-sort-value="2" |Randomly available on Tuesday
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Omni Geode.png|center]]
+|[[Omni Geode]] (3)
+|{{Description|Omni Geode}}
+|data-sort-value="3" |Wednesday
+|data-sort-value="500"|{{Price|500}}
+|-
+|[[File:'Jade Hills Extended'.png|center|75px]]
+|[['Jade Hills Extended']]
+|{{Description|furniture}}
+|data-sort-value="3" |Wednesday
+|data-sort-value="5000"|{{Price|5000}}
+|-
+|[[File:Deluxe Speed-Gro.png|center]]
+|[[Deluxe Speed-Gro]]
+|{{Description|Deluxe Speed-Gro}}
+|data-sort-value="4" |Thursday
+|data-sort-value="0080"|{{Price|80}}
+|-
+|[[File:Old World Rug.png|center|75px]]
+|[[Old World Rug]]
+|{{Description|furniture}}
+|data-sort-value="4" |Thursday
+|data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Honey.png|center]]
+|[[Honey]]
+|{{Description|Honey}}
+|data-sort-value="5" |Friday
+|data-sort-value="0200"|{{Price|200}}
+|-
+|[[File:Large Green Rug.png|center|75px]]
+|[[Large Green Rug]]
+|{{Description|furniture}}
+|data-sort-value="5" |Friday
+|data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Quality Retaining Soil.png|center]]
+|[[Quality Retaining Soil]]
+|{{Description|Quality Retaining Soil}}
+|data-sort-value="6" |Saturday
+|data-sort-value="0200"|{{Price|200}}
+|-
+|[[File:Wall Sconce 5.png|center]]
+|[[Wall Sconce]]
+|{{Description|furniture}}
+|data-sort-value="6" |Saturday
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Wall Sconce 7.png|center]]
+|[[Wall Sconce]]
+|{{Description|furniture}}
+|data-sort-value="6" |Saturday
+|data-sort-value="0500"|{{Price|500}}
+|-
+|[[File:Ice Cream.png|center]]
+|[[Ice Cream]]
+|{{Description|Ice Cream}}
+|data-sort-value="7" |Sunday
+|data-sort-value="0240"|{{Price|240}}
+|-
+|[[File:Large Brown Couch.png|center|75px]]
+|[[Large Brown Couch]]
+|{{Description|furniture}}
+|data-sort-value="7" |Sunday
+|data-sort-value="3000"|{{Price|3000}}
+|}
+
+==Notes==
+
+*On Winter 25, despite the [[Feast of the Winter Star]], Pam will still drive the bus as on her regular schedule, allowing the player access to the desert.
+*[[Emily]] visits Sandy in the desert on Sandy's birthday (Fall 15), closing the store at 1pm.
+
+==Gallery==
+<gallery>
+Oasis Interior.png|Interior
+</gallery>
+
+==History==
+{{History|1.3.27|Added Cactus Seeds and Seasonal Plant to fixed stock.}}
+{{History|1.4|Added random shirt to fixed stock.  Limited to 3 Omni Geodes on Wednesday.}}
+{{History|1.5|Added Wall Cactus to stock. Coconuts are limited to 10. Sandy leaves the Oasis on Fall 15 (her birthday) at 1pm to visit with [[Emily]].  Added a bench next to the Oasis where the player can sit.}}
+{{History|1.6|Added mannequins, coat stand, and clothesline to shop inventory. If [[Pam]] is not available the player can drive the bus. Coconut price changed from 400g to 200g. Omni Geode price changed from 1000g to 500g. Now open during festivals except for the [[Desert Festival]].}}
+{{History|1.6.12|Added Farmer Pants, Shorts, Long Dress, Skirt, and Pleated Skirt to shop inventory.}}
+
+{{NavboxBuildings}}
+
+[[Category:Stores]]
+[[Category:Desert Locations]]
+
+[[de:Oase]]
+[[es:Oasis]]
+[[fr:Oasis]]
+[[it:Oasi]]
+[[ja:オアシス]]
+[[ko:오아시스]]
+[[hu:Oázis]]
+[[pt:Oásis]]
+[[ru:Оазис]]
+[[tr:Vaha]]
+[[zh:绿洲]]

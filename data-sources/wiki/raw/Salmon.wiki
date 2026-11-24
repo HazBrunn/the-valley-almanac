@@ -1,0 +1,113 @@
+{{Infobox fish
+|eng        = Salmon
+|location   = [[Cindersap Forest|River]]
+|time       = 6am – 7pm<br />Any in Waterfalls
+|season     = Fall
+|weather    = Any
+|difficulty = 50
+|behavior   = Mixed
+|size       = 24-66
+|price      = 75
+|edibility  = 15
+|roe        = Light Red
+}}
+The '''Salmon''' is a [[fish]] that can be caught in the river (in [[Pelican Town]] or [[Cindersap Forest]]) during [[Fall]]. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly be found in [[Garbage Can]]s during Fall, or at the [[Traveling Cart]] for {{Tprice|75}}.
+
+It can be caught in the waterfalls in southern [[Cindersap Forest]] during Fall at any time.<ref name="waterfall"/>
+
+Salmon can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+The Salmon can be found in the river.
+{{Map|200|150|loc2x=120|loc2y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Salmon is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Salmon Dinner|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Salmon is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Faded Denim Shirt]].  [[File:Shirt279.png|24px]] It can also be used as a red dye in the dye pots, located in [[Haley]]'s and [[Emily]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Salmon can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is light red Salmon [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Acorn]]s, 10 [[Bug Meat]], 3 [[Maple Seed]]s, or 3 [[Pine Cone]]s || 30
+|-
+| 5   || 7   || 3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]] || 30
+|-
+| 7   || 10  || 1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Light Red Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Salmon may be randomly requested in [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|225}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-4 Salmon to be caught during [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|75}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Salmon to be caught in [[Fall]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==References==
+<references>
+    <ref name="waterfall">See <samp>Data\Locations.xnb</samp> in the game files.</ref>
+</references>
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Special Order quest added.}}
+{{History|1.6|Can now be caught in the waterfalls in southern [[Cindersap Forest]]. Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:River fish]]
+[[Category:Fall fish]]
+
+[[de:Lachs]]
+[[es:Salmón]]
+[[fr:Saumon]]
+[[it:Salmone]]
+[[ja:サケ]]
+[[ko:연어]]
+[[hu:Lazac]]
+[[pt:Salmão]]
+[[ru:Лосось]]
+[[tr:Somon Balığı]]
+[[zh:鲑鱼]]

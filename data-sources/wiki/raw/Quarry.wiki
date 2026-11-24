@@ -1,0 +1,110 @@
+<div class="floatright">{{map|324|43}}</div>
+{{For|[[Ginger Island]]|Ginger Island#Dig Site|R=This article is about the [[Pelican Town]] quarry.}}
+The '''Quarry''' consists of a large area with a wide selection of rocks and [[Mining#Mining Nodes|mining nodes]] that are randomly generated.  Each day there is a chance that new rocks and nodes as well as [[Trees|oak and maple tree]] seeds will be generated.  It is part of the same map as [[the Mountain]], therefore it has the same [[Foraging#Foraged Items|forageable]] items and [[Artifact Spot]] contents as the Mountain.
+
+The Quarry is unlocked by completing the [[Bundles#Crafts Room|Crafts Room bundles]] in the [[Community Center]] or by purchasing "Bridge" from the [[Joja Community Development Form]] for {{Price|25000}}. There will be a cut scene that night where the bridge is repaired.
+
+The Quarry itself can be home to every ore and gem in the game. However, stones containing valuable items like [[Iridium Ore]] or [[Prismatic Shard]]s are much rarer and the player may have to wait several seasons for new ones to spawn.
+
+The Entrance to the [[Quarry Mine]] is on the western side of the quarry, above the bridge.  The [[Minecart]] can also take the player to the Quarry once the bridge is repaired. (The Minecart is unlocked by either completing the [[Bundles#Boiler Room|Boiler Room bundles]] or by purchasing "Minecarts" from the [[Joja Community Development Form]] at [[JojaMart]] for {{Price|15000}}.)
+
+==Spawning==
+Each day new rocks, nodes, oak and maple seeds will spawn. In year 1, the game attempts to add 7 things from the table below. This increases by 2 each year up to a maximum of 16. Existing rocks block new spawns, so it is wise to keep the quarry entirely cleared.<ref name="spawns" />
+
+{|class="wikitable sortable"
+!Rock Type
+!Chance
+|-
+|[[File:Stone Index32.png]][[File:Stone Index38.png]][[File:Stone Index40.png]][[File:Stone Index42.png]] Rock
+|45.1%
+|-
+|[[File:Stone Index668.png]][[File:Stone Index670.png]] Rock which can drop coal
+|22.6%
+|-
+|[[File:Copper Node.png]] [[Copper Ore|Copper]] Node
+|7.99%
+|-
+|[[File:Coal Node Quarry 01.png]][[File:Coal Node Quarry 02.png]] [[Coal]] Node
+|7.52%
+|-
+|[[File:Oak Stage 2.png]][[File:Maple Stage 2.png]] [[Oak Tree|Oak]] or [[Maple Tree|Maple]] Tree
+|6%
+|-
+|[[File:Iron Node.png]] [[Iron Ore|Iron]] Node
+|3.94%
+|-
+|[[File:Artifact tile.gif|48px]] [[Artifact Spot]]
+|3.13%
+|-
+|[[File:Gold Node.png]] [[Gold Ore|Gold]] Node
+|1.33%
+|-
+|[[File:Seed Spot.gif]] [[Seed Spot]]
+|0.553%
+|-
+|[[File:Diamond Node.png]] [[Diamond]] Node
+|0.242%
+|-
+|[[File:Ruby Node.png]] [[Ruby]] Node
+|0.242%
+|-
+|[[File:Jade Node.png]] [[Jade]] Node
+|0.242%
+|-
+|[[File:Amethyst Node.png]] [[Amethyst]] Node
+|0.242%
+|-
+|[[File:Topaz Node.png]] [[Topaz]] Node
+|0.242%
+|-
+|[[File:Emerald Node.png]] [[Emerald]] Node
+|0.242%
+|-
+|[[File:Aquamarine Node.png]] [[Aquamarine]] Node
+|0.242%
+|-
+|[[File:Mystic Stone.png]] [[Mining#Mystic Stone|Mystic Stone]]
+|0.188%
+|-
+|[[File:Iridium Node.png]] [[Iridium Ore|Iridium]] Node
+|0.0133%
+|}
+
+==Usable Space==
+[[File:Quarry tiles.png|thumb|right|300px]]
+This image shows the usable space in the Quarry. Colored tiles (yellow or blue) can be used to place [[Crafting#Decor|paths]], [[Crafting#Artisan Equipment|artisan equipment]] and [[Crafting#Refining Equipment|refining equipment]]. Yellow tiles (tillables) may also be used to plant [[Trees|common trees]].
+
+[[Villagers]] do not travel through the Quarry or on its bridge, so items placed there are safe from destruction.
+{{clear}}
+
+==Gallery==
+<gallery>
+Quarry.png|The Quarry in Spring
+Mystic Stone.png|A Mystic Stone found in the Quarry
+Iridum ore mined.png|Upon mining a Mystic Stone
+</gallery>
+
+==References==
+<references>
+<ref name="spawns">See <samp>Mountain::quarryDayUpdate</samp> in the game code.</ref>
+</references>
+
+==History==
+{{History|1.4|Bombs no longer cause ore nodes to drop stone. Bombs now destroy gem nodes. The Quarry now spawns oak and maple trees. Added the [[Quarry Mine|Quarry Mineshaft]] to the Quarry.}}
+{{History|1.6|[[Mining#Coal Node|Coal Nodes]] can now appear in the Quarry. Quarry production now increases yearly.}}
+
+{{NavboxLocations}}
+
+[[Category:Mountain Locations]]
+
+[[de:Steinbruch]]
+[[es:Cantera]]
+[[fr:Carrière]]
+[[it:Cava]]
+[[ja:石切場]]
+[[ko:채석장]]
+[[hu:Kőfejtő]]
+[[pt:Pedreira]]
+[[ru:Карьер]]
+[[tr:Taş Ocağı]]
+[[zh:采石场]]

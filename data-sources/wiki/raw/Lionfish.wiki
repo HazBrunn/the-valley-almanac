@@ -1,0 +1,116 @@
+{{Infobox fish
+|eng        = Lionfish
+|location   = [[Ginger Island]]
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 50
+|behavior   = Smooth
+|size       = 3-13
+|price      = 100
+|edibility  = 15
+|roe        = Orange
+}}
+The '''Lionfish''' is a [[fish]] that can be caught on [[Ginger Island]] during any season on Island West (ocean), South, and Southeast.
+
+The [[Island Trader]] sells 1 [[Tropical Chair]] for 1 Lionfish each on even days of the [[Season|season]].
+
+==Map==
+The Lionfish can be found on Ginger Island West (ocean), South, and Southeast.
+{{Map|main=false|island=true|islandloc1x=68|islandloc1y=175|islandloc2x=210|islandloc2y=165|islandloc3x=240|islandloc3y=160}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Lionfish is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Lionfish can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[File:Shirt259a.png|24px]] [[Tailoring|Sailor Shirt]]. It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Lionfish can be placed in a [[Fish Pond]], where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is orange Lionfish [[Roe]], but other items are possible starting at population 4.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Ginger]] or 1 [[Pineapple]] || 35
+|-
+| 5   || 10  || 1 [[Mango]] || 35
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable sortable"
+|-
+!Item(s) Produced
+!data-sort-type="number"|Fishing XP Granted
+!data-sort-type="number"|Population
+!% of Items
+!data-sort-type="number"|Overall Daily Chance
+|-
+|rowspan="4" data-sort-value="Roe"|{{Name|Orange Roe|1|link=Roe}}
+|rowspan="4"|13
+| 1-3  || 100%    || 23-39%
+|-
+| 4-6  || 90%     || 42-57%
+|-
+| 7-8  || 72%     || 51-57%
+|-
+| 9-10 || 71%     || 61-67%
+|-
+|rowspan="3" data-sort-value="Taro Tuber"|{{Name|Taro Tuber|2-5}}
+|rowspan="3"|10
+| 4-6  || 10%     || 5-6%
+|-
+| 7-8  || 28%     || 20-22%
+|-
+| 9-10 || 27%     || 24-26%
+|-
+|data-sort-value="Tiger Slime Egg"| {{Name|Tiger Slime Egg|1}}
+|330
+| 9-10 || 2%      || 1.7-1.9%
+|-
+|data-sort-value="ZZZZ"|''Nothing''
+|
+| 1-10  || 0%     || 77-5%
+|}
+
+==Quests==
+*[[Willy]] may request 5 Lionfish to be caught at the [[Quests#Tropical Fish|Special Orders board]] outside the [[Mayor's Manor]] after [[Ginger Island]] is unlocked as part of the "Tropical Fish" special order.
+
+==History==
+{{History|1.5|Introduced.}}
+
+{{NavboxFish}}
+
+[[Category:Island fish]]
+
+[[de:Rotfeuerfisch]]
+[[es:Pez león]]
+[[fr:Poisson-papillon]]
+[[it:Pesce scorpione]]
+[[ja:ミノカサゴ]]
+[[ko:쏠배감펭]]
+[[hu:Oroszlánhal]]
+[[pt:Peixe-Leão]]
+[[ru:Крылатка]]
+[[tr:Aslanbalığı]]
+[[zh:狮子鱼]]

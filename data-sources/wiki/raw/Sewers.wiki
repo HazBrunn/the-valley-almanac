@@ -1,0 +1,69 @@
+{{Infobox location
+|name      = The Sewers
+|mapx      = 225
+|mapy      = 140
+|building  = Sewer.png
+|openhours = Always
+|closed    = Never
+|address   = 
+|width     = 
+|occupants = {{NPC|Krobus}} 
+}}
+'''The Sewers''' are a location unlocked by obtaining the [[Rusty Key]] after donating 60 items ([[artifacts]] or [[minerals]]) to the [[Museum]]. The Sewers can be entered either through the sewer cover in the south of [[Pelican Town]] or through the grates in the south of [[Cindersap Forest]]. [[Krobus]] is located here and sells rare items.
+
+[[Krobus]] can open a passage through the sewers to the [[Mutant Bug Lair]] once players start the quest [[Quests#Dark Talisman|Dark Talisman]].
+
+==Krobus' Shop==
+{{Main article|Krobus}}
+Krobus always sells one [[Stardrop]], the [[Crystal Floor]] Recipe, the [[Wicked Statue]] Recipe, and a selection of other items. In addition, he will also sell a specific quantity of one other item every day.
+
+==Statue Of Uncertainty==
+<section begin="statueofuncertainty" />
+The <includeonly>[[The Sewers#Statue Of Uncertainty|</includeonly>Statue Of Uncertainty<includeonly>]] in [[The Sewers]]</includeonly> allows the player to change <noinclude>[[Skills|</noinclude>professions<noinclude>]]</noinclude>.  After donating {{Price|10000}}, the statue requires the player to choose one skill to change.  That night after the player goes to bed, the Level 5 "Choose a profession" screen will appear, followed by the corresponding Level 10 "Choose a profession" screen for the skill selected at the statue.
+
+Only skills for which professions have already been chosen will appear on the Statue's menu.  As soon as the player chooses a profession to change, the bonuses for existing professions disappear. Skills that give bonuses to sell prices will not apply to items placed in the [[Shipping|shipping bin]] the day the profession is changed.
+
+Just like levelling up a skill at the end of the day causes the player to wake up with full [[energy]] the next day no matter what, using this statue on any given day will cause the player to wake up with full energy the next day as well.<section end="statueofuncertainty"/>
+{{clear}}
+
+==Mutant Bug Lair==
+{{Main article|Mutant Bug Lair}}
+In the late game, players will get the quest [[Quests#Dark Talisman|Dark Talisman]], which sends them to speak with [[Krobus]] in the sewers. Once spoken to he'll open a passage inside the sewers to a new small area, the [[Mutant Bug Lair]]. Inside players can gather the talisman for their quest, catch unique fish ([[Slimejack]]) and fight swarms of bugs.
+
+==Fishing==
+{{Main article|Fishing}}
+:''See also: [[Fishing Strategy]]''
+The Sewers are where the [[Mutant Carp]], one of the five [[Fish#Legendary Fish|legendary fish]] in the game, can be caught. It is also where the [[Radioactive Carp]], one of the five [[Fish#Legendary Fish II|legendary fish II]], can be caught. [[Carp]], [[Green Algae]], [[White Algae]], and [[Trash]] are the only other items that can be caught.
+
+==Gallery==
+<gallery mode=packed widths=100% heights=100%>
+KrobusInSewer.png|Krobus in Sewer
+Sewer Confrontation Krobos Dwarf.png|Confrontation with Dwarf
+Gate Sewer Key.png|Opening the gate
+Statue Of Uncertainty.png|Statue of Uncertainty
+Fixed sewer gate.png|Sewer gate cleaned by [[Cindersap Forest#Trash Bear|Trash Bear]]
+</gallery>
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.1|Added passage to [[Mutant Bug Lair]].}}
+{{History|1.3.27|Added Statue Of Uncertainty.}}
+{{History|1.4.1|Profession bonuses now disappear as soon as a profession to change is chosen at the Statue of Uncertainty.  Only skills that have already chosen professions are shown in the Statue's menu.}}
+{{History|1.5|[[Radioactive Carp]] can now be caught.}}
+
+{{NavboxLocations}}
+
+[[Category:Town Locations]]
+[[Category:Forest Locations]]
+
+[[de:Kanalisation]]
+[[es:Las cloacas]]
+[[fr:Égouts]]
+[[it:Le fogne]]
+[[ja:下水道]]
+[[ko:하수도]]
+[[hu:Csatorna]]
+[[pt:Os Esgotos]]
+[[ru:Канализация]]
+[[tr:Lağım]]
+[[zh:下水道]]

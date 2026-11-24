@@ -1,0 +1,1184 @@
+{{for|normal bundles|Bundles|R=This page is about remixed bundles.}}
+When creating a new game, there is an [[Options#Advanced Options|option]] to '''remix''' the Community Center [[bundles]]. A room can have a mix of permanent and random bundles. Permanent bundles will always be present, though the items may vary slightly from their standard counterparts. Random bundles may or may not be present.
+
+A few bundles display more items than there are slots to fill. In this case, the player can choose which of the shown items they want to use to fill the bundle. They do not have to use all shown items, only enough to fill the slots.
+
+==Crafts Room==
+[[File:Community Center Crafts Room.png|thumb|right|Crafts Room Before Completion]]
+[[File:Finished Crafts Room.png|right|thumb|Crafts Room After Completion]]
+
+The Crafts Room contains the first group of bundles available. Completing all Crafts Room bundles repairs the bridge east of [[The Mines]], unlocking the [[Quarry]].
+
+{| class="wikitable" style="border-collapse: collapse;"
+|-
+!style="background-color: #41AEFF; border-right: 0;"|[[File:Bundle Complete Balloon.png|link=]]
+!style="background-color: #41AEFF; border-left: 0;"|Crafts<br />Room<br />Reward
+|style="padding-left: 8px; min-width: 200px;"|[[Quarry|Bridge Repair]]
+|}
+
+===Bundle 1===
+{| class="wikitable"
+!id="Spring Foraging Bundle" colspan="4" |[[File:Bundle Green.png|32px|link=]] Spring Foraging Bundle (4 items chosen at random)
+|-
+| rowspan="5" |[[File:Spring Foraging Bundle.png|center]]
+| rowspan="5" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Wild Horseradish}}
+| [[Spring]] [[Foraging]]
+|-
+| {{Name|Daffodil}}
+| [[Spring]] [[Foraging]], buy from [[Pierre]] at [[Flower Dance]]
+|-
+| {{Name|Leek}}
+| [[Spring]] [[Foraging]] 
+|-
+| {{Name|Dandelion}}
+| [[Spring]] [[Foraging]], buy from [[Pierre]] at [[Flower Dance]]
+|-
+| {{Name|Spring Onion}}
+| [[Spring]] [[Foraging]]
+|-
+| colspan="2" style="text-align: center;"|[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Spring Seeds|30}}
+|}
+
+===Bundle 2===
+{| class="wikitable"
+!id="Summer Foraging Bundle" colspan="4" |[[File:Bundle Yellow.png|32px|link=]] Summer Foraging Bundle
+|-
+| rowspan="3" |[[File:Summer Foraging Bundle.png|center]]
+| rowspan="3" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Grape}}
+| [[Summer]] [[Foraging]], [[Fall]] [[Farming]]
+|-
+| {{Name|Spice Berry}}
+| [[Summer]] [[Foraging]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| {{Name|Sweet Pea}}
+| [[Summer]] [[Foraging]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="3" | {{Name|Summer Seeds|30}}
+|}
+
+===Bundle 3===
+{| class="wikitable"
+! id="Fall Foraging Bundle" colspan="4" |[[File:Bundle Orange.png|32px|link=]] Fall Foraging Bundle
+|-
+| rowspan="4" |[[File:Fall Foraging Bundle.png|center]]
+| rowspan="4" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Common Mushroom}}
+| [[Fall]] [[Foraging]], [[Spring]] &amp; [[Fall]] [[Foraging]] in the [[Secret Woods]], [[The Cave|The Farm Cave]] (mushroom option), [[Tapper|Tapping]] a [[Mushroom Tree]], [[Mushroom Log]]
+|-
+| {{Name|Wild Plum}}
+| [[Fall]] [[Foraging]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| {{Name|Hazelnut}}
+| [[Fall]] [[Foraging]]
+|-
+| {{Name|Blackberry}}
+| [[Fall]] [[Foraging]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Fall Seeds|30}}
+|}
+
+===Bundle 4===
+{| class="wikitable"
+!id="Winter Foraging Bundle" colspan="4" |[[File:Bundle Teal.png|32px|link=]] Winter Foraging Bundle (4 items chosen at random)
+|-
+| rowspan="5" |[[File:Winter Foraging Bundle.png|center]]
+| rowspan="5" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Winter Root}}
+| [[Hoes|Tilling]] soil or [[Artifact Spot]]s in [[Winter]], dropped by Blue [[Slimes]] on floors 41-79 of [[The Mines]]
+|-
+| {{Name|Crystal Fruit}}
+| [[Winter]] [[Foraging]], dropped by [[Dust Sprite]]s on floors 41-79 of [[The Mines]]
+|-
+| {{Name|Snow Yam}}
+| [[Hoes|Tilling]] soil or [[Artifact Spot]]s in [[Winter]]
+|-
+| {{Name|Crocus}}
+| [[Winter]] [[Foraging]]
+|-
+| {{Name|Holly}}
+| [[Winter]] [[Foraging]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Winter Seeds|30}}
+|}
+
+===Bundle 5===
+{| class="wikitable"
+!id="Construction Bundle" colspan="4" |[[File:Bundle Red.png|32px|link=]] Construction Bundle
+|-
+| rowspan="4" |[[File:Construction Bundle.png|center]]
+| rowspan="4" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Wood|99}}
+| Chopping [[Trees]] or branches with an [[Axes|Axe]]
+|-
+| {{Name|Wood|99}}
+| Chopping [[Trees]] or branches with an [[Axes|Axe]]
+|-
+| {{Name|Stone|99}}
+| Smashing stones with a [[Pickaxes|Pickaxe]]
+|-
+| {{Name|Hardwood|10}}
+| Chopping [[Large Stump]]s or [[Large Log]]s with an upgraded [[Axes|Axe]], smashing crates in [[The Mines]], cutting down [[Mahogany tree]]s
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Charcoal Kiln|1}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Sticky Bundle" colspan="4" |[[File:Bundle Yellow.png|32px|link=]] Sticky Bundle
+|-
+| rowspan="2"|[[File:Sticky Bundle.png|center]]
+|-
+| [[File:Bundle Slot.png|center|link=]]
+| {{Name|Sap|500}}
+| Chopping [[Trees]], drop from [[Slimes]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Charcoal Kiln|1}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Forest Bundle" colspan="4" |[[File:Bundle Green.png|32px|link=]] Forest Bundle (3 items chosen at random)
+|-
+| rowspan="4" |[[File:Forest Bundle.png|center]]
+| rowspan="4" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Moss|10}}
+| Chopping [[Trees]]
+|-
+| {{Name|Fiber|200}}
+| Destroying [[Weeds]] or harvesting [[Fiber Seeds]]
+|-
+| {{Name|Acorn|10}}
+| Shaking/Chopping [[Oak Tree]]s
+|-
+| {{Name|Maple Seed|10}}
+| Shaking/Chopping [[Maple Tree]]s
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Charcoal Kiln|1}}
+|}
+
+===Bundle 6===
+{| class="wikitable"
+!id="Exotic Foraging Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Exotic Foraging Bundle
+|-
+| rowspan="9" |[[File:Exotic Foraging Bundle.png|center]]
+| rowspan="9" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Coconut}}
+| [[The Desert|Desert]] [[Foraging]]
+|-
+| {{Name|Cactus Fruit}}
+| [[The Desert|Desert]] [[Foraging]]
+|-
+| {{Name|Cave Carrot}}
+| [[The Mines]], either smashing boxes or [[Hoes|tilling]] soil
+|-
+| {{Name|Red Mushroom}}
+| [[Foraging]] in [[The Mines]], [[Summer]] or [[Fall]] [[Foraging]] in the [[Secret Woods]], [[The Cave|The Farm Cave]] (mushroom option), [[Tapper|Tapping]] a [[Mushroom Tree]], [[Farm Maps|Forest Farm Map]] in [[Fall]], [[Mushroom Log]]
+|-
+| {{Name|Purple Mushroom}}
+| [[The Mines]], [[The Cave|The Farm Cave]] (mushroom option), [[Farm Maps|Forest Farm Map]], [[Foraging]] in [[Fall]], [[Mushroom Log]]
+|-
+| {{Name|Maple Syrup}}
+| [[Tapper|Tapped]] [[Maple Tree]]
+|-
+| {{Name|Oak Resin}}
+| [[Tapper|Tapped]] [[Oak Tree]]
+|-
+| {{Name|Pine Tar}}
+| [[Tapper|Tapped]] [[Pine Tree]]
+|-
+| {{Name|Morel}}
+| [[Foraging]] in the [[Secret Woods]] or [[Farm Maps|Forest Farm Map]] in [[Spring]], [[The Cave|The Farm Cave]] (mushroom option), [[Mushroom Log]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Autumn's Bounty|5}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Wild Medicine Bundle" colspan="4" |[[File:Bundle Green.png|32px|link=]] Wild Medicine Bundle
+|-
+| rowspan="5"|[[File:Wild Medicine Bundle.png|center]]
+|-
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Purple Mushroom|5}}
+| [[The Mines]], [[The Cave|The Farm Cave]] (mushroom option), [[Farm Maps|Forest Farm Map]] [[Foraging]] in [[Fall]], [[Mushroom Log]]
+|-
+| {{Name|Fiddlehead Fern|5}}
+| [[Summer]] forage in the [[Secret Woods]], Prehistoric levels in [[Skull Cavern]], [[Green Rain Trees]]
+|-
+| {{Name|White Algae|5}}
+| [[Fishing]], [[Monsters|Monster]] drops
+|-
+| {{Name|Hops|5}}
+| [[Summer]] [[Crops]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Cookout Kit|2}}
+|}
+
+==Pantry==
+[[File:Community Center Pantry.png|thumb|right|Pantry Before Completion]]
+[[File:Finished Pantry.png|thumb|right|Pantry After Completion]]
+
+The Pantry appears after completing one bundle. Completing all Pantry bundles will restore the dilapidated [[Greenhouse]] on the farm, making it available to grow [[Crops]] and [[Fruit Trees]] year-round.
+
+{| class="wikitable" style="border-collapse: collapse;"
+|-
+!style="background-color: #41AEFF; border-right: 0;"|[[File:Bundle Complete Balloon.png|link=]]
+!style="background-color: #41AEFF; border-left: 0;"|Pantry<br />Reward
+|style="padding-left: 8px; min-width: 200px;"|[[Greenhouse]]
+|}
+
+===Bundle 1===
+{| class="wikitable"
+!id="Spring Crops Bundle" colspan="4" |[[File:Bundle Green.png|32px|link=]] Spring Crops Bundle (4 items chosen at random)
+|-
+| rowspan="6"|[[File:Spring Crops Bundle.png|center]]
+| rowspan="6" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Parsnip}}
+| [[Spring]] [[Crops]]
+|-
+| {{Name|Green Bean}}
+| [[Spring]] [[Crops]]
+|-
+| {{Name|Cauliflower}}
+| [[Spring]] [[Crops]]
+|-
+| {{Name|Potato}}
+| [[Spring]] [[Crops]]
+|-
+| {{Name|Kale}}
+| [[Spring]] [[Crops]]
+|-
+| {{Name|Carrot}}
+| [[Spring]] [[Crops]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Speed-Gro|20}}
+|}
+
+===Bundle 2===
+{| class="wikitable"
+!id="Summer Crops Bundle" colspan="4" |[[File:Bundle Yellow.png|32px|link=]] Summer Crops Bundle (4 items chosen at random)
+|-
+| rowspan="5"|[[File:Summer Crops Bundle.png|center]]
+| rowspan="5" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Tomato}}
+| [[Summer]] [[Crops]]
+|-
+| {{Name|Hot Pepper}}
+| [[Summer]] [[Crops]]
+|-
+| {{Name|Blueberry}}
+| [[Summer]] [[Crops]]
+|-
+| {{Name|Melon}}
+| [[Summer]] [[Crops]]
+|-
+| {{Name|Summer Squash}}
+| [[Summer]] [[Crops]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Quality Sprinkler|1}}
+|}
+
+===Bundle 3===
+{| class="wikitable"
+!id="Fall Crops Bundle" colspan="4" |[[File:Bundle Orange.png|32px|link=]] Fall Crops Bundle (4 items chosen at random)
+|-
+| rowspan="5" |[[File:Fall Crops Bundle.png|center]]
+| rowspan="5" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Corn}}
+| [[Summer]] / [[Fall]] [[Crops]]
+|-
+| {{Name|Eggplant}}
+| [[Fall]] [[Crops]]
+|-
+| {{Name|Pumpkin}}
+| [[Fall]] [[Crops]]
+|-
+| {{Name|Yam}}
+| [[Fall]] [[Crops]], dropped by [[Duggy|Duggies]] on floors 6-29 of [[The Mines]] (3%)
+|-
+| {{Name|Broccoli}}
+| [[Fall]] [[Crops]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Bee House|1}}
+|}
+
+===Bundle 4===
+{| class="wikitable"
+!id="Quality Crops Bundle" colspan="4" |[[File:Bundle Teal.png|32px|link=]] Quality Crops Bundle
+|-
+| rowspan="4" |[[File:Quality Crops Bundle.png|center]]
+| rowspan="4" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| <table>
+<tr><td>{{Quality|Parsnip|gold|24}}</td><td> [[Parsnip]] (5)</td></tr>
+<tr><td>{{Quality|Green Bean|gold|24}}</td><td> [[Green Bean]] (5)</td></tr>
+<tr><td>{{Quality|Potato|gold|24}}</td><td> [[Potato]] (5)</td></tr>
+<tr><td>{{Quality|Cauliflower|gold|24}}</td><td> [[Cauliflower]] (5)</td></tr>
+</table>
+| Gold quality [[Spring]] [[Crops]]
+|-
+| <table>
+<tr><td>{{Quality|Melon|gold|24}}</td><td> [[Melon]] (5)</td></tr>
+<tr><td>{{Quality|Blueberry|gold|24}}</td><td> [[Blueberry]] (5)</td></tr>
+<tr><td>{{Quality|Hot Pepper|gold|24}}</td><td> [[Hot Pepper]] (5)</td></tr>
+</table>
+| Gold quality [[Summer]] [[Crops]]
+|-
+| <table>
+<tr><td>{{Quality|Pumpkin|gold|24}}</td><td> [[Pumpkin]] (5)</td></tr>
+<tr><td>{{Quality|Yam|gold|24}}</td><td> [[Yam]] (5)</td></tr>
+<tr><td>{{Quality|Eggplant|gold|24}}</td><td> [[Eggplant]] (5)</td></tr>
+</table>
+| Gold quality [[Fall]] [[Crops]]
+|-
+| <table><tr><td>{{Quality|Corn|gold|24}}</td><td> [[Corn]] (5)</td></tr></table>
+| Gold quality [[Summer]] / [[Fall]] [[Crops]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Preserves Jar|1}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Rare Crops Bundle" colspan="4" |[[File:Bundle Teal.png|32px|link=]] Rare Crops Bundle
+|-
+| rowspan="2" |[[File:Rare Crops Bundle.png|center]]
+| rowspan="2" |[[File:Bundle Slot.png|center|link=]]
+| {{Name|Ancient Fruit}}
+| [[Spring]] / [[Summer]] / [[Fall]] [[Crops#Special Crops|Crops]]; seed obtained from [[Ancient Seed|Ancient Seed artifact]]
+|-
+| {{Name|Sweet Gem Berry}}
+| [[Fall]] [[Crops#Special Crops|Crops]]; [[Rare Seed]] purchased from [[Traveling Cart]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Preserves Jar|1}}
+|}
+
+===Bundle 5===
+{| class="wikitable"
+!id="Animal Bundle" colspan="4" |[[File:Bundle Red.png|32px|link=]] Animal Bundle
+|-
+| rowspan="6"|[[File:Animal Bundle.png|center]]
+| rowspan="6"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Large Milk}}
+| [[Cow|Cows]]
+|-
+| {{Name|Large Brown Egg|link=Large Egg|Brown}}
+| [[Chicken|Chickens]]
+|-
+| {{Name|Large Egg}}
+| [[Chicken|Chickens]]
+|-
+| {{Name|Large Goat Milk}}
+| [[Goat|Goats]]
+|-
+| {{Name|Wool}}
+| [[Sheep]], [[Rabbit|Rabbits]]
+|-
+| {{Name|Duck Egg}}
+| [[Duck|Ducks]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Cheese Press|1}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Fish Farmer's Bundle" colspan="4" |[[File:Bundle Blue.png|32px|link=]] Fish Farmer's Bundle
+|-
+| rowspan="3"|[[File:Fish Farmer's Bundle.png|center]]
+| rowspan="3"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Roe|15}}
+| [[Fish Pond]] product from many [[Fish]], [[Fishing#Treasure Chests|Fishing Treasure Chests]]
+|-
+| {{Name|Aged Roe|15}}
+| [[Preserves Jar]] product from [[Roe]]
+|-
+| {{Name|Squid Ink}}
+| [[Squid Kid]] drop; [[Fish Pond]] product from [[Squid]] and [[Midnight Squid]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Worm Bin|1}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Garden Bundle" colspan="4" |[[File:Bundle Red.png|32px|link=]] Garden Bundle
+|-
+| rowspan="5"|[[File:Garden Bundle.png|center]]
+| rowspan="5"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Tulip}}
+| [[Spring]] [[Crops]]
+|-
+| {{Name|Blue Jazz}}
+| [[Spring]] [[Crops]]
+|-
+| {{Name|Summer Spangle}}
+| [[Summer]] [[Crops]]
+|-
+| {{Name|Sunflower}}
+| [[Summer]]/[[Fall]] [[Crops]]
+|-
+| {{Name|Fairy Rose}}
+| [[Fall]] [[Crops]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Quality Sprinkler|1}}
+|}
+
+===Bundle 6===
+{| class="wikitable"
+!id="Artisan Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Artisan Bundle
+|-
+| rowspan="12"|[[File:Artisan Bundle.png|center]]
+| rowspan="12"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Truffle Oil}}
+| [[Oil Maker]] product from [[Truffle]]
+|-
+| {{Name|Cloth}}
+| [[Loom]], [[Recycling Machine|Recycling]] a [[Soggy Newspaper]], [[Desert Trader]]
+|-
+| {{Name|Goat Cheese}}
+| [[Cheese Press]]
+|-
+| {{Name|Cheese}}
+| [[Cheese Press]], [[Desert Trader]]
+|-
+| {{Name|Honey}}
+| [[Bee House]], [[Oasis]]
+|-
+| {{Name|Jelly|link=Jellies and Pickles{{!}}Jelly}}
+| [[Preserves Jar]]
+|-
+| {{Name|Apple}}
+| [[Apple Tree]]s during [[Fall]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| {{Name|Apricot}}
+| [[Apricot Tree]]s during [[Spring]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| {{Name|Orange}}
+| [[Orange Tree]]s during [[Summer]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| {{Name|Peach}}
+| [[Peach Tree]]s during [[Summer]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| {{Name|Pomegranate}}
+| [[Pomegranate Tree]]s during [[Fall]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| {{Name|Cherry}}
+| [[Cherry Tree]]s during [[Spring]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" |{{Name|Keg|1}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Brewer's Bundle" colspan="4" |[[File:Bundle Orange.png|32px|link=]] Brewer's Bundle
+|-
+| rowspan="5"|[[File:Brewer's Bundle.png|center]]
+| rowspan="5"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Mead}}
+| [[Keg]] product from [[Honey]]
+|-
+| {{Name|Pale Ale}}
+| [[Keg]] product from [[Hops]]
+|-
+| {{Name|Wine}}
+| [[Keg]] product from [[Fruits]]
+|-
+| {{Name|Juice}}
+| [[Keg]] product from [[Vegetables]]
+|-
+| {{Name|Green Tea}}
+| [[Keg]] product from [[Tea Leaves]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Keg|1}}
+|}
+
+==Fish Tank==
+[[File:Community Center Fish Tank.png|thumb|right|Fish Tank Before Completion]]
+[[File:Finished Fish Tank.png|thumb|right|Fish Tank After Completion]]
+
+The Fish Tank appears after completing one bundle.  Completing all Fish Tank bundles will remove the Glittering Boulder to the left of [[The Mines]] entrance. [[Willy]] will also give the player a [[Pans|Copper Pan]] that can be used to collect metal ores and other items from bodies of water.
+
+Notes: It may not be possible to finish the Specialty Fish Bundle before finishing the entire Vault section, as access to [[The Desert]] is required to get a [[Sandfish]], unless it becomes available at the [[Traveling Cart]]. For the Quality Fish Bundle, iridium quality fish can be used as well as gold quality fish. 
+
+{| class="wikitable" style="border-collapse: collapse;"
+|-
+!style="background-color: #41AEFF; border-right: 0;"|[[File:Bundle Complete Balloon.png|link=]]
+!style="background-color: #41AEFF; border-left: 0;"|Fish<br />Tank<br />Reward
+|style="padding-left: 8px; min-width: 200px;"|Glittering Boulder Removed
+|}
+
+===Bundle 1===
+{| class="wikitable"
+!id="River Fish Bundle" colspan="4" |[[File:Bundle Teal.png|32px|link=]] River Fish Bundle
+|-
+| rowspan="4"|[[File:River Fish Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Sunfish}}
+| Found in Rivers, 6am – 7pm, [[Spring]], and [[Summer]] during sunny weather. <br /> Found in the [[Farm Maps|Riverlands Farm]] or in the [[Farm Maps|Wilderness Farm]] pond during rainy weather.
+|-
+| {{Name|Catfish}}
+| Found in Rivers and Secret Woods Pond 6am – midnight, [[Spring]] and [[Fall]]. Only when raining.
+|-
+| {{Name|Shad}}
+| Found in Rivers, 9am – 2am, [[Spring]], [[Summer]], and [[Fall]]. Only when raining.
+|-
+| {{Name|Tiger Trout}}
+| Found in Rivers, 6am – 7pm, [[Fall]] and [[Winter]].
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" |[[File:Deluxe Bait.png|24px|link=]] [[Deluxe Bait]] (30)
+|}
+
+===Bundle 2===
+{| class="wikitable"
+!id="Lake Fish Bundle" colspan="4" |[[File:Bundle Green.png|32px|link=]] Lake Fish Bundle
+|-
+| rowspan="4"|[[File:Lake Fish Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Largemouth Bass}}
+| Found in the Mountain lake, 6am – 7pm, All Seasons.
+|-
+| {{Name|Carp}}
+| Found in the Mountain lake or [[Cindersap Forest]] pond, Anytime, during [[Spring]], [[Summer]], or [[Fall]].<br />Found in [[Secret Woods]] or [[The Sewers|Sewer]], Anytime, All Seasons.
+|-
+| {{Name|Bullhead}}
+| Found in the Mountain Lake, Anytime, All Seasons.
+|-
+| {{Name|Sturgeon}}
+| Found in the Mountain Lake, 6am – 7pm, [[Summer]] and [[Winter]].
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Dressed Spinner|1}}
+|}
+
+===Bundle 3===
+{| class="wikitable"
+!id="Ocean Fish Bundle" colspan="4" |[[File:Bundle Blue.png|32px|link=]] Ocean Fish Bundle
+|-
+| rowspan="4"|[[File:Ocean Fish Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Sardine}}
+| Found in the Ocean, 6am – 7pm, [[Spring]], [[Fall]], and [[Winter]].
+|-
+| {{Name|Tuna}}
+| Found in the Ocean, 6am – 7pm, [[Summer]] and [[Winter]].
+|-
+| {{Name|Red Snapper}}
+| Found in the Ocean, 6am – 7pm, [[Summer]] and [[Fall]]. Only when raining.
+|-
+| {{Name|Tilapia}}
+| Found in the Ocean, 6am – 2pm, [[Summer]] and [[Fall]].
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Warp Totem Beach|5}}
+|}
+
+===Bundle 4===
+{| class="wikitable"
+! id="Night Fishing Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Night Fishing Bundle
+|-
+| rowspan="3" |[[File:Night Fishing Bundle.png|center]]
+| rowspan="3" |[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Walleye}}
+<!--Note that 12pm = NOON.  Please stop changing the time!-->
+| Found in Rivers, Lakes and Forest Pond, 12pm – 2am, [[Fall]] ([[Winter]] with [[Rain Totem]]). Only when raining.
+|-
+| {{Name|Bream}}
+| Found in Rivers, 6pm – 2am, All Seasons.
+|-
+| {{Name|Eel}}
+| Found in the Ocean, 4pm – 2am, [[Spring]] or [[Fall]]. Only when raining.
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Glow Ring|1}}
+|}
+
+===Bundle 5===
+{| class="wikitable"
+!id="Crab Pot Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Crab Pot Bundle
+|-
+| rowspan="10"|[[File:Crab Pot Bundle.png|center]]
+| rowspan="10"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Lobster}}
+| Caught in [[Crab Pot]]s (ocean)
+|-
+| {{Name|Crayfish}}
+| Caught in [[Crab Pot]]s (freshwater)
+|-
+| {{Name|Crab}}
+| Caught in [[Crab Pot]]s (ocean), drops from [[Rock Crab]]s or [[Lava Crab]]s in [[The Mines]]
+|-
+| {{Name|Cockle}}
+| Caught in [[Crab Pot]]s (ocean), [[The Beach|Beach]] [[Foraging]]
+|-
+| {{Name|Mussel}}
+| Caught in [[Crab Pot]]s (ocean), [[The Beach|Beach]] [[Foraging]]
+|-
+| {{Name|Shrimp}}
+| Caught in [[Crab Pot]]s (ocean)
+|-
+| {{Name|Snail}}
+| Caught in [[Crab Pot]]s (freshwater)
+|-
+| {{Name|Periwinkle}}
+| Caught in [[Crab Pot]]s (freshwater)
+|-
+| {{Name|Oyster}}
+| Caught in [[Crab Pot]]s (ocean), [[The Beach|Beach]] [[Foraging]]
+|-
+| {{Name|Clam}}
+| Caught in [[Crab Pot]]s (ocean), [[The Beach|Beach]] [[Foraging]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Crab Pot|3}}
+|}
+
+===Bundle 6===
+{| class="wikitable"
+!id="Specialty Fish Bundle" colspan="4" |[[File:Bundle Red.png|32px|link=]] Specialty Fish Bundle
+|-
+| rowspan="4"|[[File:Specialty Fish Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Pufferfish}}
+| Found in the Ocean, 12pm – 4pm, [[Summer]] during sunny weather.
+|-
+| {{Name|Ghostfish}}
+| Found in ponds in [[The Mines]] floors 20 and 60, Anytime, All Seasons. May also be dropped by [[Ghost|Ghosts]].
+|-
+| {{Name|Sandfish}}
+| Found in the pond in [[The Desert]], 6am – 8pm, All Seasons.
+|-
+| {{Name|Woodskip}}
+| Found in the [[Secret Woods]] and the [[Farm Maps|Forest Farm]], Anytime, All Seasons.
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Dish O' The Sea|5}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Quality Fish Bundle" colspan="5" |[[File:Bundle Red.png|32px|link=]] Quality Fish Bundle
+|-
+| rowspan="4"|[[File:Quality Fish Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| colspan="2" | <table><tr><td>{{Quality|Largemouth Bass|gold|24}}</td><td> [[Largemouth Bass]]</td></tr></table>
+| colspan="2" | Mountain Lake or Wilderness Farm, all seasons
+|-
+| colspan="2" | <table><tr><td>{{Quality|Shad|gold|24}}</td><td> [[Shad]]</td></tr></table>
+| colspan="2" | River, when raining, all seasons except Winter
+|-
+| colspan="2" | <table><tr><td>{{Quality|Tuna|gold|24}}</td><td> [[Tuna]]</td></tr></table>
+| colspan="2" | Ocean, Summer or Winter
+|-
+| colspan="2" | <table><tr><td>{{Quality|Walleye|gold|24}}</td><td> [[Walleye]]</td></tr></table>
+| colspan="2" | River, Mountain Lake, Forest Pond, or Forest Farm; when raining; Fall (or Winter w/ [[Rain Totem]])
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="3" | {{Name|Dish O' The Sea|5}}
+|}
+'''''or'''''
+{| class="wikitable"
+!id="Master Fishers Bundle" colspan="4" |[[File:Bundle Red.png|32px|link=]] Master Fisher's Bundle
+|-
+| rowspan="4"|[[File:Master Fisher's Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Lava Eel}}
+| [[The Mines]] on the 100th floor during all seasons
+|-
+| {{Name|Scorpion Carp}}
+| [[The Desert]] during all seasons
+|-
+| {{Name|Octopus}}
+| [[Summer]] in the [[The Beach|ocean]] and (more rarely) in [[Garbage Can]]s, &amp; submarine ride at the [[Night Market]] (&#8776;2% chance).
+|-
+| {{Name|Blobfish}}
+| Submarine ride at the [[Night Market]] ([[Winter]] 15-17).
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Dish O' The Sea|5}}
+|}
+
+==Boiler Room==
+[[File:Community Center Boiler Room.png|thumb|right|Boiler Room Before Completion]]
+[[File:Finished Boiler Room.png|thumb|right|Boiler Room After Completion]]
+
+The Boiler Room appears after completing two bundles.  Completing all Boiler Room bundles repairs the [[Minecart]]s, allowing the player to fast travel between distant locations. The Locations are [[Bus Stop]], [[The Mines|Mines]], [[Quarry]] and [[Pelican Town|Town]].
+
+{| class="wikitable" style="border-collapse: collapse;"
+|-
+!style="background-color: #41AEFF; border-right: 0;"|[[File:Bundle Complete Balloon.png|link=]]
+!style="background-color: #41AEFF; border-left: 0;"|Boiler<br />Room<br />Reward
+|style="padding-left: 8px; min-width: 200px;"|[[Minecart]]s Repaired
+|}
+
+===Bundles===
+'''''(3 chosen at random)'''''
+
+{| class="wikitable"
+!id="Blacksmiths Bundle" colspan="4" |[[File:Bundle Orange.png|32px|link=]] Blacksmith's Bundle
+|-
+| rowspan="3"|[[File:Blacksmith Bundle.png|center]]
+| rowspan="3"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Copper Bar}}
+| Smelting [[Copper Ore]] in the [[Furnace]]
+|-
+| {{Name|Iron Bar}}
+| Smelting [[Iron Ore]] in the [[Furnace]], [[Crafting]] the "Transmute (Fe)" recipe
+|-
+| {{Name|Gold Bar}}
+| Smelting [[Gold Ore]] in the [[Furnace]], [[Crafting]] the "Transmute (Au)" recipe
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward: 
+| colspan="2" | {{Name|Furnace|1}}
+|}
+
+{| class="wikitable"
+!id="Geologists Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Geologist's Bundle
+|-
+| rowspan="4"|[[File:Geologist's Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Quartz}}
+| [[Minerals#Foraged Minerals|Foraging]] on all floors of [[The Mines]]
+|-
+| {{Name|Earth Crystal}}
+| [[Minerals#Foraged Minerals|Foraging]] on floors 1-39 of [[The Mines]], [[Geode]]s, [[Omni Geode]]s, drop from [[Duggy|Duggies]] in the Mines (floors 1-29)
+|-
+| {{Name|Frozen Tear}}
+| [[Minerals#Foraged Minerals|Foraging]] on floors 40-79 of [[The Mines]], [[Frozen Geode]]s, [[Omni Geode]]s, drop from [[Dust Sprite]]s in the Mines (floors 40-79)
+|-
+| {{Name|Fire Quartz}}
+| [[Minerals#Foraged Minerals|Foraging]] on floors 80-120 of [[The Mines]], [[Magma Geode]]s, [[Omni Geode]]s
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Omni Geode|5}}
+|}
+
+{| class="wikitable"
+!id="Adventurers Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Adventurer's Bundle (4 items chosen at random)
+|-
+| rowspan="5"|[[File:Adventurer's Bundle.png|center]]
+| rowspan="5"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Slime|99}}
+| Dropped by [[Slimes]]
+|-
+| {{Name|Bat Wing|10}}
+| Dropped by [[Bats]] in [[The Mines]] and the [[Skull Cavern]]
+|- 
+| {{Name|Solar Essence}}
+| Dropped by [[Ghost]]s, [[Squid Kid]]s, or [[Metal Head]]s in [[The Mines]], or by [[Mummy|Mummies]] in the [[Skull Cavern]]; [[Fish Pond]] product from [[Sunfish]]; buy from [[Krobus]]
+|-
+| {{Name|Void Essence}}
+| Dropped by [[Shadow Brute]]s in [[The Mines]] or [[Serpent]]s in the [[Skull Cavern]]; [[Fish Pond]] product from [[Void Salmon]]; buy from [[Krobus]]
+|-
+| {{Name|Bone Fragment|10}}
+| Dropped by [[Skeleton]]s in [[The Mines]] or crates and barrels in [[Skull Cavern]], [[Artifact Spot]]s
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Small Magnet Ring|1}}
+|}
+
+{| class="wikitable"
+!id="Treasure Hunter's Bundle" colspan="4" |[[File:Bundle Yellow.png|32px|link=]] Treasure Hunter's Bundle
+|-
+| rowspan="6"|[[File:Treasure Hunter's Bundle.png|center]]
+| rowspan="6"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Amethyst}}
+| rowspan="6" | [[Mining#Gem Node|Gem Node]] or individual nodes for each gem type in [[The Mines]]; [[Pans|Panning]]; [[Fishing#Treasure Chests|Fishing Treasure Chests]]
+|-
+| {{Name|Aquamarine}}
+|-
+| {{Name|Diamond}}
+|-
+| {{Name|Emerald}}
+|-
+| {{Name|Ruby}}
+|-
+| {{Name|Topaz}}
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Lucky Lunch|1}}
+|}
+
+{| class="wikitable"
+!id="Engineer's Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Engineer's Bundle
+|-
+| rowspan="3"|[[File:Engineer's Bundle.png|center]]
+| rowspan="3"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Iridium Ore}}
+| [[The Mines|Mines]], [[Skull Cavern]], [[Magma Geode]], [[Omni Geode]]
+|-
+| {{Name|Battery Pack}}
+| [[Lightning Rod]], purchase from [[Traveling Cart]]
+|-
+| {{Name|Refined Quartz|5}}
+| [[Furnace]] product from [[Quartz]] or [[Fire Quartz]], [[Recycling Machine]] product from [[Broken Glasses]] or [[Broken CD]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Furnace|2}}
+|}
+
+==Bulletin Board==
+[[File:Community Center Bulletin Board.png|thumb|right|Bulletin Board Before Completion]]
+[[File:Finished Bulletin Board.png|thumb|right|288px|Bulletin Board After Completion]]
+
+The Bulletin Board appears after completing three bundles.
+
+Completing all Bulletin Board bundles improves the player's [[friendship]] rating with every [[Villagers#Non-marriage candidates|non-datable villager]] by two hearts (500 points).  Note that this applies only to non-datable villagers whom the player has met in person. Villagers who do not show on the "Social" tab of the player menu and villagers whose names appear as "???' will not receive 500 points. If the player completes all the bundles before [[Kent]] arrives on 1 Spring, Year 2 -- possible by buying a [[Red Cabbage]] from the [[Traveling Cart]] -- he will not benefit from the friendship increase, and will start at 0 hearts. The [[Dwarf]]'s friendship will be unaffected if the player does not have the [[Dwarvish Translation Guide]].
+
+The morning after, Mayor [[Lewis]] will send a letter saying that packages containing items posted about "years ago" on the [[Community Center]] bulletin board have been appearing in villagers' homes.  He says the packages are all addressed from "your farm".  He expresses his gratitude and says "all of us in town are delighted!"
+
+===Bundles===
+'''''(5 chosen at random)'''''
+
+{| class="wikitable" style="border-collapse: collapse;"
+|-
+!style="background-color: #41AEFF; border-right: 0;"|[[File:Bundle Complete Balloon.png|link=]]
+!style="background-color: #41AEFF; border-left: 0;"|Bulletin<br />Board<br />Reward
+|style="padding-left: 8px; min-width: 200px;"|[[Friendship]] &#9825;
+|}
+
+{| class="wikitable"
+!id="Chefs Bundle" colspan="4" |[[File:Bundle Red.png|32px|link=]] Chef's Bundle
+|-
+| rowspan="6"|[[File:Chef's Bundle.png|center]]
+| rowspan="6"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Maple Syrup}}
+| [[Tapper|Tapped]] [[Maple Tree]]
+|-
+| {{Name|Fiddlehead Fern}}
+| [[Summer]] [[Foraging]] in the [[Secret Woods]]
+|-
+| {{Name|Truffle}}
+| [[Pig]]s
+|-
+| {{Name|Poppy}}
+| [[Summer]] [[Crops]]
+|-
+| {{Name|Maki Roll}}
+| [[Cooking]] (recipe sources: [[The Queen of Sauce]], [[The Stardrop Saloon|The Saloon]])
+|-
+| {{Name|Fried Egg}}
+| [[Cooking]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward: 
+| colspan="2" |{{Name|Pink Cake|3}}
+|}
+
+{| class="wikitable"
+!id="Dye Bundle" colspan="4" |[[File:Bundle Teal.png|32px|link=]] Dye Bundle
+|-
+| rowspan="6"|[[File:Dye Bundle.png|center]]
+| rowspan="6"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+|<table>
+<tr><td>{{Name|Red Mushroom}}</td></tr>
+<tr><td>{{Name|Beet}}</td></tr>
+</table>
+|<table>
+<tr><td>[[Foraging]] in [[The Mines]], [[Summer]] or [[Fall]] [[Foraging]] in the [[Secret Woods]], [[The Cave|The Farm Cave]] (mushroom option), [[Tapper|Tapping]] a [[Mushroom Tree]], [[Mushroom Log]]</td></tr>
+<tr><td>[[Fall]] [[Crops]], seeds purchased at [[Oasis]]</td></tr>
+</table>
+|-
+|<table>
+<tr><td>{{Name|Sea Urchin}}</td></tr>
+<tr><td>{{Name|Amaranth}}</td></tr>
+</table>
+|<table>
+<tr><td>[[The Beach|Beach]] [[Foraging]], after using 300 wood to fix the bridge to the right side of the beach</td></tr>
+<tr><td>[[Fall]] [[Crops]]</td></tr>
+</table>
+|-
+|<table>
+<tr><td>{{Name|Sunflower}}</td></tr>
+<tr><td>{{Name|Starfruit}}</td></tr>
+</table>
+|<table>
+<tr><td>[[Summer]] / [[Fall]] [[Crops]]</td></tr>
+<tr><td>[[Summer]] [[Crops]], seeds purchased at [[Oasis]]</td></tr>
+</table>
+|-
+|<table>
+<tr><td>{{Name|Duck Feather}}</td></tr>
+<tr><td>{{Name|Cactus Fruit}}</td></tr>
+</table>
+|<table>
+<tr><td>[[Duck]]s</td></tr>
+<tr><td>Foraged in [[The Desert|Desert]]; Indoor-only [[Crops]], seeds purchased at [[Oasis]]</td></tr>
+</table>
+|-
+|<table>
+<tr><td>{{Name|Aquamarine}}</td></tr>
+<tr><td>{{Name|Blueberry}}</td></tr>
+</table>
+|<table>
+<tr><td>[[Mining#Mining Nodes|Aquamarine Nodes]], boxes in [[The Mines]], [[Fishing#Treasure Chests|Fishing Treasure Chests]]</td></tr>
+<tr><td>[[Summer]] [[Crops]]</td></tr>
+</table>
+|-
+|<table>
+<tr><td>{{Name|Red Cabbage}}</td></tr>
+<tr><td>{{Name|Iridium Bar}}</td></tr>
+</table>
+|<table>
+<tr><td>[[Summer]] [[Crops]] ([[Red Cabbage Seeds]] are available at [[Pierre's General Store]] in year 2+)</td></tr>
+<tr><td>Can be smelted in a furnace; Rarely obtained as a monster drop.</td></tr>
+</table>
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward: 
+| colspan="2" |{{Name|Seed Maker|1}}
+|}
+
+{| class="wikitable"
+!id="Field Research Bundle" colspan="4" |[[File:Bundle Blue.png|32px|link=]] Field Research Bundle
+|-
+| rowspan="4"|[[File:Field Research Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Purple Mushroom}}
+| [[The Mines]], [[The Cave|The Farm Cave]] (mushroom option), [[Farm Maps|Forest Farm Map]] [[Foraging]] in [[Fall]], [[Mushroom Log]]
+|-
+| {{Name|Nautilus Shell}}
+| [[Winter]] [[The Beach|Beach]] [[Foraging]] (Note: NOT the [[Nautilus Fossil]] artifact)
+|-
+| {{Name|Chub}}
+| Can be found in the mountain lake and river during all seasons, any time.
+|-
+| {{Name|Frozen Geode}}
+| [[The Mines]] floors 40-79
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward: 
+| colspan="2" |{{Name|Recycling Machine|1}}
+|}
+
+{| class="wikitable"
+!id="Fodder Bundle" colspan="4" |[[File:Bundle Yellow.png|32px|link=]] Fodder Bundle
+|-
+| rowspan="3"|[[File:Fodder Bundle.png|center]]
+| rowspan="3"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Wheat|10}}
+| [[Summer]] / [[Fall]] [[Crops]]
+|-
+| {{Name|Hay|10}}
+| Purchase at [[Marnie's Ranch]] or [[Desert Trader]], or harvest from [[Grass]] or [[Wheat]].
+|-
+| {{Name|Apple|3}}
+| [[Apple Tree]]s during [[Fall]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward: 
+| colspan="2" |{{Name|Heater|1}}
+|}
+
+{| class="wikitable"
+!id="Enchanters Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Enchanter's Bundle
+|-
+| rowspan="4"|[[File:Enchanter's Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Oak Resin}}
+| [[Tapper|Tapped]] [[Oak Tree]]
+|- 
+| {{Name|Wine}}
+| [[Keg]]
+|-
+| {{Name|Rabbit's Foot}}
+| [[Rabbit]]s, [[Serpent]] drop in [[Skull Cavern]] (0.8%)
+|-
+| {{Name|Pomegranate}}
+| [[Pomegranate Tree]]s during [[Fall]], [[The Cave|The Farm Cave]] (fruit bat option)
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward: 
+| colspan="2" |{{Name|Gold Bar|5}}
+|}
+
+{| class="wikitable"
+!id="Children's Bundle" colspan="4" |[[File:Bundle Green.png|32px|link=]] Children's Bundle
+|-
+| rowspan="4"|[[File:Children's Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Salmonberry|10}}
+| [[Spring]] forage, days 15-18 only, Farm Cave (fruit bat option)
+|-
+| {{Name|Cookie}}
+| [[Cooking]] recipe; random gift in mail from the player's mother or [[Evelyn]]
+|-
+| {{Name|Ancient Doll}}
+| [[Artifacts|Artifact]] dug up from Mountain, Bus Stop, Forest, or Town; [[Fishing#Treasure Chests|Fishing Treasure Chests]]
+|-
+| {{Name|Ice Cream}}
+| [[Cooking]] recipe; purchase from [[Ice Cream Stand]] during [[Summer]], or from the [[Oasis]] on Sundays
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Battery Pack|3}}
+|}
+
+{| class="wikitable"
+!id="Forager's Bundle" colspan="4" |[[File:Bundle Orange.png|32px|link=]] Forager's Bundle
+|-
+| rowspan="3"|[[File:Forager's Bundle.png|center]]
+| rowspan="3"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Salmonberry|50}}
+| [[Spring]] forage, days 15-18 only, Farm Cave (fruit bat option)
+|-
+| {{Name|Blackberry|50}}
+| [[Fall]] forage, especially days 8-11; [[Fall Seeds]]
+|-
+| {{Name|Wild Plum|15}}
+| [[Fall]] forage, [[Fall Seeds]], Farm Cave (fruit bat option)
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Tapper|3}}
+|}
+
+{| class="wikitable"
+!id="Home Cook's Bundle" colspan="4" |[[File:Bundle Yellow.png|32px|link=]] Home Cook's Bundle
+|-
+| rowspan="3"|[[File:Home Cook's Bundle.png|center]]
+| rowspan="3"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Egg|10}} ("any" - includes Duck, Void, and Ostrich, but not Dinosaur.)
+| [[Chicken]]
+|-
+| {{Name|Milk|10}} ("any" - any size, including Goat)
+| [[Cow]], [[Goat]]
+|-
+| {{Name|Wheat Flour|100}}
+| [[Mill]] product from [[Wheat]], purchase from [[Pierre's General Store]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Complete Breakfast|5}}
+|}
+
+{| class="wikitable"
+!id="Helper's Bundle" colspan="4" |[[File:Bundle Red.png|32px|link=]] Helper's Bundle
+|-
+| rowspan="2"|[[File:Helper's Bundle.png|center]]
+| rowspan="2"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Prize Ticket|1}}
+| Reward for [[Quests#Help Wanted Quests|Help Wanted Quests]]
+|-
+| {{Name|Mystery Box|5}}
+|Found through various means ([[Fishing]], [[Mining]], chopping [[Trees]])
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Stardrop Tea|1}}
+|}
+
+{| class="wikitable"
+!id="Spirit's Eve Bundle" colspan="4" |[[File:Bundle Purple.png|32px|link=]] Spirit's Eve Bundle
+|-
+| rowspan="3"|[[File:Spirit's Eve Bundle.png|center]]
+| rowspan="3"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Jack-O-Lantern|1}}
+| Purchasable on [[Spirit's Eve]]
+|-
+| {{Name|Corn|10}}
+|[[Summer]] / [[Fall]] [[Crops]]
+|-
+| {{Name|Bat Wing|10}}
+| Dropped by [[Bats]] in [[The Mines]] or [[Skull Cavern]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Complete Breakfast|5}}
+|}
+
+{| class="wikitable"
+!id="Winter Star" colspan="4" |[[File:Bundle Red.png|32px|link=]] Winter Star Bundle
+|-
+| rowspan="4"|[[File:Winter Star Bundle.png|center]]
+| rowspan="4"|[[File:Bundle Slot.png|center|link=]][[File:Bundle Slot.png|center|link=]]
+| {{Name|Holly|5}}
+| [[Winter]] [[Foraging]]
+|-
+| {{Name|Plum Pudding|1}}
+| [[Cooking]] recipe from [[Queen of Sauce]]
+|-
+| {{Name|Stuffing|1}}
+| [[Cooking]] recipe from [[Pam#HeartEvents|Pam's 7 Heart Event]]
+|-
+| {{Name|Powdermelon|5}}
+| [[Winter]] [[Crops]]
+|-
+| colspan="2" style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| colspan="2" | {{Name|Mystery Box|3}}
+|}
+
+==Vault==
+[[File:Community Center Vault.png|thumb|right|Vault Before Completion]]
+[[File:Finished Vault Room.png|thumb|right|Vault After Completion]]
+
+The Vault becomes available after completing four bundles. Pressing the large "purchase" button will purchase the bundle and deduct the gold from the total.
+
+Completing all Vault bundles costs {{Price|42500}}, and repairs the [[Bus Stop]]. Taking the Bus grants access to [[The Desert|The Calico Desert]].
+
+===Bundles===
+{| class="wikitable" style="border-collapse: collapse;"
+|-
+!style="background-color: #41AEFF; border-right: 0;"|[[File:Bundle Complete Balloon.png|link=]]
+!style="background-color: #41AEFF; border-left: 0;"|Vault<br />Reward
+|style="padding-left: 8px; min-width: 200px;"|[[Bus Stop|Bus Repair]]
+|}
+
+{| class="wikitable"
+!id="g2500 Bundle" colspan="2"|[[File:Bundle Red.png|32px|link=]] 2,500 Bundle
+|-
+|[[File:2500 Bundle.png|center]]
+| style="text-align: center;"|[[File:Bundle Purchase.png|center|link=]] <p>{{Price|2500}}</p>
+|-
+| style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| {{Name|Chocolate Cake|3}}
+|}
+
+{| class="wikitable"
+!id="g5000 Bundle" colspan="2"|[[File:Bundle Orange.png|32px|link=]] 5,000 Bundle
+|-
+|[[File:5000 Bundle.png|center]]
+| style="text-align: center;"|[[File:Bundle Purchase.png|center|link=]] <p>{{Price|5000}}</p>
+|-
+| style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| {{Name|Quality Fertilizer|30}}
+|}
+
+{| class="wikitable"
+!id="g10000 Bundle" colspan="2"|[[File:Bundle Yellow.png|32px|link=]] 10,000 Bundle
+|-
+|[[File:10000 Bundle.png|center]]
+| style="text-align: center;"|[[File:Bundle Purchase.png|center|link=]] <p>{{Price|10000}}</p>
+|-
+| style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| {{Name|Lightning Rod|1}}
+|}
+
+{| class="wikitable"
+!id="g25000 Bundle" colspan="2"|[[File:Bundle Purple.png|32px|link=]] 25,000 Bundle
+|-
+|[[File:25000 Bundle.png|center]]
+| style="text-align: center;"|[[File:Bundle Purchase.png|center|link=]] <p>{{Price|25000}}</p>
+|-
+| style="text-align: center;" |[[File:Bundle Reward.png|18px|link=]] Reward:
+| {{Name|Crystalarium|1}}
+|}
+
+
+==History==
+{{History|1.5|Introduced.}}
+{{History|1.6|Fixed Specialty Fish, Quality Fish, and Master Fisher's Bundles giving only one [[Dish O' The Sea]] instead of five. Added new crops to Spring, Summer and Fall Crops Bundles. Added 4 new remixed bundles: Forest Bundle, Helper's Bundle, Spirit's Eve Bundle and Winter Star Bundle. Forager's Bundle now only requires 15 Wild Plums instead of 20. Night Fishing Bundle now awards a Glow Ring instead of a Small Glow Ring. River Fish Bundle now rewards Deluxe Bait instead of Bait.}}
+
+[[Category:Gameplay]]
+
+[[de:Remixed Bündel]]<!--"Remixed" isn't localised in German yet, might be temporary name-->
+[[es:Lotes Mezclados]]
+[[fr:Paquets Remixés]]
+[[it:Pacchetti Rimescolati]]
+[[ja:リミックスバンドル]]
+[[ko:리믹스 꾸러미]]
+[[hu:Kevert Csomagok]]
+[[pt:Conjuntos Aleatórios]]
+[[ru:Смешанные узелки]]
+[[tr:Düzenlenmiş Yığınlar]]
+[[zh:重新混合的收集包]]

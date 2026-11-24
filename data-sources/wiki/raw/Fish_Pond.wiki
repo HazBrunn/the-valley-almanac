@@ -1,0 +1,1218 @@
+{{Infobox building
+|name      = Fish Pond
+|image     = Fish Pond.png
+|width     = 200px
+|cost      = {{Price|5000}}
+|materials = {{Name|Stone|200}}{{Name|Seaweed|5}}{{Name|Green Algae|5}}
+|size      = 5x5
+|sizehv    = 5x5
+}}
+The '''Fish Pond''' is a type of [[Carpenter's Shop#Farm Buildings|farm building]] purchasable from [[Robin]] at the [[Carpenter's Shop]]. It takes two days to build and occupies a 5x5 tile space.
+
+The following can be placed in a Fish Pond:
+* All fish caught with a [[Tools#Fishing Poles|Fishing Rod]] or a [[Crab Pot]], including [[Fish#Legendary Fish|Legendary Fish]] and [[Fish#Legendary Fish II|Legendary Fish II]]
+* [[Coral]] and [[Sea Urchin]] (for simplicity, these are included when referencing fish in a Fish Pond, even though they are otherwise considered forage and not fish)
+* [[Golden Animal Cracker]], once per Fish Pond to double the fish pond's output of its normal product
+
+The following cannot be placed in a Fish Pond:
+* [[Green Algae]], [[Seaweed]], [[White Algae]], [[Sea Jelly]], [[River Jelly]], and [[Cave Jelly]], which count towards the [[Fishing#Achievements|Fishing achievements]] but are otherwise not considered fish
+
+Fish in a Fish Pond have a chance to produce [[Roe]] or certain other items. A [[Golden Animal Cracker]] can be thrown into the fish pond to double its output. The chance of producing an item and the item produced is determined randomly based on the contents and population of the Fish Pond. Also, fish reproduce up to the limit of their Fish Pond, except [[Tiger Trout]], which do not reproduce. The time it takes for a new fish to spawn varies from 1 to 5 days, depending on the fish.
+
+If a Fish Pond produces any amount of [[Roe]], the game generates a random number between 0 and 1. If it is less than 0.2, the quantity of the Roe produced increases by 1. This repeats until the random number is greater than or equal to 0.2, at which point the chance for the quantity of the Roe to increase ends. This, on average, will give 0.25 extra Roe. This increase is taken into account before the doubling from the [[Golden Animal Cracker]].<ref name="extraroe" />
+
+Fish can be harvested one at a time by casting the fishing pole into the pond. Harvested fish are always of regular quality (even if higher quality fish were thrown into the pond). Although energy is consumed when casting the rod into the pond, a simplified mechanism is used for catching the fish: fish are caught automatically (without the minigame), no [[bait]] is consumed, and the durability of [[tackle]] is not depleted. The fish do not count towards the [[Collections|Fish Collection]], and no fishing experience is gained by harvesting fish from a pond. However, fishing experience is gained when completing fish pond [[#Quests|quests]] or collecting items [[#Produce|produced]] by a pond.
+
+Each pond holds only one type of fish at a time. Ponds are populated by holding the desired fish (with the inventory menu closed) and right-clicking on the pond to "throw" the fish in. Attempting to throw a fish into a pond that already contains a different type of fish yields a prompt saying that type of fish doesn't want to live in a pond of another type.
+
+Ponds can hold up to a maximum of 10 fish of the same type, except for [[Fish#Legendary Fish|Legendary Fish]] and [[Fish#Legendary Fish II|Legendary Fish II]], where it can only hold up to 1. The standard initial capacity of a pond is three fish. Several rare fish have an initial capacity of just one fish, namely [[Blobfish]], [[Ghostfish]], [[Ice Pip]]s, [[Lava Eel]]s, [[Slimejack]]s, [[Stonefish]], [[Sturgeon]]s, [[Void Salmon]]s, and [[Woodskip]]s. Conversely, [[Tiger Trout]], [[Sea Urchin]]s, and [[Coral]] have an initial capacity of ten.
+
+==Empty Pond==
+A fish pond can be emptied either by using a fishing rod to catch and remove each fish or by selecting the “empty pond” option in the fish pond menu.
+
+Catching and removing all the fish simply reduces the pond population but does not reset the pond. Only the same species of fish can be added to the pond. All quest-related capacity increases are retained.
+
+Selecting the “empty pond” option in the fish pond fully resets the pond, returning it to the same state as a newly built pond. Any remaining fish in the pond will flop out. If a [[Golden Animal Cracker]] was used on the fish pond, it will permanently disappear.
+
+==Quests==
+Fish in a pond reproduce at a fixed rate until they reach the pond's current capacity. Fish quests allow the player to increase the capacity of the pond, up to a maximum capacity of 10 fish (1 for [[Fish#Legendary Fish|Legendary Fish]] and [[Fish#Legendary Fish II|Legendary Fish II]]).
+
+The fish spawn frequency is species dependent, and ranges from 1 to 5 days (except for [[Tiger Trout]], which does not reproduce). More expensive fish spawn more slowly. Fish will reproduce even if only one fish is present in the pond. Instead of waiting for fish spawning, more fish can be thrown into the pond up to its current capacity.
+
+A new fish quest is initiated when population growth is prevented by the pond capacity. This is indicated by an exclamation point appearing in the center of the pond. A quest is not triggered if the player throws fish into a pond to reach capacity. Instead, the player must wait 1-5 days for the fish quest to start.  (Adding fish to the pond does not reset the fish spawning clock, so the next quest will start <samp>Spawn_Frequency</samp> days after the last spawning event or completed quest). Also, removing fish from a pond with an active quest disables the quest and removes the quest exclamation point, but it does not reset the quest -- as soon as the pond returns to capacity, the quest resumes with the same item requested again.
+
+The fish quests require the player to fetch a specified number of one item and throw it into the pond. If multiples of an item are requested, they are added one at a time, meaning different qualities can be combined. When a quest is completed, the fish will jump out of the pond and thank the player (using one of 19 [[#Responses|responses]]). Also, the player is granted 25-45 [[Fishing#Experience Points|Fishing XP]] (dependent upon the fish spawning frequency, <code>XP = 20 + 5 &times; Spawn_Frequency</code>).
+
+The possible items depend upon the fish species and the pond capacity. When multiple items are possible for a given quest (or when the number of requested items is variable), the details of the request are randomly selected when the quest initiates. The random selection is seeded based on the fish pond location and day when the quest initiated; reloading a game save will not alter the selection.
+
+The fish population does not immediately increase when a quest is complete. Instead, the fish spawning clock resets to zero days, and the next population increase happens <samp>Spawn_Frequency</samp> days later. This means that even if a fish quest is completed immediately, the fish population takes more than twice as long to increase each time there is a quest.  For example, instead of taking 45 days for an [[Ice Pip]] pond to reach a population of 10, it takes at least 69 days (assuming only one initial fish is thrown into the pond).
+
+<!--Note: The fish appear in the same order as in the Fish Pond data file. Please keep it like that.-->
+{|class="wikitable sortable"
+|-
+!style="position: sticky; top: 0;"|Fish
+!style="position: sticky; top: 0;"|Population Quest Occurs at
+!style="position: sticky; top: 0;"|Item(s) Required
+!style="position: sticky; top: 0;"|Normal Spawn Frequency
+|-
+|rowspan="2"|[[Lionfish]]
+|3
+|3 [[Ginger]] or 1 [[Pineapple]]
+|rowspan="2"| 3 days
+|-
+|5
+|1 [[Mango]]
+|-
+|rowspan="2"|[[Blue Discus]]
+|3
+|3 [[Taro Root]]
+|rowspan="2"| 3 days
+|-
+|5
+|10 [[Taro Root]]
+|-
+|rowspan="2"|[[Stingray]]
+|3
+|7 [[Cinder Shard]]
+|rowspan="2"| 4 days
+|-
+|5
+|1 [[Dragon Tooth]]
+|-
+|rowspan="2"|[[Squid]]
+|3
+|3 [[Coral]] or 1 [[Sea Urchin]]
+|rowspan="2"| 3 days
+|-
+|5
+|2 [[Sardine]]
+|-
+|rowspan="3"|[[Midnight Squid]]
+|3
+|3 [[Coral]] or 2 [[Sea Urchin]]
+|rowspan="3"| 3 days
+|-
+|5
+|2 [[Sardine]]
+|-
+|8
+|1 [[Ocean Stone]]
+|-
+|rowspan="2"|[[Carp]]
+|3
+|2 [[Green Algae]]
+|rowspan="2"| 1 day
+|-
+|5
+|2 [[Cave Carrot]]
+|-
+|rowspan="2"|[[Midnight Carp]]
+|3
+|10 [[Coal]]
+|rowspan="2"| 2 days
+|-
+|5
+|1 [[River Jelly]]
+|-
+|rowspan="2"|[[Flounder]]
+|3
+|3 [[Coral]]
+|rowspan="2"| 2 days
+|-
+|5
+|1 [[Sea Jelly]]
+|-
+|rowspan="2"|[[Herring]]
+|3
+|3 [[Driftwood]]
+|rowspan="2"| 1 day
+|-
+|5
+|1 [[Coral]]
+|-
+|rowspan="2"|[[Sunfish]]
+|3
+|2 [[Acorn]] or 2 [[Geode]]
+|rowspan="2"| 1 day
+|-
+|5
+|1 [[Amethyst]] or 3 [[Mixed Seeds]]
+|-
+|rowspan="4"|[[Blobfish]]
+|1
+|3 [[Coral]], 2 [[Frozen Tear]], or 2 [[Sea Urchin]]
+|rowspan="4"| 4 days
+|-
+|3
+|5 [[Coffee Bean]], 1 [[Mayonnaise]], or 1 [[Pizza]]
+|-
+|5
+|1 [[Cookie]], 1 [[Green Tea]], or 1 [[Wine]]
+|-
+|7
+|1 [[Rainbow Shell]] or 1 [[Rice Pudding]]
+|-
+|rowspan="4"|[[Lava Eel]]
+|1
+|3 [[Fire Quartz]]
+|rowspan="4"| 5 days
+|-
+|3
+|1 [[Basalt]], 2 [[Diamond]], or 1 [[Dwarf Scroll III]]
+|-
+|5
+|2 [[Mega Bomb]]
+|-
+|7
+|1 [[Iridium Bar]]
+|-
+|rowspan="4"|[[Woodskip]]
+|1
+|10 [[Hardwood]]
+|rowspan="4"| 2 days
+|-
+|3
+|2-3 [[Common Mushroom]] or 2-3 [[Red Mushroom]]
+|-
+|5
+|1 [[Oak Resin]] or 1 [[Pine Tar]]
+|-
+|7
+|2 [[Jade]] or 1 [[Tea Leaves]]
+|-
+|rowspan="2"|[[Sandfish]]<br />[[Scorpion Carp]]
+|3
+|3 [[Cactus Fruit]] or 3 [[Coconut]]
+|rowspan="2"| 4 days
+|-
+|5
+|1 [[Golden Relic]]
+|-
+|rowspan="4"|[[Void Salmon]]
+|1
+|5 [[Void Essence]]
+|rowspan="4"| 4 days
+|-
+|3
+|10 [[Bat Wing]]
+|-
+|5
+|1 [[Diamond]] or 1 [[Void Egg]]
+|-
+|7
+|1 [[Iridium Ore]]
+|-
+|rowspan="4"|[[Slimejack]]
+|1
+|20 [[Slime]]
+|rowspan="4"| 3 days
+|-
+|3
+|10 [[Bug Meat]]
+|-
+|5
+|1 [[Algae Soup]] or 5 [[Wild Bait]]
+|-
+|7
+|1 [[Petrified Slime]]
+|-
+|rowspan="4"|[[Stonefish]]
+|1
+|10 [[Copper Ore]]
+|rowspan="4"| 5 days
+|-
+|3
+|5 [[Earth Crystal]]
+|-
+|5
+|10 [[Coal]] or 5 [[Geode]]
+|-
+|7
+|4 [[Copper Bar]] or 5 [[Refined Quartz]]
+|-
+|rowspan="4"|[[Ice Pip]]
+|1
+|10 [[Iron Ore]]
+|rowspan="4"| 5 days
+|-
+|3
+|5 [[Frozen Tear]]
+|-
+|5
+|10 [[Coal]], 1 [[Crystal Fruit]], or 5 [[Frozen Geode]]
+|-
+|7
+|4 [[Iron Bar]] or 10 [[Refined Quartz]]
+|-
+|rowspan="4"|[[Ghostfish]]
+|1
+|5 [[Quartz]]
+|rowspan="4"| 2 days
+|-
+|3
+|5 [[Cave Carrot]]
+|-
+|5
+|5 [[White Algae]]
+|-
+|7
+|1 [[Dwarf Scroll I]], 1 [[Dwarf Scroll II]], or 2 [[Refined Quartz]]
+|-
+|rowspan="4"|[[Sturgeon]]
+|1
+|1 [[Diamond]]
+|rowspan="4"| 4 days
+|-
+|3
+|1 [[Jellies and Pickles|Jelly]], 2 [[Maple Syrup]], or 1 [[Jellies and Pickles|Pickles]]
+|-
+|5
+|3 [[Omni Geode]]
+|-
+|7
+|1 [[Nautilus Shell]]
+|-
+|rowspan="3"|[[Super Cucumber]]
+|3
+|3 [[Coral]], 1 [[Honey]], 1 [[Oyster]], 3 [[Driftwood]], or 3 [[Refined Quartz]]
+|rowspan="3"| 4 days
+|-
+|5
+|1 [[Dried Starfish]], 2 [[Emerald]], 2-3 [[Omni Geode]], or 2-3 [[Purple Mushroom]]
+|-
+|7
+|1 [[Diamond]], 3 [[Gold Bar]], 1 [[Iridium Ore]], 1 [[Jellies and Pickles|Jelly]], 1 [[Jellies and Pickles|Pickles]], or 2 [[Sea Urchin]]
+|-
+|rowspan="3"|[[Octopus]]
+|3
+|3 [[Coral]], 1 [[Honey]], 1 [[Oyster]], or 3 [[Refined Quartz]]
+|rowspan="3"| 4 days
+|-
+|5
+|1 [[Dried Starfish]], 2 [[Emerald]], 2-3 [[Omni Geode]], or 2-3 [[Purple Mushroom]]
+|-
+|7
+|1 [[Green Tea]]
+|-
+|rowspan="3"|[[Rainbow Trout]]
+|3
+|3 [[Coral]], 1 [[Honey]], 1 [[Oyster]], or 3 [[Refined Quartz]]
+|rowspan="3"| 2 days
+|-
+|5
+|1 [[Dried Starfish]], 2 [[Emerald]], 2-3 [[Omni Geode]], or 2-3 [[Purple Mushroom]]
+|-
+|7
+|1 [[Diamond]], 3 [[Gold Bar]], 1 [[Iridium Ore]], 1 [[Jellies and Pickles|Jelly]], or 1 [[Jellies and Pickles|Pickles]]
+|-
+|rowspan="3"|[[Spook Fish]]
+|3
+|3 [[Amethyst]], 3 [[Coral]], 3 [[Iron Bar]], 1 [[Oyster]], 3 [[Red Mushroom]], or 3 [[Refined Quartz]]
+|rowspan="3"| 4 days
+|-
+|5
+|1 [[Dried Starfish]], 2 [[Emerald]], 1 [[Granite]], 2-3 [[Omni Geode]], or 2-3 [[Purple Mushroom]]
+|-
+|7
+|1 [[Diamond]], 3 [[Gold Bar]], 1 [[Iridium Ore]], 1 [[Mayonnaise]], or 1 [[Jellies and Pickles|Pickles]]
+|-
+|rowspan="3"|[[Catfish]]
+|3
+|2 [[Amethyst]], 3 [[Copper Bar]], 3 [[Red Mushroom]], or 2 [[Topaz]]
+|rowspan="3"| 4 days
+|-
+|5
+|10 [[Bat Wing]], 2 [[Earth Crystal]], 5 [[Mixed Seeds]], or 2-3 [[Purple Mushroom]]
+|-
+|7
+|1 [[Diamond]], 3 [[Iron Bar]], 1 [[Mayonnaise]], or 1 [[Jellies and Pickles|Pickles]]
+|-
+|rowspan="3"|[[Dorado]]<br />[[Lingcod]]<br />[[Pike]]
+|3
+|2 [[Bream]], 2 [[Carp]], or 2 [[Chub]]
+|rowspan="3"| 3 days
+|-
+|5
+|2 [[Bullhead]] or 2 [[Largemouth Bass]]
+|-
+|7
+|2 [[Ghostfish]], 2 [[Sandfish]], or 2 [[Woodskip]]
+|-
+|[[Coral]]
+|N/A
+|N/A
+| 2 days
+|-
+|[[Sea Urchin]]
+|N/A
+|N/A
+| 4 days
+|-
+|rowspan="3"|[[Crayfish]]<br />[[Snail]]
+|3
+|5 [[Clay]] or 15 [[Fiber]]
+|rowspan="3"| 2 days
+|-
+|5
+|10 [[Bug Meat]], 1 [[Cave Carrot]], or 5 [[Hardwood]]
+|-
+|7
+|1 [[Field Snack]], 5 [[Solar Essence]], or 1 [[Wild Bait]]
+|-
+|rowspan="3"|[[Periwinkle]]
+|3
+|5 [[Clay]] or 15 [[Fiber]]
+|rowspan="3"| 1 day
+|-
+|5
+|10 [[Bug Meat]], 1 [[Cave Carrot]], or 5 [[Hardwood]]
+|-
+|7
+|1 [[Field Snack]], 5 [[Solar Essence]], or 1 [[Wild Bait]]
+|-
+|rowspan="3"|[[Mussel]]
+|3
+|5 [[Clay]]
+|rowspan="3"| 1 day
+|-
+|5
+|10 [[Bug Meat]] or 5 [[Quartz]]
+|-
+|7
+|1 [[Sea Urchin]], 5 [[Solar Essence]], or 1 [[Wild Bait]]
+|-
+|rowspan="3"|[[Clam]]<br />[[Cockle]]<br />[[Oyster]]<br />[[Shrimp]]
+|3
+|5 [[Clay]]
+|rowspan="3"| 2 days
+|-
+|5
+|10 [[Bug Meat]] or 5 [[Quartz]]
+|-
+|7
+|1 [[Sea Urchin]], 5 [[Solar Essence]], or 1 [[Wild Bait]]
+|-
+|rowspan="3"|[[Crab]]<br />[[Lobster]]
+|3
+|5 [[Clay]]
+|rowspan="3"| 3 days
+|-
+|5
+|10 [[Bug Meat]] or 5 [[Quartz]]
+|-
+|7
+|1 [[Sea Urchin]], 5 [[Solar Essence]], or 1 [[Wild Bait]]
+|-
+|rowspan="3"|[[Anchovy]]
+|3
+|3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]]
+|rowspan="3"| 1 day
+|-
+|5
+|2 [[Clam]] or 2 [[Coral]]
+|-
+|7
+|2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]
+|-
+|rowspan="3"|[[Albacore]]<br />[[Halibut]]<br />[[Red Mullet]]<br />[[Red Snapper]]<br />[[Sardine]]<br />[[Sea Cucumber]]<br />[[Tilapia]]
+|3
+|3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]]
+|rowspan="3"| 2 days
+|-
+|5
+|2 [[Clam]] or 2 [[Coral]]
+|-
+|7
+|2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]
+|-
+|rowspan="3"|[[Eel]]<br />[[Tuna]]
+|3
+|3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]]
+|rowspan="3"| 3 days
+|-
+|5
+|2 [[Clam]] or 2 [[Coral]]
+|-
+|7
+|2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]
+|-
+|rowspan="3"|[[Pufferfish]]
+|3
+|3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]]
+|rowspan="3"| 4 days
+|-
+|5
+|2 [[Clam]] or 2 [[Coral]]
+|-
+|7
+|2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]
+|-
+|rowspan="3"|[[Bream]]<br />[[Chub]]<br />[[Perch]]<br />[[Salmon]]<br />[[Shad]]<br />[[Smallmouth Bass]]
+|3
+|3 [[Acorn]], 10 [[Bug Meat]], 3 [[Maple Seed]], or 3 [[Pine Cone]]
+|rowspan="3"| 2 days
+|-
+|5
+|3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]]
+|-
+|7
+|1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]]
+|-
+|rowspan="3"|[[Walleye]]
+|3
+|3 [[Acorn]], 10 [[Bug Meat]], 3 [[Maple Seed]], or 3 [[Pine Cone]]
+|rowspan="3"| 3 days
+|-
+|5
+|3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]]
+|-
+|7
+|1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]]
+|-
+|rowspan="3"|[[Goby]]
+|3
+|3 [[Acorn]], 10 [[Bug Meat]], 3 [[Maple Seed]], or 3 [[Pine Cone]]
+|rowspan="3"| 4 days
+|-
+|5
+|3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]]
+|-
+|7
+|1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]]
+|-
+|rowspan="3"|[[Bullhead]]
+|3
+|10 [[Bug Meat]], 2-3 [[Clay]], 2-3 [[Green Algae]], or 5 [[Slime]]
+|rowspan="3"| 2 days
+|-
+|5
+|2-3 [[Common Mushroom]], 1-2 [[Earth Crystal]], or 1 [[Limestone]]
+|-
+|7
+|1 [[Mudstone]], 1 [[Snail]], or 5 [[Wild Bait]]
+|-
+|rowspan="3"|[[Largemouth Bass]]
+|3
+|10 [[Bug Meat]], 2-3 [[Clay]], 2-3 [[Green Algae]], or 5 [[Slime]]
+|rowspan="3"| 3 days
+|-
+|5
+|2-3 [[Common Mushroom]], 1-2 [[Earth Crystal]], or 1 [[Limestone]]
+|-
+|7
+|1 [[Mudstone]], 1 [[Snail]], or 5 [[Wild Bait]]
+|-
+|}
+
+==Produce==
+Fish ponds may produce items in the chum bucket daily, with items being more likely at higher fish populations. The most common item is [[Roe]], but at high populations, some fish can produce rare or valuable items. A [[Golden Animal Cracker]] can be thrown into the fish pond to upgrade and double its output, with a visual indicator of turning the chum bucket golden. This can be reverted by emptying the pond with the “empty pond” option.
+
+Any produced items are collected by clicking on the fish pond. Uncollected items only persist to the next day if new items are not produced; otherwise the new items replace the uncollected items. Collecting an item grants [[Fishing]] XP according to <code>XP = 10  + (0.04 &times; the sell price of the item)</code>
+
+For all ponds besides Legendary Fish and Legendary Fish II ponds, the base chance that an item is possible ranges from 23% to 95% (<code>base_chance = (population of pond &times; 0.08) + 0.15</code>). Empty ponds never produce items. The game then selects which item will appear, based on the fish species and population. The item-selection can produce no item (especially at low populations), meaning that the overall daily item chance may be much lower than the base 23-95% value. For Legendary Fish and Legendary Fish II ponds, the base chance that an item is possible is 50%.<ref name="base_chance"/>
+
+The table below shows all possible fish pond products, along with the required fish pond population for the item to be possible. The column "% of Items" provides each item's chance as a fraction of all items produced by the pond<ref name="item_chance"/>. The column "Overall Daily Chance" is the chance of the item appearing on a given day, obtained by multiplying the base chance (23-95%) by the "% of Items".  Both chances may vary depending upon the fish pond population, as may the possible counts of a given item.  More details on all item chances are provided on each individual fish page.
+
+{|class="wikitable sortable"
+|-
+!style="position: sticky; top: 0;"|Fish
+!style="position: sticky; top: 0;"|Item(s) Produced
+!style="position: sticky; top: 0;"|Required Population
+!style="position: sticky; top: 0;"|% of Items
+!data-sort-type="number" style="position: sticky; top: 0;"|Overall Daily Chance
+|-
+|rowspan="3"| [[Lionfish]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="71"| 71-100%
+|data-sort-value="23"| 23-67%
+|-
+|data-sort-value="Taro Tuber"| 2-5 [[Taro Tuber]]
+| 4
+|data-sort-value="10"| 10-28%
+|data-sort-value="20"| 20-26%
+|-
+|data-sort-value="Tiger Slime Egg"| 1 [[Slime Egg|Tiger Slime Egg]]
+| 9
+| 2%
+|data-sort-value="1.7"| 1.7-1.9%
+|-
+|rowspan="3"| [[Blue Discus]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="80"| 80-100%
+|data-sort-value="23"| 23-76%
+|-
+|data-sort-value="Banana"| 1 [[Banana]]
+| 4
+|data-sort-value="7"| 7-16%
+|data-sort-value="5"| 5-15%
+|-
+|data-sort-value="Golden Coconut"| 1 [[Golden Coconut]]
+| 9
+| 5%
+| 4%
+|-
+|rowspan="5"| [[Stingray]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="80"| 80-100%
+|data-sort-value="18"| 18-77%
+|-
+|data-sort-value="Magma Cap"| 1 [[Magma Cap]]
+| 4
+| 5%
+| 2%
+|-
+|data-sort-value="Cinder Shard"| 2-5 [[Cinder Shard]]
+| 7
+|data-sort-value="8"| 8-10%
+|data-sort-value="7"| 7-9%
+|-
+|data-sort-value="Dragon Tooth"| 1 [[Dragon Tooth]]
+| 9
+| 5%
+| 5%
+|-
+|data-sort-value="Battery Pack"| 1 [[Battery Pack]]
+| 9
+| 10%
+|data-sort-value="9"| 9-10%
+|-
+| [[Squid]]
+|data-sort-value="Squid Ink"| 1 [[Squid Ink]]
+| 1
+|data-sort-value="25"| 25-100%
+|data-sort-value="6"| 6-95%
+|-
+| [[Midnight Squid]]
+|data-sort-value="Squid Ink"| 1-2 [[Squid Ink]]
+| 1
+|data-sort-value="20"| 20-97%
+|data-sort-value="5"| 5-92%
+|-
+| [[Carp]]<br />[[Catfish]]<br />[[Herring]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+| 100%
+|data-sort-value="23"| 23-95%
+|-
+|rowspan="2"| [[Midnight Carp]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="92"| 92-100%
+|data-sort-value="23"| 23-87%
+|-
+|data-sort-value="River Jelly"| 1 [[River Jelly]]
+| 7
+|data-sort-value="5"| 5-8%
+|data-sort-value="4"| 4-7%
+|-
+|rowspan="2"| [[Flounder]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="92"| 92-100%
+|data-sort-value="23"| 23-87%
+|-
+|data-sort-value="Sea Jelly"| 1 [[Sea Jelly]]
+| 7
+|data-sort-value="5"| 5-8%
+|data-sort-value="4"| 4-7%
+|-
+|rowspan="2"| [[Sunfish]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="83"| 83-90%
+|data-sort-value="21"| 21-79%
+|-
+|data-sort-value="Solar Essence"| 1 [[Solar Essence]]
+| 10
+| 8%
+| 8%
+|-
+|rowspan="3"| [[Blobfish]]
+|data-sort-value="Roe"| 1-2 [[Roe]]
+| 1
+|data-sort-value="90"| 90-100%
+|data-sort-value="21"| 21-91%
+|-
+|data-sort-value="Pearl"| 1 [[Pearl]]
+| 9
+| 2%
+|data-sort-value="1.7"| 1.7-1.9%
+|-
+|data-sort-value="Warp Totem: Farm"| 5 [[Warp Totem: Farm]]
+| 9
+| 2%
+|data-sort-value="1.7"| 1.7-1.9%
+|-
+|rowspan="5"| [[Lava Eel]]
+|data-sort-value="Roe"| 1-3 [[Roe]]
+| 1
+|data-sort-value="72"| 72-90%
+|data-sort-value="18"| 18-74%
+|-
+|data-sort-value="Gold Ore"| 5 [[Gold Ore]]
+| 3
+|data-sort-value="7"| 7-10%
+|data-sort-value="4"| 4-8%
+|-
+|data-sort-value="Cave Jelly"| 1-3 [[Cave Jelly]]
+| 8
+|data-sort-value="3"| 3-7%
+|data-sort-value="3"| 3-6%
+|-
+|data-sort-value="Spicy Eel"| 5 [[Spicy Eel]]
+| 9
+|data-sort-value="3.6"| 3.6-3.9%
+|data-sort-value="3.4"| 3.4-3.5%
+|-
+|data-sort-value="Magma Geode"| 5-10 [[Magma Geode]]
+| 9
+|data-sort-value="2"| 2-5%
+|data-sort-value="2"| 2-5%
+|-
+|rowspan="6"| [[Woodskip]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="47"| 47-66%
+|data-sort-value="15"| 15-45%
+|-
+|data-sort-value="Wood"| 1-10 [[Wood]]
+| 1
+|data-sort-value="20"| 20-27%
+|data-sort-value="5"| 5-22%
+|-
+|data-sort-value="Hardwood"| 5 [[Hardwood]]
+| 6
+|data-sort-value="8"| 8-10%
+|data-sort-value="6"| 6-7%
+|-
+|data-sort-value="Acorn"| 1-5 [[Acorn]]
+| 9
+| 5%
+|data-sort-value="4"| 4-5%
+|-
+|data-sort-value="Maple Seed"| 1-5 [[Maple Seed]]
+| 9
+| 5%
+|data-sort-value="4"| 4-5%
+|-
+|data-sort-value="Pine Cone"| 1-5 [[Pine Cone]]
+| 9
+| 5%
+| 4%
+|-
+| [[Tiger Trout]]
+|data-sort-value="Roe"| 1-2 [[Roe]]
+| 1
+| 100%
+|data-sort-value="23"| 23-95%
+|-
+|rowspan="2"| [[Sandfish]]<br />[[Scorpion Carp]]
+|data-sort-value="Roe"| 1-3 [[Roe]]
+| 1
+|data-sort-value="75"| 75-88%
+|data-sort-value="17"| 17-82%
+|-
+|data-sort-value="Cactus Seeds"| 2-5 [[Cactus Seeds]]
+| 10
+| 5%
+| 5%
+|-
+|rowspan="3"| [[Void Salmon]]
+|data-sort-value="Roe"| 1-3 [[Roe]]
+| 1
+|data-sort-value="87"| 87-100%
+|data-sort-value="23"| 23-83%
+|-
+|data-sort-value="Void Essence"| 5-10 [[Void Essence]]
+| 8
+| 8%
+|data-sort-value="6"| 6-7%
+|-
+|data-sort-value="Void Egg"| 1 [[Void Egg]]
+| 9
+| 5%
+|data-sort-value="4"| 4-5%
+|-
+|rowspan="4"| [[Slimejack]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="46"| 46-80%
+|data-sort-value="18"| 18-57%
+|-
+|data-sort-value="Green Algae"| 1 [[Green Algae]]
+| 3
+|data-sort-value="6"| 6-10%
+|data-sort-value="4"| 4-8%
+|-
+|data-sort-value="Slime"| 10-50 [[Slime]]
+| 9
+| 34%
+|data-sort-value="30"| 30-32%
+|-
+|data-sort-value="Green Slime Egg"| 1 [[Slime Egg|Green Slime Egg]]
+| 9
+| 2%
+|data-sort-value="1.7"| 1.7-1.9%
+|-
+|rowspan="5"| [[Stonefish]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="23"| 23-43%
+|data-sort-value="6"| 6-41%
+|-
+|data-sort-value="Copper Ore"| 5 [[Copper Ore]]
+| 3
+|data-sort-value="8"| 8-10%
+|data-sort-value="4"| 4-8%
+|-
+|data-sort-value="Geode"| 1-5 [[Geode]]
+| 9
+| 16%
+|data-sort-value="14"| 14-15%
+|-
+|data-sort-value="Stone"| 30 [[Stone]]
+| 9
+| 7%
+|data-sort-value="6"| 6-7%
+|-
+|data-sort-value="Diamond"| 1 [[Diamond]]
+| 9
+| 0.8%
+| 0.7%
+|-
+|rowspan="5"| [[Ice Pip]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="23"| 23-43%
+|data-sort-value="6"| 6-41%
+|-
+|data-sort-value="Iron Ore"| 5 [[Iron Ore]]
+| 3
+|data-sort-value="8"| 8-10%
+|data-sort-value="4"| 4-8%
+|-
+|data-sort-value="Frozen Geode"| 1-5 [[Frozen Geode]]
+| 9
+| 16%
+|data-sort-value="14"| 14-15%
+|-
+|data-sort-value="Frozen Tear"| 5 [[Frozen Tear]]
+| 9
+| 7%
+|data-sort-value="6"| 6-7%
+|-
+|data-sort-value="Diamond"| 1 [[Diamond]]
+| 9
+| 0.8%
+| 0.7%
+|-
+|rowspan="5"| [[Ghostfish]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="72"| 72-100%
+|data-sort-value="23"| 23-73%
+|-
+|data-sort-value="Quartz"| 1-3 [[Quartz]]
+| 3
+|data-sort-value="8"| 8-17%
+|data-sort-value="3"| 3-17%
+|-
+|data-sort-value="White Algae"| 5 [[White Algae]]
+| 9
+| 5%
+|data-sort-value="4"| 4-5%
+|-
+|data-sort-value="Refined Quartz"| 1 [[Refined Quartz]]
+| 9
+| 4%
+| 4%
+|-
+|data-sort-value="Pale Broth"| 3 [[Pale Broth]]
+| 9
+| 1.9%
+|data-sort-value="1.7"| 1.7-1.8%
+|-
+| [[Sturgeon]]
+|data-sort-value="Roe"| 1-2 [[Roe]]
+| 1
+|data-sort-value="20"| 20-100%
+|data-sort-value="5"| 5-95%
+|-
+|rowspan="3"| [[Super Cucumber]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="90"| 90-100%
+|data-sort-value="23"| 23-86%
+|-
+|data-sort-value="Iridium Ore"| 1-3 [[Iridium Ore]]
+| 9
+| 5%
+|data-sort-value="4"| 4-5%
+|-
+|data-sort-value="Amethyst"| 1-3 [[Amethyst]]
+| 9
+| 5%
+|data-sort-value="4"| 4-5%
+|-
+|rowspan="2"| [[Octopus]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="83"| 83-100%
+|data-sort-value="23"| 23-79%
+|-
+|data-sort-value="Omni Geode"| 1-10 [[Omni Geode]]
+| 9
+| 17%
+|data-sort-value="15"| 15-16%
+|-
+|rowspan="3"| [[Rainbow Trout]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="98"| 98-100%
+|data-sort-value="23"| 23-93%
+|-
+|data-sort-value="Rainbow Shell"| 1 [[Rainbow Shell]]
+| 9
+| 2%
+|data-sort-value="1.7"| 1.7-1.9%
+|-
+|data-sort-value="Prismatic Shard"| 1 [[Prismatic Shard]]
+| 9
+| 0.1%
+| 0.09%
+|-
+|rowspan="2"| [[Spook Fish]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+| 100%
+|data-sort-value="23"| 23-95%
+|-
+|data-sort-value="Treasure Chest"| 1 [[Treasure Chest]]
+| 9
+| 0.3%
+| 0.3%
+|-
+|rowspan="2"| [[Dorado]]<br />[[Lingcod]]<br />[[Pike]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="95"| 95-100%
+|data-sort-value="23"| 23-90%
+|-
+|data-sort-value="Bug Meat"| 20 [[Bug Meat]]
+| 9
+| 5%
+|data-sort-value="4"| 4-5%
+|-
+|rowspan="2"| [[Coral]]
+|data-sort-value="Dolomite"| 1 [[Dolomite]]
+| 9
+| 6%
+|data-sort-value="5"| 5-6%
+|-
+|data-sort-value="Limestone"| 1 [[Limestone]]
+| 9
+| 6%
+| 5%
+|-
+| [[Sea Urchin]]
+|data-sort-value="Roe"| 1-5 [[Roe]]
+| 1
+|data-sort-value="10"| 10-53%
+|data-sort-value="2.3"| 2.3-50%
+|-
+|rowspan="9"| [[Crayfish]]<br />[[Periwinkle]]<br />[[Snail]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="12"| 12-14%
+|data-sort-value="3"| 3-12%
+|-
+|data-sort-value="Trash"| 1 [[Trash (item)|Trash]]
+| 1
+|data-sort-value="7"| 7-8%
+|data-sort-value="1.9"| 1.9-7%
+|-
+|data-sort-value="Green Algae"| 1-3 [[Green Algae]]
+| 1
+| 5%
+|data-sort-value="1.1"| 1.1-4%
+|-
+|data-sort-value="Driftwood"| 1 [[Driftwood]]
+| 1
+|data-sort-value="4"| 4-5%
+|data-sort-value="1"| 1-4%
+|-
+|data-sort-value="Broken Glasses"| 1 [[Broken Glasses]]
+| 1
+| 4%
+|data-sort-value="1"| 1-4%
+|-
+|data-sort-value="Broken CD"| 1 [[Broken CD]]
+| 1
+| 4%
+|data-sort-value="0.9"| 0.9-3%
+|-
+|data-sort-value="Soggy Newspaper"| 1 [[Soggy Newspaper]]
+| 1
+|data-sort-value="3"| 3-4%
+|data-sort-value="0.9"| 0.9-3%
+|-
+|data-sort-value="Mixed Seeds"| 2-3 [[Mixed Seeds]]
+| 5
+|data-sort-value="4"| 4-5%
+|data-sort-value="3"| 3-4%
+|-
+|data-sort-value="Warp Totem: Mountains"| 1 [[Warp Totem: Mountains]]
+| 9
+| 8%
+| 7%
+|-
+|rowspan="11"| [[Clam]]<br />[[Cockle]]<br />[[Crab]]<br />[[Lobster]]<br />[[Mussel]]<br />[[Oyster]]<br />[[Shrimp]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="11"| 11-13%
+|data-sort-value="3"| 3-10%
+|-
+|data-sort-value="Seaweed"| 1-3 [[Seaweed]]
+| 1
+|data-sort-value="8"| 8-9%
+|data-sort-value="2"| 2-8%
+|-
+|data-sort-value="Trash"| 1 [[Trash (item)|Trash]]
+| 1
+|data-sort-value="6"| 6-8%
+|data-sort-value="1.9"| 1.9-6%
+|-
+|data-sort-value="Driftwood"| 1 [[Driftwood]]
+| 1
+|data-sort-value="3"| 3-4%
+|data-sort-value="1"| 1-3%
+|-
+|data-sort-value="Broken Glasses"| 1 [[Broken Glasses]]
+| 1
+|data-sort-value="3"| 3-4%
+|data-sort-value="0.9"| 0.9-3%
+|-
+|data-sort-value="Broken CD"| 1 [[Broken CD]]
+| 1
+|data-sort-value="3"| 3-4%
+|data-sort-value="0.9"| 0.9-3%
+|-
+|data-sort-value="Soggy Newspaper"| 1 [[Soggy Newspaper]]
+| 1
+|data-sort-value="3"| 3-4%
+|data-sort-value="0.9"| 0.9-3%
+|-
+|data-sort-value="Coral"| 1 [[Coral]]
+| 5
+| 6%
+|data-sort-value="4"| 4-6%
+|-
+|data-sort-value="Sea Urchin"| 1 [[Sea Urchin]]
+| 5
+|data-sort-value="4"| 4-5%
+|data-sort-value="3"| 3-4%
+|-
+|data-sort-value="Warp Totem: Beach"| 1 [[Warp Totem: Beach]]
+| 9
+| 7%
+|data-sort-value="6"| 6-7%
+|-
+|data-sort-value="Nautilus Shell"| 1 [[Nautilus Shell]]
+| 9
+| 2%
+|data-sort-value="1.7"| 1.7-1.9%
+|-
+| [[Albacore]]<br />[[Anchovy]]<br />[[Eel]]<br />[[Halibut]]<br />[[Pufferfish]]<br />[[Red Mullet]]<br />[[Red Snapper]]<br />[[Sardine]]<br />[[Sea Cucumber]]<br />[[Tilapia]]<br />[[Tuna]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="70"| 70-100%
+|data-sort-value="16"| 16-95%
+|-
+| [[Bream]]<br />[[Bullhead]]<br />[[Chub]]<br />[[Goby]]<br />[[Largemouth Bass]]<br />[[Perch]]<br />[[Salmon]]<br />[[Shad]]<br />[[Smallmouth Bass]]<br />[[Walleye]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+| 90%
+|data-sort-value="21"| 21-86%
+|-
+|rowspan="2" | [[Angler]]<br />[[Ms. Angler]]
+|data-sort-value="Roe"| 1-4 [[Roe]]
+| 1
+|data-sort-value="100"| 75%
+|data-sort-value="37.5"| 37.5%
+|-
+|data-sort-value="Roe"| 1-2 [[Roe]] (Only if above roll fails)
+| 1
+|data-sort-value="100"| 50%
+|data-sort-value="6.25"| 6.25%
+|-
+|rowspan="2" | [[Mutant Carp]]<br />[[Radioactive Carp]]
+|data-sort-value="Roe"| 1-4 [[Roe]]
+| 1
+|data-sort-value="100"| 72%
+|data-sort-value="36"| 36%
+|-
+|data-sort-value="Roe"| 1-2 [[Roe]] (Only if above roll fails)
+| 1
+|data-sort-value="100"| 50%
+|data-sort-value="7"| 7%
+|-
+|rowspan="2" | [[Crimsonfish]]<br />[[Son of Crimsonfish]]
+|data-sort-value="Roe"| 1-2 [[Roe]]
+| 1
+|data-sort-value="100"| 84%
+|data-sort-value="42"| 42%
+|-
+|data-sort-value="Roe"| 1-2 [[Roe]] (Only if above roll fails)
+| 1
+|data-sort-value="100"| 50%
+|data-sort-value="4"| 4%
+|-
+|rowspan="2" | [[Glacierfish]]<br />[[Glacierfish Jr.]]
+|data-sort-value="Roe"| 1-4 [[Roe]]
+| 1
+|data-sort-value="100"| 79%
+|data-sort-value="39.5"| 39.5%
+|-
+|data-sort-value="Roe"| 1-2 [[Roe]] (Only if above roll fails)
+| 1
+|data-sort-value="100"| 50%
+|data-sort-value="5.25"| 5.25%
+|-
+|rowspan="2" | [[Legend]]<br />[[Legend II]]
+|data-sort-value="Roe"| 1 [[Roe]]
+| 1
+|data-sort-value="100"| 43%
+|data-sort-value="21.5"| 21.5%
+|-
+|data-sort-value="Roe"| 1-2 [[Roe]] (Only if above roll fails)
+| 1
+|data-sort-value="100"| 50%
+|data-sort-value="14.25"| 14.25%
+|}
+
+==Responses==
+When clicking on a fish pond, various messages will be shown to the player indicating the fish pond's status, specifying quest items when necessary. Note that "[item]" refers to the exact item the fish requested and "[quantity]" refers to the quantity of the item the fish requested.
+
+{|class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''General'''&nbsp;
+|-
+|{{Squote|We're doing fine!}}
+{{Squote|Nothing to complain about!}}
+{{Squote|Everything is okay!}}
+{{Squote|We're feeling pretty good!}}
+{{Squote|We're feeling healthy!}}
+{{Squote|The fish look happy.}}
+{{Squote|The fish seem to be thriving.}}
+{{Squote|The [fish name] are doing well.}}
+|-
+|}
+
+{|class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''When Quest Is Pending'''&nbsp;
+|-
+|{{Squote|You know, [quantity] [item] would liven things up around here!}}
+{{Squote|If it's not too much to ask... could you bring us [quantity] [item]?}}
+{{Squote|We'd be more comfortable if we had [quantity] [item] in here.}}
+{{Squote|Please... could you bring us [quantity] [item]?}}
+{{Squote|We're doing okay, but we'd be happier with [quantity] [item]...}}
+{{Squote|Excuse me... we'd like [quantity] [item], please.}}
+{{Squote|We'd feel more at home with [quantity] [item]...}}
+{{Squote|We require [quantity] [item]...}}
+{{Squote|[quantity] [item] would allow us to multiply further.}}
+{{Squote|We've decided that we need [quantity] [item].}}
+{{Squote|We need [quantity] [item]! We need [quantity] [item]!}}
+''Carnivorous fish''
+{{Squote|We're hungry... could you bring us [quantity] [item]?}}
+{{Squote|Could you bring us [quantity] [item] for our dinner?}}
+{{Squote|We need protein... [quantity] [item] should do the trick!}}
+''If player is male''
+{{Squote|Hey, landlubber, you think you could bring us [quantity] [item]?}}
+{{Squote|Oi... leg boy! How about bringing us [quantity] [item], huh?}}
+{{Squote|Psst... Hey, buddy... think you could send [quantity] [item] our way?}}
+''If player is female''
+{{Squote|Hey, land dweller, you think you could bring us [quantity] [item]?}}
+{{Squote|Hey, lady... You got [quantity] [item] you can send our way?}}
+{{Squote|Psst... think you could nab us [quantity] [item] on the sly?}}
+|-
+|}
+
+{|class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''After Completing A Quest'''&nbsp;
+|-
+|{{Squote|Ah... the [item] we requested.}}
+{{Squote|This [item] is satisfactory for our needs.}}
+{{Squote|The fish look satisfied with the [item].}}
+{{Squote|Thank you! Thank you!}}
+{{Squote|[item]! [item]! [item]! We're happy!}}
+{{Squote|The fish are swimming in circles.}}
+{{Squote|Wow, thanks for the [item]!}}
+{{Squote|Hey, look, it's [item]. Just what we needed!}}
+{{Squote|Hey! This [item] looks pretty nice!}}
+{{Squote|Thank you! This [item] will keep us healthy.}}
+{{Squote|Ah, [item]... this really makes us feel at home.}}
+{{Squote|Everyone, look... fresh [item]!}}
+{{Squote|The fish seem happy.}}
+''Eel''
+{{Squote|Cha cha cha! We're in business.}}
+{{Squote|Ah... it's the good stuff. Thanks, kid.}}
+{{Squote|Thanks, boss!}}
+''Carnivorous fish''
+{{Squote|Looks like [item] is on the menu tonight!}}
+{{Squote|Fresh [item]! Yum...}}
+{{Squote|This [item] looks delicious. Thank you!}}
+|-
+|}
+
+==Notes==
+*The decorations around the Fish Pond can be changed only after the pond is populated by at least one fish. Right-clicking on the pond opens a menu where the decorations can be changed. The initial decoration style is chosen randomly when purchasing the pond.
+*[[Fish#Legendary Fish|Legendary Fish]], [[Fish#Legendary Fish II|Legendary Fish II]], [[Lava Eel]]s, [[Super Cucumber]]s, [[Slimejack]]s, and [[Void Salmon]]s change the color of the pond water. For the Legendary Fish and Legendary Fish II, the color change happens overnight. For Lava Eels, the color change happens after the first quest is completed.  For the other fish, the color changes when the population reaches 3 (if the third fish is thrown into the pond, the color change happens overnight).
+*Placing a sign ([[Stone Sign|stone]], [[Wood Sign|wood]] or [[Dark Sign|dark]]) or a [[Sign Of The Vessel]] on the pond will turn it into a counter of how many fish are inside, with a sprite of the fish visible on the sign, and a number in the lower right corner. This number won't be visible for [[Fish#Legendary Fish|Legendary Fish]] and [[Fish#Legendary Fish II|Legendary Fish II]].
+
+<gallery mode="nolines" widths="200px">
+Fishpondsigns.PNG|(Clockwise from upper left) [[Wood Sign]], [[Stone Sign]], [[Dark Sign]], and [[Sign Of The Vessel]]
+Legend Fish Pond Colours.png|Legendary Fish pond water
+Legend Family Fish Pond Colours.png|Legendary Fish II pond water
+</gallery>
+
+*The pond can be used to refill [[Watering Cans]].
+*After raising a pond full of 10 [[Crab]]s, if the player talks to [[Willy]] within 14 days, he will have special dialogue and give the player a [[Pearl]].
+
+==Bugs==
+* Colored items like jelly will appear with their default color when thrown into a pond.
+* If a sign is placed on a fish pond for a fish that triggers a quest at 1 fish, the sign will not show a quantity until after the 1-fish quest is completed.
+
+==References==
+<references>
+    <ref name="extraroe">See <samp>FishPond::dayUpdate</samp> in the game code.</ref>
+    <ref name="base_chance">See <samp>Data\FishPondData.xnb</samp> in the game files.</ref>
+    <ref name="item_chance">See <samp>Data\FishPondData.xnb</samp> in the game files. The first entry that is valid for the current population and passes its random chance check is the produced item. If no entries pass, no item is produced. The raw entries have been processed and summed to determine the chance for each item to be generated. The results are provided in the "% of Items" column.</ref>
+</references>
+
+==History==
+{{History|1.4|Introduced.}}
+{{History|1.4.4|Fixed bug where [[Catfish]], [[Octopus]], [[Super Cucumber]], and [[Rainbow Trout]] fish ponds issued the wrong quests and yielded production and spawns at incorrect rates.}}
+{{History|1.5|Added [[Lionfish]], [[Blue Discus]], and [[Stingray]] fish ponds.}}
+{{History|1.6|Added [[Goby]] fish pond. Adjusted [[Flounder]], [[Midnight Carp]], and [[Lava Eel]] fish ponds. When resetting a fish pond, existing fish will now flop out instead of simply vanish. Fish Ponds can now be buffed with [[Golden Animal Cracker]]s and now have a chance to produce extra [[Roe]].}}
+{{History|1.6.4|Flopping fish can no longer fall back into fish ponds.}}
+{{History|1.6.9|The quantity of the item produced by a Fish Pond is now shown prior to collecting it. Fixed fish ponds accepting multiple [[Golden Animal Cracker|golden crackers]] before the first one lands in the water. Fixed exploit where a Fish Pond with a golden cracker could produce unlimited output. Can now put [[Fish#Legendary Fish|Legendary Fish]] and [[Fish#Legendary Fish II|Legendary Fish II]] into fish ponds.}}
+{{History|1.6.13|Signs placed on legendary fish ponds no longer show a "1" under the fish.}}
+{{History|1.6.15|Increased roe production rate for [[Fish#Legendary Fish|Legendary Fish]] and [[Fish#Legendary Fish II|Legendary Fish II]] in fish ponds.}}
+
+{{NavboxBuildings}}
+
+[[Category:Farm buildings]]
+
+[[de:Fischteich]]
+[[es:Estanque de peces]]
+[[fr:Étang à poissons]]
+[[it:Laghetto per pesci]]
+[[ja:魚のいる池]]
+[[ko:물고기 연못]]
+[[hu:Halastó]]
+[[pt:Lago de Peixes]]
+[[ru:Рыбный пруд]]
+[[tr:Balık Havuzu]]
+[[zh:鱼塘]]

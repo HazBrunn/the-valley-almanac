@@ -1,0 +1,93 @@
+{{Infobox fish
+|eng        = Legend II
+|location   = [[The Mountain|Mountain Lake]]
+|difficulty = 110
+|price      = 5000
+|edibility  = 200
+|behavior   = Mixed
+|time       = Any
+|season     = Any
+|weather    = Any
+|fl         = 10
+|size       = 49-51
+|roe        = Green
+}}
+The '''Legend II''' is one of the five [[Fish#Legendary Fish II|Legendary Fish]] that must be caught for [[Mr. Qi]]'s [[Quests#Extended Family|Extended Family Quest]]. It has the same sell price, healing effect, location, and chance of hooking as the [[Legend]]. It can only be caught when the quest is active, but more than one can be caught per quest.
+
+==Map==
+The Legend II can be found in the [[The Mountain|mountain]] lake.
+{{Map|275|50}}
+[[File:LegendLocations.png|thumb|left]]
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Legend II is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Dyeing==
+It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Legend II can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Legend II [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Green Roe|1|link=Roe}}
+|112
+| 1 || 43%     || 21.5%
+|-
+|{{Name|Green Roe|1-2|link=Roe}}
+|112
+| 1 || 28.5%     || 14.25%
+|-
+|''Nothing''
+| 
+| 1 || 28.5%     || 64.25%
+|}
+
+==Quests==
+Legend II must be caught for the [[Quests#Extended Family|Extended Family Quest]].
+
+==History==
+{{History|1.5|Introduced.}}
+{{History|1.6|Legendary Fish II [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book.}}
+{{History|1.6.9|Can now be placed in a [[Fish Pond]].}}
+{{History|1.6.13|Reduced chance of obtaining [[Roe]] from Fish Pond.}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:Lake fish]]
+
+[[de:Legende II]]
+[[es:Leyenda II]]
+[[fr:Légende II]]
+[[it:Leggenda II]]
+[[ja:レジェンド2世]]
+[[ko:전설의 물고기 II]]
+[[hu:II. Legenda]]
+[[pt:Lenda II]]
+[[ru:Легенда II]]
+[[tr:II. Efsane]]
+[[zh:传说之鱼二代]]

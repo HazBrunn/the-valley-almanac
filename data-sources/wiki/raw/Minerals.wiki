@@ -1,0 +1,547 @@
+:''For resources, see [[:Category:Resources]].''
+:''For an index to the completed minerals collection, see [[Collections#Minerals]].''
+'''Minerals''' are items that can be found in [[the Mines]] and the [[Skull Cavern]]. Most minerals are acquired from [[Minerals#Geodes|geodes]] after having [[Clint]] [[Blacksmith#Process Geodes|process]] them. Some are found on the ground and some [[Mining|can be mined]] from nodes, which are also found in the [[Quarry]]. They can also sometimes be acquired as [[Monsters|Monster Drops]], as gifts from [[Villagers]], or from the [[Statue Of Endless Fortune|Statue of Endless Fortune]]. Minerals (other than geode minerals) are also possible items found in [[Fishing#Treasure Chests|Fishing Treasure Chest]]s.
+
+Minerals can be donated to the [[Museum]] for [[Museum#Donation Rewards|rewards]] and [[achievements]].  Minerals not yet donated will have an item description of "[[Gunther]] can tell you more about this if you donate it to the museum."  After one of that mineral has been donated, the item's description will appear. There are 53 different minerals which can be donated.
+
+All Minerals, Gems, and Geodes can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] located inside [[Emily]] and [[Haley]]'s house to [[Tailoring|Tailor]] clothing, once the Sewing Machine is unlocked.  All minerals, gems, and geodes can be used to [[Dyeing|dye]] existing clothing using the Sewing Machine, and some can be used to dye clothing using Dye Pots.
+
+Minerals can be sold at a shipping box and also to the [[Blacksmith]].
+
+==Foraged Minerals==
+Foraged minerals are found on the ground in [[The Mines]] and the [[Skull Cavern]]. They can be picked up in the same way that other [[Foraging|forageables]] can, and if the [[Foraging#Foraging Skill|Gatherer profession]] is chosen at Foraging level 5 then the player has a chance of a double harvest. They are used in crafting recipes and in the {{Bundle|geologist||y}}.
+
+Note that picking up foraged minerals normally does not award Foraging XP, but a [[Foraging#Bugs|bug]] results in 7 Foraging XP awarded only for a duplicate mineral created by the Gatherer profession.
+{|class="wikitable sortable roundedborder"
+! style="width: 48px;" | Image
+! Name
+! Description
+! Sell Price
+! style="width: 70px;"|Gemologist Sell Price
+! Source
+! Used in
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|data-sort-value="25"|{{Price|25}}
+|data-sort-value="32"|{{Price|32}}
+|[[The Mines]] (Floors 1-120){{Name|Garbage Can}}{{Name|Stone Golem|10%}}
+|<p>{{Bundle|geologist}}</p>{{Name|Refined Quartz}}{{Name|Fish Pond|Quest}}
+|-
+|[[File:Earth Crystal.png|center]]
+|[[Earth Crystal]]
+|{{Description|Earth Crystal}}
+|data-sort-value="50"|{{Price|50}}
+|data-sort-value="65"|{{Price|65}}
+|[[The Mines]] (Floors 1-39){{Name|Duggy|10%}}{{Name|Haunted Skull|1.3%}}{{Name|Fishing Treasure Chest}}{{Name|Copper Pan}}{{Name|Geode}}{{Name|Omni Geode}}{{Name|Garbage Can}}
+|<p>{{Bundle|geologist}}</p>{{Name|Earth Obelisk}}{{Name|Mayonnaise Machine}}{{Name|Fish Pond|Quest}}
+|-
+|[[File:Frozen Tear.png|center]]
+|[[Frozen Tear]]
+|{{Description|Frozen Tear}}
+|data-sort-value="75"|{{Price|75}}
+|data-sort-value="97"|{{Price|97}}
+|[[The Mines]] (Floors 40-79){{Name|Fishing Treasure Chest}}{{Name|Copper Pan}}{{Name|Frozen Geode}}{{Name|Omni Geode}}{{Name|Dust Sprite|2%}}{{Name|Garbage Can}}
+|<p>{{Bundle|geologist}}</p>{{Name|Warrior Ring}}<span class="no-wrap">{{NPC|Sebastian|Loved Gift}}</span>{{Name|Fish Pond|Quest}}
+|-
+|[[File:Fire Quartz.png|center]]
+|[[Fire Quartz]]
+|{{Description|Fire Quartz}}
+|data-sort-value="100"|{{Price|100}}
+|data-sort-value="130"|{{Price|130}}
+|[[The Mines]] (Floors 80-120){{Name|Fishing Treasure Chest}}{{Name|Copper Pan}}{{Name|Magma Geode}}{{Name|Omni Geode}}{{Name|Garbage Can}}
+|<p>{{Bundle|geologist}}</p>{{Name|Slime Egg-Press}}{{Name|Dehydrator}}{{Name|Refined Quartz}}{{Name|Fish Pond|Quest}}
+|}
+
+==Gems==
+Gems are used in [[Crafting]] recipes and are generally "loved" or "liked" as gifts. All gems, except [[Diamond]] and [[Prismatic Shard]], can be found in [[The Mines#Crates and Barrels|crates and barrels]] in [[The Mines]].
+{|class="wikitable sortable roundedborder"
+! style="width: 48px;" | Image
+! Name
+! Description
+! Sell Price
+! style="width: 70px;"|Gemologist Sell Price
+! Source
+! Used in
+|-
+|[[File:Emerald.png|center]]
+|[[Emerald]]
+|{{Description|Emerald}}
+|data-sort-value="250"|{{Price|250}}
+|data-sort-value="325"|{{Price|325}}
+|{{Name|Emerald Node|link=Mining#Emerald Node{{!}}Emerald Node}}{{Name|Gem Node|link=Mining#Gem Node{{!}}Gem Node}}{{Name|Dwarvish Sentry}}{{Name|Copper Pan}}{{Name|Garbage Can}}{{Name|Fishing Treasure Chest}}{{Name|Tree of the Winter Star|link=Feast of the Winter Star}}
+|[[File:Gift Icon.png|24px|link=]] [[Clint#Gifts|Clint]], [[Dwarf#Gifts|Dwarf]], [[Emily#Gifts|Emily]], [[Penny#Gifts|Penny]] (Loved Gift){{Name|Fish Pond|Quest}}[[Forge#Weapon forging|Forge]] weapons
+|-
+|[[File:Aquamarine.png|center]]
+|[[Aquamarine]]
+|{{Description|Aquamarine}}
+|data-sort-value="180"|{{Price|180}}
+|data-sort-value="234"|{{Price|234}}
+|{{Name|Aquamarine Node|link=Mining#Aquamarine Node{{!}}Aquamarine Node}}{{Name|Gem Node|link=Mining#Gem Node{{!}}Gem Node}}{{Name|Dwarvish Sentry}}{{Name|Copper Pan}}{{Name|Garbage Can}}{{Name|Fishing Treasure Chest}}
+|{{Bundle|dye}}<br />[[File:Gift Icon.png|24px|link=]] [[Clint#Gifts|Clint]], [[Dwarf#Gifts|Dwarf]], [[Emily#Gifts|Emily]] (Loved Gift){{Name|Marble Brazier}}{{Name|Fish Pond|Quest}}[[Forge#Weapon forging|Forge]] weapons
+|-
+|[[File:Ruby.png|center]]
+|[[Ruby]]
+|{{Description|Ruby}}
+|data-sort-value="250"|{{Price|250}}
+|data-sort-value="325"|{{Price|325}}
+|{{Name|Ruby Node|link=Mining#Ruby Node{{!}}Ruby Node}}{{Name|Gem Node|link=Mining#Gem Node{{!}}Gem Node}}{{Name|Dwarvish Sentry}}{{Name|Copper Pan}}{{Name|Garbage Can}}{{Name|Fishing Treasure Chest}}{{Name|Tree of the Winter Star|link=Feast of the Winter Star}}
+|[[File:Gift Icon.png|24px|link=]] [[Clint#Gifts|Clint]], [[Dwarf#Gifts|Dwarf]], [[Emily#Gifts|Emily]] (Loved Gift)<br />[[Forge#Weapon forging|Forge]] weapons
+|-
+|[[File:Amethyst.png|center]]
+|[[Amethyst]]
+|{{Description|Amethyst}}
+|data-sort-value="100"|{{Price|100}}
+|data-sort-value="130"|{{Price|130}}
+|{{Name|Amethyst Node|link=Mining#Amethyst Node{{!}}Amethyst Node}}{{Name|Gem Node|link=Mining#Gem Node{{!}}Gem Node}}{{Name|Green Slime|link=Slimes{{!}}Green Slimes}}{{Name|Dwarvish Sentry}}{{Name|Copper Pan}}{{Name|Garbage Can}}{{Name|Fishing Treasure Chest}}
+|[[File:Gift Icon.png|24px|link=]] [[Abigail#Gifts|Abigail]], [[Clint#Gifts|Clint]], [[Dwarf#Gifts|Dwarf]], [[Emily#Gifts|Emily]] (Loved Gift){{Name|Fish Pond|Quest}}[[Forge#Weapon forging|Forge]] weapons
+|-
+|[[File:Topaz.png|center]]
+|[[Topaz]]
+|{{Description|Topaz}}
+|data-sort-value="80"|{{Price|80}}
+|data-sort-value="104"|{{Price|104}}
+|{{Name|Topaz Node|link=Mining#Topaz Node{{!}}Topaz Node}}{{Name|Gem Node|link=Mining#Gem Node{{!}}Gem Node}}{{Name|Dwarvish Sentry}}{{Name|Copper Pan}}{{Name|Garbage Can}}{{Name|Fishing Treasure Chest}}
+|[[File:Gift Icon.png|24px|link=]] [[Clint#Gifts|Clint]], [[Dwarf#Gifts|Dwarf]], [[Emily#Gifts|Emily]] (Loved Gift){{Name|Fish Pond|Quest}}[[Forge#Weapon forging|Forge]] weapons
+|-
+|[[File:Jade.png|center]]
+|[[Jade]]
+|{{Description|Jade}}
+|data-sort-value="200"|{{Price|200}}
+|data-sort-value="260"|{{Price|260}}
+|{{Name|Jade Node|link=Mining#Jade Node{{!}}Jade Node}}{{Name|Gem Node|link=Mining#Gem Node{{!}}Gem Node}}{{Name|Frost Jelly|link=Slimes{{!}}Blue Slimes}}{{Name|Dwarvish Sentry}}{{Name|Garbage Can}}{{Name|Fishing Treasure Chest}}{{Name|Tree of the Winter Star|link=Feast of the Winter Star}}
+|[[File:Gift Icon.png|24px|link=]] [[Clint#Gifts|Clint]], [[Dwarf#Gifts|Dwarf]], [[Emily#Gifts|Emily]] (Loved Gift){{Name|Fish Pond|Quest}}[[Forge#Weapon forging|Forge]] weapons
+|-
+|[[File:Diamond.png|center]]
+|[[Diamond]]
+|{{Description|Diamond}}
+|data-sort-value="750"|{{Price|750}}
+|data-sort-value="974"|{{Price|974}}
+|{{Name|Diamond Node|link=Mining#Diamond Node{{!}}Diamond Node}}{{Name|Gem Node|link=Mining#Gem Node{{!}}Gem Node}}{{Name|Dwarvish Sentry}}{{Name|Copper Pan}}{{Name|Garbage Can}}{{Name|Fishing Treasure Chest}}Any [[Monsters|monster]] after reaching the bottom of [[The Mines|the mines]] (0.05%)
+|{{Name|Ring of Yoba}}{{Name|Geode Crusher}}{{Name|Fairy Dust}}[[File:Gift Icon.png|24px|link=]] [[Evelyn#Gifts|Evelyn]], [[Gus#Gifts|Gus]], [[Jodi#Gifts|Jodi]], [[Krobus#Gifts|Krobus]], [[Marnie#Gifts|Marnie]], [[Maru#Gifts|Maru]], [[Penny#Gifts|Penny]], [[Willy#Gifts|Willy]] (Loved Gift){{Name|Fish Pond|Quest}}[[Forge#Weapon forging|Forge]] weapons
+|-
+|[[File:Prismatic Shard.png|center]]
+|[[Prismatic Shard]]
+|{{Description|Prismatic Shard}}
+|data-sort-value="2000"|{{Price|2000}}
+|data-sort-value="2600"|{{Price|2600}}
+|{{Name|Iridium Node|4%|link=Mining#Iridium Node{{!}}Iridium Node}}{{Name|Mystic Stone|25%|link=Mining#Mystic Stone{{!}}Mystic Stone}}{{Name|Omni Geode|0'''.'''4%}}{{Name|Shadow Brute|0'''.'''05%}}{{Name|Shadow Shaman|0'''.'''05%}}{{Name|Mummy|0'''.'''1%}}{{Name|Serpent|0'''.'''1%}}{{Name|Fishing Treasure Chest}}Any [[Monsters|monster]] after reaching the bottom of [[The Mines|the mines]] (0.05%)
+|[[File:Gift Icon.png|24px|link=]] Loved by all [[Villagers]] except [[Haley]], who hates it.
+Obtain the [[Weapons#Swords|Galaxy Sword]] in [[the Desert]]
+
+Transform children into doves at the [[Witch's Hut|Dark Shrine of Selfishness]]
+
+[[Forge#Enchantments|Enchant]] tools and weapons
+|}
+
+==Geode Minerals==
+Geode minerals are extracted from geodes. They are mainly used as donations to the [[Museum]], or sold for a small profit. They can be used to [[Tailoring|tailor]] or [[Dyeing|dye]] clothing.  They are generally [[Friendship#Universal Dislikes|disliked as gifts]]. [[Wizard|The Wizard]] likes all Geode Minerals.
+{|class="wikitable sortable roundedborder"
+! style="width: 48px;" | Image
+! Name
+! Description
+! Sell Price
+! style="width: 70px;"|Gemologist Sell Price
+! Source
+! Used in
+|-
+|[[File:Tigerseye.png|center]]
+|[[Tigerseye]]
+|{{Description|Tigerseye}}
+|data-sort-value="275"|{{Price|275}}
+|data-sort-value="357"|{{Price|357}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|{{NPC|Sam|Loved Gift}}
+|-
+|[[File:Opal.png|center]]
+|[[Opal]]
+|{{Description|Opal}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="195"|{{Price|195}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Fire Opal.png|center]]
+|[[Fire Opal]]
+|{{Description|Fire Opal}}
+|data-sort-value="350"|{{Price|350}}
+|data-sort-value="455"|{{Price|455}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Alamite.png|center]]
+|[[Alamite]]
+|{{Description|Alamite}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="195"|{{Price|195}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Bixite.png|center]]
+|[[Bixite]]
+|{{Description|Bixite}}
+|data-sort-value="300"|{{Price|300}}
+|data-sort-value="390"|{{Price|390}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}{{Name|Black Slime|link=Slimes{{!}}Black Slime}} 
+|
+|-
+|[[File:Baryte.png|center]]
+|[[Baryte]]
+|{{Description|Baryte}}
+|data-sort-value="50"|{{Price|50}}
+|data-sort-value="65"|{{Price|65}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Aerinite.png|center]]
+|[[Aerinite]]
+|{{Description|Aerinite}}
+|data-sort-value="125"|{{Price|125}}
+|data-sort-value="162"|{{Price|162}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Calcite.png|center]]
+|[[Calcite]]
+|{{Description|Calcite}}
+|data-sort-value="75"|{{Price|75}}
+|data-sort-value="97"|{{Price|97}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Dolomite.png|center]]
+|[[Dolomite]]
+|{{Description|Dolomite}}
+|data-sort-value="300"|{{Price|300}}
+|data-sort-value="390"|{{Price|390}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Esperite.png|center]]
+|[[Esperite]]
+|{{Description|Esperite}}
+|data-sort-value="100"|{{Price|100}}
+|data-sort-value="130"|{{Price|130}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Fluorapatite.png|center]]
+|[[Fluorapatite]]
+|{{Description|Fluorapatite}}
+|data-sort-value="200"|{{Price|200}}
+|data-sort-value="260"|{{Price|260}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Geminite.png|center]]
+|[[Geminite]]
+|{{Description|Geminite}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="195"|{{Price|195}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Helvite.png|center]]
+|[[Helvite]]
+|{{Description|Helvite}}
+|data-sort-value="450"|{{Price|450}}
+|data-sort-value="585"|{{Price|585}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Jamborite.png|center]]
+|[[Jamborite]]
+|{{Description|Jamborite}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="195"|{{Price|195}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Jagoite.png|center]]
+|[[Jagoite]]
+|{{Description|Jagoite}}
+|data-sort-value="115"|{{Price|115}}
+|data-sort-value="149"|{{Price|149}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Kyanite.png|center]]
+|[[Kyanite]]
+|{{Description|Kyanite}}
+|data-sort-value="250"|{{Price|250}}
+|data-sort-value="325"|{{Price|325}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Lunarite.png|center]]
+|[[Lunarite]]
+|{{Description|Lunarite}}
+|data-sort-value="200"|{{Price|200}}
+|data-sort-value="260"|{{Price|260}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Malachite.png|center]]
+|[[Malachite]]
+|{{Description|Malachite}}
+|data-sort-value="100"|{{Price|100}}
+|data-sort-value="130"|{{Price|130}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Neptunite.png|center]]
+|[[Neptunite]]
+|{{Description|Neptunite}}
+|data-sort-value="400"|{{Price|400}}
+|data-sort-value="520"|{{Price|520}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}{{Name|Black Slime|link=Slimes{{!}}Black Slime}} 
+|
+|-
+|[[File:Lemon Stone.png|center]]
+|[[Lemon Stone]]
+|{{Description|Lemon Stone}}
+|data-sort-value="200"|{{Price|200}}
+|data-sort-value="260"|{{Price|260}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|{{NPC|Dwarf|Loved Gift}}
+|-
+|[[File:Nekoite.png|center]]
+|[[Nekoite]]
+|{{Description|Nekoite}}
+|data-sort-value="80"|{{Price|80}}
+|data-sort-value="104"|{{Price|104}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Orpiment.png|center]]
+|[[Orpiment]]
+|{{Description|Orpiment}}
+|data-sort-value="80"|{{Price|80}}
+|data-sort-value="104"|{{Price|104}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Petrified Slime.png|center]]
+|[[Petrified Slime]]
+|{{Description|Petrified Slime}}
+|data-sort-value="120"|{{Price|120}}
+|data-sort-value="156"|{{Price|156}}
+|{{Name|Geode}}{{Name|Omni Geode}}{{Name|Slime Ball}}
+|{{Name|Fish Pond|Quest}}
+|-
+|[[File:Thunder Egg.png|center]]
+|[[Thunder Egg]]
+|{{Description|Thunder Egg}}
+|data-sort-value="100"|{{Price|100}}
+|data-sort-value="130"|{{Price|130}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Pyrite.png|center]]
+|[[Pyrite]]
+|{{Description|Pyrite}}
+|data-sort-value="120"|{{Price|120}}
+|data-sort-value="156"|{{Price|156}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Ocean Stone.png|center]]
+|[[Ocean Stone]]
+|{{Description|Ocean Stone}}
+|data-sort-value="220"|{{Price|220}}
+|data-sort-value="286"|{{Price|286}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|{{Name|Fish Pond|Quest}}
+|-
+|[[File:Ghost Crystal.png|center]]
+|[[Ghost Crystal]]
+|{{Description|Ghost Crystal}}
+|data-sort-value="200"|{{Price|200}}
+|data-sort-value="260"|{{Price|260}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Jasper.png|center]]
+|[[Jasper]]
+|{{Description|Jasper}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="195"|{{Price|195}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Celestine.png|center]]
+|[[Celestine]]
+|{{Description|Celestine}}
+|data-sort-value="125"|{{Price|125}}
+|data-sort-value="162"|{{Price|162}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Marble.png|center]]
+|[[Marble]]
+|{{Description|Marble}}
+|data-sort-value="110"|{{Price|110}}
+|data-sort-value="143"|{{Price|143}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|{{Name|Marble Brazier}}
+|-
+|[[File:Sandstone.png|center]]
+|[[Sandstone]]
+|{{Description|Sandstone}}
+|data-sort-value="60"|{{Price|60}}
+|data-sort-value="78"|{{Price|78}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Granite.png|center]]
+|[[Granite]]
+|{{Description|Granite}}
+|data-sort-value="75"|{{Price|75}}
+|data-sort-value="97"|{{Price|97}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|{{Name|Fish Pond|Quest}}
+|-
+|[[File:Basalt.png|center]]
+|[[Basalt]]
+|{{Description|Basalt}}
+|data-sort-value="175"|{{Price|175}}
+|data-sort-value="227"|{{Price|227}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+||{{Name|Fish Pond|Quest}}
+|-
+|[[File:Limestone.png|center]]
+|[[Limestone]]
+|{{Description|Limestone}}
+|data-sort-value="15"|{{Price|15}}
+|data-sort-value="19"|{{Price|19}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|{{Name|Fish Pond|Quest}}
+|-
+|[[File:Soapstone.png|center]]
+|[[Soapstone]]
+|{{Description|Soapstone}}
+|data-sort-value="120"|{{Price|120}}
+|data-sort-value="156"|{{Price|156}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Hematite.png|center]]
+|[[Hematite]]
+|{{Description|Hematite}}
+|data-sort-value="150"|{{Price|150}}
+|data-sort-value="195"|{{Price|195}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Mudstone.png|center]]
+|[[Mudstone]]
+|{{Description|Mudstone}}
+|data-sort-value="25"|{{Price|25}}
+|data-sort-value="32"|{{Price|32}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|{{Name|Fish Pond|Quest}}
+|-
+|[[File:Obsidian.png|center]]
+|[[Obsidian]]
+|{{Description|Obsidian}}
+|data-sort-value="200"|{{Price|200}}
+|data-sort-value="260"|{{Price|260}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|class="no-wrap"|{{NPC|Sebastian|Loved Gift}}
+|-
+|[[File:Slate.png|center]]
+|[[Slate]]
+|{{Description|Slate}}
+|data-sort-value="85"|{{Price|85}}
+|data-sort-value="110"|{{Price|110}}
+|{{Name|Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Fairy Stone.png|center]]
+|[[Fairy Stone]]
+|{{Description|Fairy Stone}}
+|data-sort-value="250"|{{Price|250}}
+|data-sort-value="325"|{{Price|325}}
+|{{Name|Frozen Geode}}{{Name|Omni Geode}}
+|
+|-
+|[[File:Star Shards.png|center]]
+|[[Star Shards]]
+|{{Description|Star Shards}}
+|data-sort-value="500"|{{Price|500}}
+|data-sort-value="650"|{{Price|650}}
+|{{Name|Magma Geode}}{{Name|Omni Geode}}
+|
+|}
+
+==Geodes==
+Geodes are mineral deposits that contain minerals, certain [[Artifacts]], or basic [[:Category:Resources|resources]]. They can be found primarily by breaking rocks in [[The Mines]].  
+
+Geodes must be processed either using a [[Geode Crusher]] or at the [[Blacksmith]] to obtain the minerals inside. Clint charges {{Price|25}} each, while the Geode Crusher is free once available. Certain minerals are only available from certain types of Geodes, but [[Omni Geode]]s can contain any mineral.
+
+Note that unopened Geodes are NOT considered to be minerals themselves, so they cannot be donated to the [[Museum]].
+
+{|class="wikitable sortable roundedborder"
+! style="width: 48px;" | Image
+! Name
+! Description
+! Sell Price
+! Source
+! Used in
+|-
+|[[File:Geode.png|center]]
+|[[Geode]]
+|{{Description|Geode}}
+|{{Price|50}}
+|<ul><li>[[The Mines]] (Floors 1-39)</li><li>{{Name|Duggy|class=inline|25%}}</li><li>{{Name|Hoe|link=Hoes{{!}}Tilling|class=inline}} on [[The Farm]]</li><li>{{Name|Fishing Treasure Chest}}</li><li>{{Name|Tree of the Winter Star|link=Feast of the Winter Star}}</li></ul>
+|{{Name|Fish Pond|Quest}}
+|-
+|[[File:Frozen Geode.png|center]]
+|[[Frozen Geode]]
+|{{Description|Frozen Geode}}
+|{{Price|100}}
+|<ul><li>[[The Mines]] (Floor 41-79)</li><li>{{Name|Fishing Treasure Chest}}</li><li class="no-wrap">{{Name|Hoe|link=Hoes{{!}}Tilling|class=inline}} on [[The Farm]] ([[Winter]])</li><li>{{Name|Tree of the Winter Star|link=Feast of the Winter Star}}</li></ul>
+|{{Bundle|field research}}{{Name|Fish Pond|Quest}}
+|-
+|[[File:Magma Geode.png|center]]
+|[[Magma Geode]]
+|{{Description|Magma Geode}}
+|{{Price|150}}
+|<ul><li>[[The Mines]] (Floor 81-120)</li><li>Boxes/barrels in the [[Skull Cavern]]</li><li>{{Name|Fishing Treasure Chest}}</li> <li class="no-wrap">{{Name|Hoe|link=Hoes{{!}}Tilling|class=inline}} on [[The Farm]] </li><li>{{Name|Tree of the Winter Star|link=Feast of the Winter Star}}</li></ul>
+|
+|-
+|[[File:Omni Geode.png|center]]
+|[[Omni Geode]]
+|{{Description|Omni Geode}}
+|{{Price|0}}
+|<ul><li>[[The Mines]]</li><li>[[Skull Cavern]]</li><li>{{Name|Carbon Ghost}}</li><li>{{Name|Copper Pan}}</li><li>[[Oasis|The Oasis]] (Wednesdays)</li><li>[[Krobus]] (Tuesdays)</li><li>[[Artifact Spot#On Ginger Island|Ginger Island Artifact Spots]]</li><li>[[Volcano Dungeon|Volcano Dungeon]]</li></ul>
+|class="no-wrap"|[[File:Gift Icon.png|24px|link=]] [[Clint#Gifts|Clint]], [[Dwarf#Gifts|Dwarf]] (Loved Gift){{Name|Fish Pond|Quest}}[[File:Desert Trader Icon.png|24px|link=]] [[Omni Geode#Desert Trader|Desert Trader]] (Currency)
+|}
+
+==Collection==
+Minerals must be donated to the [[Museum]] to count towards the Collections Tab of the player menu.
+
+{{Collections Minerals}}
+
+==History==
+{{History|1.1|Removed quality stars from foraged minerals.}}
+{{History|1.5|Geodes can now be processed outside of the Blacksmith using [[Geode Crusher|Geode Crushers]].}}
+{{History|1.6|Minerals must now be donated to the Museum to count towards the Collection.}}
+{{History|1.6.3|Geodes can now be processed during tool upgrades.}}
+
+{{NavboxMinerals}}
+
+[[Category:Minerals]]
+
+[[de:Mineralien]]
+[[es:Minerales]]
+[[fr:Minéraux]]
+[[it:Minerali]]
+[[ja:鉱物]]
+[[ko:광물]]
+[[hu:Ásványok]]
+[[pt:Minerais]]
+[[ru:Минералы]]
+[[tr:Mineraller]]
+[[zh:矿物]]

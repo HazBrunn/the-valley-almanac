@@ -1,0 +1,109 @@
+{{Infobox fish
+|eng        = Anchovy
+|location   = [[The Beach|Ocean]]
+|time       = Any
+|season     = {{Season|Spring}} • {{Season|Fall}}
+|weather    = Any
+|difficulty = 30
+|behavior   = Dart
+|size       = 1-17
+|price      = 30
+|edibility  = 5
+|roe        = Blue
+}}
+The '''Anchovy''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Spring]] and [[Fall]].  At higher [[Fishing#Fishing Skill|fishing levels]], casting less than the maximum distance may increase the chances of hooking an Anchovy.
+
+Anchovy can randomly be found in [[Garbage Can]]s during Spring and Fall, or at the [[Traveling Cart]] for {{Tprice|30}} during any season.
+
+Anchovy can be caught regardless of season using [[Magic Bait]].
+
+==Map==
+The Anchovy can be found in the ocean.
+{{Map|275|200}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Anchovy is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Anchovy can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Sailor Shirt]].  [[File:Shirt259a.png|24px]] It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Anchovies can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is blue Anchovy [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]] || 30
+|-
+| 5   || 7   || 2 [[Clam]]s or 2 [[Coral]] || 30
+|-
+| 7   || 10  || 2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]s || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Blue Roe|1|link=Roe}}
+|rowspan="2"|11
+| 1-4  || 70%     || 16-33%
+|-
+| 5-10 || 100%    || 55-95%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-4  || 30%     || 84-67%
+|-
+| 5-10 || 0%      || 45-5%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Anchovy may be randomly requested in [[Spring]] or [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|90}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-5 Anchovies to be caught in [[Spring]] or [[Fall]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|30}} per fish. (You get to keep the fish).
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Fall fish]]
+[[Category:Ocean fish]]
+
+[[de:Sardelle]]
+[[es:Anchoa]]
+[[fr:Anchois]]
+[[it:Acciuga]]
+[[ja:カタクチイワシ]]
+[[ko:멸치]]
+[[hu:Szardella]]
+[[pt:Anchova]]
+[[ru:Анчоус]]
+[[tr:Hamsi]]
+[[zh:鳀鱼]]

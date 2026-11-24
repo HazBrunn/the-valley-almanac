@@ -1,0 +1,114 @@
+{{Infobox fish
+|eng        = Goby
+|location   = [[Cindersap Forest]] Waterfalls
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 55
+|behavior   = Dart
+|size       = 3-13
+|price      = 150
+|edibility  = -25
+|roe        = Orange
+}}
+The '''Goby''' is a [[fish]] that can be caught at the bottom of the waterfalls in southern [[Cindersap Forest]] during any season. The waterfalls are located just east of the [[Abandoned House]].
+
+When fishing in the right area without using the [[Training Rod]], there is a 15% chance to hook a Goby. This chance increases to 30% if using a [[Curiosity Lure]]. Unlike with other fish, the Locational Chance of the Goby is not multiplied by 1.66 if [[Targeted Bait|Goby Bait]] is used. Instead, its Locational Chance is increased by a static 20%. So the chance of hooking increases to 35-46% if using [[Targeted Bait|Goby Bait]]. These effects stack, so there is a 50-61% chance to hook a Goby with both a Curiosity Lure and Goby Bait.<ref name="waterfallchance"/>
+
+==Map==
+Goby can be found in the waterfalls in southern [[Cindersap Forest]].
+{{Map|105|190}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Goby is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Goby can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[File:Shirt158.png|24px|link=]] [[Tailoring#Shirts|Fish Shirt]]. It can be used in [[dyeing]], serving as an orange dye at the dye pots located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]]. It can also be used as a brown dye when used in the spool of the [[Sewing Machine]] with a dyeable clothing item in the feed.
+
+==Fish Pond==
+Goby can be placed in a [[Fish Pond]], where they will reproduce every 4 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is orange Goby [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Acorn]]s, 10 [[Bug Meat]], 3 [[Maple Seed]]s, or 3 [[Pine Cone]]s || 40
+|-
+| 5   || 7   || 3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]] || 40
+|-
+| 7   || 10  || 1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]] || 40
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Orange Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+Goby is not used in any [[quests]].
+
+==Notes==
+* While the Goby has a theoretical maximum [[Fishing#Fish Size & Quality|Size]] of 13", in actual gameplay it is impossible to catch a Goby longer than 11", due to the location where it is caught being at most 2 [[Fishing#Distance from Land|tiles from land]]. A Fishing level of at least 16 is required to catch an 11" Goby.
+* An effective fishing level of at least 4 is required to cast into the waterfall pools. The waterfall illusion makes the pool appear 1 tile away, however, it is actually 5 tiles away on the map grid.
+
+==References==
+<references>
+    <ref name="waterfallchance">See <samp>Data\Locations.xnb</samp> in the game files.</ref>
+</references>
+
+==History==
+{{History|1.6|Introduced.}}
+{{History|1.6.4|Chance of hooking now increased by more than 20% when using [[Targeted Bait|Goby Bait]], rather than just 20%.}}
+
+{{NavboxFish}}
+
+[[Category:River fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+
+[[de:Grundeln]]
+[[es:Palometa]]
+[[fr:Gobie]]
+[[it:Ghiozzo]]
+[[ja:ハゼ]]
+[[ko:망둑어]]
+[[hu:Géb]]
+[[pt:Gobi]]
+[[ru:Бычок]]
+[[tr:Taşbalığı]]
+[[zh:虾虎鱼]]

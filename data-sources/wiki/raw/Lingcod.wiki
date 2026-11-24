@@ -1,0 +1,114 @@
+{{Infobox fish
+|eng        = Lingcod
+|location   = River • [[The Mountain|Mountain Lake]]
+|time       = Any
+|season     = Winter
+|weather    = Any
+|difficulty = 85
+|behavior   = Mixed
+|size       = 30-51
+|price      = 120
+|edibility  = 10
+|roe        = Dark Brown
+}}
+The '''Lingcod''' is a [[fish]] that can be caught in the river (in [[Pelican Town]] or [[Cindersap Forest]]) or the [[The Mountain|Mountain Lake]] during [[Winter]]. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{Tprice|120}}.
+
+Lingcod can be caught regardless of season using [[Magic Bait]].
+
+==Map==
+Lingcod can be found in the river and the [[The Mountain|Mountain Lake]].
+{{Map|200|150|loc2x=270|loc2y=43|loc3x=120|loc3y=150}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Leo
+|hate=Pierre,Evelyn,Haley
+|like=Willy
+}}
+
+==Bundles==
+Lingcod is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Lingcod can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Fishing Vest]].  [[File:Shirt157.png|24px]] It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Lingcod can be placed in a [[Fish Pond]], where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The primary output is dark brown Lingcod [[Roe]], but [[Bug Meat]] is also possible starting at population 9.
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 2 [[Bream]], 2 [[Carp]], or 2 [[Chub]] || 40
+|-
+| 5   || 7   || 2 [[Bullhead]] or 2 [[Largemouth Bass]] || 40
+|-
+| 7   || 10  || 2 [[Ghostfish]], 2 [[Sandfish]], or 2 [[Woodskip]] || 40
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Dark Brown Roe|1|link=Roe}}
+|rowspan="2"|13
+| 1-8  || 100%    || 23-79%
+|-
+| 9-10 || 95%     || 83-90%
+|-
+||{{Name|Bug Meat|20}}
+|10
+| 9-10 || 5%      || 4-5%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-8  || 0%      || 77-21%
+|-
+| 9-10 || 0%      || 13-5%
+|}
+
+==Quests==
+*[[Willy]] requests a Lingcod by mail on the 13th of [[Winter]] (year 2) in the [[Quests#Catch a Lingcod|"Catch a Lingcod" Quest]].  The reward is {{Price|550}} and 1 [[Friendship]] heart. Note that you can use a Lingcod caught before the quest was accepted.
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Lingcod to be caught in [[Winter]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+
+==History==
+{{History|1.4|Added iridium quality.  Can now be used in [[Tailoring]].}}
+{{History|1.5|Special Order quest added.}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:River fish]]
+[[Category:Lake fish]]
+[[Category:Winter fish]]
+
+[[de:Lengdorsch]]
+[[es:Bacalao largo]]
+[[fr:Morue-lingue]]
+[[it:Ofiodonte]]
+[[ja:リングコッド]]
+[[ko:범노래미]]
+[[hu:Lingcod]]
+[[pt:Ófis]]
+[[ru:Змеезуб]]
+[[tr:Dipbalığı]]
+[[zh:蛇齿单线鱼]]

@@ -1,0 +1,214 @@
+<div id="infoboxborder" style="min-width:0;">[[File:Summer.png|150px|alt=Summer icon|class=pixels]]</div>
+
+'''Summer''' is the second [[Seasons|season]] new players play through. It is followed by [[Fall]] and preceded by [[Spring]].
+
+In Summer, the [[grass]] remains green, although noticeably yellower than the spring grass was. Butterflies can be seen flying across the screen. Any [[Crops#Spring Crops|Spring-only crops]] wilt and die on the 1st of Summer. New [[crops]], [[fish]], and [[Foraging|forageable items]] are available.
+
+The [[Ice Cream Stand]] opens in summer.
+
+__TOC__
+
+==Events==
+On the start of the third day of summer in the first year, an earthquake occurs that unlocks the [[railroad]] area that contains the [[spa]].
+{{Calendar|Summer}}
+{|
+|-
+|style="vertical-align: top;"|
+===Festivals===
+{| class="wikitable roundedborder"
+!Day
+!Name
+|-
+|11||<p>[[File:Calendar Flag Anim.gif]] [[Luau]]</p>
+|-
+|20–21||<p>[[File:Hook Icon.png]] [[Trout Derby]]</p>
+|-
+|28||<p>[[File:Calendar Flag Anim.gif]] [[Dance of the Moonlight Jellies]]</p>
+|}
+
+===Other===
+{|class="wikitable roundedborder"
+|-
+!Day
+!Event
+|-
+|12–14||Extra [[Foraging|forageables]] at [[The Beach]]
+|-
+|2x randomly:<br /><span style="font-size: smaller;">9, 12, 18, 25, 27</span>
+|[[Bookseller]]
+|-
+|}
+|style="width: 1em;"|
+|
+
+===Birthdays===
+{| class="wikitable sortable roundedborder"
+!Day
+!Villager
+|-
+|04||[[File:Jas Icon.png|link=]] [[Jas]]
+|-
+|08||[[File:Gus Icon.png|link=]] [[Gus]]
+|-
+|10||[[File:Maru Icon.png|link=]] [[Maru]]
+|-
+|13||[[File:Alex Icon.png|link=]] [[Alex]]
+|-
+|17||[[File:Sam Icon.png|link=]] [[Sam]]
+|-
+|19||[[File:Demetrius Icon.png|link=]] [[Demetrius]]
+|-
+|22||[[File:Dwarf Icon.png|link=]] [[Dwarf]]
+|-
+|24||[[File:Willy Icon.png|link=]] [[Willy]]
+|-
+|26||[[File:Leo Icon.png|link=]] [[Leo]]
+|}
+|}
+
+==Crops==
+{{Main article|Crops#Summer Crops{{!}}Crops}}
+:''See also: [[Farming#Experience Points]]''
+The following [[Crops]] can be grown in Summer. Note that the "Seed Price" shown is the [[Pierre's General Store|General Store]] price, unless otherwise indicated. "Maximum Harvests per Season" assumes no [[fertilizer]] is used and the [[Farming#Farming Skill|Agriculturist profession]] is not chosen. "Gold/Day" assumes no fertilizer is used and the [[Farming#Farming Skill|Tiller profession]] is not chosen. See the [[Crops#Gold per Day|Crops page]] for the full calculation.
+
+===Single Harvest===
+{| class="wikitable sortable roundedborder" style="text-align: center;"
+|-
+! Crop !! Seed Price !! Days<br />to Grow !! Maximum Harvests<br />per Season !! Sells For !! Gold/Day
+|- 
+|style="text-align: left;"|{{Name|Melon}} || data-sort-value="80"|{{Price|80}}  || data-sort-value="12"|12 days || 2 || data-sort-value="250"|{{Price|250}}  || data-sort-value="14.17"|&#8776;{{Price|14.17}} 
+|-
+|style="text-align: left;"|{{Name|Poppy}} || data-sort-value="100"|{{Price|100}} || data-sort-value="7"|7 days || 3 || data-sort-value="140"|{{Price|140}} || data-sort-value="5.71"|&#8776;{{Price|5.71}}
+|-
+|style="text-align: left;"|{{Name|Radish}} || data-sort-value="40"|{{Price|40}} || data-sort-value="6"|6 days || 4 || data-sort-value="90"|{{Price|90}} || data-sort-value="8.33"|&#8776;{{Price|8.33}}
+|-
+|style="text-align: left;"|{{Name|Red Cabbage}} || data-sort-value="100"|{{Price|100}} || data-sort-value="9"|9 days || 3 || data-sort-value="260"|{{Price|260}} || data-sort-value="17.78"|&#8776;{{Price|17.78}}
+|-
+|style="text-align: left;"|{{Name|Starfruit}} || data-sort-value="400"|[[Oasis]]: {{Price|400}} || data-sort-value="13"|13 days || 2 || data-sort-value="750"|{{Price|750}} || data-sort-value="26.92"|&#8776;{{Price|26.92}}
+|-
+|style="text-align: left;"|{{Name|Summer Spangle}} || data-sort-value="50"|{{Price|50}} || data-sort-value="8"|8 days || 3 || data-sort-value="90"|{{Price|90}} || data-sort-value="5.00"|{{Price|5}}
+|-
+|style="text-align: left;"|{{Name|Sunflower}} || data-sort-value="200"|{{Price|200}} || data-sort-value="8"|8 days || Summer: 3<br />Summer and [[Fall]]: 6 || data-sort-value="80"|{{Price|80}} || data-sort-value="-15.00"|{{Price|-15}}
+|-
+|style="text-align: left;"|{{Name|Wheat}} || data-sort-value="10"|{{Price|10}} || data-sort-value="4"|4 days || Summer: 6<br />Summer and [[Fall]]: 13 || data-sort-value="25"|{{Price|25}} || data-sort-value="3.75"|{{Price|3.75}}
+|-
+|}
+
+=== Multiple Harvests ===
+Note that each blueberry plant produces 3 [[Blueberry|Blueberries]] at harvest and each coffee plant produces 4 [[Coffee Bean]]s at harvest.
+{| class="wikitable sortable roundedborder" style="text-align: center;"
+|-
+! Crop !! Seed Price !! Days<br />to Grow !! Regrowth !! Maximum Harvests<br />per Season !! Sells For !! Gold/Day
+|- 
+|style="text-align: left;"|{{Name|Blueberry}} || data-sort-value="80"|{{Price|80}} || data-sort-value="13"|13 days || data-sort-value="4"|4 days || 4 || data-sort-value="50"|{{Price|50}} (x3) || data-sort-value="20.8"|{{Price|20.8}}
+|- 
+|style="text-align: left;"|{{Name|Coffee Bean}} || [[Traveling Cart]]: {{Price|2500}} || data-sort-value="10"|10 days || data-sort-value="2"|2 days || Summer: 9<br />[[Spring]] and Summer: 23 || data-sort-value="15"|{{Price|15}} (x4) || data-sort-value="25.56"|Harvested Coffee Bean/[[Dust Sprite]] (2 seasons): {{Price|25.56}}<br />Harvested Coffee Bean/[[Dust Sprite]] (1 season): {{Price|20.77}}<br />Traveling Cart (2 seasons): {{Price|-20.74}}
+|-
+|style="text-align: left;"|{{Name|Corn}} || data-sort-value="150"|{{Price|150}} || data-sort-value="14"|14 days || data-sort-value="4"|4 days  || data-sort-value="4"|Summer: 4 <br /> Summer and [[Fall]]: 11 || data-sort-value="50"|{{Price|50}} || data-sort-value="1.92"|Summer only: &#8776;{{Price|1.92}}<br />Summer and [[Fall]]: &#8776;{{Price|7.41}}
+|-
+|style="text-align: left;"|{{Name|Hops}} || data-sort-value="60"|{{Price|60}} || data-sort-value="11"|11 days || data-sort-value="1"|1 day || 17 || data-sort-value="25"|{{Price|25}}  || data-sort-value="13.52"|&#8776;{{Price|13.52}}
+|-
+|style="text-align: left;"|{{Name|Hot Pepper}} || data-sort-value="40"|{{Price|40}} || data-sort-value="5"|5 days || data-sort-value="3"|3 days || 8 || data-sort-value="40"|{{Price|40}}  || data-sort-value="10.77"|&#8776;{{Price|10.77}}
+|-
+|style="text-align: left;"|{{Name|Tomato}} || data-sort-value="50"|{{Price|50}} || data-sort-value="11"|11 days || data-sort-value="4"|4 days || 5 || data-sort-value="60"|{{Price|60}} || data-sort-value="9.26"|&#8776;{{Price|9.26}}
+|-
+|style="text-align: left;"|{{Name|Summer Squash}} || data-sort-value="0"|{{Price|0}} || data-sort-value="6"|6 days || data-sort-value="3"|3 days || 8 || data-sort-value="45"|{{Price|45}} || data-sort-value="13"|&#8776;{{Price|13.33}}
+|}
+
+==Forage==
+{{Main article|Foraging#Summer{{!}}Foraging}}
+The {{Name|Rainbow Shell|class=inline}} can be found at [[the Beach]] only in Summer. In addition, the items shown below can be found while foraging during Summer. The percentages provided for each location are the percentage of all foraged items in the location that will (on average) be the specified item. <ref name="spawnpercent" />
+{{#lsth:Foraging|Summer}}<!--transcluded from Foraging page-->
+
+==Fish==
+{{Main article|Fish#Fish Types{{!}}Fish}}
+Certain [[Fish|fish]] can be caught only during specific seasons.  Listed below are all fish catchable during Summer.  
+
+''Fish that can be caught during all seasons are not listed.''
+
+Note: Any Fish can be used for recipes with the tag "any fish" (''i.e.,'' {{Name|Sashimi|class=inline}}, {{Name|Maki Roll|class=inline}}, {{Name|Quality Fertilizer|class=inline}}).
+<div style="overflow-x: auto;">
+{| class="wikitable sortable roundedborder"
+|-
+! class="unsortable" | Image
+! Name
+! Description
+! Price
+! [[File:Fisher.png|24px|link=]] Fisher Profession (+25%)
+! [[File:Angler Icon.png|24px|link=]] Angler Profession (+50%)
+! Location
+! Time
+! Season
+! Weather
+! Size (inches)
+! Difficulty &amp; Behavior
+! Base XP
+! Used In
+|-
+{{#lst:Fish|Pufferfish}}
+|-
+{{#lst:Fish|Tuna}}
+|-
+{{#lst:Fish|Rainbow Trout}}
+|-
+{{#lst:Fish|Catfish}}
+|-
+{{#lst:Fish|Pike}}
+|-
+{{#lst:Fish|Sunfish}}
+|-
+{{#lst:Fish|Red Mullet}}
+|-
+{{#lst:Fish|Octopus}}
+|-
+{{#lst:Fish|Red Snapper}}
+|-
+{{#lst:Fish|Super Cucumber}}
+|-
+{{#lst:Fish|Sturgeon}}
+|-
+{{#lst:Fish|Tilapia}}
+|-
+{{#lst:Fish|Dorado}}
+|-
+{{#lst:Fish|Flounder}}
+|-
+{{#lst:Fish|Shad}}
+|-
+{{#lst:Fish|Halibut}}
+|-
+{{#lst:Fish|Crimsonfish}}||
+|-
+|}</div>
+
+==Weather==
+
+During Summer, the [[weather]] may be sunny, rainy, or stormy. A storm always occurs on Summer 13 and 26 every year.
+
+[[Weather#Green Rain|Green rain]] occurs on a random day once each Summer, only possible on the following dates: 5, 6, 7, 14, 15, 16, 18, 23.
+
+==References==
+<references>
+<ref name="spawnpercent">The foraged items that can spawn in a given location each season are determined by <samp>GameLocation::spawnObjects</samp> in the game code, using input from the data file <samp>Content\Locations.xnb</samp>. The percentages provided here have been normalized to ensure that the percentages sum to 100% for each location. The data was normalized by:
+# Calculating the sum of all percentages listed in <samp>Locations.xnb</samp> for Summer
+# Dividing each percentage by the sum</ref>
+</references>
+
+==History==
+{{History|1.6|Added Trout Derby. Added green rain.}}
+
+{{NavboxSeasons}}
+
+[[Category:Seasons]]
+
+[[de:Sommer]]
+[[es:Verano]]
+[[fr:Été]]
+[[it:Estate]]
+[[ja:夏]]
+[[ko:여름]]
+[[hu:Nyár]]
+[[pt:Verão]]
+[[ru:Лето]]
+[[tr:Yaz]]
+[[zh:夏季]]

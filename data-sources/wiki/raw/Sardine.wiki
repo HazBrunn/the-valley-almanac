@@ -1,0 +1,114 @@
+{{Infobox fish
+|eng        = Sardine
+|location   = [[The Beach|Ocean]]
+|time       = 6am – 7pm
+|season     = <span class="no-wrap">{{Season|spring}} • {{Season|fall}} • {{Season|winter}}</span>
+|weather    = Any
+|difficulty = 30
+|behavior   = Dart
+|size       = 1-13
+|price      = 40
+|edibility  = 5
+|roe        = Blue
+}}
+The '''Sardine''' is a [[fish]] that can be caught in the ocean at [[The Beach]] or on the [[Farm Maps#Beach|Beach Farm]] during [[Spring]], [[Fall]], and [[Winter]]. It can also randomly be found in [[Garbage Can]]s during Spring, Fall, or Winter or at the [[Traveling Cart]] for {{Tprice|40}}.
+
+Sardines can be caught regardless of time of day or season using [[Magic Bait]].
+
+==Map==
+The Sardine can be found in the ocean.
+{{Map|275|200}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Sardine is used in the {{Bundle|Ocean Fish||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Dish O' The Sea|RecipeRow}}
+{{:Maki Roll|RecipeRow}}
+{{:Quality Fertilizer|RecipeRow}}
+{{:Sashimi|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Sardine can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[File:Shirt259a.png|24px]] [[Tailoring|Sailor Shirt]]. It can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Sardines can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is blue Sardine [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{| class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Driftwood]], 1 [[Frozen Geode]], or 1-2 [[Seaweed]] || 30
+|-
+| 5   || 7   || 2 [[Clam]]s or 2 [[Coral]] || 30
+|-
+| 7   || 10  || 2 [[Aquamarine]], 1 [[Mussel]], or 2 [[Sea Urchin]]s || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{| class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|rowspan="2"|{{Name|Blue Roe|1|link=Roe}}
+|rowspan="2"|12
+| 1-4  || 70%     || 16-33%
+|-
+| 5-10 || 100%    || 55-95%
+|-
+|rowspan="2"|''Nothing''
+|rowspan="2"| 
+| 1-4  || 30%     || 84-67%
+|-
+| 5-10 || 0%      || 45-5%
+|}
+
+==Quests==
+*'''Item Delivery:''' One Sardine may be randomly requested in [[Spring]], [[Fall]], or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|120}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-5 Sardines to be caught in [[Spring]], [[Fall]], or [[Winter]] at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|40}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Sardines to be caught in [[Spring]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+*Two Sardines are requested by [[Midnight Squid]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 8.
+*Two Sardines are requested by [[Squid]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 10.
+
+==History==
+{{History|1.4|Removed from most Summer quests and garbage can items.  Added iridium quality.  Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Special Order quest added.}}
+{{History|1.6.4|Can no longer be requested by [[Demetrius]] or [[Willy]] in a [[Quests#Help Wanted Quests|Fishing Help Wanted quest]] during [[Summer]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+[[Category:Ocean fish]]
+
+[[de:Sardine]]
+[[es:Sardina]]
+[[fr:Sardine]]
+[[it:Sardina]]
+[[ja:イワシ]]
+[[ko:정어리]]
+[[hu:Szardínia]]
+[[pt:Sardinha]]
+[[ru:Сардина]]
+[[tr:Sardalya]]
+[[zh:沙丁鱼]]

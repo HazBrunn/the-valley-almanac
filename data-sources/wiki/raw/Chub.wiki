@@ -1,0 +1,105 @@
+{{Infobox fish
+|eng        = Chub
+|location   = [[The Mountain|Mountain Lake]] • [[Cindersap Forest#River|Forest River]]
+|time       = Any
+|season     = All
+|weather    = Any
+|difficulty = 35
+|behavior   = Dart
+|size       = 12-25
+|price      = 50
+|edibility  = 10
+|roe        = Dark Gray
+}}
+The '''Chub''' is a [[fish]] that can be caught in [[The Mountain|the mountain lake]] and the [[Cindersap Forest#River|Cindersap Forest River]] during all seasons.  Unlike most fish found in the Forest River, it cannot be caught in [[Pelican Town]]. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may also randomly appear in [[Krobus]]' shop on [[Days of the Week#Wednesday|Wednesdays]] for {{Price|200}}, or at the [[Traveling Cart]] for {{Tprice|50}}.
+
+==Map==
+Chub can be found in the mountain lake and the Cindersap Forest river.
+{{Map|120|150|loc2x=270|loc2y=43}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+Chub is used in the {{Bundle|field research||y}}.
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Tailoring==
+Chub can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Fishing Vest]].  [[File:Shirt157.png|24px]]
+
+==Fish Pond==
+Chub can be placed in a [[Fish Pond]], where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is dark gray Chub [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 3 [[Acorn]]s, 10 [[Bug Meat]], 3 [[Maple Seed]]s, or 3 [[Pine Cone]]s || 30
+|-
+| 5   || 7   || 3 [[Gold Ore]], 1 [[Maple Syrup]], or 5 [[Mixed Seeds]] || 30
+|-
+| 7   || 10  || 1 [[Crayfish]], 1 [[Honey]], 2 [[Jade]], or 1 [[Periwinkle]] || 30
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Dark Gray Roe|1|link=Roe}}
+|12
+| 1-10 || 90%     || 21-86%
+|-
+|''Nothing''
+| 
+| 1-10 || 10%     || 79-14%
+|}
+
+==Quests==
+*'''Fishing:''' [[Willy]] may randomly request 1-4 chubs during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|50}} per fish.  (You get to keep the fish).
+*Two Chub may be requested by [[Dorado]], [[Lingcod]], or [[Pike]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5.
+
+==History==
+{{History|1.4|Added iridium quality. Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Lake fish]]
+[[Category:River fish]]
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+
+[[de:Kaulbarsch]]
+[[es:Barbo]]
+[[fr:Chevesne]]
+[[it:Cavedano]]
+[[ja:チャブ]]
+[[ko:피라미]]
+[[hu:Domolykó]]
+[[pt:Esquálio]]
+[[ru:Голавль]]
+[[tr:Kefal]]
+[[zh:鲢鱼]]

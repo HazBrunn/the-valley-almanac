@@ -1,0 +1,81 @@
+{{Infobox fish
+|eng       = Green Algae
+|source    = <nowiki />
+* [[Tools#Fishing Poles|Fishing Pole]]: freshwater
+* [[Slimes|Green Slimes]]
+* [[Garbage Can]]s
+* [[Fish Pond]]
+* [[Animals#Cat or Dog|Cat]]
+|xp        = <nowiki />
+* Fishing Pole: 3 [[Fishing#Experience Points|Fishing XP]]
+* Fish Pond: 16 [[Fishing#Experience Points|Fishing XP]]
+|season    = All
+|edibility = 5
+|price     = 15
+|quality   = false
+|professions = false
+}}
+'''Green Algae''' is an item that can be caught using a [[Tools#Fishing Poles|Fishing Pole]] during all seasons at any freshwater location, with the exception of the [[Farm Pond]] on the [[Farm Maps|Standard Farm]]. It is never caught in [[Crab Pot]]s.
+
+It is also dropped from [[Slimes|Green Slimes]] (10% chance), and may be produced in [[Slimejack]], [[Crayfish]], [[Snail]], or [[Periwinkle]] [[Fish Pond]]s. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It can also be found in [[Garbage Can]]s.
+
+Green Algae is displayed in the [[Collections#Fish|Fish section]] of the [[Collections|collection]] tab, and counts towards the four fishing [[Fishing#Achievements|Achievements]].<ref name="quasi_fish" /> However, it is otherwise not considered to be a fish, and therefore cannot be sold to [[Willy]] at the [[Fish Shop]], does not benefit from fish price bonuses, cannot be used in place of "Any Fish" in [[Cooking#Recipes|recipes]], and cannot be put in a [[Bait Maker]], [[Fish Smoker]], or [[Fish Pond]].
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Bundles==
+Green Algae is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header}}
+{{:Algae Soup|RecipeRow}}
+{{:Trout Soup|RecipeRow}}
+{{Recipes|footer}}
+
+==Buildings==
+{|class="wikitable roundedborder"
+!Image
+!Name
+!Description
+!Cost
+!Size
+|-
+|[[File:Fish Pond.png|96px|center]]
+|[[Fish Pond]]
+|{{Description|Fish Pond}}
+|{{Price|5000}}{{Name|Stone|200}}{{Name|Seaweed|5}}{{Name|Green Algae|5}}
+|style="text-align: center;"|'''5x5'''<br />[[File:Marker5x5.png|center|5x5]]
+|}
+
+==Tailoring==
+Green Algae can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[File:Shirt248.png|24px]] [[Tailoring|Collared Shirt]]. It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+*Green Algae may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|45}} and 150 [[Friendship]] points.
+*2-3 Green Algae may be requested by [[Bullhead]], [[Carp]], or [[Largemouth Bass]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 3 to 5.
+
+==References==
+<references>
+<ref name="quasi_fish">In the game data (<samp>[[Modding:Objects|Data/Objects.xnb]]</samp>) the type assigned to Green Algae is "Fish", but it is not assigned the Fish category (<samp>-4</samp>).  The label displayed in-game and most uses are controlled by the category.</ref>
+</references>
+
+==History==
+{{History|1.4|Added as Fish Pond build material.  Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]]. Can be produced by Fish Ponds.}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. Is no longer a possible Midnight Carp Fish Pond request.}}
+
+[[Category:Fishing]]
+
+[[de:Grünalge]]
+[[es:Alga verde]]
+[[fr:Algues vertes]]
+[[it:Alghetta verde]]
+[[ja:緑の藻]]
+[[ko:녹조류]]
+[[hu:Zöld alga]]
+[[pt:Algas Verdes]]
+[[ru:Зеленая водоросль]]
+[[tr:Yeşil Su Yosunu]]
+[[zh:绿藻]]

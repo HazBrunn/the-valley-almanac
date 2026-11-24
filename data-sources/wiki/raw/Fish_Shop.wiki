@@ -1,0 +1,280 @@
+{{Infobox location
+|mapx      = 274
+|mapy      = 194
+|building  = Fish Shop.png
+|openhours = 9am to 5pm
+|closed    = Non-rainy [[Days of the Week#Saturday|Saturdays]] (Building Open, no sales)
+|occupants = {{NPC|Willy}}
+|width     = 270px
+}}
+The '''Fish Shop''' is the home of [[Willy]]. It's located on the docks of [[the Beach]] south of [[Pelican Town]]. The shop can be entered beginning on [[Spring]] 2 Year 1. Although the door will unlock on [[Days of the Week#Saturday|Saturdays]], the shop will be closed unless it is [[Weather|raining]], with the exception of Winter 13, the second day of [[SquidFest]].
+
+Willy sells a variety of [[fishing]]-related supplies, including [[Tools#Fishing Poles|rods]], [[bait]], [[tackle]], [[Fish Tank|fish tanks]], and [[Crab Pot|crab pots]]. Some items, such as tackles, become available once the player reaches a specific [[Fishing#Fishing Skill|fishing level]]. Those items can be purchased as soon as the appropriate skill level is achieved, without needing to wait until the next day. Other items, such as the [[Pans|Copper Pan]] and the [[Deluxe Fish Tank]], require the player to complete specific tasks to become available.
+
+The shop is closed on all festival days, with exception of [[Desert Festival]], [[Trout Derby]], [[SquidFest]] and [[Night Market]], as well as [[Spirit's Eve]].
+
+==Stock==
+The following items are available as soon as the Fish Shop is open: [[Trout Soup]], [[Targeted Bait]], [[Bamboo Pole]], [[Training Rod]], [[Small Fish Tank]], [[Large Fish Tank]], [[Hanging Fish]], and [[Fisher Double Bed]].
+
+{|class="wikitable sortable"
+!class="unsortable"| Image
+!Name
+!Description
+!Price
+![[File:Fishing Skill Icon.png|24px|link=]] Fishing Level Required
+|-
+|{{Recipe|Fish Smoker|48|center}}
+|[[Fish Smoker]] (Recipe)
+|{{Description|Recipe|[[Fish Smoker]]}}
+|data-sort-value="10000"|{{Price|10000}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Trout Soup.png|48px]]
+|[[Trout Soup]]
+|{{Description|Trout Soup}}
+|data-sort-value="250"|{{Price|250}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Bait.png|48px]]
+|[[Bait (item)|Bait]]
+|{{Description|Bait}}
+|data-sort-value="5"|{{Price|5}}
+|style="text-align: center;"|2
+|-
+|[[File:Deluxe Bait.png|48px]]
+|[[Deluxe Bait]]
+|{{Description|Deluxe Bait}}
+|data-sort-value="100"|{{Price|100}}
+|style="text-align: center;"|4
+|-
+|[[File:Pink Bait.png|48px]]
+|[[Targeted Bait]]
+|{{Description|Targeted Bait}}
+
+''Willy sells a limited quantity of one specific Targeted Bait (''e.g.'' [[Catfish]] Bait, [[Sardine]] Bait) for double the bait's sell price each day. See the [[#Targeted Bait|Targeted Bait]] section for more information.''
+|data-sort-value="100"|{{Price|100}}
+|style="text-align: center;"|N/A
+|-
+|[[File:Crab Pot.png|48px]]
+|[[Crab Pot]]
+|{{Description|Crab Pot}}
+|data-sort-value="1500"|{{Price|1500}}
+|style="text-align: center;"|3
+|-
+|[[File:Sonar Bobber.png|48px]]
+|[[Sonar Bobber]]
+|{{Description|Sonar Bobber}}
+|data-sort-value="500"|{{Price|500}}
+|style="text-align: center;"|6
+|-
+|[[File:Spinner.png|48px]]
+|[[Spinner]]
+|{{Description|Spinner}}
+|data-sort-value="500"|{{Price|500}}
+|style="text-align: center;"|6
+|-
+|[[File:Trap Bobber.png|48px]]
+|[[Trap Bobber]]
+|{{Description|Trap Bobber}}
+|data-sort-value="500"|{{Price|500}}
+|style="text-align: center;"|6
+|-
+|[[File:Lead Bobber.png|48px]]
+|[[Lead Bobber]]
+|{{Description|Lead Bobber}}
+|data-sort-value="200"|{{Price|200}}
+|style="text-align: center;"|6
+|-
+|[[File:Treasure Hunter.png|48px]]
+|[[Treasure Hunter]]
+|{{Description|Treasure Hunter}}
+|data-sort-value="750"|{{Price|750}}
+|style="text-align: center;"|7
+|-
+|[[File:Cork Bobber.png|48px]]
+|[[Cork Bobber]]
+|{{Description|Cork Bobber}}
+|data-sort-value="750"|{{Price|750}}
+|style="text-align: center;"|7
+|-
+|[[File:Barbed Hook.png|48px]]
+|[[Barbed Hook]]
+|{{Description|Barbed Hook}}
+|data-sort-value="1000"|{{Price|1000}}
+|style="text-align: center;"|8
+|-
+|[[File:Dressed Spinner.png|48px]]
+|[[Dressed Spinner]]
+|{{Description|Dressed Spinner}}
+|data-sort-value="1000"|{{Price|1000}}
+|style="text-align: center;"|8
+|-
+|[[File:Magnet.png|48px]]
+|[[Magnet]]
+|{{Description|Magnet}}
+|data-sort-value="1000"|{{Price|1000}}
+|style="text-align: center;"|9
+|-
+|[[File:Bamboo Pole.png|48px]]
+|[[Bamboo Pole]]
+|{{Description|Bamboo Pole}}
+|data-sort-value="500"|{{Price|500}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Training Rod.png|48px]]
+|[[Training Rod]]
+|{{Description|Training Rod}}
+|data-sort-value="25"|{{Price|25}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Fiberglass Rod.png|48px]]
+|[[Fiberglass Rod]]
+|{{Description|Fiberglass Rod}}
+|data-sort-value="1800"|{{Price|1800}}
+|style="text-align: center;"|2
+|-
+|[[File:Iridium Rod.png|48px]]
+|[[Iridium Rod]]
+|{{Description|Iridium Rod}}
+|data-sort-value="7500"|{{Price|7500}}
+|style="text-align: center;"|6
+|-
+|[[File:Advanced Iridium Rod.png|48px]]
+|[[Advanced Iridium Rod]]
+|{{Description|Advanced Iridium Rod}} <br />(''Available after obtaining one from the [[Mastery Cave]]'')
+|data-sort-value="25000"|{{Price|25000}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Copper Pan.png|48px]]
+|[[Pans|Copper Pan]]
+|{{Description|Copper Pan}}<br />(''Available after completion of [[Bundles#Fish Tank|Fish Tank]] bundle'')
+|data-sort-value="2500"|{{Price|2500}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Large Fish Tank.png|48px]]
+|[[Large Fish Tank]]
+|{{Description|furniture}}
+|data-sort-value="2000"|{{Price|2000}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Small Fish Tank.png|x48px|center]]
+|[[Small Fish Tank]]
+|{{Description|furniture}}
+|data-sort-value="500"|{{Price|500}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Deluxe Fish Tank.png|48px]]
+|[[Deluxe Fish Tank]]
+|{{Description|furniture}}<br />(''Available after completion of [[Quests#Tropical Fish|Tropical Fish]] quest'')
+|data-sort-value="5000"|{{Price|5000}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Hanging Fish.png|x48px|center]]
+|[[Hanging Fish]]
+|{{Description|furniture}}
+|data-sort-value="1000"|{{Price|1000}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|-
+|[[File:Fisher Double Bed.png|48px]]
+|[[Fisher Double Bed]]
+|{{Description|furniture}}
+|data-sort-value="25000"|{{Price|25000}}
+|data-sort-value="0" style="text-align: center;"|N/A
+|}
+
+===Targeted Bait===
+<section begin="targetedbaitstock" />
+Each day, Willy sells a limited quantity (8-12) of one [[Targeted Bait]] (''e.g.'' Catfish Bait, Sardine Bait) for double the bait's sell price. The type of bait Willy sells depends on the season. Below is the list of all targeted bait Willy can sell in each season.
+
+{|class="wikitable sortable roundedborder"
+!Season
+!Possible Targeted Bait Sold
+|-
+|{{Season|Spring}}
+|[[Anchovy]] Bait, [[Sardine]] Bait, [[Bream]] Bait, [[Largemouth Bass]] Bait, [[Smallmouth Bass]] Bait, [[Catfish]] Bait, [[Eel]] Bait, [[Flounder]] Bait, [[Stonefish]] Bait
+|-
+|{{Season|Summer}}
+|[[Pufferfish]] Bait, [[Tuna]] Bait, [[Sardine]] Bait, [[Bream]] Bait, [[Largemouth Bass]] Bait, [[Rainbow Trout]] Bait, [[Pike]] Bait, [[Red Mullet]] Bait, [[Octopus]] Bait, [[Super Cucumber]] Bait, [[Flounder]] Bait, [[Sturgeon]] Bait, [[Dorado]] Bait, [[Tilapia]] Bait, [[Ice Pip]] Bait
+|-
+|{{Season|Fall}}
+|[[Anchovy]] Bait, [[Sardine]] Bait, [[Bream]] Bait, [[Largemouth Bass]] Bait, [[Smallmouth Bass]] Bait, [[Salmon]] Bait, [[Octopus]] Bait, [[Catfish]] Bait, [[Eel]] Bait, [[Midnight Carp]] Bait, [[Tilapia]] Bait, [[Albacore]] Bait, [[Lava Eel]] Bait
+|-
+|{{Season|Winter}}
+|[[Tuna]] Bait, [[Sardine]] Bait, [[Bream]] Bait, [[Largemouth Bass]] Bait, [[Walleye]] Bait, [[Perch]] Bait, [[Catfish]] Bait, [[Pike]] Bait, [[Red Mullet]] Bait, [[Squid]] Bait, [[Super Cucumber]] Bait, [[Midnight Carp]] Bait, [[Sturgeon]] Bait, [[Albacore]] Bait, [[Lingcod]] Bait, [[Stonefish]] Bait, [[Ice Pip]] Bait, [[Lava Eel]] Bait
+|}<section end="targetedbaitstock" />
+
+==Purchases==
+Willy will buy the following items from the player: All [[Fish]], [[Bait]], [[Tackle]], [[Foraging#The Beach|Beach Forageables]] (except [[Seaweed]]), [[Roe]], and [[Squid Ink]].<ref name="purchase" />
+
+He will not buy any other catchable items ([[Trash]], [[Green Algae]], [[Seaweed]], [[White Algae]], [[Cave Jelly]], [[River Jelly]], or [[Sea Jelly]]). He will also not buy [[Aged Roe]], [[Caviar]], or [[Smoked Fish]].
+
+==Player-Derived Stock==
+If the player chooses to sell items to Willy, there is a chance they will appear in the list of items for sale, especially if sold to Willy in large quantity. Any of these items will be available for purchase in limited quantities. Additional villager dialogues may appear indicating they've seen or purchased the items.
+
+==Bobber Machine==
+[[File:Bobber Machine all styles.png|thumb|right|Bobber Machine selection showing all 39 options]]
+At the right of the Fish Shop is a Bobber Machine which allows players to choose different bobber styles. Along with selecting a specific bobber style, the player can also select a randomized option, which chooses a bobber for each cast at random from all of the unlocked options. Each bobber also can change the fishing line's color.
+
+At the start of the game, only the default bobber style can be chosen. A new bobber style will unlock each time the player catches 2 new fish. Bobber styles are always unlocked in order. For example, the 10th bobber style will unlock after the player catches 18 different fish.
+
+There are a total of 39 different bobber styles to unlock. To unlock all of the bobber styles, the player must catch a total of 76 different fish. There are a total of 77 different fish in the game (the 72 found in the [[Collections#Fish|Fish]] tab in the Collections menu and the 5 [[Fish#Legendary Fish II|Legendary Fish II]]).
+
+An additional bobber style can be unlocked by putting [[Secrets#Lucky Purple Shorts|Lucky Purple Shorts]] in the [[tackle]] slot of a fishing rod.
+
+==Willy's Boat==
+Anytime after Summer 1 of Year 1, entering the Fish Shop (with or without [[Willy]] present) will trigger a "teaser" cutscene. In the cutscene, Willy chats with the player about their fishing progress, then mentions that business at the Fish Shop could be better. Willy says that he is working so hard, he has no time for his own projects. He says he has an "old friend" in the back who has seen better days. Willy then hints that if business picks up, he will show the player what he has in the back room.
+
+[[File:Fixin the boat.png|thumb|right|180px|Willy and Robin put the Ginger Island boat back into operation.]]
+When the player completes the [[Community Center]] [[Bundles]] or views the [[Joja Warehouse]] completion cutscene, Willy will mail the player an invitation to come to the back room of his shop. Upon entering the back room, the player finds a dock with an old boat that needs repair. The boat can provide transportation to and from [[Ginger Island]] at a ticket price of {{Price|1000}}, but Willy does not have the materials needed for repairs.
+
+To repair the boat, the player must provide:
+* {{Name|Hardwood|class=inline|200}} for the hull
+* {{Name|Iridium Bar|class=inline|5}} for the anchor
+* {{Name|Battery Pack|class=inline|5}} for the ticket stand
+
+Once the player makes all 3 boat repairs, the game generates an overnight cutscene in which Willy and [[Robin]] work to restore the boat. Note that this cutscene is delayed a day if another overnight cutscene is scheduled for the same night.
+
+Starting the day after viewing the boat repair cutscene with Willy & Robin, the player can buy a boat ticket in the back room. The Fish Shop door also unlocks at 8am instead of 9am. After getting the [[Key To The Town]], the player can access the boat at any time in [[Shop Schedules|regular days]]. In both cases, Willy's own schedule does not change. He pilots the boat, but he becomes available automatically whenever the player purchases a ticket and doesn't need to be in the shop beforehand.
+
+By fishing inside the boat room, there is a 20% chance to catch a [[Lifesaver]].<ref name="lifesaverchance" />
+
+==Trivia==
+*Interacting with the ladder at the back of the shop results in a message that suggests Willy lives upstairs.
+*If the player attempts to enter the Fish Shop on Spring 1, Year 1, a note on the door says "Gone Fishing, be back tomorrow".
+*After the shop is closed, [[Willy]] will return to the fish shop, usually at around 12:30am. Once he has returned to the shop, he will be at the counter. The player can still access his shop after this time when returning from [[Ginger Island]] or using the [[Key To The Town]].
+
+==Gallery==
+<gallery>
+Fish Shop Interior.png|Interior
+</gallery>
+
+==References==
+<references>
+    <ref name="purchase">See <samp>ShopMenu::setUpStoreForContext</samp>, case <samp>FishShop</samp>, in the game code.</ref>
+    <ref name="lifesaverchance">See <samp>Data\Locations.xnb</samp> in the game files.</ref>
+</references>
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.04|Fixed bug where the shop was considered a water location.}}
+{{History|1.4|Player-derived stock sold to [[Willy]] now appears in the Fish Shop menu instead of at [[Pierre's General Store]]. Added [[Training Rod]] and [[Pans|Copper Pan]] to shop stock.}}
+{{History|1.5|[[Large Fish Tank]], [[Small Fish Tank]], [[Deluxe Fish Tank]], and [[Fisher Double Bed]] added to shop stock. Introduced [[#Willy's Boat|Willy's Boat]].}}
+{{History|1.6|[[Fish Smoker]] recipe, [[Deluxe Bait]], [[Sonar Bobber]], [[Hanging Fish]], and limited-quantity [[Targeted Bait]] added to shop stock. Introduced [[#Bobber Machine|Bobber Machine]].}}
+{{History|1.6.9|The player can now enter the shop beginning on [[Spring]] 2 even if they haven't read Willy's letter. Fixed bug that allowed fishing buffs to unlock shop items early. Can now purchase the Advanced Iridium Rod after obtaining one from the Mastery Cave.}}
+
+{{NavboxBuildings}}
+
+[[Category:Beach Locations]]
+[[Category:Stores]]
+
+[[de:Anglerbedarf]]
+[[es:Tienda de pesca]]
+[[fr:Poissonnerie]]
+[[it:Negozio di pesca]]
+[[ja:釣具店]]
+[[ko:생선 가게]]
+[[hu:Halbolt]]
+[[pt:Peixaria]]
+[[ru:Рыбацкий магазин]]
+[[tr:Balıkçı]]
+[[zh:鱼店]]

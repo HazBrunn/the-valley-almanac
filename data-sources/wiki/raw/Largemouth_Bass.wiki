@@ -1,0 +1,118 @@
+{{Infobox fish
+|eng        = Largemouth Bass
+|location   = [[The Mountain|Mountain Lake]] • [[Farm Maps|Wilderness Farm]]
+|time       = 6am – 7pm
+|season     = All
+|weather    = Any
+|difficulty = 50
+|behavior   = Mixed
+|size       = 11-31
+|price      = 100
+|edibility  = 15
+|roe        = Green
+}}
+The '''Largemouth Bass''' is a [[fish]] that can be caught in the [[The Mountain|mountain lake]] during all seasons. It comprises approximately 19% to 20% of all catches there during [[Spring]] and [[Fall]], but drops to around 15% during [[Summer]] and [[Winter]]. It is most likely to be caught when casting farther from shore.<ref name="spawnrate" /> It can also be caught on the [[Farm Maps#Wilderness|Wilderness Farm]], and can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]]. It may be randomly found in [[Garbage Can]]s, or at the [[Traveling Cart]] for {{Tprice|100}}. [[Linus]] may randomly send a Largemouth Bass in the mail as a gift.
+
+Largemouth Bass can be caught regardless of time of day using [[Magic Bait]].
+
+==Map==
+Largemouth Bass can be found in the mountain lake.
+{{Map|270|43}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+*Largemouth Bass is used in the {{Bundle|Lake Fish||y}}.
+*1 gold/iridium quality Largemouth Bass is used in the {{Bundle|Quality Fish||y}}.
+
+==Recipes==
+{{Recipes|header}}
+{{:Crispy Bass|RecipeRow}}
+{{:Maki Roll|RecipeRow}}
+{{:Quality Fertilizer|RecipeRow}}
+{{:Sashimi|RecipeRow}}
+{{Recipes|footer}}
+
+==Tailoring==
+Largemouth Bass can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Fishing Vest]].  [[File:Shirt157.png|24px]] It can be used in [[dyeing]], serving as a green dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Largemouth Bass can be placed in a [[Fish Pond]], where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is green Largemouth Bass [[Roe]].
+
+'''[[Fish Pond#Quests|Quests]]'''
+{|class="wikitable"
+|-
+!colspan="2"|Pond Capacity
+!rowspan="2"|Quest Item
+!rowspan="2"|Fishing XP Granted
+|-
+!Before Quest
+!After Quest
+|-
+| 3   || 5   || 10 [[Bug Meat]], 2-3 [[Clay]], 2-3 [[Green Algae]], or 5 [[Slime]]s || 35
+|-
+| 5   || 7   || 2-3 [[Common Mushroom]]s, 1-2 [[Earth Crystal]]s, or 1 [[Limestone]] || 35
+|-
+| 7   || 10  || 1 [[Mudstone]], 1 [[Snail]], or 5 [[Wild Bait]] || 35
+|}
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Green Roe|1|link=Roe}}
+|13
+|1-10 ||90% || 21-86%
+|-
+|''Nothing''
+| 
+|1-10 ||10% || 79-14%
+|}
+
+==Quests==
+*[[Jodi]] requests a Largemouth Bass in the [[Quests#Fish Casserole|"Fish Casserole" quest]] once you've reached 4 hearts with her.  The reward is a cutscene at Jodi's house.
+*'''Item Delivery:''' One Largemouth Bass may be randomly requested during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|300}} and 150 [[Friendship]] points.
+*'''Fishing:''' [[Demetrius]] or [[Willy]] may randomly request 1-4 Largemouth Bass to be caught during any season at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]] for a reward of {{Price|100}} per fish.  (You get to keep the fish).
+*'''Aquatic Overpopulation:''' [[Demetrius]] may request 10 Largemouth Bass to be caught in [[Spring]] at the [[Quests#List of Special Orders|Special Orders board]] outside the [[Mayor's Manor]] for a reward of gold equivalent to selling the fish and the [[Farm Computer]] recipe.
+*Two Largemouth Bass may be requested by [[Dorado]], [[Lingcod]], or [[Pike]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 7.
+
+==References==
+<references>
+<ref name="spawnrate">See <samp>Data/Fish.xnb</samp> and <samp>GameLocation::CheckGenericFishRequirements</samp> in the game code.</ref>
+</references>
+
+==History==
+{{History|1.0|Introduced.}}
+{{History|1.4|Updated sprite. Added iridium quality. Can now be used in [[Tailoring]]. Can be requested in [[Fish Pond#Quests|Fish Pond quests]].}}
+{{History|1.5|Is now used in a remixed bundle. Special Order quest added.}}
+{{History|1.6|Can now be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].}}
+
+{{NavboxFish}}
+
+[[Category:Spring fish]]
+[[Category:Summer fish]]
+[[Category:Fall fish]]
+[[Category:Winter fish]]
+[[Category:Lake fish]]
+
+[[de:Forellenbarsch]]
+[[es:Perca]]
+[[fr:Achigan à grande bouche]]
+[[it:Boccalone]]
+[[ja:ブラックバス]]
+[[ko:큰입우럭]]
+[[hu:Nagyszájú sügér]]
+[[pt:Achigã]]
+[[ru:Большеротый окунь]]
+[[tr:İri Ağızlı Levrek]]
+[[zh:大嘴鲈鱼]]

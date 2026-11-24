@@ -1,0 +1,588 @@
+{{Infobox villager
+|portrait  = George.png
+|birthday  = {{Season|Fall}} 24
+|location  = Pelican Town
+|address   = [[1 River Road]]
+|family    = {{NPC|Evelyn|Wife}}{{NPC|Alex|Grandson}}
+|marriage  = No
+|clinic    = The 23rd of each season
+|favorites = {{Name|Fried Mushroom}}{{Name|Leek}}
+}}
+{{Quote|My grand-pap was a farmer. It's a respectable profession. If I wasn't so darned old I'd come to your farm and show you a thing or two...|George}}
+
+'''George Mullner''' is a [[Villagers|villager]] who lives in [[Pelican Town]].
+
+==Schedule==
+The 23rd of every season, George has an appointment at [[Harvey's Clinic]], accompanied by [[Evelyn]]. George never visits the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island.
+
+Shown below are George's schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it.  
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Spring 17 (Bus Service Restored)
+|-
+|style="width:15%"|9:40 AM ||Boards the bus to [[The Desert|Calico Desert]] to attend the [[Desert Festival]].
+|-
+|9:50 AM ||With [[Evelyn]], at the roadside near the bus.
+|-
+|10:50 PM ||Boards the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Desert Festival (As Vendor)
+|-
+|style="width:15%"|11:10 AM ||Boards the bus to [[The Desert|Calico Desert]].
+|-
+|11:30 AM ||Arrives at his [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM ||Leaves booth and takes the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Winter 17
+|-
+|style="width:15%"|6:30 AM ||At home, watching TV.
+|-
+|12:00 PM ||At his kitchen table.
+|-
+|4:20 PM ||Leaves home to attend the [[Night Market]].
+|-
+|11:40 PM ||Leaves the Night Market to return home.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Green Rain (Year 1)
+|-
+|style="width:15%"|All day ||In the kitchen.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Tuesday the 23rd (All Seasons)
+|-
+|style="width:15%"|6:30 AM ||At home, at the kitchen table.
+|-
+|10:30 AM ||Leaves home for the waiting room of [[Harvey's Clinic]].
+|-
+|1:30 PM ||Moves to the left exam room inside the Clinic.
+|-
+|4:00 PM ||Leaves the Clinic to watch TV at home.
+|-
+|8:00 PM ||Goes to his bedroom for the night.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Rain
+|-
+|style="width:15%"|6:30 AM ||At home, watching TV.
+|-
+|12:00 PM ||At his kitchen table.
+|-
+|3:00 PM ||Goes to watch TV again.
+|-
+|8:00 PM ||Goes to his bedroom for the night.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Summer Friday
+|-
+|style="width:15%"|6:30 AM ||At home, watching TV.
+|-
+|12:00 PM ||Leaves home to sit outside, under the tree west of his house.
+|-
+|3:00 PM ||Returns home to watch TV.
+|-
+|8:00 PM ||Goes to his bedroom for the night.
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Sunday (Alex's 14 heart event seen)
+|-
+|style="width:15%"|6:30 AM ||At home, watching TV.
+|-
+|11:00 AM
+|Heads to the back room of the Saloon to watch sports.
+|-
+|3:00 PM ||Returns home to watch TV.
+|-
+|8:00 PM ||Goes to his bedroom for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Sunday
+|-
+|style="width:15%"|6:30 AM ||At home, watching TV.
+|-
+|10:00 AM
+|Leaves home and heads for the Statue of [[Yoba]] inside [[Pierre]]'s home.
+|-
+|2:00 PM
+|Leaves the Statue of [[Yoba]] and heads home to watch TV.
+|-
+|8:00 PM
+|Goes to his bedroom for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Regular Schedule
+|-
+|style="width:15%"|6:30 AM ||At home, watching TV.
+|-
+|12:00 PM ||At his kitchen table.
+|-
+|3:00 PM ||Goes to watch TV again.
+|-
+|8:00 PM ||Goes to his bedroom for the night.
+|-
+|}
+
+==Relationships==
+
+George is married to [[Evelyn]] and lives with his grandson, [[Alex]]. Alex's deceased mother [[Clara Mullner|Clara]] was his daughter.
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|This is my favorite thing! Thank you.}}
+''Stardrop Tea''
+{{Squote|Hmm... *sip*... ahhh... Tastes just like Mama's tuna casserole! Delicious!}}
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:George Happy.png|48px|center]]
+|colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Fried Mushroom.png|center]]
+|[[Fried Mushroom]]
+|{{Description|Fried Mushroom}}
+|[[Cooking]]
+|{{Name|Common Mushroom|1}}{{Name|Morel|1}}{{Name|Oil|1}}
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging#Spring|Foraging]] - [[Spring]]
+|
+|}
+
+===Like===
+{{Squote|Thanks.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:George Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]''' ''(except '''[[Flowers]]''')''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging#Spring|Foraging]] - [[Spring]]
+|}
+
+===Neutral===
+{{Squote|A gift? Hmm...}}
+If you click on George again after giving a Neutral gift, he will say:
+{{Squote|Do you want something in return?}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:George.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]'''</li><li>'''All Eggs''' ''(except [[Void Egg]])*''</li><li>'''All [[Fruits|Fruit]]''' ''(except [[Fruit Trees|Fruit Tree Fruit]] &amp; [[Salmonberry]])''</li><li>'''All Milk'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Spring]]<br />[[The Cave]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Hoes|Tilling]] - [[Winter]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Hoes|Tilling]] - [[Winter]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Dislike===
+{{Squote|That's a terrible gift.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:George Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]''' ''(except [[Clay]])''</li><li>'''All [[Flowers]]''' ''(except [[Poppy]])''</li></ul>
+|-
+|[[File:Salmonberry.png|center]]
+|[[Salmonberry]]
+|{{Description|Salmonberry}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|}
+
+===Hate===
+{{Squote|This is probably the worst gift I've ever seen. Thanks a lot.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:George Concerned.png|48px|center]]
+|colspan="3"| <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li></ul>
+|-
+|[[File:Clay.png|center]]
+|[[Clay]]
+|{{Description|Clay}}
+|[[Hoes|Tilling]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Foraging]] - [[The Mines]]
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express
+|-
+!Like
+|-
+|[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World
+<p>[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling</p>
+[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch
+<p>[[File:'Wumbus'.png|24px|link=]] Wumbus</p>
+|-
+!Dislike
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture</p>
+[[File:'Mysterium'.png|24px|link=]] Mysterium
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Black Licorice.png|24px|link=]] Black Licorice<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|[[File:Fries.png|24px|link=]] Fries<br />[[File:Nachos.png|24px|link=]] Nachos<br />[[File:Personal Pizza.png|24px|link=]] Personal Pizza<br />[[File:Popcorn.png|24px|link=]] Popcorn<br />[[File:Salmon Burger.png|24px|link=]] Salmon Burger<br />[[File:Salted Peanuts.png|24px|link=]] Salted Peanuts<br />[[File:Sour Slimes.png|24px|link=]] Sour Slimes<br />[[File:Truffle Popcorn.png|24px|link=]] Truffle Popcorn
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Anytime===
+At any [[friendship]] level greater than zero friendship points, you may receive a gift in the mail from George.  The chance of receiving a gift in the mail increases as your friendship with George increases.
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Details'''&nbsp;
+|-                            
+| 
+	{|class="wikitable roundedborder"
+	|-
+	!Item
+	!Description
+	|-
+	|{{Name|Stone|35}}
+        |Found some good quality stone.<p>Maybe you can build with it or something.</p><p>-George</p>
+	|}
+|}
+
+===Three Hearts===
+{{Hearts|3}}
+
+After reaching 3 hearts with George, he will send the player a recipe in the mail.
+{|class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''Details&nbsp;'''
+|-
+|
+{|class="wikitable roundedborder"
+!Image
+!Recipe
+!Description
+|-
+|{{Recipe|Fried Eel|48}}
+|[[Fried Eel]]
+|Figured I'd give you this recipe I had laying around. Try not to burn it.<p>-George</p>
+|}
+|}
+
+===Six Hearts===
+{{heart event
+ |hearts = 6
+ |trigger = Enter George's house when he is home.
+ |details = George struggles to reach something on a bookshelf. The player walks to the shelf and retrieves the item for George. He thanks the player and a few moments of silence ensue. George then tells the player why he is in a wheelchair.
+}}
+
+===Seven Hearts===
+{{Hearts|7}}
+
+After reaching 7 hearts with George, he will send the player a recipe in the mail.
+{|class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''Details&nbsp;'''
+|-
+|
+{|class="wikitable roundedborder"
+!Image
+!Recipe
+!Description
+|-
+|{{Recipe|Spicy Eel|48}}
+|[[Spicy Eel]]
+|Figured I'd give you this recipe I had laying around. Try not to burn it.<p>-George</p>
+|}
+|}
+
+==Quotes==
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular'''&nbsp;
+|-
+|
+
+'''First Meeting'''
+{{Squote|Hmmph... It's irritating to have to meet all these new people, huh? Name's George, by the way. Now buzz off... Hmmph.}}
+
+'''Regular'''
+{{Squote|I'm not much of a talker. Especially not to strangers, if you don't mind me saying.}}
+{{Squote|Hmmph... Looks like another gloomy day.}}
+{{Squote|I can't talk right now, [young man/miss]. My favorite program is on.}}
+{{Squote|So you're a farmer, huh? At least it's honest work.}}
+{{Squote|The weekend is no different than any other time, for me. That's how it is when you're retired.}}
+{{Squote|Aren't you cold? They don't make sweaters like they used to}}
+
+''Rainy Day''
+{{Squote|It's awful cold, isn't it? What a rotten day.}}
+
+''Winter 1''
+{{Squote|Ohh... It's so cold. When you're young the cold doesn't bite as hard.}}
+
+''After Linus 0 Heart Event''
+{{Squote|I dunno what you did, but those raccoons haven't been back since last week!}}
+
+''4+ Hearts''
+{{Squote|My grand-pap was a farmer. It's a respectable profession. If I wasn't so darned old I'd come to your farm and show you a thing or two...}}
+
+''6+ Hearts''
+{{Squote|I'm surprised you want to be friends with an old-timer like me.}}
+{{Squote|Hello, [Player]. Wanna watch the TV with me?}}
+
+''8+ Hearts''
+{{Squote|I wish my legs worked so I could play catch with Alex. That'll never happen.}}
+{{Squote|I've been thinking...Maybe I've been a little bit of a grouch. I used to think no one cared about us old folks.}}
+
+''10 Hearts''
+{{Squote|You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe! Take care, [son / hun].}}
+{{Squote|[Player]! Let me turn off this darned television and we can have a little chat. So what are the young people doing these days?}}
+{{Squote|You know, I shouldn't get too depressed about my legs. I should just be happy that I'm alive.}}
+{{Squote|When you get as old as me it's a lot harder to adjust to new things. One day you'll know what I mean. Go on, enjoy yourself while you're still young.}}
+
+'''Green Rain'''
+''Year 1''
+{{Squote|There, there, honey... Don't you worry. Even if it is poisonous, I breathed in more noxious gas in one minute back in the ol' coal mines... And I'm still kickin'!}}
+''Year 2+''
+{{Squote|Looks like the young folks will have to do some extra weeding after this one... Heheh...}}
+
+'''Player married to Alex'''
+
+''Male player''
+{{Squote|How can two men get married? It's unnatural... Hmmph. I guess I'm just "old fashioned"...}}
+''Male player, 10 Hearts with George''
+{{Squote|I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.}}
+''Female player''
+{{Squote|You're part of the family, now. I'm glad that my grandson found such a nice wife.}}
+''Female player, 10 Hearts with George''
+{{Squote|You're part of the family now... and I couldn't be more proud.}}
+
+'''Doctor Visit'''
+
+''Before leaving home for doctor visit''
+{{Squote|Hmmpph... The wife's making me go to the clinic today.}}
+
+''In the clinic's waiting room''
+{{Squote|*grumble*... Good for nothing doctors... *grumble*}}
+
+''In the clinic's examination room''
+{{Squote|Well how much longer do I have, Doc?}}
+
+'''Visiting [[Yoba]]'s altar'''
+{{Squote|I've never been religious, But hey... I'm old}}
+|}
+
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events'''&nbsp;
+|-
+|
+'''[[Egg Festival]]'''
+
+''Odd-numbered year''
+{{Squote|What's everyone so happy about? Hmmph... Eggs... why eggs?}}
+''Even-numbered year''
+{{Squote|Evelyn made eggs and leeks for breakfast, so I'm in a good mood.}}
+
+'''[[Desert Festival]]'''
+''Even-numbered year''
+{{Squote|What is she mumbling about? I'm here for the spicy food tent!}}
+
+'''[[Flower Dance]]'''
+{{Squote|Flowers? I can hardly see them. It's too bright out here!}}
+
+'''[[Luau|The Luau]]'''
+
+''Odd-numbered year''
+{{Squote|That music! It's too loud. Can't I have a little peace and quiet to enjoy the ocean?}}
+''Even-numbered year''
+{{Squote|Leek and garlic mashed potatoes? Hehe... honey, I think I've died and gone to heaven!}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+{{Squote|What, why are you looking at me like that? You think I'm too old to enjoy something like this?}}
+
+'''[[Stardew Valley Fair]]'''
+{{Squote|Hmm... smoked turkey haunch? I guess this festival isn't all bad.}}
+
+'''[[Spirit's Eve]]'''
+<br />''Although George does not attend the Feast, he has dialogue scripted in underlying data files.''
+{{Squote|Hmm... smoked turkey haunch? I guess this festival isn't all bad.}}
+
+'''[[Festival of Ice]]'''
+{{Squote|Hmmph... Wife dragged me out into the cold for this?}}
+
+'''[[Night Market]]'''
+{{Squote|I'm just here for the free coffee.}}
+
+'''[[Feast of the Winter Star]]'''
+{{Squote|A feast for some stupid star? Humbug!}}
+|}
+
+==Quests==
+*[[Quests#Knee Therapy|"Knee Therapy"]]: George will send you a letter on the 25th of [[Summer]] requesting a [[Hot Pepper]].  The reward is {{Price|200}} and 1 [[Friendship]] heart.
+*George may randomly request an item at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store]].  The reward is 3x the item's base value and 150 [[Friendship]] points.
+*George is to be gifted the [[Quests#Advanced TV Remote|Advanced TV Remote]] in [[Quests#The Pirate's Wife|The Pirate's Wife]] quest.
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:George.png
+File:George Happy.png
+File:George Concerned.png
+File:George Annoyed.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:George Winter 00.png
+File:George Winter 01.png
+File:George Winter 02.png
+File:George Winter 03.png
+</gallery>
+
+==Trivia==
+*George will send you recipes for [[Fried Eel]] and [[Spicy Eel]], which are ironically two of his wife's hated gifts.
+*When moving, George will make the footstep noise as if he is walking, despite being in a wheelchair.
+
+==History==
+{{History|1.4|Fixed bug where all recipes would be sent at 3 friendship hearts.}}
+{{History|1.6|Added custom gift reactions. Added winter portraits.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:George]]
+[[es:George]]
+[[fr:George]]
+[[it:George]]
+[[ja:ジョージ]]
+[[ko:조지]]
+[[hu:George]]
+[[pt:George]]
+[[ru:Джордж]]
+[[tr:George]]
+[[zh:乔治]]

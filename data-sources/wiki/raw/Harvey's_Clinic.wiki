@@ -1,0 +1,197 @@
+{{Infobox location
+|name      = Clinic
+|mapx      = 218
+|mapy      = 92
+|building  = Medical Clinic.png
+|openhours = 9:00am to 3:00pm
+|closed    =
+|address   =
+|occupants = {{NPC|Harvey}}
+|width     = 160px
+}}
+
+[[Harvey's Clinic]] is located in the center of [[Pelican Town]], next to [[Pierre's General Store]]. [[Harvey]] lives and works at the clinic. [[Maru]] works there on [[Days of the Week#Tuesday|Tuesday]] and [[Days of the Week#Thursday|Thursday]]. Both of them often complain about the lack of patients.
+
+Most [[villagers]] will visit the clinic for their annual checkup.  [[George]] and [[Evelyn]] visit the clinic once per season.
+
+Although you can enter the Clinic most days between 9am and 3pm, you cannot purchase medical supplies unless [[Maru]] or [[Harvey]] is behind the supplies counter.
+
+The Clinic is closed on all festival days, with exception of [[Desert Festival]], [[Trout Derby]], [[SquidFest]] and [[Night Market]], as well as [[Dance of the Moonlight Jellies]].
+
+==Medical Supplies==
+Gifting medical supplies is possible, but both items are [[Friendship#Universal hates|universally hated]].
+{|class="wikitable roundedborder"
+!Image
+!Name
+!style="width: 10em;"|Description
+!Effects
+!Purchase Price
+!Sell Price
+!Other Sources
+|-
+|[[File:Energy Tonic.png]]
+|Energy Tonic
+|{{Description|Energy Tonic}}
+|{{Name|Energy|500}}{{Name|Health|0}}
+|{{Price|1000}}
+|{{Price|500}}
+|<ul><li>[[Bats|Iridium Bat]] drop (5%)</li><li>Gift from [[Pam]] in the mail</li><li>[[Skull Cavern#Treasure Rooms|Treasure Rooms]] in the Skull Cavern</li><li>[[Sebastian]]'s [[Desert Festival#Villager Shops|shop]] during the [[Desert Festival]]</li></ul>
+|-
+|[[File:Muscle Remedy.png]]
+|Muscle Remedy
+|{{Description|Muscle Remedy}}
+|{{Name|Energy|50}}{{Name|Health|22}}
+*Removes the [[Energy|Exhaustion]] indicator
+|{{Price|1000}}
+|{{Price|500}}
+|<ul><li>[[Alex]]'s [[Desert Festival#Villager Shops|shop]] during the [[Desert Festival]]</li></ul>
+|}
+
+==Tailoring==
+Energy Tonic is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the [[Tailoring|Letterman Jacket]].  [[File:Shirt137.png|24px]] It can be also used as a red dye color at the dye pots in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+Muscle Remedy is used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the dyeable [[Tailoring|Fake Muscles Shirt]].  [[File:Shirt153.png|24px]] It can be also used as a yellow dye color at the dye pots in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Appointments==
+Note that the start times are when the villager leaves home to travel to the clinic.  The end times are when the villager leaves the clinic.
+{|
+|-
+|
+===Spring===
+{|class="wikitable sortable roundedborder"
+!scope="col"|Day
+!scope="col"|Villager
+!scope="col"|Time
+|-
+|02||[[File:Evelyn Icon.png|link=]] [[Evelyn]]||10:30am - 4:00pm
+|-
+|04||[[File:Abigail Icon.png|link=]] [[Abigail]]||12:30pm - 4:00pm
+|-
+|09||[[File:Willy Icon.png|link=]] [[Willy]]||10:10am - 4:00pm
+|-
+|11||[[File:Vincent Icon.png|link=]] [[Vincent]]||11:30am - 4:00pm
+|-
+|11||[[File:Jodi Icon.png|link=]] [[Jodi]] (with Vincent)||11:30am - 4:00pm
+|-
+|16||[[File:Leah Icon.png|link=]] [[Leah]]||10:30am - 4:00pm
+|-
+|18||[[File:Jodi Icon.png|link=]] [[Jodi]]||11:30am - 4:00pm
+|-
+|23||[[File:George Icon.png|link=]] [[George]]||10:30am - 4:00pm
+|-
+|23||[[File:Evelyn Icon.png|link=]] [[Evelyn]] (with George)||10:40am - 4:10pm
+|-
+|25||[[File:Pam Icon.png|link=]] [[Pam]]||11:30am - 4:00pm
+|}
+|style="width: 18px;"|
+|style="vertical-align: top;"|
+
+===Summer===
+{|class="wikitable sortable roundedborder"
+!scope="col"|Day
+!scope="col"|Villager
+!scope="col"|Time
+|-
+|02||[[File:Evelyn Icon.png|link=]] [[Evelyn]]||10:30am - 4:00pm
+|-
+|04||[[File:Sebastian Icon.png|link=]] [[Sebastian]]||10:00am - 4:00pm
+|-
+|09||[[File:Elliott Icon.png|link=]] [[Elliott]]||10:30am - 4:00pm
+|-
+|16||[[File:Alex Icon.png|link=]] [[Alex]]||10:30am - 4:00pm
+|-
+|18||[[File:Robin Icon.png|link=]] [[Robin]]||8:00am - 4:00pm
+|-
+|23||[[File:George Icon.png|link=]] [[George]]||10:30am - 4:00pm
+|-
+|23||[[File:Evelyn Icon.png|link=]] [[Evelyn]] (with George)||10:40am - 4:10pm
+|-
+|25||[[File:Demetrius Icon.png|link=]] [[Demetrius]]||8:20am - 4:00pm
+|}
+|}
+
+{|
+|-
+|style="vertical-align: top;"|
+===Fall===
+{|class="wikitable sortable roundedborder"
+!scope="col"|Day
+!scope="col"|Villager
+!scope="col"|Time
+|-
+|02||[[File:Evelyn Icon.png|link=]] [[Evelyn]]||10:30am - 4:00pm
+|-
+|04||[[File:Gus Icon.png|link=]] [[Gus]]||10:30am - 4:00pm
+|-
+|09||[[File:Lewis Icon.png|link=]] [[Lewis]]||10:30am - 4:00pm
+|-
+|11||[[File:Sam Icon.png|link=]] [[Sam]]||11:30am - 4:00pm
+|-
+|18||[[File:Marnie Icon.png|link=]] [[Marnie]]||10:30am - 4:00pm
+|-
+|23||[[File:George Icon.png|link=]] [[George]]||10:30am - 4:00pm
+|-
+|23||[[File:Evelyn Icon.png|link=]] [[Evelyn]] (with George)||10:40am - 4:10pm
+|-
+|25||[[File:Caroline Icon.png|link=]] [[Caroline]]||12:00pm - 4:00pm
+|}
+|style="width: 18px;"|
+|style="vertical-align: top;"|
+===Winter===
+{|class="wikitable sortable roundedborder"
+!scope="col"|Day
+!scope="col"|Villager
+!scope="col"|Time
+|-
+|02||[[File:Evelyn Icon.png|link=]] [[Evelyn]]||10:30am - 4:00pm
+|-
+|04||[[File:Penny Icon.png|link=]] [[Penny]]||11:30am - 4:00pm
+|-
+|09||[[File:Haley Icon.png|link=]] [[Haley]]||10:30am - 4:00pm
+|-
+|11||[[File:Emily Icon.png|link=]] [[Emily]]||10:30am - 4:00pm
+|-
+|16||[[File:Clint Icon.png|link=]] [[Clint]]||10:30am - 4:00pm
+|-
+|18||[[File:Jas Icon.png|link=]] [[Jas]]||10:30am - 4:00pm
+|-
+|18||[[File:Marnie Icon.png|link=]] [[Marnie]] (with Jas)||10:40am - 4:00pm
+|-
+|23||[[File:George Icon.png|link=]] [[George]]||10:30am - 4:00pm
+|-
+|23||[[File:Evelyn Icon.png|link=]] [[Evelyn]] (with George)||11:00am - 4:00pm
+|}
+|}
+
+==Gallery==
+<gallery>
+Clinic Interior.png|Clinic Interior
+Clinic Upstairs.png|Harvey's apartment
+</gallery>
+
+==Glitches==
+If you pass out from low [[health]] while on your horse, both you and the horse will be transported to Harvey's Clinic. Your horse will be stuck inside the Clinic until the morning when it is transported to its stable.
+
+==History==
+{{History|1.3.32|Red plus sign on front of building changed to blue. Interior red plus signs changed to green or desaturated.}}
+{{History|1.4|Energy Tonic and Muscle Remedy can now be used in [[Tailoring]].}}
+{{History|1.6|Energy Tonic and Muscle Remedy are now obtainable during the [[Desert Festival]].}}
+{{History|1.6.4|Energy Tonic no longer restores health when consumed.}}
+
+{{NavboxBuildings}}
+
+[[Category:Town Locations]]
+[[Category:Stores]]
+[[Category:Bugs tested in 1.4]]
+
+[[de:Harveys Klinik]]
+[[es:Clínica de Harvey]]
+[[fr:Clinique d’Harvey]]
+[[it:Clinica di Harvey]]
+[[ja:ハーヴィーの診療所]]
+[[ko:하비의 병원]]
+[[hu:Harvey Klinikája]]
+[[pt:Clínica do Harvey]]
+[[ru:Клиника Харви]]
+[[tr:Harvey'nin Sağlık Ocağı]]
+[[zh:哈维的诊所]]

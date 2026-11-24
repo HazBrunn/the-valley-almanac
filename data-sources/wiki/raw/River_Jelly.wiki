@@ -1,0 +1,80 @@
+{{Infobox
+|eng       = River Jelly
+|source    = [[Tools#Fishing Poles|Fishing Pole]] • [[Midnight Carp]] [[Fish Pond]] • [[Bookseller]] • [[Animals#Cat or Dog|Cat]]
+|buff        = {{Name|Max Energy|+30}}
+|buffduration = 7m
+|xp        = <nowiki />
+* Fishing Pole: 3 [[Fishing#Experience Points|Fishing XP]]
+* Fish Pond: 18 [[Fishing#Experience Points|Fishing XP]]
+|season    = All
+|edibility = 30
+|sellprice = 125
+|quality   = false
+|professions = false
+}}
+'''River Jelly''' is an item that can be caught using a [[Tools#Fishing Poles|Fishing Pole]] during all seasons in the river in [[Pelican Town]] and [[Cindersap Forest]], the [[The Mountain|mountain lake]], the Cindersap Forest pond, the pond at [[the Desert]], the pond in the [[Secret Woods]], at [[Ginger Island]] West (freshwater) and North, and on all [[Farm Maps]] except for the Standard and Beach Farm Maps. Each level of [[Luck#Luck Buffs|Luck Buff]] applied significantly increases the chance of catching it. [[Luck#Daily Luck|Daily Luck]] has no effect.
+
+It can also be acquired from a [[Midnight Carp]] [[Fish Pond]] with a population of at least 7. The [[Bookseller]] may trade 3 River Jelly for 1 [[Jewels Of The Sea]] each, provided the player has already earned the power from that book. It can also be gifted by a [[Animals#Pets|pet]] cat with max [[Animals#Friendship|friendship]].
+
+River Jelly is displayed in the [[Collections#Fish|Fish section]] of the [[Collections|collection]] tab, and counts towards the four fishing [[Fishing#Achievements|Achievements]]. However, it is otherwise not considered to be a fish, and therefore cannot be sold to [[Willy]] at the [[Fish Shop]], does not benefit from fish price bonuses, cannot be used in place of "Any Fish" in [[Cooking#Recipes|recipes]], and cannot be put in a [[Bait Maker]], [[Fish Smoker]], or [[Fish Pond]].
+
+==Crafting==
+{|class="wikitable sortable roundedborder"
+!Image
+!Name
+!Description
+!Ingredients
+!Recipe Source
+|-
+|[[File:Fish Smoker.png|center]]
+|[[Fish Smoker]] (1)
+|{{Description|Fish Smoker}}
+|{{Name|Hardwood|10}}{{Name|Sea Jelly|1}}{{Name|River Jelly|1}}{{Name|Cave Jelly|1}}
+|[[Fish Shop]] for {{Price|10000}}
+|}
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Tailoring==
+River Jelly is not used in any [[tailoring]]. It can be used in [[dyeing]], serving as a green dye at the dye pots located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]]. It can also be used as a green dye when used in the spool of the [[Sewing Machine]] with a dyeable clothing item in the feed.
+
+==Bundles==
+River Jelly is not used in any [[bundles]].
+
+==Quests==
+One River Jelly is requested by [[Midnight Carp]] in a [[Fish Pond#Quests|Fish Pond quest]] to increase the capacity of the pond from 5 to 10.
+
+==Strategy==
+The best rates for River Jelly are when fishing in the freshwater pond in [[Ginger Island#Island West|Ginger Island West]] using a [[Training Rod]]. Under these conditions, there are only 2 possible catches: River Jelly and [[Snake Skull]], as all of the fish that can be caught have difficulty greater than or equal to 50. Only if the farmer fails the random check to catch both of these will the farmer get [[Trash]].
+
+However, unlike when catching regular fish or other items, the random value used to determine whether a River Jelly is successfully caught is predetermined. This value only changes when catching a [[Cave Jelly|Cave]], River, or [[Sea Jelly]], or any [[Fish]]. It is not changed by catching Algae, Trash, or any other catchable items.<ref name="jelly_RNG"/> Because of this, after catching Trash using the Training Rod, it is necessary to catch a regular fish before another River Jelly. This can easily be done by switching to any [[Fishing Pole]] other than the Training Rod, continuing to fish until an actual fish is caught, and switching back to the Training Rod.
+
+Ordinarily, 10% of possible random values result in a successful River Jelly catch. Each level of [[Luck#Luck Buffs|Luck Buff]] increases the chance of a successful catch by 5%.<ref name="jelly_rate"/> So with +8 Luck, 50% of random values will result in a successful catch. This allows for longer streaks without failing a River Jelly catch, although the player will still unavoidably catch some Snake Skulls.
+
+It is also possible to achieve similar rates when fishing in either [[The Desert|Desert]] pond, although either [[Green Algae]] or [[Pyramid Decal]] instead of Snake Skulls will be the alternative drop. Fishing in the Desert does not require use of the Training Rod if done after 8 pm or in the lower pond, as there are no fish to be caught. However, this also means that there is no convenient way to refresh the Jelly's random value once it changes to a failing value.
+
+==References==
+<references>
+    <ref name="jelly_RNG">See <samp>GameLocation::GetFishFromLocationData</samp> and <samp>FishingRod::tickUpdate</samp> in the game code. The seeded RNG function is only progressed when the "PreciseFishCaught" stat is incremented, and "PreciseFishCaught" is only incremented on catching a fish or item with the "counts_as_fish_catch" tag from a non-fish pond. The only items with that tag are Sea, River, and Cave Jelly, see <samp>Objects.xnb</samp> in the game files.</ref>
+    <ref name="jelly_rate">See <samp>Data/Locations.xnb</samp> in the game files and <samp>SpawnFishData::GetChance</samp> in the game code for how it's applied.</ref>
+</references>
+
+==History==
+{{History|1.6|Introduced.}}
+
+[[Category:Fishing]]
+
+[[de:Flussgelee]]
+[[es:Gelatina de Río]]
+[[fr:Gelée de rivière]]
+[[it:Gelatina fluviale]]
+[[ja:川ゼリー]]
+[[ko:강 젤리]]
+[[hu:Folyami zselé]]
+[[pt:Geléia do Rio]]
+[[ru:Речное желе]]
+[[tr:Nehir Jeli]]
+[[zh:河凝胶]]

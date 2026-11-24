@@ -1,0 +1,416 @@
+:''See also: [[Crop Growth Calendars]]
+'''Fertilizer''' is used to support [[Crops|crop]] and [[Trees|tree]] growth, assisting [[farming]]. There are three types of crop fertilizer, affecting respectively crop quality, growth speed and water retention. There is only one tree fertilizer type, affecting growth speed. A fertilizer is used by placing it on tilled soil or the desired tree. Some crop fertilizers must be placed before the planted seed sprouts, the other fertilizers can be used at any time during plant growth. Each crop fertilizer type has three tiers, and the tree fertilizer has only one tier. Crop fertilizers affect all crops, including crops grown from [[Crafting#Seeds|Wild Seeds]].
+
+==Mechanics==
+
+All fertilizer can be [[Crafting#Fertilizer|crafted]]. Recipes for first tier fertilizers are learned once the required level of [[Farming#Farming Skill|Farming]] or [[Foraging#Foraging Skill|Foraging]] skill is reached. Second tier recipes are learned once the required level of [[Farming#Farming Skill|Farming]] skill is reached. Third tier recipes are purchased on [[Ginger Island]]. First and second tier crop fertilizers can also be purchased at [[Pierre's General Store]] year-round, or at [[Oasis|The Oasis]] on specific [[Days of the Week|days of the week]].
+
+Only one type of fertilizer may be used per soil tile. Fertilizer remains in the soil all season. When the season changes, fertilizer normally disappears. However, there are two exceptions in which fertilizer will remain in the soil:
+*If a multi-season [[crops|crop]] (''i.e.,'' [[Ancient Fruit]], [[Coffee Bean]], [[Corn]], [[Sunflower]], or [[Wheat]]) is planted in the fertilized tile, and the new season is one in which the crop grows, the fertilizer will remain.
+*Fertilizer placed in the [[Greenhouse]] will remain in the soil unless it is un-tilled by a pickaxe. 
+
+''Note'' that crop quality is determined at harvest time and not at planting time. Prior to 1.5, fertilizer used in the [[Greenhouse]] on crops which would mature out of their normal growing season might disappear before harvest and have no effect.
+
+Speed-Gro affects only the growth and first harvest of a multi-harvest crop. Quality fertilizers ([[Basic Fertilizer]], [[Quality Fertilizer]], and [[Deluxe Fertilizer]]) affect all harvests of a multi-harvest crop, but if the crop produces multiple fruits or vegetables ''per harvest'' only one of the items will have improved quality. For example, when a blueberry crop, planted with quality fertilizer, produces a second harvest, and three blueberries are harvested from it, then only one will have improved quality.
+
+Removing a crop with a [[Tools|Tool]] like the [[Axes|axe]] does not remove the fertilizer.  A second hit with a tool, such as a [[Pickaxes|Pickaxe]] is required to remove the fertilizer and make the tile fallow.
+
+==Types of Fertilizer==
+{|class="wikitable sortable"
+!class="unsortable"|Image
+!Name
+!Description
+!When to Use
+!Pierre's
+!Oasis
+!Sell Price
+!Ingredients
+!# Produced per Craft
+!Recipe Source
+|-
+|[[File:Basic Fertilizer.png|center]]
+|[[Basic Fertilizer]]
+|{{Description|Basic Fertilizer}}
+|Before the seed sprouts
+|data-sort-value="100"|{{Price|100}}<br />''(Spring 15, Year 1+)''
+|
+|data-sort-value="2"|{{Price|2}}
+|{{Name|Sap|2}}
+|style="text-align: center;"|1
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 1
+|-
+|[[File:Quality Fertilizer.png|center]]
+|[[Quality Fertilizer]]
+|{{Description|Quality Fertilizer}}
+|Before the seed sprouts
+|data-sort-value="150"|{{Price|150}}<br />''(Year 2+)''
+|
+|data-sort-value="10"|{{Price|10}}
+|{{Name|Sap|4}}{{Name|Fish|1}}
+|style="text-align: center;"|2
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 9
+|-
+|[[File:Deluxe Fertilizer.png|center]]
+|[[Deluxe Fertilizer]]
+|{{Description|Deluxe Fertilizer}}
+|Before or after planting
+|
+|
+|data-sort-value="70"|{{Price|70}}
+|{{Name|Iridium Bar|1}} {{Name|Sap|40}}
+|style="text-align: center;"|5
+|[[Qi's Walnut Room]] for {{Name|Qi Gem|20|class=inline}}
+|-
+|[[File:Basic Retaining Soil.png|center]]
+|[[Basic Retaining Soil]]
+|{{Description|Basic Retaining Soil}}
+|Before or after planting
+|data-sort-value="100"|{{Price|100}}<br />''(Spring 15, Year 1+)''
+|
+|data-sort-value="4"|{{Price|4}}
+|{{Name|Stone|2}}
+|style="text-align: center;"|1
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 4  
+|-
+|[[File:Quality Retaining Soil.png|center]]
+|[[Quality Retaining Soil]]
+|{{Description|Quality Retaining Soil}}
+|Before or after planting
+|data-sort-value="150"|{{Price|150}}<br />''(Year 2+)''
+|data-sort-value="200"|{{Price|200}}<br />''(Saturday only)''
+|data-sort-value="5"|{{Price|5}}
+|{{Name|Stone|3}}{{Name|Clay|1}}
+|style="text-align: center;"|2
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 7
+|-
+|[[File:Deluxe Retaining Soil.png|center]]
+|[[Deluxe Retaining Soil]]
+|{{Description|Deluxe Retaining Soil}}
+|Before or after planting 
+|
+|
+|data-sort-value="30"|{{Price|30}}
+|{{Name|Stone|5}}{{Name|Fiber|3}}{{Name|Clay|1}}
+|style="text-align: center;"|1
+|{{NPC|Island Trader|size=24}} for {{Name|Cinder Shard|50|class=inline}}
+|-
+|[[File:Speed-Gro.png|center]]
+|[[Speed-Gro]]
+|{{Description|Speed-Gro}}<br />''Note: Does not reduce time between harvests for multi-harvest crops.''
+|Before or after planting
+|data-sort-value="100"|{{Price|100}}<br />''(Spring 15, Year 1+)''
+|
+|data-sort-value="20"|{{Price|20}}
+|{{Name|Pine Tar|1}}{{Name|Moss|5}}
+|style="text-align: center;"|5
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 3
+|-
+|[[File:Deluxe Speed-Gro.png|center]]
+|[[Deluxe Speed-Gro]]
+|{{Description|Deluxe Speed-Gro}}<br />''Note: Does not reduce time between harvests for multi-harvest crops.''
+|Before or after planting
+|data-sort-value="150"|{{Price|150}}<br />''(Year 2+)''
+|data-sort-value="80"|{{Price|80}}<br />''(Thursday only)''
+|data-sort-value="40"|{{Price|40}}
+|{{Name|Oak Resin|1}}{{Name|Bone Fragment|5}}
+|style="text-align: center;"|5
+|[[File:Farming Skill Icon.png|24px|link=]] [[Farming]] Level 8
+|-
+|[[File:Hyper Speed-Gro.png|center]]
+|[[Hyper Speed-Gro]]
+|{{Description|Hyper Speed-Gro}}<br />''Note: Does not reduce time between harvests for multi-harvest crops.''
+|Before or after planting 
+|
+|
+|data-sort-value="70"|{{Price|70}}
+|{{Name|Radioactive Ore|1}}{{Name|Bone Fragment|3}}{{Name|Solar Essence|1}}
+|style="text-align: center;"|1
+|[[Qi's Walnut Room]] for {{Name|Qi Gem|30|class=inline}}
+|-
+|[[File:Tree Fertilizer.png|center]]
+|[[Tree Fertilizer]]
+|{{Description|Tree Fertilizer}}
+|After planting on tree seeds and saplings
+|N/A
+|
+|data-sort-value="10"|{{Price|10}}
+|{{Name|Fiber|5}}{{Name|Stone|5}}
+|style="text-align: center;"|1
+|[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging]] Level 7
+|}
+
+==Crop Quality Ratios==
+Note that quality is determined at the time of harvest, and not at the time of planting.  For crops that produce multiples at harvest (''i.e.,'' [[Coffee Bean]], [[Blueberry]], [[Cranberries]]), [[Basic Fertilizer|Basic]], [[Quality Fertilizer|Quality]], and [[Deluxe Fertilizer|Deluxe]] fertilizers affect only the first crop produced.
+
+For the complete formula, please see [[Farming#Complete Formula 2|Farming]].
+
+<!--Note:  These tables are transcluded on several other pages-->
+===Normal soil===
+{|class="wikitable"
+! [[Farming#Farming Skill|Farming level]]
+! % Regular quality
+! % Silver quality
+! % Gold quality
+! Average price
+|-
+| 0    || 97%  || 2%   || 1%   || 1.01
+|-
+| 1    || 91%  || 6%   || 3%   || 1.03
+|-
+| 2    || 85%  || 10%  || 5%   || 1.05
+|-
+| 3    || 80%  || 13%  || 7%   || 1.07
+|-
+| 4    || 75%  || 16%  || 9%   || 1.09
+|-
+| 5    || 69%  || 20%  || 11%  || 1.10
+|-
+| 6    || 64%  || 23%  || 13%  || 1.12
+|-
+| 7    || 60%  || 25%  || 15%  || 1.14
+|-
+| 8    || 55%  || 28%  || 17%  || 1.16
+|-
+| 9    || 50%  || 31%  || 19%  || 1.17
+|-
+| 10   || 46%  || 33%  || 21%  || 1.19
+|-
+| 11   || 42%  || 35%  || 23%  || 1.20
+|-
+| 12   || 38%  || 37%  || 25%  || 1.22
+|-
+| 13   || 34%  || 39%  || 27%  || 1.23
+|-
+| 14   || 30%  || 41%  || 29%  || 1.25
+|}
+
+===Soil with Basic Fertilizer===
+{|class="wikitable"
+! [[Farming#Farming Skill|Farming level]]
+! % Regular quality
+! % Silver quality
+! % Gold quality
+! Average price
+|-
+| 0    || 88%  || 8%   || 4%   || 1.04
+|-
+| 1    || 77%  || 15%  || 8%   || 1.08
+|-
+| 2    || 68%  || 20%  || 12%  || 1.11
+|-
+| 3    || 59%  || 26%  || 15%  || 1.14
+|-
+| 4    || 50%  || 31%  || 19%  || 1.17
+|-
+| 5    || 42%  || 35%  || 23%  || 1.20
+|-
+| 6    || 35%  || 39%  || 26%  || 1.23
+|-
+| 7    || 28%  || 42%  || 30%  || 1.25
+|-
+| 8    || 22%  || 44%  || 34%  || 1.28
+|-
+| 9    || 16%  || 47%  || 37%  || 1.30
+|-
+| 10   || 15%  || 44%  || 41%  || 1.32
+|-
+| 11   || 14%  || 41%  || 45%  || 1.33
+|-
+| 12   || 13%  || 39%  || 48%  || 1.34
+|-
+| 13   || 12%  || 36%  || 52%  || 1.35
+|-
+| 14   || 11%  || 33%  || 56%  || 1.36
+|}
+
+===Soil with Quality Fertilizer===
+{|class="wikitable"
+! [[Farming#Farming Skill|Farming level]]
+! % Regular quality
+! % Silver quality
+! % Gold quality
+! Average price
+|-
+| 0    || 78%  || 14%  || 8%   || 1.07
+|-
+| 1    || 64%  || 23%  || 13%  || 1.12
+|-
+| 2    || 52%  || 30%  || 18%  || 1.17
+|-
+| 3    || 40%  || 36%  || 24%  || 1.21
+|-
+| 4    || 30%  || 41%  || 29%  || 1.25
+|-
+| 5    || 21%  || 45%  || 34%  || 1.28
+|-
+| 6    || 15%  || 45%  || 40%  || 1.31
+|-
+| 7    || 14%  || 41%  || 45%  || 1.33
+|-
+| 8    || 13%  || 37%  || 50%  || 1.34
+|-
+| 9    || 11%  || 33%  || 56%  || 1.36
+|-
+| 10   || 10%  || 29%  || 61%  || 1.38
+|-
+| 11   || 9%   || 25%  || 66%  || 1.39
+|-
+| 12   || 7%   || 21%  || 72%  || 1.41
+|-
+| 13   || 6%   || 17%  || 77%  || 1.43
+|-
+| 14   || 4%   || 13%  || 82%  || 1.44
+|}
+
+===Soil with Deluxe Fertilizer===
+Normal quality crops cannot be produced when using Deluxe Fertilizer.
+
+{|class="wikitable"
+! [[Farming#Farming Skill|Farming level]]
+! % Silver quality
+! % Gold quality
+! % Iridium Quality
+! Average price
+|-
+| 0    || 84%  || 10%  ||  6%  || 1.32
+|-
+| 1    || 75%  || 16%  ||  9%  || 1.36
+|-
+| 2    || 66%  || 22%  || 13%  || 1.40
+|-
+| 3    || 57%  || 27%  || 16%  || 1.44
+|-
+| 4    || 49%  || 31%  || 20%  || 1.47
+|-
+| 5    || 42%  || 35%  || 23%  || 1.51
+|-
+| 6    || 35%  || 39%  || 27%  || 1.55
+|-
+| 7    || 28%  || 42%  || 30%  || 1.58
+|-
+| 8    || 22%  || 45%  || 34%  || 1.61
+|-
+| 9    || 16%  || 47%  || 37%  || 1.64
+|-
+| 10   ||  11%  || 48%  || 41%  || 1.67
+|-
+| 11   ||  7%  || 49%  || 44%  || 1.70
+|-
+| 12   ||  3%  || 50%  || 47%  || 1.73
+|-
+| 13   ||  0%  || 49%  || 51%  || 1.76
+|-
+| 14   ||  0%  || 46%  || 55%  || 1.77
+|}
+
+==Appearance==
+Once used on tilled soil, each type of fertilizer has a unique appearance, allowing you to see what type of fertilizer has been used on a given tile.
+
+{|class="wikitable" style="text-align: center;"
+! Name
+! Unwatered
+! Watered
+|-
+| [[File:Basic Fertilizer.png|center]]<br />[[Basic Fertilizer]]
+| [[File:Stardew-texture Basic-Fertilizer.png]]
+| [[File:Stardew-texture Basic-Fertilizer-w.png]]
+|-
+| [[File:Quality Fertilizer.png|center]]<br />[[Quality Fertilizer]]
+| [[File:Stardew-texture Quality-Fertilizer.png]]
+| [[File:Stardew-texture Quality-Fertilizer-w.png]]
+|-
+| [[File:Deluxe Fertilizer.png|center]]<br />[[Deluxe Fertilizer]]
+| [[File:Stardew-texture Deluxe Fertilizer.png]]
+| [[File:Stardew-texture Deluxe Fertilizer-w.png]]
+|-
+| [[File:Basic Retaining Soil.png|center]]<br />[[Basic Retaining Soil]]
+| [[File:Stardew-texture Basic-Retaining-Soil.png]]
+| [[File:Stardew-texture Basic-Retaining-Soil-w.png]]
+|-
+| [[File:Quality Retaining Soil.png|center]]<br />[[Quality Retaining Soil]]
+| [[File:Stardew-texture Quality-Retaining-Soil.png]]
+| [[File:Stardew-texture Quality-Retaining-Soil-w.png]]
+|-
+| [[File:Deluxe Retaining Soil.png|center]]<br />[[Deluxe Retaining Soil]]
+| [[File:Stardew-texture Deluxe Retaining Soil.png]]
+| [[File:Stardew-texture Deluxe Retaining Soil-w.png]]
+|-
+| [[File:Speed-Gro.png|center]]<br />[[Speed-Gro]]
+| [[File:Stardew-texture Speed-Gro.png]]
+| [[File:Stardew-texture Speed-Gro-w.png]]
+|-
+| [[File:Deluxe Speed-Gro.png|center]]<br />[[Deluxe Speed-Gro]]
+| [[File:Stardew-texture Deluxe-Speed-Gro.png]]
+| [[File:Stardew-texture Deluxe-Speed-Gro-w.png]]
+|-
+| [[File:Hyper Speed-Gro.png|center]]<br />[[Hyper Speed-Gro]]
+| [[File:Stardew-texture Hyper Speed-Gro.png]]
+| [[File:Stardew-texture Hyper Speed-Gro-w.png]]
+|}
+
+==Fertilizer Cost==
+:''See also: [[Quality Fertilizer#When to turn fish into Quality Fertilizer|When to turn fish into Quality Fertilizer]]''
+With the exception of [[Quality Fertilizer]], crafting Fertilizer is always cheaper than purchasing it.  
+
+Each time you craft [[Speed-Gro]] or [[Deluxe Speed-Gro]], you receive 5 fertilizers.  Each time you craft [[Quality Retaining Soil]], you receive 2 fertilizers, though crafting just one would still be cheaper than purchasing it.
+
+The tables below compare the cost of crafting [[Speed-Gro]] or [[Deluxe Speed-Gro]] against purchasing them at the [[Oasis]] or [[Pierre's General Store|Pierre's]].  The cost of crafting is the sell price of the constituent ingredients.
+{|
+|-
+|style="vertical-align: top;"|
+===Cost for 5 [[File:Speed-Gro.png|24px|link=]] Speed-Gro===
+<section begin="speedgrocost" />
+{|class="wikitable" style="text-align: right;
+|-
+|style="background-color: transparent; border: 0;"|
+![[File:Pine_Tar.png|24px|link=]] [[File:Moss.png|24px|link=]]<br />Crafting
+![[File:Pierre Icon.png|24px|link=]] Pierre's
+|-
+!No<br />Profession
+|{{Price|125}}
+|rowspan="2"|{{Price|500}}
+|-
+![[File:Tapper Icon.png|24px|link=]] Tapper<br />Profession
+|{{Price|150}}
+|}<section end="speedgrocost" />
+|style="width: 18px;"|
+|style="vertical-align: top;"|
+===Cost for 5 [[File:Deluxe Speed-Gro.png|24px|link=]] Deluxe Speed-Gro===
+<section begin="deluxespeedgrocost" />
+{|class="wikitable" style="text-align: right;"
+|-
+|style="background-color: transparent; border: 0;"|
+![[File:Oak_Resin.png|24px|link=]][[File:Bone_Fragment.png|24px|link=]]<br />Crafting
+![[File:Sandy Icon.png|24px|link=]] Oasis
+![[File:Pierre Icon.png|24px|link=]] Pierre's
+|-
+!No<br />Profession
+|{{Price|210}}
+|rowspan="2"|{{Price|400}}
+|rowspan="2"|{{Price|750}}
+|-
+![[File:Tapper Icon.png|24px|link=]] Tapper<br />Profession
+|{{Price|247}}
+|}<section end="deluxespeedgrocost" />
+|}
+
+==History==
+{{History|1.4|The number of items per craft now shows in the crafting menu before items are in inventory.  Speed-Gro and Deluxe Speed-Gro now have an effect if used after planting.}}
+{{History|1.5|Added tier three fertilizers. Fertilizer placed in the [[Greenhouse]] now lasts until manually removed.}}
+{{History|1.6|Crafting recipes changed for Quality Fertilizer, Speed-Gro, and Deluxe Speed-Gro.}}
+
+{{NavboxEquipment}}
+
+[[Category:Fertilizer]]
+
+[[de:Dünger]]
+[[es:Fertilizante]]
+[[fr:Engrais]]
+[[it:Fertilizzante]]
+[[ja:肥料]]
+[[ko:비료]]
+[[hu:Trágya]]
+[[pt:Fertilizante]]
+[[ru:Удобрения]]
+[[tr:Gübre]]
+[[zh:肥料]]

@@ -1,0 +1,623 @@
+{{Infobox villager
+|portrait  = Jas.png
+|birthday  = {{Season|Summer}} 4
+|location  = Cindersap Forest
+|address   = [[Marnie's Ranch]]
+|family    = {{NPC|Marnie|Aunt}}{{NPC|Shane|Godfather}}
+|friends   = {{NPC|Leo}}{{NPC|Vincent}}
+|marriage  = No
+|clinic    = {{Season|Winter}} 18
+|favorites = {{Name|Ancient Doll}}{{Name|Fairy Box}}{{Name|Fairy Rose}}{{Name|Pink Cake}}{{Name|Plum Pudding}}{{Name|Strange Doll (green)}}{{Name|Strange Doll (yellow)}}
+}}
+{{Quote|You can play with my dolls if you want to. Just make sure to brush their hair when you're done.|Jas}}
+
+'''Jas''' is a [[Villagers|villager]] who lives just outside [[Pelican Town]].  She's a young girl, and can often be found with her best friend [[Vincent]].
+
+==Schedule==
+After the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island is unlocked, Jas may randomly spend the day there. After leaving the Island at 6pm, Jas will immediately go home to bed. Jas never visits the Resort on Tuesdays, Wednesdays, Fridays, [[Festivals|Festival]] days or her checkup day at [[Harvey's Clinic]]. Jas also never visits the Resort without an adult accompanying her.
+
+Shown below are Jas' schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it.
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Spring 17 (Bus Service Restored)
+|-
+|style="width:15%"|11:00 AM
+|Boards the bus to [[The Desert|Calico Desert]] to attend the [[Desert Festival]].
+|-
+|11:20 AM
+|Stands south of the villager shops.
+|-
+|11:30 AM
+|Takes the stairs down to the cliff and stands under a tree north of the pond.
+|-
+|11:40 PM
+|Boards the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Desert Festival (As Vendor)
+|-
+|style="width:15%"|11:10 AM
+|Boards the bus to [[The Desert|Calico Desert]].
+|-
+|11:30 AM
+|Arrives at her [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM
+|Leaves booth and takes the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Green Rain (Year 1)
+|-
+|style="width:15%"|All day
+|In the kitchen.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Tuesday the 9th and Tuesday the 23rd
+|-
+|style="width:15%"|9:00 AM
+|In her bedroom.
+|-
+|11:00 AM
+|Leaves home to stand under the large tree west of Marnie's Ranch and jump rope.
+|-
+|3:00 PM
+|Returns home, reads in the entryway of the shop.
+|-
+|7:00 PM
+|Goes to her bedroom.
+|-
+|9:00 PM
+|Goes to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Winter 15
+|-
+|style="width:15%"|9:00 AM
+|In her bedroom.
+|-
+|11:00 AM
+|Leaves home to stand under the large tree west of Marnie's Ranch and jump rope.
+|-
+|2:50 PM
+|Leaves the forest to attend the [[Night Market]].
+|-
+|11:00 PM
+|Leaves the Night Market to return home.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Winter 18
+|-
+|style="width:15%"|9:00 AM
+|In her bedroom.
+|-
+|10:30 AM
+|Leaves home to go to [[Harvey's Clinic]].
+|-
+|1:30 PM
+|Moves to exam room inside Clinic.
+|-
+|4:00 PM
+|Leaves Clinic, reads in the entryway of Marnie's Ranch.
+|-
+|8:00 PM
+|Goes to her room to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Rain
+|-
+|style="width:15%"|9:00 AM
+|In her bedroom.
+|-
+|11:00 AM
+|Stands in the entryway of the shop.
+|-
+|3:00 PM
+|Moves to the fireplace room to read.
+|-
+|7:00 PM
+|Goes to her bedroom.
+|-
+|9:00 PM
+|Goes to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Tuesday, Wednesday and Friday
+|-
+|style="width:15%"|9:00 AM
+|Leaves [[Marnie's Ranch|home]] to go to the [[Museum]].
+|-
+|2:00 PM
+|Leaves Museum, stands at river southwest of Museum.
+|-
+|4:20 PM
+|Leaves riverbank, walks to path south of [[2 Willow Lane|Emily and Haley's house]].
+|-
+|5:50 PM
+|Leaves town and walks home to go to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Saturday
+|-
+|style="width:15%"|10:00 AM
+|Leaves home, walks to town, stands southwest of the large tree that's east of [[2 Willow Lane]].
+|-
+|12:00 PM
+|Walks to playground west of [[Community Center]], jumps rope.
+|-
+|5:00 PM
+|Leaves playground, stands southeast of [[2 Willow Lane]].
+|-
+|8:00 PM
+|Walks home and goes to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Summer
+|-
+|style="width:15%"|9:00 AM
+|In her bedroom.
+|-
+|11:00 AM
+|Stands outside ranch looking at cow pen.
+|-
+|1:20 PM
+|Walks to [[the Beach]] to jump rope.
+|-
+|4:00 PM
+|Leaves beach to walk home, reads in the entryway of Marnie's Ranch.
+|-
+|7:00 PM
+|Goes to her bedroom.
+|-
+|9:00 PM
+|Goes to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Regular Schedule
+|-
+|style="width:15%"|9:00 AM
+|In her bedroom.
+|-
+|11:00 AM
+|Leaves home to stand under the large tree west of Marnie's Ranch and jump rope.
+|-
+|3:00 PM
+|Returns home, reads in the entryway of the shop.
+|-
+|7:00 PM
+|Goes to her bedroom.
+|-
+|9:00 PM
+|Goes to sleep.
+|}
+
+==Relationships==
+Jas lives with her aunt [[Marnie]] and her godfather [[Shane]] on her ranch outside town.  She's often seen alongside her friend [[Vincent]], who is the only resident of town close to her age.  [[Penny]] takes time to teach both [[Vincent]] and Jas at the [[museum]] since there's no school nearby. Jas' parents both died by unknown causes.
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|*gasp*...Wow!! Thank you!}}
+''Ancient Doll''
+{{Squote|Oh, a little dolly! She's kind of dirty, but I'll give her a bath. Thanks!}}
+''Fairy Box''
+{{Squote|Wow, it’s so pretty! And there’s a fairy inside? *giggle*... I can hear her singing. She’ll be my secret friend.}}
+''Stardrop Tea''
+{{Squote|Are you sure? It smells so good! I'll only drink a thimbleful a day.}}
+''Strange Doll (green) or Strange Doll (yellow)''
+{{Squote|Oh, I like him! He'll fit right in with my other friends.}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Jas Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Ancient Doll.png|center]]
+|[[Ancient Doll]]
+|{{Description|Ancient Doll}}
+|[[Artifacts]]
+|
+|-
+|[[File:Fairy Box.png|center]]
+|[[Fairy Box]]
+|{{Description|Fairy Box}}
+|[[Trinkets]]
+|
+|-
+|[[File:Fairy Rose.png|center]]
+|[[Fairy Rose]]
+|{{Description|Fairy Rose}}
+|[[Farming]]
+|
+|-
+|[[File:Pink Cake.png|center]]
+|[[Pink Cake]]
+|{{Description|Pink Cake}}
+|[[Cooking]]
+|{{Name|Melon|1}}{{Name|Wheat Flour|1}}{{Name|Sugar|1}}{{Name|Egg|1}}
+|-
+|[[File:Plum Pudding.png|center]]
+|[[Plum Pudding]]
+|{{Description|Plum Pudding}}
+|[[Cooking]]
+|{{Name|Wild Plum|2}}{{Name|Wheat Flour|1}}{{Name|Sugar|1}}
+|-
+|[[File:Strange Doll (green).png|center]]
+|[[Strange Doll (green)]]
+|{{Description|Strange Doll (green)}}
+|[[Artifacts]]
+|
+|-
+|[[File:Strange Doll (yellow).png|center]]
+|[[Strange Doll (yellow)]]
+|{{Description|Strange Doll (yellow)}}
+|[[Artifacts]]
+|
+|}
+
+===Like===
+{{Squote|I love presents! Thank you!}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Jas Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]''' ''(except [[Piña Colada]], [[Triple Shot Espresso]], '''[[Vegetables]]''' and '''[[Artisan Goods]]''' other than [[Honey]], [[Jellies and Pickles|Jelly]], &amp; [[Oil]])''</li><li>'''All Milk'''</li></ul>
+|-
+|[[File:Coconut.png|center]]
+|[[Coconut]]
+|{{Description|Coconut}}
+|[[Foraging]] - [[The Desert|Desert]]
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging]] - [[Spring]]
+|}
+
+===Neutral===
+{{Squote|Thank you!}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Jas.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]'''</li></ul>
+|}
+
+===Dislike===
+{{Squote|Is this a gift? Oh...}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Jas Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]''' ''(except [[Ancient Doll]], [[Clay]], [[Fairy Box]], [[Strange Doll (green)]], &amp; [[Strange Doll (yellow)]])''</li><li>'''All Eggs*'''</li><li>'''All [[Fruits|Fruit]]''' ''(except [[Coconut]] &amp; [[Fruit Trees|Fruit Tree Fruit]])''</li><li>'''All [[Vegetables]]''' ''(except [[Hops]] &amp; [[Wheat]])''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Foraging]] - [[Winter]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Hate===
+{{Squote|Ew. This is icky.}}
+''Any Alcoholic Beverage''
+{{Squote|Umm... I'm not supposed to drink this. Isn't it for adults?}} 
+''Coffee or Triple Shot Espresso''
+{{Squote|Oh... Aunt Marnie doesn't let me drink coffee yet...}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Jas Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li><li>'''All [[Artisan Goods]]''' ''(except [[Honey]], [[Jellies and Pickles|Jelly]] &amp; [[Oil]])''</li></ul>
+|-
+|[[File:Clay.png|center]]
+|[[Clay]]
+|{{Description|Clay}}
+|[[Hoes|Tilling]]
+|
+|-
+|[[File:Piña Colada.png|center]]
+|[[Piña Colada]]
+|{{Description|Piña Colada}}
+|The Beach Resort on [[Ginger Island]]
+|
+|-
+|[[File:Triple Shot Espresso.png|center]]
+|[[Triple Shot Espresso]]
+|{{Description|Triple Shot Espresso}}
+|[[Cooking]]
+|{{Name|Coffee|3}}
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture
+<p>[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World</p>
+[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling
+<p>[[File:'Wumbus'.png|24px|link=]] Wumbus</p>
+|-
+!Like
+|-
+|[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch
+<p>[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express</p>
+|-
+!Dislike
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Mysterium'.png|24px|link=]] Mysterium</p>
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Sour Slimes.png|24px|link=]] Sour Slimes<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|[[File:Apple Slices.png|24px|link=]] Apple Slices<br />[[File:Cappuccino Mousse Cake.png|24px|link=]] Cappuccino Mousse Cake<br />[[File:Chocolate Popcorn.png|24px|link=]] Chocolate Popcorn<br />[[File:Cotton Candy.png|24px|link=]] Cotton Candy<br />[[File:Ice Cream Sandwich.png|24px|link=]] Ice Cream Sandwich<br />[[File:Jawbreaker.png|24px|link=]] Jawbreaker<br />[[File:Personal Pizza.png|24px|link=]] Personal Pizza<br />[[File:Rock Candy.png|24px|link=]] Rock Candy<br />[[File:Salmon Burger.png|24px|link=]] Salmon Burger<br />[[File:Star Cookie.png|24px|link=]] Star Cookie
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Eight Hearts===
+{{heart event
+  |hearts = 8
+  |trigger = After reaching 8 hearts with both Jas and [[Vincent]], enter [[Cindersap Forest]] during [[Spring]] on a sunny day between 6am and 5pm.
+  |details = Vincent will explain how to clean [[Spring Onion]]s by removing insects.  Jas insists that the insects not be killed after removing them from the onions.  Afterward, the player gains [[Spring Onion Mastery]], which permanently increases the sell price of Spring Onions by 5x.
+}}
+
+==Quotes==
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular&nbsp;'''
+|-
+|
+'''First Meeting'''
+{{Squote|... Hi...}}
+
+'''Regular'''
+{{Squote|Oh...Are you looking for Aunt Marnie?}}
+{{Squote|What? *giggle* ...hi.}}
+{{Squote|...}}
+{{Squote|I'm not supposed to talk to strangers...}}
+{{Squote|... I don't know you.}}
+{{Squote|You smell like grass.}}
+{{Squote|Um... d...do you want something? I'm not supposed to talk to strangers.}}
+{{Squote|... hi.}}
+{{Squote|Miss Penny is teaching me how to write in cursive. She has such pretty handwriting.}}
+{{Squote|Do you like my bow?}}
+{{Squote|Sometimes I look for crawdads in the river. Don't tell Aunt Marnie... but I fed one to a cow once. She loved it.}}
+{{Squote|Shane's gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games. I'm thankful for all my toys.}}
+{{Squote|Hi, [Mr./Mrs.] [Player]. It's fun to live on a farm.}}
+{{Squote|Aunt Marnie won't let me go out after 6 o'clock. It's not fair! I'm not afraid of the dark anymore!}}
+{{Squote|I like living on the farm... my favorite is the fresh ice cream from our cows' milk.}}
+
+''6+ Hearts''
+{{Squote|You can play with my dolls if you want to. Just make sure to brush their hair when you're done.}}
+
+''8+ Hearts''
+{{Squote|You're always so nice to me, [Mr./Mrs.] [Player] Grown-ups are usually mean and boring, but you're different.}}
+
+''10 Hearts''
+{{Squote|Did you know Shane's my godfather? He was a friend of my parents. ...they died. *sniff*}}
+
+''Player is married''
+{{Squote|*sigh*... I hope I can get married some day.}}
+
+''Player is married to [[Shane]]''
+{{Squote|I hope Shane will still come and see me...}}
+
+'''Green Rain'''
+''Year 1''
+{{Squote|I'm scared...}}
+''Year 2+''
+{{Squote|I hope the rain doesn't turn my dress green...}}
+
+'''At Ginger Island'''
+{{Squote|I see a crab!}}
+{{Squote|Aunt Marnie told me not to get burnt... But when I walk fast, it feels cool, so I think I'll be okay.}}
+{{Squote|I'm collecting seashells... I'm gonna make a necklace!}}
+{{Squote|I've got sand in my shoe...}}
+
+'''Jump Roping'''
+{{Squote|1... 2... 3... 4... Oh no! I messed up again.}}
+|}
+
+{|class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events&nbsp;'''
+|-
+|
+
+'''[[Egg Festival]]'''
+
+''Odd-numbered year''
+{{Squote|I hope I can find some eggs before Vincent takes them all...}}
+''Even-numbered year''
+{{Squote|I'm going to try my best to win this year!}}
+
+'''[[Desert Festival]]'''
+{{Squote|This is fun, but I wish I had an ice cream...}}
+''If gifted an [[Ice Cream]]''
+{{Squote|Is... Is that for me? Wow! This exactly what I wanted... Thank you! You're so nice!}}
+
+''If running a shop''
+{{Squote|Hi... Um... *giggle*}}
+
+'''[[Flower Dance]]'''
+{{Squote|Some day, I'm going to be the flower queen!}}
+
+'''[[Luau|The Luau]]'''
+{{Squote|Vincent isn't a good dancer.}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+{{Squote|I hope there are babies this year!}}
+
+'''[[Stardew Valley Fair]]'''
+{{Squote|Ow! A hen pecked my little finger!}}
+
+'''[[Spirit's Eve]]'''
+{{Squote|But Aunt Marnie! I wanna go in the maze! I'm not scared!}}
+
+'''[[Festival of Ice]]'''
+{{Squote|I wanna give him a carrot nose!}}
+
+'''[[Night Market]]'''
+{{Squote|I wish I was old enough to see the mermaid show...}}
+
+'''[[Feast of the Winter Star]]'''
+{{Squote|Ohh! Presents!}}
+
+|}
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:Jas.png
+File:Jas Happy.png
+File:Jas Concerned.png
+File:Jas Neutral.png
+File:Jas Explaining.png
+File:Jas Winter 00.png
+File:Jas Winter 01.png
+File:Jas Winter 02.png
+File:Jas Winter 03.png
+File:Jas Winter 04.png
+</gallery>
+
+==Trivia==
+*Ironically, Jas hates [[Clay]] but she may gift it to you at the [[Feast of the Winter Star]].
+*Gifting Jas [[Ice Cream]] at the [[Desert Festival]] raises [[friendship]] with her by 200 points. This can be done one time per player.
+*Although her winter outfit doesn't have a visible bow, Jas may still ask the player, "Do you like my bow?" during winter.
+
+==History==
+{{History|1.3.27|Added eight heart event.}}
+{{History|1.4|Now hates Mead, likes Honey & Jelly.}}
+{{History|1.4.4|Now hates Triple Shot Espresso.}}
+{{History|1.6|Added custom gift reactions. Added winter portraits. Now loves Ancient Doll, Strange Doll (green), and Strange Doll (yellow). Now likes all Milks.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:Jas]]
+[[es:Jas]]
+[[fr:Jas]]
+[[it:Jas]]
+[[ja:ジャス]]
+[[ko:재스]]
+[[hu:Jas]]
+[[pt:Jas]]
+[[ru:Джас]]
+[[tr:Jas]]
+[[zh:贾斯]]

@@ -1,0 +1,55 @@
+<onlyinclude>{{{{{1|Infobox cooking}}}
+|name        = Rain Totem
+|image       = Rain Totem.png
+|description = {{Description|Rain Totem}}
+|source      = [[Crafting]]
+|ingredients = {{Name|Hardwood|1}}{{Name|Truffle Oil|1}}{{Name|Pine Tar|5}}
+|recipe      = <div class="no-wrap">[[File:Foraging Skill Icon.png|24px|link=]] [[Foraging#Foraging Skill|Foraging]] Level 9</div>
+|sellprice   = 20
+|qiseasoning = false
+}}</onlyinclude>
+The '''Rain Totem''' is a [[Crafting#Consumables|crafted item]] that sets the [[weather]] for the next day to rain. A Rain Totem can be activated by selecting it in inventory and pressing the [[Controls|''Check'' button]] ([[File:Right-Click.png|24px]] on PC, '''Y''' on Nintendo Switch, '''A''' on Xbox, '''X''' on PlayStation). 
+
+The crafting recipe becomes available at [[Foraging]] Level 9. One to three Rain Totems may also occasionally be found in [[Skull Cavern#Treasure Rooms|treasure rooms]] in the Skull Cavern.
+
+==Caveats==
+*The weather in [[Pelican Town]] and [[Ginger Island]] can be different, and the weather will only be changed in the region where the Rain Totem is activated.
+*A Rain Totem will not force the weather in Pelican Town to be rainy on [[Festivals|festival]] days or on the 1st day of a season.
+
+==Gifting==
+{{GiftsByItem
+|hate=Robin,Demetrius,Maru,Sebastian,Linus,Leo,Pierre,Caroline,Abigail,Alex,George,Evelyn,Lewis,Clint,Penny,Pam,Emily,Haley,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Elliott,Gus,Dwarf,Wizard,Harvey,Sandy,Willy,Krobus
+}}
+
+==Bundles==
+Rain Totem is not used in any [[bundles]].
+
+==Tailoring==
+A Rain Totem can be used in the spool of the [[2 Willow Lane#Sewing Machine|Sewing Machine]] to create the {{Name|Totem Mask|class=inline}}. It can be used in [[dyeing]], serving as an orange dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Quests==
+The Rain Totem is not used in any [[quests]].
+
+==Bugs==
+*If a Rain Totem is used during [[Winter]] on the day before a snowy day, it will cause it to rain and snow simultaneously the following day.
+
+==History==
+{{History|1.4|Can now be used in [[Tailoring]].}}
+{{History|1.6|Fixed a bug where using a Rain Totem on a stormy day would turn the next day's [[weather]] to stormy instead of rainy; storms could be chained in this way to obtain large numbers of [[Battery Pack]]s.}}
+
+{{NavboxWarpTotems}}
+
+[[Category:Craftable items]]
+[[Category:Bugs tested in 1.5]]
+
+[[de:Regentotem]]
+[[es:Tótem de lluvia]]
+[[fr:Totem de pluie]]
+[[it:Totem della pioggia]]
+[[ja:レイントーテム]]
+[[ko:비의 토템]]
+[[hu:Eső totem]]
+[[pt:Totem de chuva]]
+[[ru:Тотем дождя]]
+[[tr:Yağmur Totemi]]
+[[zh:雨水图腾]]

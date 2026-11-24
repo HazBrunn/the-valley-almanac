@@ -1,0 +1,627 @@
+{{Infobox villager
+|portrait  = Vincent.png
+|birthday  = {{Season|Spring}} 10
+|location  = Pelican Town
+|address   = [[1 Willow Lane]]
+|family    = {{NPC|Jodi|Mother}}{{NPC|Kent|Father}}{{NPC|Sam|Brother}}
+|marriage  = No
+|clinic    = {{Season|Spring}} 11
+|favorites = {{Name|Cranberry Candy}}{{Name|Green Frog Egg}}{{Name|Ginger Ale}}{{Name|Grape}}{{Name|Pink Cake}}{{Name|Snail}}
+}}
+
+{{Quote|I wanna be just like my big brother when I grow up!|Vincent}}
+
+'''Vincent''' is a [[Villagers|villager]] who lives in the southern part of [[Pelican Town]].  He's a young boy, and can often be found with his best friend [[Jas]]. He looks up to his brother [[Sam]] and wants to be just like him when he grows up.
+
+==Schedule==
+On Tuesday, Wednesday and Friday, Vincent and [[Jas]] spend the afternoon with [[Penny]] being tutored at the [[museum]]. During [[Summer]], Vincent is often at [[The Beach|the beach]].
+
+Vincent won't leave [[1 Willow Lane|his home]] on rainy days, unless it's Spring 11, when he visits [[Harvey's Clinic]].
+
+After the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island is unlocked, Vincent may randomly spend the day there. After leaving the Island at 6pm, Vincent will immediately go home to bed. Vincent never visits the Resort on Tuesdays, Wednesdays, Fridays, [[Festivals|Festival]] days or his checkup day at [[Harvey's Clinic]]. Vincent also never visits the Resort without an adult accompanying him.
+
+Shown below are Vincent's schedules prioritized highest to lowest. For example, if it is raining, that schedule overrides all others below it.
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Green Rain (Year 1)
+|-
+|style="width:15%"|All day
+|In the living room.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width:500px;"
+!colspan="2"|Tuesday the 9th and Tuesday the 23rd
+|-
+|style="width:15%"|9:00 AM
+|Wakes up for the day.
+|-
+|11:00 AM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|2:00 PM
+|Leaves [[1 Willow Lane|his home]] and heads outside to the [[Pelican Town|town square]].
+|-
+|5:00 PM
+|Leaves [[Pelican Town|town]] and walks [[1 Willow Lane|home]].
+|-
+|7:00 PM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|10:00 PM
+|Goes to bed for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Spring 11
+|-
+|style="width:15%"|9:00 AM
+|Wakes up, concerned about having to go to the [[Harvey's Clinic|doctor]]. "*sob*... I have to get my shots today."
+|-
+|11:30 AM
+|Leaves [[1 Willow Lane|home]] to travel to the [[Harvey's Clinic|clinic]] for his annual checkup. "*gulp*... Mommy, don't make me do it."
+|-
+|1:30 PM
+|Continues checkup at [[Harvey's Clinic|the clinic]]. "Do I get a lollipop for being so brave?"
+|-
+|4:00 PM
+|Leaves the [[Harvey's Clinic|clinic]] to walk [[1 Willow Lane|home]], once there he plays inside.
+|-
+|10:00 PM
+|Goes to bed for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Spring 17 (Bus Service Restored)
+|-
+|style="width:15%"|10:20 AM
+|Boards the bus to [[The Desert|Calico Desert]] to attend the [[Desert Festival]].
+|-
+|10:30 AM
+|With [[Jodi|his mom]] by one of the villager shops.
+|-
+|12:10 AM
+|Boards the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Desert Festival (As Vendor)
+|-
+|style="width:15%"|11:10 AM
+|Boards the bus to [[The Desert|Calico Desert]].
+|-
+|11:30 AM
+|Arrives at his [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM
+|Leaves booth and takes the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Winter 16
+|-
+|style="width:15%"|9:00 AM
+|Wakes up for the day.
+|-
+|11:00 AM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|2:00 PM
+|Leaves [[1 Willow Lane|his home]] and heads outside to the [[Pelican Town|town square]].
+|-
+|4:30 PM
+|Attends the [[Night Market]].
+|-
+|11:30 PM
+|Goes to bed for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Rain
+|-
+|style="width:15%"|9:00 AM
+|Wakes up for the day.
+|-
+|11:00 AM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|2:00 PM
+|Moves around inside [[1 Willow Lane|his home]].
+|-
+|5:00 PM
+|Moves around inside [[1 Willow Lane|his home]].
+|-
+|7:00 PM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|10:00 PM
+|Goes to bed for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Summer
+|-
+|style="width:15%"|9:00 AM
+|Wakes up for the day.
+|-
+|11:00 AM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|1:40 PM
+|Leaves [[1 Willow Lane|his home]] and heads to [[The Beach]].
+|-
+|7:00 PM
+|Leaves [[The Beach]] and walks back [[1 Willow Lane|home]].
+|-
+|11:00 PM
+|Goes to bed for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Tuesday, Wednesday and Friday
+|-
+|style="width:15%"|9:00 AM
+|Leaves [[1 Willow Lane|his home]] and walks to the [[Museum]] to be tutored by [[Penny]].
+|-
+|2:00 PM
+|Leaves the [[Museum]], walks back to [[Pelican Town]].
+|-
+|4:20 PM
+|Walks around [[Pelican Town]].
+|-
+|5:40 PM
+|Leaves [[Pelican Town|town]] to go [[1 Willow Lane|home]].
+|-
+|10:00 PM
+|Goes to bed for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Saturday
+|-
+|style="width:15%"|10:10 AM
+|Leaves [[1 Willow Lane|his home]] and heads outside to [[Pelican Town]].
+|-
+|12:00 PM
+|Heads to the [[Pelican Town|town square]].
+|-
+|5:00 PM
+|Leaves the [[Pelican Town|town square]] and walks around [[Pelican Town]].
+|-
+|10:00 PM
+|Leaves [[Pelican Town|town]] to go home to bed for the night.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Regular Schedule
+|-
+|style="width:15%"|9:00 AM
+|Wakes up for the day.
+|-
+|11:00 AM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|2:00 PM
+|Leaves [[1 Willow Lane|his home]] and heads outside to the [[Pelican Town|town square]].
+|-
+|5:00 PM
+|Leaves [[Pelican Town|town]] and walks [[1 Willow Lane|home]].
+|-
+|7:00 PM
+|Plays inside [[1 Willow Lane|his home]].
+|-
+|10:00 PM
+|Goes to bed for the night.
+|}
+
+==Relationships==
+Vincent lives with his mother [[Jodi]] and his brother [[Sam]].  His father [[Kent]] is away at war in Year 1, but returns and lives with the family when he returns in Year 2.  
+
+He's often seen alongside his friend [[Jas]], who is the only resident of town close to his age.  
+
+[[Penny]] takes time to teach both Vincent and [[Jas]] at the [[museum]] since there's no school nearby.
+It is implied that Vincent cares about Penny a lot, specifically in a dialogue where he claims he'll marry her one day.
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|Wow, thank you so much! This is terrific!}}
+''Frog Egg''
+{{Squote|*Squish* *squish* … Ewww! Can I have it? Can I have it? Yaaay!}}
+''Stardrop Tea''
+{{Squote|Wow! It's so sweet! Mmmmm....}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Vincent Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Cranberry Candy.png|center]]
+|[[Cranberry Candy]]
+|{{Description|Cranberry Candy}}
+|[[Cooking]]
+|{{Name|Cranberries|1}}{{Name|Apple|1}}{{Name|Sugar|1}}
+|-
+|[[File:Green Frog Egg.png|center]]
+|[[Frog Egg]]
+|{{Description|Frog Egg}}
+|[[Monsters|Monster]] drop
+|
+|-
+|[[File:Ginger Ale.png|center]]
+|[[Ginger Ale]]
+|{{Description|Ginger Ale}}
+|[[Cooking]]
+|{{Name|Ginger|3}}{{Name|Sugar|1}}
+|-
+|[[File:Grape.png|center]]
+|[[Grape]]
+|{{Description|Grape}}
+|[[Farming]] - [[Fall]]
+[[Foraging#Summer|Foraging]] - [[Summer]]
+|
+|-
+|[[File:Pink Cake.png|center]]
+|[[Pink Cake]]
+|{{Description|Pink Cake}}
+|[[Cooking]]
+|{{Name|Melon|1}}{{Name|Wheat Flour|1}}{{Name|Sugar|1}}{{Name|Egg|1}}
+|-
+|[[File:Snail.png|center]]
+|[[Snail]]
+|{{Description|Snail}}
+|[[Crab Pot]]
+|
+|}
+
+===Like===
+{{Squote|For me? Wow, thanks!}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Vincent Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]''' ''(except [[Piña Colada]], [[Triple Shot Espresso]], '''[[Vegetables]]''' and '''[[Artisan Goods]]''' other than [[Honey]], [[Jellies and Pickles|Jelly]], &amp; [[Oil]])''</li><li>'''All Milk'''</li></ul>
+|-
+|[[File:Coconut.png|center]]
+|[[Coconut]]
+|{{Description|Coconut}}
+|[[Foraging#The Desert|Foraging]] - [[The Desert|Desert]]
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging#Spring|Foraging]] - [[Spring]]
+|}
+
+===Neutral===
+{{Squote|Thanks!}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Vincent.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]'''</li></ul>
+|}
+
+===Dislike===
+{{Squote|This isn't very fun...}}
+
+{| class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Vincent Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]''' ''(except [[Clay]] & [[Frog Egg]])''</li><li>'''All Eggs*'''</li><li>'''All [[Fruits|Fruit]]''' ''(except [[Coconut]], [[Grape]], &amp; [[Fruit Trees|Fruit Tree Fruit]])''</li><li>'''All [[Vegetables]]''' ''(except [[Hops]], [[Tea Leaves]], &amp; [[Wheat]])''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Quartz.png|center]]
+|[[Quartz]]
+|{{Description|Quartz}}
+|[[Foraging]]- [[The Mines]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Hoes|Tilling]] - [[Winter]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Hoes|Tilling]] - [[Winter]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Hate===
+{{Squote|Yuck, what is this?}}
+''Any Alcoholic Beverage''
+{{Squote|*sniff*... what is this? It smells awful... Mommmm!!!!}} 
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Vincent Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]''' ''(except [[Snail]])''</li><li>'''All [[Artisan Goods]]''' ''(except [[Honey]], [[Jellies and Pickles|Jelly]] &amp; [[Oil]])''</li></ul>
+|-
+|[[File:Clay.png|center]]
+|[[Clay]]
+|{{Description|Clay}}
+|[[Hoes|Tilling]]
+|
+|-
+|[[File:Piña Colada.png|center]]
+|[[Piña Colada]]
+|{{Description|Piña Colada}}
+|The Beach Resort on [[Ginger Island]]
+|
+|-
+|[[File:Triple Shot Espresso.png|center]]
+|[[Triple Shot Espresso]]
+|{{Description|Triple Shot Espresso}}
+|[[Cooking]]
+|{{Name|Coffee|3}}
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture
+<p>[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling</p>
+[[File:'Wumbus'.png|24px|link=]] Wumbus
+|-
+!Like
+|-
+|N/A
+|-
+!Dislike
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Mysterium'.png|24px|link=]] Mysterium</p>
+[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World
+<p>[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch</p>
+[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Jawbreaker.png|24px|link=]] Jawbreaker<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|[[File:Black Licorice.png|24px|link=]] Black Licorice<br />[[File:Hummus Snack Pack.png|24px|link=]] Hummus Snack Pack<br />[[File:Jasmine Tea.png|24px|link=]] Jasmine Tea<br />[[File:Joja Cola (large).png|24px|link=]] Joja Cola<br />[[File:JojaCorn.png|24px|link=]] JojaCorn<br />[[File:Kale Smoothie.png|24px|link=]] Kale Smoothie<br />[[File:Panzanella Salad.png|24px|link=]] Panzanella Salad<br />[[File:Truffle Popcorn.png|24px|link=]] Truffle Popcorn
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Eight Hearts===
+{{heart event
+  |hearts = 8
+  |trigger = After reaching 8 hearts with both Vincent and [[Jas]], enter [[Cindersap Forest]] during [[Spring]] on a sunny day between 6am and 5pm.
+  |details = Vincent will explain how to clean [[Spring Onion]]s by removing insects.  Afterward, the player gains [[Spring Onion Mastery]], which permanently increases the sell price of Spring Onions by 5x.
+}}
+
+==Quotes==
+{| class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular&nbsp;'''
+|-
+|
+'''First Meeting'''
+{{Squote|Oh, a stranger! My name's Vincent. Momma says not to talk to strangers... But you seem okay.}}
+
+'''Regular'''
+{{Squote|I wanna be just like my big brother when I grow up! Okay! Bye!}}
+{{Squote|*sigh*... Mom won't let me have any more gummies today.}}
+{{Squote|I wanna look for bugs, but Mom gets mad when I'm all dirty. It's a tough choice.}}
+{{Squote|I'm hungry... where's Mom?}}
+{{Squote|You're not as boring as most grown-ups!}}
+{{Squote|Ew, it's boiled beet night again...}}
+{{Squote|Oh no... Mom's making lentil soup tonight.}}
+{{Squote|Miss Penny makes me read a new book every week. At least she lets me pick them, sometimes!}}
+{{Squote|Hi there, [miss/mister].}}
+
+''Before [[Kent]]'s return''
+{{Squote|Dad's coming back soon! I hope he brings me some toys.}}
+{{Squote|Dad's not around much... I miss playing with him.}}
+
+''After [[Kent]]'s return''
+{{Squote|I'm glad Dad's back... but he's different than I remember...}}
+
+''6+ Hearts''
+{{Squote|Can you keep a secret, [miss/mister]? I wanna marry Miss Penny when I grow up. Just don't tell her, okay?}}
+
+''8+ Hearts''
+{{Squote|"Dad seems weird since he came back. I wonder what happened to him? He doesn't play with me anymore.}}
+
+''10 Hearts''
+{{Squote|Hi [Uncle/Auntie] [Player]! Don't tell Mom... but you're my favorite grown-up.}}
+
+'''Doctor Visit'''
+
+''Before leaving house for doctor visit''
+{{Squote|*sob*... I have to get my shots today.}}
+
+''In the clinic's waiting room''
+{{Squote|*gulp*... Mommy, don't make me do it.}}
+
+''In the clinic's examination room''
+{{Squote|Do I get a lollipop for being so brave?}}
+
+'''Green Rain'''
+{{Squote|Mom! I wanna go outside and play!}}
+
+'''At Ginger Island'''
+{{Squote|That was fun! I wanna be a boat captain some day!}}
+{{Squote|If you look close, you can see little bugs jumping out of the sand.}}
+{{Squote|I wanna see a shark!}}
+{{Squote|I wanna come back soon!}}
+
+'''If the player marries Sam'''
+{{Squote|Don't take my Sammy away!}}
+
+|}
+
+{| class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events&nbsp;'''
+|-
+|
+
+'''[[Egg Festival]]'''
+
+''Odd-numbered year''
+{{Squote|When does the egg hunt start?! I'm so excited!!}}
+''Even-numbered year''
+{{Squote|I want to live inside a big egg!}}
+
+'''[[Desert Festival]]'''
+{{Squote|Mom, I'm bored!}}
+
+'''[[Flower Dance]]'''
+{{Squote|That's not fair... Why can't I be the flower queen?}}
+
+'''[[Luau|The Luau]]'''
+{{Squote|I'm bored...}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+{{Squote|I wanna see the rare green jelly!}}
+
+'''[[Stardew Valley Fair]]'''
+{{Squote|Moooo!}}
+
+'''[[Spirit's Eve]]'''
+{{Squote|Mother won't let me go in the maze. *sob*}}
+
+'''[[Festival of Ice]]'''
+{{Squote|I saw a big fish down there!}}
+
+'''[[Night Market]]'''
+{{Squote|I wanna ride the boat!!}}
+
+'''[[Feast of the Winter Star]]'''
+{{Squote|Can we open presents now?!}}
+
+|}
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+File:Vincent.png
+File:Vincent Happy.png
+File:Vincent Concerned.png
+File:Vincent Neutral.png
+File:Vincent Winter 00.png
+File:Vincent Winter 01.png
+File:Vincent Winter 02.png
+File:Vincent Winter 03.png
+</gallery>
+
+==Trivia==
+*Ironically, Vincent hates [[Clay]] but he may gift it to the player at the [[Feast of the Winter Star]].
+*During the spring onion mastery cutscene, Vincent says "sp...spwing onion", suggesting he is unable to say his R's. This is the only time in the game he speaks like this.
+*Vincent will still tell the player that he wants to marry [[Penny]] when he grows up even when the player is married to her.
+
+==History==
+{{History|1.3.27|Added Eight Heart Event.}}
+{{History|1.4.1|Now loves Snails, likes Honey and Jelly, hates Mead.}}
+{{History|1.4.4|Now hates Triple Shot Espresso.}}
+{{History|1.6|Added custom gift reactions. Added winter portraits. Now likes all Milk.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:Vincent]]
+[[es:Vincent]]
+[[fr:Vincent]]
+[[it:Vincent]]
+[[ja:ヴィンセント]]
+[[ko:빈센트]]
+[[hu:Vincent]]
+[[pt:Vincent]]
+[[ru:Винсент]]
+[[tr:Vincent]]
+[[zh:文森特]]

@@ -1,0 +1,112 @@
+{{Infobox fish
+|eng        = Glacierfish
+|location   = [[Cindersap Forest]]
+|time       = Any
+|season     = Winter
+|weather    = Any
+|difficulty = 100
+|size       = 26-28
+|fl         = 6
+|price      = 1000
+|edibility  = 10
+|behavior   = Mixed
+|roe        = Blue
+}}
+:''See also: [[Glacierfish Jr.]]''
+The '''Glacierfish''' is a [[fish]] that can be caught in [[Cindersap Forest]] during [[Winter]].  It is one of the five [[Fish#Legendary Fish|Legendary Fish]], so it can only be caught once per [[Saves|save file]], or once per player in [[Multiplayer]].
+
+The special requirements necessary to hook a Glacierfish are:<ref name="requirements"/>
+* [[Fishing#Fishing Skill|Fishing level 6]], either naturally or using Fishing [[Buffs]].
+* The player must be standing on one specific tile: the one at the southernmost tip of Arrowhead Island. This exact location is revealed in ''[[Lost Books#Secrets of the Legendary Fish|Secrets of the Legendary Fish]]''.
+* The bobber must be located in water with a [[Fishing#Distance from Land|distance from land]] of at least 3, ''i.e.,'' it must be at least three tiles away from any land in every direction.
+** The Glacierfish can appear one tile closer to land if the bobber lands in [[Fishing#Bubbles|Bubbles]].
+
+When all of these requirements are met, each cast has a 50% chance of hooking a Glacierfish. Unlike with other Legendary Fish, using a [[Curiosity Lure]] does not increase the chance of hooking it.
+
+Although the Glacierfish cannot be hooked again after it is caught, it is possible to obtain multiple Glacierfish (per player) by using [[Challenge Bait]] to catch it or by [[Pans|Panning]] in the correct [[#Map|tiles]] with the [[Forge#Enchantments|Fisher enchantment]]. 
+
+The Glacierfish can be caught regardless of season using [[Magic Bait]].
+
+==Map==
+The Glacierfish can be found off the southern tip of Arrowhead Island in Cindersap Forest.
+{{Map|105|177}}
+
+[[File:GlacierfishLocations.png|400px]]
+{{clear}}
+
+==Gifting==
+{{GiftsByItem
+|dislike=Robin,Maru,Caroline,Abigail,Alex,George,Lewis,Clint,Penny,Emily,Jas,Vincent,Jodi,Kent,Sam,Leah,Shane,Marnie,Gus,Dwarf,Wizard,Harvey,Sandy,Krobus
+|neutral=Demetrius,Sebastian,Linus,Pam,Elliott,Willy,Leo
+|hate=Pierre,Evelyn,Haley
+}}
+
+==Bundles==
+The Glacierfish is not used in any [[bundles]].
+
+==Recipes==
+{{Recipes|header|hide=buff,duration}}
+{{:Maki Roll|RecipeRow/NoBuffs}}
+{{:Quality Fertilizer|RecipeRow/NoBuffs}}
+{{:Sashimi|RecipeRow/NoBuffs}}
+{{Recipes|footer}}
+
+==Dyeing==
+Glacierfish can be used in [[dyeing]], serving as a blue dye at the dye pots, located in [[Emily]]'s and [[Haley]]'s house, [[2 Willow Lane]].
+
+==Fish Pond==
+Glacierfish can be placed in a [[Fish Pond]]. The pond capacity is 1 fish and this cannot be increased. The only possible output is Glacierfish [[Roe]].
+
+'''[[Fish Pond#Produce|Produce]]'''
+{|class="wikitable"
+|-
+!Item(s) Produced
+!Fishing XP Granted
+!Population
+!% of Items
+!Overall Daily Chance
+|-
+|{{Name|Blue Roe|1-4|link=Roe}}
+|32
+| 1 || 79%     || 39.5%
+|-
+|{{Name|Blue Roe|1-2|link=Roe}}
+|32
+| 1 || 10.5%     || 5.25%
+|-
+|''Nothing''
+| 
+| 1 || 10.5%     || 55.25%
+|}
+
+==Quests==
+The Glacierfish is not used in any [[quests]].
+
+==References==
+<references>
+    <ref name="requirements">See <samp>Data\Locations.xnb</samp>.</ref>
+</references>
+
+==History==
+{{History|1.4|Added iridium quality.}}
+{{History|1.6|Fixed bug allowing [[Fish#Legendary Fish|Legendary Fish]] to be hooked with the [[Training Rod]]. Legendary Fish [[Roe]] now obtainable by the power from the [[Jewels Of The Sea]] book. Can now obtain multiple Glacierfish per player using [[Challenge Bait]] or by [[Pans|panning]] with the [[Forge#Enchantments|Fisher enchantment]].}}
+{{History|1.6.9|Can now be placed in a [[Fish Pond]].}}
+{{History|1.6.15|Now produce roe much more often and have a higher average daily value.}}
+
+{{NavboxFish}}
+
+[[Category:Legendary fish]]
+[[Category:Winter fish]]
+[[Category:River fish]]
+
+[[de:Gletscherfisch]]
+[[es:Pez glacial]]
+[[fr:Poisson des glaciers]]
+[[it:Pesce ghiacciaio]]
+[[ja:アイスフィッシュ]]
+[[ko:빙하고기]]
+[[hu:Gleccserhal]]
+[[pt:Peixe-gelo]]
+[[ru:Ледорыб]]
+[[tr:Buzulbalık]]
+[[zh:冰川鱼]]

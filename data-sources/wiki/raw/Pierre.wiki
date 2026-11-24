@@ -1,0 +1,619 @@
+{{Infobox villager
+|portrait  = Pierre.png
+|birthday  = {{Season|Spring}} 26
+|location  = Pelican Town
+|address   = [[Pierre's General Store]]
+|family    = {{NPC|Caroline|Wife}}{{NPC|Abigail|Daughter}}
+|marriage  = No
+|favorites = {{Name|Fried Calamari}}{{Name|Price Catalogue}}
+}}
+{{Quote|If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price! A little agriculture could really inject new life into the local economy!|Pierre}}
+
+'''Pierre''' is a [[Villagers|villager]] who lives in [[Pelican Town]]. He owns and runs [[Pierre's General Store]].
+
+==Schedule==
+Pierre can be found running his [[Pierre's General Store|general store]] each day between 9am and 5pm (except Wednesday when the store is closed). After the [[Community Center]] has been fully restored his store will be open every day of the week.
+
+After the [[Ginger Island#Beach Resort|Beach Resort]] on Ginger Island is unlocked, Pierre may randomly spend the day there. (He will leave a cash box on the counter of the [[Pierre's General Store|store]], so the player is still able to make purchases.) After leaving the Island at 6pm, Pierre will immediately go home to bed. Pierre never visits the Resort on [[Festivals|Festival]] days.
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Green Rain (Year 1)
+|-
+|style="width:15%"|All day
+|In the living room.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Spring 15 (Bus Service Restored)
+|-
+|style="width:15%"|6:00 AM
+|Stands behind the counter of the general store.
+|-
+|7:00 AM
+|In the aisles of the general store.
+|-
+|8:30 AM
+|Goes to stand behind the counter of the general store.
+|-
+|6:00 PM
+|Boards the [[Bus Stop|bus]] to [[The Desert|Calico Desert]] to attend the [[Desert Festival]].
+|-
+|6:50 PM
+|Stands outside the [[Oasis]].
+|-
+|1:40 AM
+|Boards the bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+|-
+!colspan="2"|Desert Festival (As Vendor)
+|-
+|style="width:15%"|11:10 AM
+|Boards the [[Bus Stop|bus]] to [[The Desert|Calico Desert]].
+|-
+|11:30 AM
+|Arrives at his [[Desert Festival#Villager Shops|booth]].
+|-
+|12:00 AM
+|Leaves booth and boards bus back to the Valley.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Rain
+|-
+|style="width:15%"|6:00 AM
+|Stands behind the counter of the general store.
+|-
+|7:00 AM
+|In the aisles of the general store.
+|-
+|8:30 AM
+|Goes to stand behind the counter of the general store.
+|-
+|5:00 PM
+|Leaves the counter and stands in the aisles again.
+|-
+|7:00 PM
+|Goes to the kitchen in his house.
+|-
+|9:00 PM
+|Goes to his room and stands in front of the bookcase.
+|-
+|11:00 PM
+|Goes to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Friday
+|-
+|style="width:15%"|6:00 AM
+|Stands behind the counter of the general store.
+|-
+|7:00 AM
+|In the aisles of the general store.
+|-
+|8:30 AM
+|Goes to stand behind the counter of the general store.
+|-
+|5:00 PM
+|Goes to [[the Stardrop Saloon]] and stands in front of the counter.
+|-
+|10:50 PM
+|Returns home to sleep.
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder" style="width: 500px;"
+!colspan="2"|Regular Schedule
+|-
+|style="width:15%"|6:00 AM
+|Stands behind the counter of the general store.
+|-
+|7:00 AM
+|In the aisles of the general store.
+|-
+|8:30 AM
+|Goes to stand behind the counter of the general store.
+|-
+|5:00 PM
+|Leaves the counter and stands in the aisles again.
+|-
+|7:00 PM
+|Goes to the kitchen in his house.
+|-
+|9:00 PM
+|Goes to his room and stands in front of the bookcase.
+|-
+|11:00 PM
+|Goes to sleep.
+|}
+
+==Relationships==
+Pierre lives with his wife [[Caroline]] and their daughter [[Abigail]] behind his shop. On Friday evenings he socializes with other [[villagers]] at [[the Stardrop Saloon]], but outside that he only interacts with others at [[Pierre's General Store|his store]].
+
+He feels threatened by [[JojaMart]] and [[Morris]]' attempts to draw his customers away from the store, and worries that he won't be able to make as much money because of this.
+
+He has a strained relationship with Abigail due to their different beliefs, as shown in a few cutscenes.
+
+==Gifts==
+{{GiftHeader}}
+
+===Love===
+{{Squote|This is my all-time favorite! Thank you!}}
+''Price Catalogue''
+{{Squote|Gripping! Fascinating! It's the perfect book for me!}}
+''Stardrop Tea''
+{{Squote|Wow, I can't believe you'd give this to me. It must've cost you a fortune! Thanks!}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Pierre Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Loves|Universal Loves]]'''</li></ul>
+|-
+|[[File:Fried Calamari.png|center]]
+|[[Fried Calamari]]
+|{{Description|Fried Calamari}}
+|[[Cooking]]
+|{{Name|Squid|1}}{{Name|Wheat Flour|1}}{{Name|Oil|1}}
+|-
+|[[File:Price Catalogue.png|center]]
+|[[Price Catalogue]]
+|{{Description|Price Catalogue}}
+|[[Bookseller]]
+|
+|}
+
+===Like===
+{{Squote|That's very kind of you. I like this.}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Pierre Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Likes|Universal Likes]]''' ''(except [[Corn]], [[Garlic]], '''[[Minerals#Foraged Minerals|Foraged Minerals]]''', '''[[Minerals#Gems|Gems]]''' other than [[Diamond]] &amp; [[Prismatic Shard]], [[Parsnip Soup]], &amp; [[Tortilla]])''</li><li>'''All Eggs''' ''(except [[Void Egg]])*''</li><li>'''All Milk'''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]]
+|{{Description|Daffodil}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]]
+|{{Description|Dandelion}}
+|[[Foraging]] - [[Spring]]
+|}
+<nowiki>*</nowiki>''Note that the following are not considered Eggs for gifting purposes: [[Dinosaur Egg]] is an [[Artifacts|Artifact]]; [[Frog Egg]] and [[Parrot Egg]] are considered [[Trinkets]].''
+
+===Neutral===
+{{Squote|A present? Thanks!}} 
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Pierre.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Neutrals|Universal Neutrals]]'''</li><li>'''All [[Fruits|Fruit]]''' ''(except [[Fruit Trees|Fruit Tree Fruit]] &amp; [[Salmonberry]])''</li></ul>
+|}
+
+===Dislike===
+{{Squote|This isn't exactly my favorite...}}
+
+{| class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;" class="unsortable"|Image
+!Name
+!Description
+!Source
+|-
+| [[File:Pierre Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''All [[Friendship#Universal Dislikes|Universal Dislikes]]''' ''(except '''[[Fish#Fish Types|Fish]]''' &amp; [[Price Catalogue]])''</li><li>'''All [[Minerals#Foraged Minerals|Foraged Minerals]]'''</li><li>'''All [[Minerals#Gems|Gems]]''' ''(other than [[Diamond]] &amp; [[Prismatic Shard]])''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[Chanterelle]]
+|{{Description|Chanterelle}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[Common Mushroom]]
+|{{Description|Common Mushroom}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Ginger.png|center]]
+|[[Ginger]]
+|{{Description|Ginger}}
+|[[Foraging]] - [[Ginger Island]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[Hazelnut]]
+|{{Description|Hazelnut}}
+|[[Foraging]] - [[Fall]]
+|-
+|[[File:Holly.png|center]]
+|[[Holly]]
+|{{Description|Holly}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Leek.png|center]]
+|[[Leek]]
+|{{Description|Leek}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[Magma Cap]]
+|{{Description|Magma Cap}}
+|[[Foraging]] - [[Volcano Dungeon]]
+|-
+|[[File:Morel.png|center]]
+|[[Morel]]
+|{{Description|Morel}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[Salmonberry]]
+|{{Description|Salmonberry}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[Purple Mushroom]]
+|{{Description|Purple Mushroom}}
+|[[Foraging]] - [[The Mines]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[Snow Yam]]
+|{{Description|Snow Yam}}
+|[[Foraging]] - [[Winter]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[Wild Horseradish]]
+|{{Description|Wild Horseradish}}
+|[[Foraging]] - [[Spring]]
+|-
+|[[File:Winter Root.png|center]]
+|[[Winter Root]]
+|{{Description|Winter Root}}
+|[[Foraging]] - [[Winter]]
+|}
+
+===Hate===
+{{Squote|Please, never bring this to me again.}}
+
+{| class="wikitable roundedborder" style="width: 65%; min-width: 500px;"
+!style="width: 48px;"|Image
+!Name
+!Description
+!Source
+!Ingredients
+|-
+| [[File:Pierre Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''All [[Friendship#Universal Hates|Universal Hates]]'''</li><li>'''All [[Fish#Fish Types|Fish]]'''</li></ul>
+|-
+|[[File:Corn.png|center]]
+|[[Corn]]
+|{{Description|Corn}}
+|[[Crops]] - [[Summer]], [[Fall]]
+|
+|-
+|[[File:Garlic.png|center]]
+|[[Garlic]]
+|{{Description|Garlic}}
+|[[Crops]] - [[Spring]] (years 2+)
+|
+|-
+|[[File:Parsnip Soup.png|center]]
+|[[Parsnip Soup]]
+|{{Description|Parsnip Soup}}
+|[[Cooking]]
+|{{Name|Parsnip|1}}{{Name|Milk|1}}{{Name|Vinegar|1}}
+|-
+|[[File:Tortilla.png|center]]
+|[[Tortilla]]
+|{{Description|Tortilla}}
+|[[Cooking]]
+|{{Name|Corn|1}}
+|}
+
+==Movies & Concessions==
+{{Main article|Movie Theater}}
+{|style="border-spacing: 0; padding: 0; margin: 0;"
+|-
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love
+|-
+|[[File:'Wumbus'.png|24px|link=]] Wumbus
+|-
+!Like
+|-
+|[[File:'It Howls In The Rain'.png|24px|link=]] It Howls In The Rain
+<p>[[File:'Journey Of The Prairie King The Motion Picture'.png|24px|link=]] Journey Of The Prairie King: The Motion Picture</p>
+[[File:'Mysterium'.png|24px|link=]] Mysterium
+<p>[[File:'Natural Wonders Exploring Our Vibrant World'.png|24px|link=]] Natural Wonders: Exploring Our Vibrant World</p>
+[[File:'The Brave Little Sapling'.png|24px|link=]] The Brave Little Sapling
+<p>[[File:'The Miracle At Coldstar Ranch'.png|24px|link=]] The Miracle At Coldstar Ranch</p>
+[[File:'The Zuzu City Express'.png|24px|link=]] The Zuzu City Express
+|-
+!Dislike
+|-
+|N/A
+|-
+|}
+|style="width: 12px;"|
+|style="vertical-align: top;"|
+{|class="wikitable"
+|-
+!Love [[File:ConcessionLove.png|24px|link=]]
+|-
+|[[File:Personal Pizza.png|24px|link=]] Personal Pizza<br />[[File:Stardrop Sorbet.png|24px|link=]] Stardrop Sorbet
+|-
+!Dislike [[File:ConcessionDislike.png|24px|link=]]
+|-
+|[[File:Black Licorice.png|24px|link=]] Black Licorice<br />[[File:Joja Cola (large).png|24px|link=]] Joja Cola<br />[[File:JojaCorn.png|24px|link=]] JojaCorn
+|-
+!Like [[File:ConcessionLike.png|24px|link=]]
+|-
+|''Everything else''
+|-
+|}
+|}
+
+==Heart Events==
+===Anytime===
+At any [[friendship]] level greater than zero friendship points, you may receive gold in the mail from Pierre.  The chance of receiving gold in the mail increases as your friendship with Pierre increases.
+{| class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Details'''&nbsp;
+|-                            
+| 
+	{| class="wikitable roundedborder"
+	|-
+	!Item
+	!Description
+	|-
+	|{{Price|250}}<br />(or more)
+	|Dear valued customer,<p>Thanks for visiting 'Pierre's'! Enclosed is your 'Cash-back Rewards Program' rebate. See you soon!</p>
+         <p>-Pierre</p>
+         <p>P.S. Sorry for the stock message, ''(Name)''. Enjoy!</p>
+	|}
+|}
+
+===Three Hearts===
+{{Hearts|3}}
+
+After reaching 3 hearts with Pierre, he will send you a recipe in the mail.
+{| class="mw-collapsible mw-collapsed"
+!style="text-align: left;" | '''Details&nbsp;'''
+|-
+|
+{| class="wikitable roundedborder"
+!Image
+!Recipe
+!Description
+|-
+|{{Recipe|Blueberry Tart|48}}
+|[[Blueberry Tart]]
+|TOP SECRET :<p>Here's the recipe for my famous blueberry tart. Don't tell anyone! I'm giving it to you because we are such good friends.</p><p>-Pierre</p>
+|}
+|}
+
+===Six Hearts===
+{{heart event
+ |hearts  = 6
+ |trigger = Enter [[Pierre's General Store]] to trigger the cutscene.
+ |details = You enter Pierre's bedroom. After looking around, you find Pierre's 'secret stash' behind the bookshelf. Pierre catches you, asks that you tell no one. 
+* {{choice|"Your secret is safe with me."|70}} He responds, "Thanks, I appreciate that. Just forget you ever saw this, okay?...And I'll just forget that you were snooping around in my bedroom!"
+* {{choice|"Your wife deserves to know about this."|-500}} He responds, "You would really do that to me? You're terrible. You shouldn't have been snooping around in my bedroom in the first place! Nosy neighbors are the worst."
+
+Pierre says he has to find a new hiding spot.
+}}
+
+==Quotes==
+{| class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Regular'''&nbsp;
+|-
+|
+'''First Meeting'''
+{{Squote|Hey, it's [Mr./Mrs.] [Player], the new farmer! I'm Pierre, owner of the local general store. If you're looking for seeds, my shop is the place to go. I'll also buy produce from you for a good price! A little agriculture could really inject new life into the local economy!}}
+
+'''Regular'''
+{{Squote|Welcome! If you're looking for seeds, you've come to the right place!}}
+{{Squote|Hi, [Player]. Need any seeds or fruit tree saplings?}}
+{{Squote|Sometimes I get new items in stock, so make sure to stop by every so often. It's a lot of work to run a shop.}}
+{{Squote|I'm happy to buy any produce off you. I'll give you a fair price, of course!}}
+{{Squote|I really do appreciate your business, [Mr./Mrs.] [Player]. I've been having a harder and harder time turning a decent profit.}}
+{{Squote|Business has been slow since Joja moved into town. It's hard to compete with their selection.}}
+{{Squote|Hi there. Is your farm doing well? Maybe a few of my seeds will spruce things up.}}
+{{Squote|<nowiki>*sigh*</nowiki>... I've got those behind-the-counter blues... I wish I could go for a walk, but I can't leave the store unattended. I've heard the flowers are in bloom and the air smells great...}}
+{{Squote|Hey, [Player]. You're my number one customer!}}
+
+''Wednesdays''
+<br />''Although you cannot talk to Pierre on Wednesdays before the [[Community Center]] is complete, he has dialogue scripted in underlying data files.''
+{{Squote|It's my day off today. Hmmm... what to do...}}
+{{Squote|When I was younger I always had something interesting to do... now I find myself just wasting time whenever I'm not at work.}}
+{{Squote|I'm so glad to have a day off from work.}}
+
+''Friday nights, in [[The Stardrop Saloon|the Saloon]]''
+{{Squote|I've been working hard all week. I deserve a little relaxation on a Friday night.}}
+
+''On a rainy day''
+{{Squote|Most people stay indoors in days like this... It's not good for business.}}
+
+''If sold low quality crops to Pierre''
+{{Squote|Hey, remember that [item] you sold me the other day? I ended up serving it to the family for a special dinner. I can't say it was a hit... ... well,... back to business, huh?}}
+
+''If sold high quality crops to Pierre''
+{{Squote|Hey, remember that [item] you sold me the other day? I ended up serving it to the family for a special dinner. My wife loved it! ...And Abby even started going to town on it after I smothered the thing in hoisin sauce. ... well,... back to business, huh?}}
+
+''Day of the player's [[marriage]]''
+{{Squote|Well, now that you have dual incomes, I expect you'll be purchasing twice as many seeds, right? Haha... I'm only joking... *ahem*...}}
+
+''If player is married to [[Abigail]]''
+{{Squote|Hello, er... my [son/daughter]?}}
+{{Squote|Hi, [Player]. How's Abigail doing? The shop hasn't been the same without her...}}
+
+''If Community Center is complete''
+{{Squote|This is a dream-come-true! You can't begin to imagine how much stress JojaMart was causing me. For a small town like this, one store is enough! There's too much social pressure for me to overcharge, anyway.}}
+
+''If Joja Membership is purchased''
+{{Squote|This is a sad day for Pelican Town... The stronger Joja becomes, the closer I move toward bankruptcy. I might have to sell the shop soon...}}
+
+''6+ Hearts''
+{{Squote|You know, I used to be a pretty good boxer back in the day... my right hook was the stuff of legend!}}
+{{Squote|<nowiki>*sigh*</nowiki>... No matter how well the business does, it's never enough to satisfy my desire for success. What's wrong with me? Maybe I'm just bored with domestic life. Some day I'm going to open a new shop in the city and make a killing. Unfortunately, business is so slow I can hardly save any money...}}
+
+''8+ Hearts''
+{{Squote|Does Abigail look anything like me? Don't tell my wife, but sometimes I wonder if I'm really the father.}}
+{{Squote|Don't tell my wife, but I hate to cook dinner.}}
+{{Squote|I'll tell you a secret. Sometimes, when the store is empty, I'll practice my opera singing behind the counter. Don't tell anyone.}}
+
+'''Spring'''
+
+''Sundays''
+{{Squote|Hi [Player]. I wish I could go for a walk, but I can't leave the store unattended.
+I've heard the flowers are in bloom and the air smells great...}}
+
+'''Summer'''
+{{Squote|I've got summer seeds available! You'd better stock up.}}
+{{Squote|I'm so glad to have a day off from work.}}
+{{Squote|Everyone's enjoying the weather instead of shopping... <nowiki>*sigh*</nowiki>}}
+{{Squote|Oh, hi. Are you satisfied with the quality of my summer seeds?}}
+{{Squote|Summer is a good time to eat a refreshing salad, don't you think?}}
+{{Squote|Ugh... It's so hot in here.}}
+
+'''Green Rain'''
+''Year 1''
+{{Squote|Gahh, no customers! Any more of this 'green' rain, and my ledger will be in the 'red'!}}
+''Year 2+''
+{{Squote|Glad to see you, [Player]. What's a little toxic rain when you have seeds to buy? I'm just kidding. The rain seems to be completely harmless.}}
+''Green rain finished (next day)''
+{{Squote|Well, I'm glad things are back to normal. Seems like it was all overblown... just like everything.}}
+
+'''Fall'''
+{{Squote|Fall seeds are here! Crops don't grow in winter so this is your last shot until spring. Better go all out, huh?}}
+{{Squote|It's starting to get cold outside... That means more people come into the shop to warm up... hehe.}}
+{{Squote|My dream is to keep opening new stores until I become extremely wealthy. hehehe. Hi there. Is your farm still doing well? Maybe a few of my seeds will spruce things up.}}
+{{Squote|I'm happy to buy whatever you produce on the farm. Yes, I do resell it for a profit... but that's the benefit of being an established shop owner. Don't get any ideas...}}
+{{Squote|If I didn't have this shop to run I would be outside right now... The leaves look great and the mushrooms are sprouting.}}
+
+'''Winter'''
+{{Squote|You can't grow any crops during winter... so I have no seeds to offer you. It's really going to cut into our profits.}}
+{{Squote|I'm going to surprise Caroline tonight with dinner and a bottle of Stardew Red. Don't tell anyone! Finally, a day of relaxation.}}
+{{Squote|Hi. In the mood for a little shopping?}}
+{{Squote|I mainly deal in edibles, so if you've got any ores or wood you'd better try selling them somewhere else.}}
+{{Squote|Is it just me or is there a cold draft in here?}}
+{{Squote|If I didn't have this shop to run I would be outside right now. It would be fun to throw a snowball.}}
+
+'''At Ginger Island'''
+{{Squote|I'm losing a lot of money being away from the shop... But, you know what? It's worth it.}}
+{{Squote|Mmm... that salty smell of the sea is making me want some sashimi.}}
+{{Squote|Eh, let the kids play in the sun. I'll just sit in this chair.}}
+{{Squote|Drink after drink... Gus must be making a killing!}}
+|-
+|}
+
+{| class="mw-collapsible mw-collapsed"
+! style="text-align: left;" | '''Events'''&nbsp;
+|-
+|
+
+''Note: Pierre is not accessible at most events where he is running a stall. He is programmed with dialogue regardless.''
+
+'''[[Egg Festival]]'''
+
+''Odd-numbered year''
+{{Squote|Hey! How'd you get back here? Don't touch anything.}}
+''Even-numbered year''
+{{Squote|Trying to make a back-room deal, huh? Hah! I admire your gumption.}}
+
+'''[[Desert Festival]]'''
+
+''If running a shop''
+{{Squote|Psst..I'm selling eggs for cash! Hehe... Don't tell Lewis...}}
+
+'''[[Flower Dance]]'''
+<br />''Although you cannot reach Pierre to see the dialogue in-game, he has dialogue scripted in underlying data files.''
+{{Squote|Hey! How'd you get back here? Don't touch anything.}}
+
+'''[[Luau|The Luau]]'''
+
+''Odd-numbered year''
+{{Squote|Hmm... maybe if I get on the governor's good side he'll give my business a tax break...
+I wonder if he likes aged whiskey?
+Now if only the Mayor would stop shmoozing with him all afternoon.}}
+''Even-numbered year''
+{{Squote|The moment Lewis steps away from the governor, that's my chance!
+Ah... I didn't see you there.
+If you want to buy something, talk to me on the other side of the counter.}}
+
+'''[[Dance of the Moonlight Jellies]]'''
+{{Squote|Psst... Make sure to swing by the shop tomorrow to get your fall seeds!}}
+
+'''[[Stardew Valley Fair]]'''
+{{Squote|My store carries the very finest quality products in the whole valley. Please, inspect my grange display closely and see for yourself!}}
+
+'''[[Spirit's Eve]]'''
+<br />''Although you cannot reach Pierre to see the dialogue in-game, he has dialogue scripted in underlying data files.''
+{{Squote|??}}
+
+'''[[Festival of Ice]]'''
+{{Squote|This snow is so cold I can't feel my fingers anymore...}}
+
+'''[[Feast of the Winter Star]]'''
+{{Squote|My sales figures have been phenomenal lately... thanks to the Feast of the Winter Star! Boy, holidays are good for business. I wonder if I could invent some new ones...}}
+
+|-
+|}
+
+==Quests==
+*[[Quests#Pierre's Notice|"Pierre's Notice"]]: Pierre will send you a letter on the 21st of [[Spring]], Year 2, requesting [[Sashimi]]. The reward is {{Price|1000}} and 1 [[Friendship]] heart.
+*Pierre may randomly request an item at the [[Quests#Help Wanted Quests|"Help Wanted" board]] outside [[Pierre's General Store|his store]]. The reward is 3x the item's base value and 150 [[Friendship]] points.
+*[[Quests#Pierre's Prime Produce|"Pierre's Prime Produce"]]: On the Special Orders board in front of the [[Mayor's Manor]], Pierre may randomly request that the player harvest 25 Gold-quality [[vegetables]] and place them in the bin inside [[Pierre's General Store|the General Store]]. The reward is {{Price|2500}} and a [[Mini-Shipping Bin]].
+
+==Portraits==
+<gallery mode="packed" class="portraitgallery">
+Pierre.png
+Pierre Happy.png
+Pierre Concerned.png
+Pierre Annoyed.png
+Pierre Surprised.png
+Pierre Winter 00.png
+Pierre Winter 01.png
+Pierre Winter 02.png
+Pierre Winter 03.png
+Pierre Winter 04.png
+Pierre Beach.png
+Pierre Beach Happy.png
+Pierre Beach Concerned.png
+Pierre Beach Annoyed.png
+</gallery>
+
+==Trivia==
+*If the player has the [[Ginger Island#Beach Resort|Beach Resort]] on [[Ginger Island]] unlocked, it is possible for Pierre to say he would prefer to be outside, while outside.
+
+==History==
+{{History|1.5|Added beach portraits.}}
+{{History|1.6|Added custom gift reactions. Added winter portraits.}}
+
+{{NavboxVillagers}}
+
+[[Category:NPCs]]
+
+[[de:Pierre]]
+[[es:Pierre]]
+[[fr:Pierre]]
+[[it:Pierre]]
+[[ja:ピエール]]
+[[ko:피에르]]
+[[hu:Pierre]]
+[[pt:Pierre]]
+[[ru:Пьер]]
+[[tr:Pierre]]
+[[zh:皮埃尔]]

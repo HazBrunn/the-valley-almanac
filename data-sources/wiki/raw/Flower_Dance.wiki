@@ -1,0 +1,134 @@
+[[File:Flower Festival.jpg|right|500px]]
+
+The '''Flower Dance''' is a [[Festivals|festival]] that takes place on the 24th of every [[Spring]]. The player enters the dance by entering [[Cindersap Forest]] between 9am and 2pm. The forest cannot be entered before 9am.
+
+The dance takes place in the far west of the forest, across the bridge that is south of the [[Wizard's Tower]]. This area is accessible only during the Flower Dance.
+
+On the day of the Festival, every home and shop in Stardew Valley is "locked" and cannot be entered.
+
+During this festival, the player can dance with one of the [[Marriage#Marriage Candidates|bachelors or bachelorettes]]. The player must talk to them until the "Ask <name> to be your dance partner?" dialogue pops up (normally 2x), but they will refuse unless the player has at least four hearts of [[friendship]] with them. The player can talk to the other villagers and they will have event-related dialogue.
+
+Dancing with an NPC will increase friendship with that NPC by 1 heart (250 points). In a [[multiplayer]] game, players may also dance with each other. If the player is divorced, their ex will refuse their dance proposal and respond with angry dialogue instead.  
+
+Once the player talks to [[Lewis|Mayor Lewis]], the dance begins. After the dance, the festival ends and the player is returned to [[The Farm]] at 10pm.
+
+==Shop==
+[[Pierre]] has a booth from which he sells the following items.
+{|class="wikitable sortable roundedborder"
+!class="unsortable"|Image
+!Name
+!Description
+!Price
+|-
+|[[File:Seasonal Decor Spring.png|36px|center]]
+|[[Seasonal Decor]]
+|{{Description|Seasonal Decor}}
+|data-sort-value="0350"|{{Price|350}}
+|-
+|[[File:Seasonal Plant 3 Spring.png|36px|center]]
+|[[Seasonal Plant]]
+|{{Description|Seasonal Plant}}
+|data-sort-value="0350"|{{Price|350}}
+|-
+|[[File:Seasonal Plant 6 Spring.png|36px|center]]
+|[[Seasonal Plant]]
+|{{Description|Seasonal Plant}}
+|data-sort-value="0350"|{{Price|350}}
+|-
+|[[File:Tub o' Flowers.png|36px|center]]
+|[[Tub o' Flowers]]
+|{{Description|Tub o' Flowers}}
+|data-sort-value="0250"|{{Price|250}}
+|-
+|{{Recipe|Tub o' Flowers|36|center}}
+|Tub o' Flowers Recipe
+|{{Description|Recipe|[[Tub o' Flowers]]}}
+|data-sort-value="1000"|{{Price|1000}}
+|-
+|[[File:Daffodil.png|center]]
+|[[Daffodil]] (10)
+|{{Description|Daffodil}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Dandelion.png|center]]
+|[[Dandelion]] (10)
+|{{Description|Dandelion}}
+|data-sort-value="0050"|{{Price|50}}
+|-
+|[[File:Rarecrow 5.png|36px|center]]
+|[[Scarecrow#Rarecrows|Rarecrow #5]] (1)
+|{{Description|Rarecrow5}}
+|data-sort-value="2500"|{{Price|2500}}
+|-
+|[[File:Wall Flower.png|36px|center]]
+|[[Wall Flower]]
+|{{Description|Furniture}}
+|data-sort-value="0800"|{{Price|800}}
+|-
+|[[File:S. Wall Flower.png|36px|center]]
+|[[S. Wall Flower]]
+|{{Description|Furniture}}
+|data-sort-value="0800"|{{Price|800}}
+|-
+|[[File:Ceiling Leaves 4.png|center]]
+|[[Ceiling Leaves]]
+|{{Description|Furniture}}
+|data-sort-value="0400"|{{Price|400}}
+|-
+|[[File:Ceiling Leaves 5.png|center]]
+|[[Ceiling Leaves]]
+|{{Description|Furniture}}
+|data-sort-value="0400"|{{Price|400}}
+|-
+|}
+
+==Mail==
+[[File:Flower Dance Mail.png|400px]]
+
+==Dance Partners==
+If the player is unable to choose a partner, or chooses not to dance, the following dance pairs will take part:
+
+{| class="wikitable"
+|-
+! Female Dancer !! Male Dancer
+|-
+| [[Leah]] || [[Elliott]]
+|-
+| [[Maru]] || [[Harvey]]
+|-
+| [[Emily]] || [[Shane]]
+|-
+| [[Haley]] || [[Alex]]
+|-
+| [[Penny]] || [[Sam]]
+|-
+| [[Abigail]] || [[Sebastian]]
+|}
+
+If the player chooses to dance with someone, they will replace the partner listed above. The replaced dance partner will stand below the dance, next to [[Pierre]] and [[Caroline]].
+
+==Trivia==
+* It is technically possible, though not easy, to get 4 hearts of [[friendship]] with all twelve marriage candidates in the first year.
+* After the player is married, they can choose to dance with other partners.  Their spouse may dance with someone else as well.
+*Talking to [[Haley]] before starting the Flower Dance will result in her saying that she is "practicing her dance moves". However, her sprite appears to just be wandering around aimlessly.
+
+==History==
+{{History|1.3.27|Added Seasonal Decor and two Seasonal Plants to Pierre's shop.  Decreased Tub o' Flowers price from {{Price|1000}} to {{Price|250}}. Decreased Tub o' Flowers recipe price from {{Price|2000}} to {{Price|1000}}.}}
+{{History|1.4|Fixed bug where NPCs would follow non-festival schedules after the festival.}}
+{{History|1.5|Added Wall Flower and Ceiling Leaves decorations to Pierre's shop.}}
+
+{{NavboxFestivals}}
+
+[[Category:Spring festivals]]
+
+[[de:Blumentanz]]
+[[es:Danza floral]]
+[[fr:Danse des Fleurs]]
+[[it:Ballo dei fiori]]
+[[ja:フラワーダンス]]
+[[ko:봄꽃 무도회]]
+[[hu:Virágtánc]]
+[[pt:Dança das Flores]]
+[[ru:Цветочные танцы]]
+[[tr:Çiçek Dansı]]
+[[zh:花舞节]]

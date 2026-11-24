@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    "crop Unmilled Rice: no stage lengths found (fertiliser maths approximate)",
+    "crop Taro Root: no stage lengths found (fertiliser maths approximate)",
+    "crop Qi Fruit: no stage lengths found (fertiliser maths approximate)"
+  ],
+  "counts": {
+    "villagers": 34,
+    "scheduleBlocks": 580,
+    "fish": 77,
+    "checkups": 35,
+    "crops": 47,
+    "forage": 49,
+    "bundles": 61,
+    "museum": 143,
+    "recipes": 81,
+    "tvRecipes": 32
+  }
+}
