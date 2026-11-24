@@ -2,6 +2,8 @@
 
 A cosy, context-aware, offline companion for **Stardew Valley**. Tell it your in-game day once — season, day, year, weather and (optionally) time — and every screen answers for *that* day: who's where, which fish are biting and where, what's special today, and what's coming up.
 
+**Live:** https://hazbrunn.github.io/the-valley-almanac/ — open it on a phone and choose *Add to Home Screen*.
+
 *Made for Esha.* Unofficial fan project — not affiliated with or endorsed by ConcernedApe.
 
 | Today (rainy Spring 5, Year 2) | Villager schedule | Fish timeline | Calendar |
@@ -72,7 +74,9 @@ Documentation screenshots: `SHOTS=1 npx playwright test e2e/screenshots.spec.ts 
 
 ## Deploying
 
-`dist/` is a static site: host it anywhere that serves files (GitHub Pages, Netlify, Cloudflare Pages, any web server). Configure the host to serve `index.html` for unknown paths (SPA fallback); the service worker also handles this offline. To serve from a sub-path, build with `BASE_PATH=/your-path/ npm run build`. Nothing has been deployed by this project.
+`dist/` is a static site: host it anywhere that serves files (GitHub Pages, Netlify, Cloudflare Pages, any web server). Configure the host to serve `index.html` for unknown paths (SPA fallback); the service worker also handles this offline. To serve from a sub-path, build with `BASE_PATH=/your-path/ npm run build`.
+
+This repo deploys itself to **GitHub Pages** on every push to `main` via [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) (checks → build with `BASE_PATH=/the-valley-almanac/` → `404.html` SPA fallback → Pages).
 
 ## Installing on a phone or tablet
 

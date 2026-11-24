@@ -26,4 +26,4 @@ Weekday mapping (Fair = Tuesday 16th); Spring 3 Y1 rain; Summer 13/26 storms; Ca
 - Villager location inference comes from wiki prose; individual steps may name a nearby place rather than the exact spot. Festival-day positions are simplified.
 - "First day of each season is sunny" is inferred (see GAME_RULES §3); users can override the weather.
 - Live SMAPI sync: not built (no game/SMAPI/C# toolchain here). Design in IMPLEMENTATION_PLAN §6.
-- Not deployed anywhere; run locally with `npm run dev` or `npm run build && npm run preview`.
+- Deployed to GitHub Pages (https://hazbrunn.github.io/the-valley-almanac/) by the Actions workflow; see the README.
