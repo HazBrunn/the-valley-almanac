@@ -9,7 +9,7 @@ import { FishGlyph } from '../ui/icons';
 import { glyphShape } from '../ui/fishShape';
 import { ValleyMap, type MapMarker } from '../ui/ValleyMap';
 import { AREA_ANCHOR } from './Fish';
-import { resolveFishAvailability, describeRule, describeNext, nextAvailability, lastDayThisSeason } from '../engine/fish';
+import { resolveFishAvailability, describeRule, describeNext, lastDayThisSeason } from '../engine/fish';
 import { SEASONS, SEASON_LABEL, formatDate } from '../engine/calendar';
 import { DAY_START, DAY_END, formatTime, formatTimeShort, formatWindows } from '../engine/time';
 import { bundlesUsing, bundleSubmitted } from '../engine/collections';
@@ -38,7 +38,7 @@ export default function FishDetail() {
   const usedBundles = bundlesUsing('fish', f.id);
   const recipesUsing = recipes.filter((r) => r.ingredients.some((i) => i.name === f.name));
   const last = lastDayThisSeason(f, ctx);
-  const next = res.next ?? (res.status !== 'unavailable' ? nextAvailability(f, { ...ctx, date: ctx.date }) : undefined);
+  const next = res.next;
   const markers: MapMarker[] = areas
     .filter((a) => AREA_ANCHOR[a])
     .map((a) => ({

@@ -106,3 +106,16 @@ test('keyboard users can reach the Next day button and skip link', async ({ page
   await page.keyboard.press('Enter');
   await expect(page.getByText('Spring 6, Year 2')).toBeVisible();
 });
+
+test('imports a (synthetic) save file locally and merges chosen data', async ({ page }) => {
+  await onboard(page);
+  await page.goto('/settings');
+  await page.locator('#save-import input[type=file]').setInputFiles('src/test/fixtures/synthetic-save.xml');
+  await expect(page.getByRole('dialog', { name: 'Import from save' })).toBeVisible();
+  await expect(page.getByText(/2 fish caught/)).toBeVisible();
+  await page.getByRole('button', { name: 'Merge selected' }).click();
+  await page.goto('/');
+  await expect(page.getByText('Fall 13, Year 3')).toBeVisible();
+  await page.goto('/journal/collections');
+  await expect(page.getByRole('heading', { name: /Fish caught: 2 \// })).toBeVisible();
+});

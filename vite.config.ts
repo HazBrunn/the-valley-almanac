@@ -29,6 +29,8 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,woff2,json}'],
+        // English UI: precache only Latin font subsets (others load on demand via unicode-range).
+        globIgnores: ['**/*cyrillic*', '**/*vietnamese*', '**/*greek*', '**/*latin-ext*'],
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
