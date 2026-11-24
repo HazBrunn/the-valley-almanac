@@ -4,7 +4,7 @@
  * Pan/zoom via buttons, drag and wheel; every marker is a focusable button with a label,
  * and pages always provide a list alternative.
  */
-import { useRef, useState, type ReactNode } from 'react';
+import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { regions } from '../data';
 
 export interface MapMarker {
@@ -100,7 +100,17 @@ export function ValleyMap({
       return clamp({ x: cx - w / 2, y: cy - h / 2, w, h });
     });
   const clamp = (v: typeof view) => ({ ...v, x: Math.min(Math.max(v.x, 0), W - v.w), y: Math.min(Math.max(v.y, 0), H - v.h) });
-  const scale = view.w / W;
+  // Size markers and labels in screen pixels so they stay legible on small phones.
+  const [pxWidth, setPxWidth] = useState(800);
+  useEffect(() => {
+    const el = svgRef.current;
+    if (!el || typeof ResizeObserver === 'undefined') return;
+    const ro = new ResizeObserver((entries) => setPxWidth(entries[0]?.contentRect.width || 800));
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
+  const unitsPerPx = view.w / Math.max(200, pxWidth);
+  const scale = unitsPerPx; // 1 screen px in map units
 
   return (
     <div className="map-wrap">
@@ -133,17 +143,17 @@ export function ValleyMap({
           .filter((r) => !r.offMap)
           .map((r) => (
             <g key={r.id} className="map-region">
-              {highlightRegion === r.id && <circle cx={r.x} cy={r.y} r={70} fill="none" stroke="#b4465a" strokeWidth={5 * scale + 2} strokeDasharray="10 8" />}
+              {highlightRegion === r.id && <circle cx={r.x} cy={r.y} r={Math.max(70, 40 * scale)} fill="none" stroke="#b4465a" strokeWidth={3 * scale} strokeDasharray="10 8" />}
               {showRegionLabels && (
                 <text
                   x={r.x}
                   y={r.y - 30}
                   textAnchor="middle"
-                  fontSize={18 * Math.max(scale, 0.6)}
+                  fontSize={12 * scale}
                   fontWeight={800}
                   fill="#33271c"
                   stroke="#fbf6ea"
-                  strokeWidth={4 * Math.max(scale, 0.6)}
+                  strokeWidth={3 * scale}
                   paintOrder="stroke"
                   style={{ cursor: onRegionSelect ? 'pointer' : undefined }}
                   onClick={onRegionSelect ? () => onRegionSelect(r.id) : undefined}
@@ -158,17 +168,16 @@ export function ValleyMap({
           .filter((r) => r.offMap)
           .map((r) => (
             <g key={r.id} aria-hidden="true">
-              <rect x={r.x - 42} y={r.y - 16} width={84} height={28} rx={8} fill="#fbf6ea" stroke="#685441" strokeWidth={2} opacity={0.92} />
-              <text x={r.x} y={r.y + 3} textAnchor="middle" fontSize={12} fontWeight={800} fill="#33271c">
-                {r.name} →
+              <text x={r.x < 150 ? 6 : r.x > 850 ? W - 6 : r.x} y={r.y + 4 * scale} textAnchor={r.x < 150 ? 'start' : r.x > 850 ? 'end' : 'middle'} fontSize={11 * scale} fontWeight={800} fill="#33271c" stroke="#fbf6ea" strokeWidth={3 * scale} paintOrder="stroke">
+                {r.x < 150 ? `← ${r.name}` : `${r.name} →`}
               </text>
             </g>
           ))}
         {lines.map((l, i) => (
-          <line key={i} x1={l.from.x} y1={l.from.y} x2={l.to.x} y2={l.to.y} stroke="#b4465a" strokeWidth={4 * scale + 1.5} strokeDasharray={l.dashed ? '10 8' : undefined} strokeLinecap="round" />
+          <line key={i} x1={l.from.x} y1={l.from.y} x2={l.to.x} y2={l.to.y} stroke="#b4465a" strokeWidth={3 * scale} strokeDasharray={l.dashed ? '10 8' : undefined} strokeLinecap="round" />
         ))}
         {markers.map((m) => {
-          const r = (m.emphasis ? 20 : 13) * Math.max(scale, 0.55);
+          const r = (m.emphasis ? 14 : 10) * scale;
           const fill = m.kind === 'alt' ? '#8dadba' : m.kind === 'villager' ? '#b4465a' : m.kind === 'fish' ? '#355f70' : m.kind === 'shop' ? '#be9060' : m.kind === 'event' ? '#8b5a8c' : '#685441';
           return (
             <g
@@ -186,8 +195,8 @@ export function ValleyMap({
               }}
             >
               <title>{m.label}</title>
-              <circle cx={m.x} cy={m.y} r={r + 4 * scale} fill="#fbf6ea" opacity={0.9} />
-              <circle cx={m.x} cy={m.y} r={r} fill={fill} stroke="#33271c" strokeWidth={2 * Math.max(scale, 0.6)} strokeDasharray={m.kind === 'alt' ? '4 3' : undefined} />
+              <circle cx={m.x} cy={m.y} r={r + 3 * scale} fill="#fbf6ea" opacity={0.9} />
+              <circle cx={m.x} cy={m.y} r={r} fill={fill} stroke="#33271c" strokeWidth={1.5 * scale} strokeDasharray={m.kind === 'alt' ? '4 3' : undefined} />
               {m.icon && (
                 <text x={m.x} y={m.y + r * 0.38} textAnchor="middle" fontSize={r * 1.05} aria-hidden="true">
                   {m.icon}

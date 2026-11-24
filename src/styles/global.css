@@ -687,6 +687,7 @@ label.field {
 /* ---------- day controls ---------- */
 .day-card {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 12px;
 }
 .day-row {
@@ -1242,5 +1243,52 @@ table.simple td {
     animation: none !important;
     transition: none !important;
     scroll-behavior: auto !important;
+  }
+}
+
+/* ---------- narrow phones ---------- */
+.page-title {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: clamp(1rem, 4.6vw, 1.35rem);
+}
+.day-row > * {
+  min-width: 0;
+}
+.day-date .d1 {
+  font-size: clamp(1.15rem, 5.4vw, 1.5rem);
+}
+.time-row input[type='range'] {
+  min-width: 0;
+  width: 100%;
+}
+.stack > *,
+.stack-sm > * {
+  min-width: 0;
+}
+@media (max-width: 420px) {
+  .brand {
+    display: none;
+  }
+  .header-inner {
+    gap: 6px;
+  }
+  .icon-btn {
+    min-width: 42px;
+  }
+  .time-label {
+    min-width: 64px;
+    font-size: 0.9rem;
+  }
+  .app-main {
+    padding-inline: 12px;
+  }
+  .card {
+    padding: 12px;
+  }
+  .schedule li {
+    grid-template-columns: 70px 1fr;
   }
 }
