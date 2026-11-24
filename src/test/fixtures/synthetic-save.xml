@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SYNTHETIC test fixture written for The Valley Almanac. Not a real save; structure follows
+     the 1.6 save format as documented by the MIT-licensed stardew-valley-data parser. -->
+<SaveGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <player>
+    <name>Esha</name>
+    <farmName>Moonlight</farmName>
+    <fishingLevel>6</fishingLevel>
+    <spouse>Sebastian</spouse>
+    <hasRustyKey>true</hasRustyKey>
+    <hasSkullKey>false</hasSkullKey>
+    <mailReceived>
+      <string>ccVault</string>
+      <string>willyBoatFixed</string>
+      <string>Island_Resort</string>
+    </mailReceived>
+    <friendshipData>
+      <item><key><string>Sebastian</string></key><value><Friendship><Points>2625</Points><Status>Married</Status></Friendship></value></item>
+      <item><key><string>Abigail</string></key><value><Friendship><Points>1100</Points><Status>Friendly</Status></Friendship></value></item>
+      <item><key><string>Mr. Qi</string></key><value><Friendship><Points>500</Points></Friendship></value></item>
+    </friendshipData>
+    <fishCaught>
+      <item><key><string>(O)143</string></key><value><ArrayOfInt><int>3</int><int>40</int></ArrayOfInt></value></item>
+      <item><key><string>(O)148</string></key><value><ArrayOfInt><int>1</int><int>22</int></ArrayOfInt></value></item>
+      <item><key><string>(O)99999</string></key><value><ArrayOfInt><int>1</int><int>1</int></ArrayOfInt></value></item>
+    </fishCaught>
+    <cookingRecipes>
+      <item><key><string>Fried Egg</string></key><value><int>0</int></value></item>
+      <item><key><string>Sashimi</string></key><value><int>0</int></value></item>
+    </cookingRecipes>
+    <recipesCooked>
+      <item><key><string>(O)194</string></key><value><int>2</int></value></item>
+    </recipesCooked>
+  </player>
+  <locations>
+    <GameLocation xsi:type="LibraryMuseum">
+      <name>ArchaeologyHouse</name>
+      <museumPieces>
+        <item><key><Vector2><X>26</X><Y>5</Y></Vector2></key><value><string>96</string></value></item>
+        <item><key><Vector2><X>27</X><Y>5</Y></Vector2></key><value><string>80</string></value></item>
+      </museumPieces>
+    </GameLocation>
+  </locations>
+  <currentSeason>fall</currentSeason>
+  <dayOfMonth>13</dayOfMonth>
+  <year>3</year>
+  <isRaining>true</isRaining>
+  <isLightning>false</isLightning>
+  <isSnowing>false</isSnowing>
+  <isDebrisWeather>false</isDebrisWeather>
+  <whichFarm>1</whichFarm>
+  <gameVersion>1.6.15</gameVersion>
+</SaveGame>

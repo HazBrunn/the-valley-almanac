@@ -126,7 +126,7 @@ export function DayCard() {
         <button
           type="button"
           className="icon-btn"
-          aria-label="Previous day (undo)"
+          aria-label="Back one day (undo)"
           onClick={() => {
             const undone = prevDay();
             toast(undone ? 'Went back to the previous day' : 'Moved back one day (weather not set)');
@@ -151,7 +151,7 @@ export function DayCard() {
         <button
           type="button"
           className="icon-btn"
-          aria-label="Next day"
+          aria-label="Forward one day"
           onClick={() => {
             const r = nextDay();
             toast(r.auto ? `Good morning! ${r.auto}` : 'Good morning! Set today’s weather when you know it.');

@@ -83,7 +83,7 @@ export default function FishPages({ view }: { view: 'list' | 'timeline' | 'locat
 
   const caught = profile.collections.fishCaught;
   const needs = useMemo(() => bundleNeeds(profile), [profile]);
-  const watched = new Set(profile.watchlist.filter((w) => w.kind === 'fish' && !w.done).map((w) => w.ref));
+  const watched = useMemo(() => new Set(profile.watchlist.filter((w) => w.kind === 'fish' && !w.done).map((w) => w.ref)), [profile.watchlist]);
   const spoilers = profile.prefs.spoilers === 'show';
 
   const results = useMemo(() => resolveAllFish(ctx, area ? { area } : {}).filter((r) => (area ? r.fish.rules.some((x) => x.areas.includes(area)) : true)), [ctx, area]);

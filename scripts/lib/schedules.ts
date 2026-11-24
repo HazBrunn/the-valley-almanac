@@ -298,7 +298,7 @@ export function interpretSteps(rows: RawBlock['rows'], villagerId: string): Sche
     if (time === null) continue;
     const text = row.text;
     const travel = TRAVEL.test(text.trim());
-    let place: string | null = null;
+    let place: string | null;
     let inferred = false;
     if (travel) {
       const idx = text.search(/\b(to|for|towards|toward)\b/i);

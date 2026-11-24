@@ -394,6 +394,7 @@ const ROOM_NAMES: Record<string, string> = {
   'bulletin-board': 'Bulletin Board',
   vault: 'Vault',
   'abandoned-joja-mart': 'Abandoned JojaMart',
+  'joja-development': 'Joja Community Development (Joja route only)',
 };
 const refFor = (name: string): { kind: string; id: string } | undefined => {
   const id = slug(name);
@@ -403,15 +404,15 @@ const refFor = (name: string): { kind: string; id: string } | undefined => {
   return undefined;
 };
 const bundles: T.Bundle[] = svd<SvdBundle[]>('bundles').map((b) => {
-  const gold = b.type === 'gold' ? Number(/([\d,]+)g/.exec(b.name)?.[1]?.replace(/,/g, '') ?? 0) : undefined;
+  const gold = b.type !== 'items' ? (b.goldCost ?? Number(/([\d,]+)g/.exec(b.name)?.[1]?.replace(/,/g, '') ?? 0)) : undefined;
   return {
     id: slug(b.id),
     name: b.name,
-    room: b.room,
-    roomName: ROOM_NAMES[b.room] ?? b.room,
+    room: b.room ?? 'joja-development',
+    roomName: ROOM_NAMES[b.room ?? 'joja-development'] ?? b.room,
     group: b.bundleGroup,
     remix: !!b.remixBundle,
-    type: b.type,
+    type: b.type === 'items' ? 'items' : 'gold',
     ...(gold ? { goldCost: gold } : {}),
     itemsRequired: b.itemsRequired ?? (b.items?.length ?? 0),
     items: (b.items ?? []).map((i) => ({ ...i, ...(refFor(i.name) ? { ref: refFor(i.name) } : {}) })),
@@ -463,7 +464,7 @@ const qosDates = new Map<string, { cycleYear: 1 | 2; season: Season; day: number
 {
   const rows = qos.split('\n|-');
   for (const r of rows) {
-    const name = /^\|(?:class=\"[^\"]*\"\|)?\[\[(?!File:)([^\]|]+)(?:\|[^\]]*)?\]\]\s*$/m.exec(r)?.[1];
+    const name = /^\|(?:class="[^"]*"\|)?\[\[(?!File:)([^\]|]+)(?:\|[^\]]*)?\]\]\s*$/m.exec(r)?.[1];
     const date = /\|\s*(?:data-sort-value="[^"]*"\|)?\s*(\d{1,2}) (Spring|Summer|Fall|Winter), Year ([12])/.exec(r);
     if (name && date) qosDates.set(name, { cycleYear: Number(date[3]) as 1 | 2, season: date[2]!.toLowerCase() as Season, day: Number(date[1]) });
   }

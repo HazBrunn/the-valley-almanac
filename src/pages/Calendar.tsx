@@ -24,7 +24,7 @@ export default function Calendar() {
   const year = Math.max(1, Number(params.get('year')) || activeCtx.date.year);
   const selDay = Number(params.get('day')) || (season === activeCtx.date.season && year === activeCtx.date.year ? activeCtx.date.day : 1);
   const selected: GameDate = { year, season, day: Math.min(28, Math.max(1, selDay)) };
-  const hidden = new Set(profile.prefs.hiddenLayers);
+  const hidden = useMemo(() => new Set(profile.prefs.hiddenLayers), [profile.prefs.hiddenLayers]);
   const [reminder, setReminder] = useState('');
 
   const go = (s: Season, y: number, d?: number) => {
