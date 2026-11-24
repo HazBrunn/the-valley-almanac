@@ -127,6 +127,8 @@ export interface FishRule {
 
 export interface Fish {
   id: string;
+  /** game object id, e.g. "128" (used for save import) */
+  itemId: string;
   name: string;
   description: string;
   method: 'rod' | 'crab-pot';
@@ -144,6 +146,7 @@ export interface Fish {
 
 export interface Festival {
   id: string;
+  icon: string;
   name: string;
   season: Season;
   startDay: number;
@@ -237,6 +240,7 @@ export interface Bundle {
 
 export interface MuseumItem {
   id: string;
+  itemId: string;
   name: string;
   kind: 'artifact' | 'mineral';
   description: string;
@@ -246,6 +250,8 @@ export interface MuseumItem {
 
 export interface Recipe {
   id: string;
+  /** game object id of the dish (save import) */
+  itemId: string;
   name: string;
   description: string;
   ingredients: { name: string; quantity: number }[];

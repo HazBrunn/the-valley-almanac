@@ -183,6 +183,7 @@ for (const c of CURATED_FISH) {
   });
   fish.push({
     id,
+    itemId: base.id,
     name: c.name,
     description: base.description,
     method: c.method,
@@ -434,10 +435,12 @@ const toList = (v: unknown): string[] => (Array.isArray(v) ? v.map(String) : typ
 const museum: T.MuseumItem[] = [
   ...svd<SvdMuseum[]>('artifacts').map((a) => ({ a, kind: 'artifact' as const })),
   ...svd<SvdMuseum[]>('minerals')
-    .filter((m) => !m.type || !/node/i.test(m.type))
+    // only donatable minerals (excludes ores, bars, nodes, geodes, resources)
+    .filter((m) => (m as SvdMuseum & { kind?: string }).kind === 'mineral')
     .map((a) => ({ a, kind: 'mineral' as const })),
 ].map(({ a, kind }) => ({
   id: `${kind}-${slug(a.name)}`,
+  itemId: String(a.id),
   name: a.name,
   kind,
   description: a.description ?? '',
@@ -486,6 +489,7 @@ const describeSource = (s: { type: string; [k: string]: unknown }): string => {
 };
 const recipes: T.Recipe[] = svd<SvdRecipe[]>('cooking').map((r) => ({
   id: slug(r.name),
+  itemId: String(r.id),
   name: r.name,
   description: r.description,
   ingredients: r.ingredients.map((i) => ({ name: i.name, quantity: i.quantity })),

@@ -230,3 +230,9 @@ export function lastDayThisSeason(fish: Fish, ctx: GameContext): GameDate | null
 }
 
 export const ALL_DAY = FULL_DAY;
+
+/** Areas where the fish is possible today: definite ones if any, otherwise conditional ones. */
+export function activeAreas(r: FishResult): string[] {
+  const sure = r.activeRules.filter((a) => a.day === true);
+  return [...new Set((sure.length ? sure : r.activeRules).flatMap((a) => a.rule.areas))];
+}

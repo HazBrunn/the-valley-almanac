@@ -120,7 +120,7 @@ export function newProfile(id: string, farmName = 'My Farm', now = Date.now()): 
     watchlist: [],
     notes: [],
     collections: structuredClone(EMPTY_COLLECTIONS),
-    prefs: { spoilers: 'hide', hiddenLayers: [], hiddenTodaySections: [], collectionFocus: false, dismissed: [] },
+    prefs: { spoilers: 'hide', hiddenLayers: ['clinic', 'crops'], hiddenTodaySections: [], collectionFocus: false, dismissed: [] },
     gifts: {},
   };
 }

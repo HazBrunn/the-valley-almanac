@@ -207,13 +207,11 @@ export function summariseLocation(res: ScheduleResolution, time: GameMinutes | n
     case 'schedule': {
       if (!res.branches.length) return 'Schedule unknown for today';
       const home = res.villager.home;
-      if (time === null) {
-        const certain = res.branches.length === 1 && res.branches[0]!.certainty === 'definite';
-        return certain ? `Schedule: ${res.branches[0]!.block.label}` : `${res.branches.length} possible routines today`;
-      }
-      const places = [...new Set(res.branches.map((b) => locateAt(b.block, time, home)).map((l) => (l.status === 'travelling' ? `→ ${placeName(l.place)}` : placeName(l.place))))];
-      if (places.length === 1) return places[0]!;
-      return `Either ${places.slice(0, -1).join(', ')} or ${places[places.length - 1]}`;
+      const t = time ?? 12 * 60;
+      const prefix = time === null ? 'Around noon: ' : '';
+      const places = [...new Set(res.branches.map((b) => locateAt(b.block, t, home)).map((l) => (l.status === 'travelling' ? `→ ${placeName(l.place)}` : placeName(l.place))))];
+      if (places.length === 1) return `${prefix}${places[0]!}`;
+      return `${prefix}${prefix ? 'either' : 'Either'} ${places.slice(0, -1).join(', ')} or ${places[places.length - 1]}`;
     }
   }
 }

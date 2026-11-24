@@ -43,6 +43,8 @@ export interface CalendarEvent {
   /** spans several days */
   range?: { from: number; to: number };
   spoiler?: boolean;
+  /** low-value repeating info: listed on the day panel but not drawn on the calendar grid */
+  minor?: boolean;
 }
 
 export function qosSundayRecipe(date: GameDate) {
@@ -82,7 +84,7 @@ export function resolveCalendarEvents(date: GameDate, progress: PlayerProgress):
       out.push({
         id: `festival-${f.id}`,
         layer: 'festivals',
-        icon: f.kind === 'main' ? '🎪' : '🎣',
+        icon: f.icon,
         title: f.name,
         detail: `${formatTime(f.start)} – ${formatTime(f.end)}. ${f.description}${req === undefined ? ' (Needs the bus.)' : ''}`,
         certainty: req === false ? 'conditional' : req === undefined ? 'conditional' : 'certain',
@@ -185,9 +187,10 @@ export function resolveCalendarEvents(date: GameDate, progress: PlayerProgress):
       certainty: 'possible',
       href: '/recipes',
       weight: 15,
+      minor: true,
     });
   if (wd === 'monday' || wd === 'thursday')
-    out.push({ id: 'land', layer: 'tv', icon: '📺', title: "Livin' Off The Land", detail: 'Farming and foraging tips on TV.', certainty: 'certain', weight: 5 });
+    out.push({ id: 'land', layer: 'tv', icon: '📺', title: "Livin' Off The Land", detail: 'Farming and foraging tips on TV.', certainty: 'certain', weight: 5, minor: true });
 
   // Fixed weather / world
   const festivalToday = festivals.some((f) => f.kind === 'main' && f.season === season && day >= f.startDay && day <= f.endDay);

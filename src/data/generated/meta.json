@@ -18,21 +18,21 @@
     }
   ],
   "checksums": {
-    "regions": "3b97762ae05bd71d",
-    "places": "960c4e201d421916",
+    "regions": "6bd3fdae4e696d32",
+    "places": "d0f46b2adcb5c5ac",
     "villagers": "1df3fb5332a32e0b",
     "schedules": "0fc7e6d205597276",
     "fish-areas": "59cca3eabcdcd5ca",
-    "fish": "efae119fd9f39bbc",
-    "festivals": "3cae65da91f363f8",
+    "fish": "f21e17ec43245c19",
+    "festivals": "257b5c1e59f4b9c4",
     "checkups": "2f1c3b5b04dda819",
     "calendar-extras": "18dc68931c932ee0",
     "shops": "825f9422edbec818",
     "crops": "97258d87ffe685ad",
     "forage": "a8e3f5e6b57d65a7",
     "bundles": "ad47d784dea69c4f",
-    "museum": "48a0b9579e2da423",
-    "recipes": "9fa58094536851e2",
+    "museum": "569291a7d858e501",
+    "recipes": "079b6c61924b29e7",
     "universal-gifts": "4f944da3d41e091b"
   }
 }

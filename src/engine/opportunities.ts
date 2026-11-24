@@ -42,9 +42,10 @@ const fishLabel = (r: FishResult): OppLabel =>
   r.status === 'now' ? 'Available now' : r.status === 'later' ? 'Later today' : r.status === 'today' ? 'Today' : r.status === 'conditional' ? 'Conditional' : 'Unknown';
 
 function fishWhere(r: FishResult): string {
-  const rule = r.activeRules[0]?.rule;
+  const rule = (r.activeRules.find((a) => a.day === true) ?? r.activeRules[0])?.rule;
   if (!rule) return '';
-  const areas = [...new Set(r.activeRules.flatMap((a) => a.rule.areas))].map((a) => fishAreaById.get(a)?.name ?? a);
+  const sure = r.activeRules.filter((a) => a.day === true);
+  const areas = [...new Set((sure.length ? sure : r.activeRules).flatMap((a) => a.rule.areas))].map((a) => fishAreaById.get(a)?.name ?? a);
   return `${areas.slice(0, 3).join(', ')}${areas.length > 3 ? '…' : ''} · ${formatWindows(rule.windows)}`;
 }
 

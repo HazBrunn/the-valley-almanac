@@ -35,6 +35,10 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    // The versioned game dataset (~700 kB raw, ~115 kB gzip) is intentionally bundled for offline use.
+    chunkSizeWarningLimit: 900,
+  },
   test: {
     environment: 'jsdom',
     include: ['src/**/*.test.{ts,tsx}', 'scripts/**/*.test.ts'],

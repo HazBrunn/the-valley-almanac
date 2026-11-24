@@ -46,10 +46,10 @@ export const REGIONS: CuratedRegion[] = [
   { id: 'backwoods', name: 'Backwoods', x: 300, y: 110, description: 'The path from the farm up to the mountain.' },
   { id: 'quarry', name: 'Quarry', x: 925, y: 140, description: 'East of the mountain, across the bridge (repaired via the Community Center or Joja).' },
   { id: 'secret-woods', name: 'Secret Woods', x: 85, y: 440, description: 'Hidden behind a large log in Cindersap Forest (needs a Steel Axe).', requires: 'secretWoods' },
-  { id: 'sewers', name: 'The Sewers', x: 690, y: 500, description: "Krobus' shop. Entered through the grate south of town with the Rusty Key.", requires: 'sewersAccess' },
+  { id: 'sewers', name: 'The Sewers', x: 700, y: 548, description: "Krobus' shop. Entered through the grate south of town with the Rusty Key.", requires: 'sewersAccess' },
   { id: 'mines', name: 'The Mines', x: 790, y: 95, description: 'Entrance on the mountain, east of the lake.' },
   { id: 'desert', name: 'Calico Desert', x: 45, y: 215, offMap: true, description: 'Reached by bus once repaired. The Oasis, Casino and Skull Cavern.', requires: 'busRepaired' },
-  { id: 'witchs-swamp', name: "Witch's Swamp", x: 470, y: 30, offMap: true, description: "Reached through the Witch's Hut, beyond the Railroad.", requires: 'witchsSwamp' },
+  { id: 'witchs-swamp', name: "Witch's Swamp", x: 360, y: 28, offMap: true, description: "Reached through the Witch's Hut, beyond the Railroad.", requires: 'witchsSwamp' },
   { id: 'island', name: 'Ginger Island', x: 950, y: 655, offMap: true, description: "Reached by Willy's boat once it is repaired.", requires: 'islandAccess' },
 ];
 
@@ -106,7 +106,7 @@ export const PLACES: CuratedPlace[] = [
   { id: 'elliott-cabin', name: "Elliott's Cabin", region: 'beach', x: 520, y: 605, kind: 'home', aliases: ["elliott's cabin", "elliott's house", 'cabin'] },
   { id: 'pier', name: 'Beach piers', region: 'beach', x: 760, y: 655, kind: 'outdoor', aliases: ['pier', 'dock', 'docks', 'the beach', 'beach', 'tide pools', 'ocean'] },
   // Other
-  { id: 'sewers-place', name: "Krobus' Shop", region: 'sewers', x: 690, y: 500, kind: 'shop', aliases: ['sewers', 'the sewers', "krobus' shop"] },
+  { id: 'sewers-place', name: "Krobus' Shop", region: 'sewers', x: 700, y: 548, kind: 'shop', aliases: ['sewers', 'the sewers', "krobus' shop"] },
   { id: 'bus', name: 'Bus Stop', region: 'bus-stop', x: 360, y: 245, kind: 'outdoor', aliases: ['bus stop', 'bus'] },
   { id: 'desert-place', name: 'Calico Desert', region: 'desert', x: 45, y: 215, kind: 'outdoor', aliases: ['the desert', 'calico desert', 'desert', 'oasis', 'desert festival', 'skull cavern', 'casino', 'outfit services', 'sand dragon'] },
   { id: 'island-resort', name: 'Ginger Island Resort', region: 'island', x: 950, y: 655, kind: 'outdoor', aliases: ['ginger island', 'beach resort', 'resort', 'island', 'gem bird shrine', 'jungle', 'hut'] },
@@ -164,6 +164,7 @@ export const VILLAGER_AVAILABILITY: Record<string, { requires?: string; note: st
 
 export interface CuratedFestival {
   id: string;
+  icon: string;
   name: string;
   season: 'spring' | 'summer' | 'fall' | 'winter';
   startDay: number;
@@ -180,18 +181,18 @@ export interface CuratedFestival {
 }
 
 export const FESTIVALS: CuratedFestival[] = [
-  { id: 'egg-festival', name: 'Egg Festival', season: 'spring', startDay: 13, endDay: 13, start: '9am', end: '2pm', place: 'town-square', region: 'town', kind: 'main', description: 'Egg hunt in the town square; Pierre sells Strawberry Seeds.' },
-  { id: 'desert-festival', name: 'Desert Festival', season: 'spring', startDay: 15, endDay: 17, start: '10am', end: '2am', place: 'desert-place', region: 'desert', kind: 'mini', requires: 'busRepaired', description: 'Three-day festival in the Calico Desert with villager shops and Calico Eggs. Requires the bus.' },
-  { id: 'flower-dance', name: 'Flower Dance', season: 'spring', startDay: 24, endDay: 24, start: '9am', end: '2pm', place: 'forest-river', region: 'forest', kind: 'main', description: 'Dance in the forest clearing; you need 4 hearts to ask a partner.' },
-  { id: 'luau', name: 'Luau', season: 'summer', startDay: 11, endDay: 11, start: '9am', end: '2pm', place: 'pier', region: 'beach', kind: 'main', description: 'Add an item to the communal soup at the beach.' },
-  { id: 'trout-derby', name: 'Trout Derby', season: 'summer', startDay: 20, endDay: 21, start: '6:10am', end: '2am', place: 'forest-river', region: 'forest', kind: 'mini', description: 'Fishing mini-festival by the forest river: Rainbow Trout can be caught all day in any weather.' },
-  { id: 'moonlight-jellies', name: 'Dance of the Moonlight Jellies', season: 'summer', startDay: 28, endDay: 28, start: '10pm', end: '12am', place: 'pier', region: 'beach', kind: 'main', description: 'Watch the jellies from the docks at night.' },
-  { id: 'fair', name: 'Stardew Valley Fair', season: 'fall', startDay: 16, endDay: 16, start: '9am', end: '3pm', place: 'town-square', region: 'town', kind: 'main', description: 'Grange display, games and Star Tokens in town.' },
-  { id: 'spirits-eve', name: "Spirit's Eve", season: 'fall', startDay: 27, endDay: 27, start: '10pm', end: '11:50pm', place: 'town-square', region: 'town', kind: 'main', description: 'A spooky night maze in town; the Golden Pumpkin is at the end.' },
-  { id: 'festival-of-ice', name: 'Festival of Ice', season: 'winter', startDay: 8, endDay: 8, start: '9am', end: '2pm', place: 'forest-river', region: 'forest', kind: 'main', description: 'Ice fishing contest in Cindersap Forest.' },
-  { id: 'squidfest', name: 'SquidFest', season: 'winter', startDay: 12, endDay: 13, start: '6:10am', end: '2am', place: 'pier', region: 'beach', kind: 'mini', description: 'Squid can be caught all day at the beach; prize tiers each day.' },
-  { id: 'night-market', name: 'Night Market', season: 'winter', startDay: 15, endDay: 17, start: '5pm', end: '2am', place: 'pier', region: 'beach', kind: 'mini', description: 'Boats at the beach docks, the deep-sea submarine ride and the Traveling Cart.' },
-  { id: 'winter-star', name: 'Feast of the Winter Star', season: 'winter', startDay: 25, endDay: 25, start: '9am', end: '2pm', place: 'town-square', region: 'town', kind: 'main', description: 'Secret gift exchange in town. Your recipient is revealed on Winter 18.' },
+  { id: 'egg-festival', icon: '🥚', name: 'Egg Festival', season: 'spring', startDay: 13, endDay: 13, start: '9am', end: '2pm', place: 'town-square', region: 'town', kind: 'main', description: 'Egg hunt in the town square; Pierre sells Strawberry Seeds.' },
+  { id: 'desert-festival', icon: '🏜️', name: 'Desert Festival', season: 'spring', startDay: 15, endDay: 17, start: '10am', end: '2am', place: 'desert-place', region: 'desert', kind: 'mini', requires: 'busRepaired', description: 'Three-day festival in the Calico Desert with villager shops and Calico Eggs. Requires the bus.' },
+  { id: 'flower-dance', icon: '💐', name: 'Flower Dance', season: 'spring', startDay: 24, endDay: 24, start: '9am', end: '2pm', place: 'forest-river', region: 'forest', kind: 'main', description: 'Dance in the forest clearing; you need 4 hearts to ask a partner.' },
+  { id: 'luau', icon: '🍲', name: 'Luau', season: 'summer', startDay: 11, endDay: 11, start: '9am', end: '2pm', place: 'pier', region: 'beach', kind: 'main', description: 'Add an item to the communal soup at the beach.' },
+  { id: 'trout-derby', icon: '🎣', name: 'Trout Derby', season: 'summer', startDay: 20, endDay: 21, start: '6:10am', end: '2am', place: 'forest-river', region: 'forest', kind: 'mini', description: 'Fishing mini-festival by the forest river: Rainbow Trout can be caught all day in any weather.' },
+  { id: 'moonlight-jellies', icon: '🪼', name: 'Dance of the Moonlight Jellies', season: 'summer', startDay: 28, endDay: 28, start: '10pm', end: '12am', place: 'pier', region: 'beach', kind: 'main', description: 'Watch the jellies from the docks at night.' },
+  { id: 'fair', icon: '🎡', name: 'Stardew Valley Fair', season: 'fall', startDay: 16, endDay: 16, start: '9am', end: '3pm', place: 'town-square', region: 'town', kind: 'main', description: 'Grange display, games and Star Tokens in town.' },
+  { id: 'spirits-eve', icon: '🎃', name: "Spirit's Eve", season: 'fall', startDay: 27, endDay: 27, start: '10pm', end: '11:50pm', place: 'town-square', region: 'town', kind: 'main', description: 'A spooky night maze in town; the Golden Pumpkin is at the end.' },
+  { id: 'festival-of-ice', icon: '⛸️', name: 'Festival of Ice', season: 'winter', startDay: 8, endDay: 8, start: '9am', end: '2pm', place: 'forest-river', region: 'forest', kind: 'main', description: 'Ice fishing contest in Cindersap Forest.' },
+  { id: 'squidfest', icon: '🦑', name: 'SquidFest', season: 'winter', startDay: 12, endDay: 13, start: '6:10am', end: '2am', place: 'pier', region: 'beach', kind: 'mini', description: 'Squid can be caught all day at the beach; prize tiers each day.' },
+  { id: 'night-market', icon: '🌙', name: 'Night Market', season: 'winter', startDay: 15, endDay: 17, start: '5pm', end: '2am', place: 'pier', region: 'beach', kind: 'mini', description: 'Boats at the beach docks, the deep-sea submarine ride and the Traveling Cart.' },
+  { id: 'winter-star', icon: '🎁', name: 'Feast of the Winter Star', season: 'winter', startDay: 25, endDay: 25, start: '9am', end: '2pm', place: 'town-square', region: 'town', kind: 'main', description: 'Secret gift exchange in town. Your recipient is revealed on Winter 18.' },
 ];
 
 export interface CuratedShop {
